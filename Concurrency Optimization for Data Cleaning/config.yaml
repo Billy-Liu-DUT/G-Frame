@@ -1,0 +1,37 @@
+# ---------------- VLLM Server Configuration ----------------
+vllm:
+  host: "127.0.0.1"
+  port: 8002
+  model_path: "/path/to/your/model"
+  model_name: "YourModelName" # Name for the served model API
+  num_gpus: 2
+  max_num_seqs: 1024
+  max_num_batched_tokens: 130000
+
+# ---------------- Task Executor Configuration ----------------
+task_executor:
+  # Directory containing input JSON chunks to be processed.
+  input_chunk_dir: "/path/to/your/input_chunks"
+  # Directory to save the processed output chunks.
+  output_chunk_dir: "/path/to/your/output_chunks"
+  # Path to the original, larger dataset for reference if needed.
+  original_data_path: "/path/to/your/original_data.json"
+  # Number of input chunks to process from the directory.
+  num_chunks_to_process: 3
+
+# ---------------- Adaptive Manager Configuration ----------------
+manager:
+  # Initial concurrency limit (number of parallel requests).
+  initial_concurrency: 50
+  # Maximum time to wait for the entire process to complete (in seconds).
+  max_waiting_time: 100000
+  # The window size (number of recent data points) for making decisions.
+  monitor_window_size: 12
+  # The interval (in seconds) between concurrency adjustment decisions.
+  monitor_decision_interval: 60.0
+
+# ---------------- (Optional) Agent Configuration ----------------
+# For advanced adjustment policies using an external LLM agent.
+agent:
+  endpoint_url: "http://your.agent.endpoint/v1"
+  api_key: "your_agent_api_key"

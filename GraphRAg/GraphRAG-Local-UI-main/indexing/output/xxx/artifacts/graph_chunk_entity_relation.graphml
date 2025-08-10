@@ -1,0 +1,300 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d7" for="edge" attr.name="order" attr.type="long" />
+  <key id="d6" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d5" for="edge" attr.name="description" attr.type="string" />
+  <key id="d4" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d3" for="node" attr.name="clusters" attr.type="string" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="entity_type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;REGIONAL EDITORS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Regional Editors are a group of individuals responsible for making decisions about the Journal's policies and conventions."&lt;SEP&gt;The Regional Editors are a group of individuals who are members of an organization and are responsible for making decisions about changes in conventions and policies for a journal. This group plays a crucial role in shaping the policies and standards of the journal, ensuring that they remain relevant and effective.</data>
+      <data key="d2">chunk-4cd0f62b432327f351a21fc1007dc2a0&lt;SEP&gt;chunk-9984070bcdc5cd892d8b961fe2e99410</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;EDITORIAL BOARD&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Editorial Board is a group of individuals involved in making decisions about the Journal's policies and conventions."&lt;SEP&gt;The Editorial Board is an organization that participates in the decision-making process regarding changes in the Journal's conventions and policies. This board, along with Regional Editors, is responsible for making significant decisions that affect the Journal's policies and conventions. The Editorial Board plays a crucial role in ensuring that the Journal maintains its standards and adapts to necessary changes.</data>
+      <data key="d2">chunk-4cd0f62b432327f351a21fc1007dc2a0&lt;SEP&gt;chunk-9984070bcdc5cd892d8b961fe2e99410</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;JOURNAL&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Journal is a publication that will implement changes in its conventions and policies, including the introduction of new terms like 'Preliminary Communications' and 'Notes'."&lt;SEP&gt;The Journal is an academic publication that is undergoing changes in its conventions and policies to accommodate urgent publication of important advances and to manage space constraints. These changes include the introduction of new terms such as "Preliminary Communications" and "Notes."</data>
+      <data key="d2">chunk-9984070bcdc5cd892d8b961fe2e99410</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;PRELIMINARY COMMUNICATIONS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Preliminary Communications are a new category of short announcements that will be given priority and published rapidly."&lt;SEP&gt;"Preliminary Communications are a new category of short announcements that will be given priority and published rapidly."&lt;SEP&gt;"Preliminary Communications are a new category of short announcements that will be given priority and published rapidly."&lt;SEP&gt;"Preliminary Communications are a new category of short announcements that will be given priority and published rapidly."&lt;SEP&gt;"Preliminary Communications are short announcements of important advances that will be given priority for urgent publication in the Journal."&lt;SEP&gt;"Preliminary Communications are short announcements of important advances that will be given priority for urgent publication."&lt;SEP&gt;"Preliminary Communications are short announcements of important advances that will be given priority for urgent publication."&lt;SEP&gt;"Preliminary Communications are short announcements of important advances that will be given priority for urgent publication."&lt;SEP&gt;"Preliminary Communications are short announcements of important advances that will be given priority for urgent publication."&lt;SEP&gt;"Preliminary Communications are short announcements of important advances that will be given priority for urgent publication."&lt;SEP&gt;"Preliminary Communications are short announcements of important advances that will be given priority for urgent publication."&lt;SEP&gt;"Preliminary Communications are short announcements of important advances that will be given priority for urgent publication."&lt;SEP&gt;"Preliminary Communications are short announcements of important advances that will be given priority for urgent publication."&lt;SEP&gt;"Preliminary Communications are short announcements of important advances that will be given priority for urgent publication."&lt;SEP&gt;"Preliminary Communications are short announcements of important advances that will be given priority for urgent publication."&lt;SEP&gt;"Preliminary Communications are short announcements of important advances that will be given priority for urgent publication."&lt;SEP&gt;"Preliminary Communications are short announcements of important advances that will be given priority for urgent publication."&lt;SEP&gt;"Preliminary Communications are short announcements of important advances that will be given priority for urgent publication."&lt;SEP&gt;"Preliminary Communications are short announcements of important advances that will be given priority for urgent publication."</data>
+      <data key="d2">chunk-9984070bcdc5cd892d8b961fe2e99410</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;NOTES&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Notes are short definitive papers not exceeding four printed pages, which will replace the previous category of 'Short Communications' and will be published under the same quality criteria as ordinary papers."&lt;SEP&gt;"Notes are short definitive papers not exceeding four printed pages, which will replace the previous category of 'Short Communications' and will be published under the same quality criteria as ordinary papers."&lt;SEP&gt;"Notes are short definitive papers not exceeding four printed pages, which will replace the previous category of 'Short Communications' in the Journal."&lt;SEP&gt;"Notes is a new category of short definitive papers not exceeding four printed pages, subject to the same quality criteria as ordinary papers but without a summary."&lt;SEP&gt;"Notes is a new category of short definitive papers not exceeding four printed pages, subject to the same quality criteria as ordinary papers but without a summary."&lt;SEP&gt;"Notes is a new category of short definitive papers not exceeding four printed pages, subject to the same quality criteria as ordinary papers but without a summary."&lt;SEP&gt;"Notes is a new category of short definitive papers not exceeding four printed pages, subject to the same quality criteria as ordinary papers but without a summary."</data>
+      <data key="d2">chunk-9984070bcdc5cd892d8b961fe2e99410</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;THE JOURNAL&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Journal is the publication for which conventions and policies are being changed according to a recent meeting decision."</data>
+      <data key="d2">chunk-4cd0f62b432327f351a21fc1007dc2a0</data>
+      <data key="d3">[{"level": 0, "cluster": 1}]</data>
+    </node>
+    <node id="&quot;PRELIMINARY NOTES&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Preliminary Notes is a previous category that will now be called 'Preliminary Communications' and will be given priority and published rapidly."</data>
+      <data key="d2">chunk-9984070bcdc5cd892d8b961fe2e99410</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;SHORT COMMUNICATIONS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Short Communications is a previous category that will now be called 'Notes' and will be subject to the same quality criteria as ordinary papers but with a maximum length of four printed pages."</data>
+      <data key="d2">chunk-9984070bcdc5cd892d8b961fe2e99410</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;ORGANOMETALLIC COMPOUNDS&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Organometallic Compounds are chemical compounds in which a metal is attached to an organic compound, and the metal has a significant role."</data>
+      <data key="d2">chunk-9984070bcdc5cd892d8b961fe2e99410</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;FUNCTIONAL ORGANIC CENTRES&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Functional Organic Centres are parts of organic compounds where reactions occur, and a metal atom is relatively remotely attached without significant influence on the reactions."</data>
+      <data key="d2">chunk-9984070bcdc5cd892d8b961fe2e99410</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;SPECTROSCOPIC DATA&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Spectroscopic Data includes reports of data from spectroscopic studies, including fragmentation patterns from mass spectral studies."&lt;SEP&gt;"Spectroscopic Data includes reports of data from spectroscopic studies, including fragmentation patterns from mass spectral studies."&lt;SEP&gt;"Spectroscopic Data includes reports of data from spectroscopic studies, including fragmentation patterns from mass spectral studies."&lt;SEP&gt;"Spectroscopic Data includes reports of data from spectroscopic studies, including fragmentation patterns from mass spectral studies."&lt;SEP&gt;"Spectroscopic data includes reports of data from spectroscopic studies, including fragmentation patterns from mass spectral studies."&lt;SEP&gt;"Spectroscopic data includes reports of data from spectroscopic studies, including fragmentation patterns from mass spectral studies."&lt;SEP&gt;"Spectroscopic data includes reports of data from spectroscopic studies, including fragmentation patterns from mass spectral studies."&lt;SEP&gt;"Spectroscopic data includes reports of data from spectroscopic studies, including fragmentation patterns from mass spectral studies."</data>
+      <data key="d2">chunk-9984070bcdc5cd892d8b961fe2e99410</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;SHORT ANNOUNCEMENTS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Short announcements are important advances for which urgent publication is appropriate and will be followed by full papers."</data>
+      <data key="d2">chunk-9984070bcdc5cd892d8b961fe2e99410</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;MASS SPECTRAL STUDIES&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Mass spectral studies are a type of spectroscopic study that involves the fragmentation of molecules to determine their structure."</data>
+      <data key="d2">chunk-9984070bcdc5cd892d8b961fe2e99410</data>
+    </node>
+    <node id="&quot;SUMMARY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Summary is a brief overview included in ordinary papers but not in Notes."</data>
+      <data key="d2">chunk-9984070bcdc5cd892d8b961fe2e99410</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;METAL ATOM&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Metal atom is a component in organometallic compounds that can have a significant or insignificant role."</data>
+      <data key="d2">chunk-9984070bcdc5cd892d8b961fe2e99410</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;JOURNAL'S POLICIES AND CONVENTIONS&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Journal's policies and conventions are the rules and guidelines that govern the publication of papers in the Journal."</data>
+      <data key="d2">chunk-9984070bcdc5cd892d8b961fe2e99410</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;JOURNAL'S SPACE CONSTRAINTS&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Journal's space constraints are the limitations on the amount of content that can be published in the Journal."</data>
+      <data key="d2">chunk-9984070bcdc5cd892d8b961fe2e99410</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;JOURNAL'S QUALITY CRITERIA&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Journal's quality criteria are the standards that all papers, including Notes, must meet."</data>
+      <data key="d2">chunk-9984070bcdc5cd892d8b961fe2e99410</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;JOURNAL'S DECISION-MAKING PROCESS&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Journal's decision-making process involves Regional Editors and members of the Editorial Board in making changes to the Journal's policies and conventions."</data>
+      <data key="d2">chunk-9984070bcdc5cd892d8b961fe2e99410</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;JOURNAL'S PUBLICATION PROCESS&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Journal's publication process includes the steps for publishing papers, including the introduction of new categories like Preliminary Communications and Notes."</data>
+      <data key="d2">chunk-9984070bcdc5cd892d8b961fe2e99410</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;FULL PAPERS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Full papers are detailed papers that will follow short announcements and provide comprehensive information."</data>
+      <data key="d2">chunk-9984070bcdc5cd892d8b961fe2e99410</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;SPACE IN THE JOURNAL&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Space in the Journal is a constraint that has led to additional restrictions on subject content."</data>
+      <data key="d2">chunk-9984070bcdc5cd892d8b961fe2e99410</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;CHEMISTRY OF ORGANOMETALLIC COMPOUNDS&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Chemistry of organometallic compounds involves the study of compounds where a metal is attached to an organic compound."</data>
+      <data key="d2">chunk-9984070bcdc5cd892d8b961fe2e99410</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;REACTIONS AT FUNCTIONAL ORGANIC CENTRES&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Reactions at functional organic centres are reactions that occur at specific parts of organic compounds."</data>
+      <data key="d2">chunk-9984070bcdc5cd892d8b961fe2e99410</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <edge source="&quot;REGIONAL EDITORS&quot;" target="&quot;JOURNAL&quot;">
+      <data key="d4">120.0</data>
+      <data key="d5">"Regional Editors are involved in making decisions about the Journal's policies and conventions."&lt;SEP&gt;"Regional Editors are involved in making decisions about the Journal's policies and conventions."&lt;SEP&gt;"Regional Editors are involved in making decisions that affect the Journal's conventions and policies."</data>
+      <data key="d6">chunk-9984070bcdc5cd892d8b961fe2e99410</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;REGIONAL EDITORS&quot;" target="&quot;THE JOURNAL&quot;">
+      <data key="d4">56.0</data>
+      <data key="d5">"Regional Editors are involved in making decisions that affect the conventions and policies of The Journal."</data>
+      <data key="d6">chunk-4cd0f62b432327f351a21fc1007dc2a0</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;REGIONAL EDITORS&quot;" target="&quot;EDITORIAL BOARD&quot;">
+      <data key="d4">63.0</data>
+      <data key="d5">"Regional Editors and members of the Editorial Board met together to decide on changes for the Journal."</data>
+      <data key="d6">chunk-4cd0f62b432327f351a21fc1007dc2a0</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;EDITORIAL BOARD&quot;" target="&quot;JOURNAL&quot;">
+      <data key="d4">120.0</data>
+      <data key="d5">"Editorial Board is involved in making decisions about the Journal's policies and conventions."&lt;SEP&gt;"Editorial Board is involved in making decisions about the Journal's policies and conventions."&lt;SEP&gt;"Editorial Board is involved in the decision-making process that impacts the Journal's conventions and policies."&lt;SEP&gt;"Editorial Board participates in the decision-making process that impacts the Journal's conventions and policies."&lt;SEP&gt;"Editorial Board participates in the decision-making process that impacts the Journal's conventions and policies."&lt;SEP&gt;"Editorial Board participates in the decision-making process that impacts the Journal's conventions and policies."&lt;SEP&gt;"Editorial Board participates in the decision-making process that impacts the Journal's conventions and policies."&lt;SEP&gt;"Editorial Board participates in the decision-making process that impacts the Journal's conventions and policies."&lt;SEP&gt;"Editorial Board participates in the decision-making process that impacts the Journal's conventions and policies."&lt;SEP&gt;"Editorial Board participates in the decision-making process that impacts the Journal's conventions and policies."&lt;SEP&gt;"Editorial Board participates in the decision-making process that impacts the Journal's conventions and policies."&lt;SEP&gt;"Editorial Board participates in the decision-making process that impacts the Journal's conventions and policies."&lt;SEP&gt;"Editorial Board participates in the decision-making process that impacts the Journal's conventions and policies."&lt;SEP&gt;"Editorial Board participates in the decision-making process that impacts the Journal's conventions and policies."&lt;SEP&gt;"Editorial Board participates in the decision-making process that impacts the Journal's conventions and policies."</data>
+      <data key="d6">chunk-9984070bcdc5cd892d8b961fe2e99410</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;EDITORIAL BOARD&quot;" target="&quot;THE JOURNAL&quot;">
+      <data key="d4">56.0</data>
+      <data key="d5">"Editorial Board, along with Regional Editors, is involved in making decisions that affect the conventions and policies of The Journal."</data>
+      <data key="d6">chunk-4cd0f62b432327f351a21fc1007dc2a0</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;JOURNAL&quot;" target="&quot;PRELIMINARY COMMUNICATIONS&quot;">
+      <data key="d4">135.0</data>
+      <data key="d5">"Preliminary Communications are a new category of announcements that will be given priority and published rapidly by the Journal."&lt;SEP&gt;"Preliminary Communications are a new category of announcements that will be given priority and published rapidly by the Journal."&lt;SEP&gt;"Preliminary Communications are a new category of content introduced in the Journal for urgent publication."</data>
+      <data key="d6">chunk-9984070bcdc5cd892d8b961fe2e99410</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;JOURNAL&quot;" target="&quot;NOTES&quot;">
+      <data key="d4">135.0</data>
+      <data key="d5">"Notes are a new category of short papers introduced in the Journal, replacing 'Short Communications'."&lt;SEP&gt;"Notes is a new category of short definitive papers not exceeding four printed pages, subject to the same quality criteria as ordinary papers but without a summary by the Journal."&lt;SEP&gt;"Notes is a new category of short definitive papers not exceeding four printed pages, subject to the same quality criteria as ordinary papers but without a summary by the Journal."</data>
+      <data key="d6">chunk-9984070bcdc5cd892d8b961fe2e99410</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;JOURNAL&quot;" target="&quot;PRELIMINARY NOTES&quot;">
+      <data key="d4">18.0</data>
+      <data key="d5">"Preliminary Notes is a previous category that will now be called 'Preliminary Communications' and will be given priority and published rapidly by the Journal."</data>
+      <data key="d6">chunk-9984070bcdc5cd892d8b961fe2e99410</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;JOURNAL&quot;" target="&quot;SHORT COMMUNICATIONS&quot;">
+      <data key="d4">18.0</data>
+      <data key="d5">"Short Communications is a previous category that will now be called 'Notes' and will be subject to the same quality criteria as ordinary papers but with a maximum length of four printed pages by the Journal."</data>
+      <data key="d6">chunk-9984070bcdc5cd892d8b961fe2e99410</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;JOURNAL&quot;" target="&quot;ORGANOMETALLIC COMPOUNDS&quot;">
+      <data key="d4">14.0</data>
+      <data key="d5">"Organometallic Compounds are a type of chemical compound that the Journal will accept, provided the metal has a significant role."</data>
+      <data key="d6">chunk-9984070bcdc5cd892d8b961fe2e99410</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;JOURNAL&quot;" target="&quot;FUNCTIONAL ORGANIC CENTRES&quot;">
+      <data key="d4">14.0</data>
+      <data key="d5">"Functional Organic Centres are a type of organic compound part that the Journal will exclude from papers if the metal has no significant influence on the reactions."</data>
+      <data key="d6">chunk-9984070bcdc5cd892d8b961fe2e99410</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;JOURNAL&quot;" target="&quot;SPECTROSCOPIC DATA&quot;">
+      <data key="d4">42.0</data>
+      <data key="d5">"Spectroscopic Data will be accepted by the Journal only if the interpretations have clear general implications."&lt;SEP&gt;"Spectroscopic Data will be accepted by the Journal only if the interpretations have clear general implications."&lt;SEP&gt;"Spectroscopic data is a type of content that the Journal will accept only if the interpretations have clear general implications."&lt;SEP&gt;"Spectroscopic data is a type of content that the Journal will accept only if the interpretations have clear general implications."</data>
+      <data key="d6">chunk-9984070bcdc5cd892d8b961fe2e99410</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;JOURNAL&quot;" target="&quot;SHORT ANNOUNCEMENTS&quot;">
+      <data key="d4">32.0</data>
+      <data key="d5">"Short announcements are a type of content that will be given priority and published rapidly by the Journal."</data>
+      <data key="d6">chunk-9984070bcdc5cd892d8b961fe2e99410</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;JOURNAL&quot;" target="&quot;FULL PAPERS&quot;">
+      <data key="d4">32.0</data>
+      <data key="d5">"Full papers are a type of content that will follow short announcements and provide comprehensive information by the Journal."</data>
+      <data key="d6">chunk-9984070bcdc5cd892d8b961fe2e99410</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;JOURNAL&quot;" target="&quot;SPACE IN THE JOURNAL&quot;">
+      <data key="d4">28.0</data>
+      <data key="d5">"Space in the Journal is a constraint that has led to additional restrictions on subject content by the Journal."</data>
+      <data key="d6">chunk-9984070bcdc5cd892d8b961fe2e99410</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;JOURNAL&quot;" target="&quot;CHEMISTRY OF ORGANOMETALLIC COMPOUNDS&quot;">
+      <data key="d4">28.0</data>
+      <data key="d5">"Chemistry of organometallic compounds is a type of content that the Journal will accept, provided the metal has a significant role."</data>
+      <data key="d6">chunk-9984070bcdc5cd892d8b961fe2e99410</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;JOURNAL&quot;" target="&quot;REACTIONS AT FUNCTIONAL ORGANIC CENTRES&quot;">
+      <data key="d4">28.0</data>
+      <data key="d5">"Reactions at functional organic centres are a type of content that the Journal will exclude if the metal has no significant influence on the reactions."</data>
+      <data key="d6">chunk-9984070bcdc5cd892d8b961fe2e99410</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;JOURNAL&quot;" target="&quot;SUMMARY&quot;">
+      <data key="d4">28.0</data>
+      <data key="d5">"Summary is a concept that is included in ordinary papers but not in Notes by the Journal."</data>
+      <data key="d6">chunk-9984070bcdc5cd892d8b961fe2e99410</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;JOURNAL&quot;" target="&quot;METAL ATOM&quot;">
+      <data key="d4">28.0</data>
+      <data key="d5">"Metal atom is a concept that can have a significant or insignificant role in organometallic compounds by the Journal."</data>
+      <data key="d6">chunk-9984070bcdc5cd892d8b961fe2e99410</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;JOURNAL&quot;" target="&quot;JOURNAL'S POLICIES AND CONVENTIONS&quot;">
+      <data key="d4">32.0</data>
+      <data key="d5">"Journal's policies and conventions are the rules and guidelines that govern the publication of papers by the Journal."</data>
+      <data key="d6">chunk-9984070bcdc5cd892d8b961fe2e99410</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;JOURNAL&quot;" target="&quot;JOURNAL'S SPACE CONSTRAINTS&quot;">
+      <data key="d4">32.0</data>
+      <data key="d5">"Journal's space constraints are the limitations on the amount of content that can be published by the Journal."</data>
+      <data key="d6">chunk-9984070bcdc5cd892d8b961fe2e99410</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;JOURNAL&quot;" target="&quot;JOURNAL'S QUALITY CRITERIA&quot;">
+      <data key="d4">32.0</data>
+      <data key="d5">"Journal's quality criteria are the standards that all papers, including Notes, must meet by the Journal."</data>
+      <data key="d6">chunk-9984070bcdc5cd892d8b961fe2e99410</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;JOURNAL&quot;" target="&quot;JOURNAL'S DECISION-MAKING PROCESS&quot;">
+      <data key="d4">32.0</data>
+      <data key="d5">"Journal's decision-making process involves Regional Editors and members of the Editorial Board in making changes to the Journal's policies and conventions by the Journal."</data>
+      <data key="d6">chunk-9984070bcdc5cd892d8b961fe2e99410</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;JOURNAL&quot;" target="&quot;JOURNAL'S PUBLICATION PROCESS&quot;">
+      <data key="d4">32.0</data>
+      <data key="d5">"Journal's publication process includes the steps for publishing papers, including the introduction of new categories like Preliminary Communications and Notes by the Journal."</data>
+      <data key="d6">chunk-9984070bcdc5cd892d8b961fe2e99410</data>
+      <data key="d7">1</data>
+    </edge>
+  </graph>
+</graphml>

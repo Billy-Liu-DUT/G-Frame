@@ -1,0 +1,1267 @@
+[
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Question: In the ground state, has two electrons in one (and only one) of the p orbitals.\nOptions:\nA. Berylium\nB. Boron\nC. Carbon\nD. Oxygen ",
+    "output": "D"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Question: Has the largest atomic radius.\nOptions:\nA.Berylium\nB. Boron\nC. Carbon\nD. Oxygen ",
+    "output": "A"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Question: Has the largest value of the first ionization energy.\nOptions:\nA. Berylium\nB. Boron\nC. Carbon\nD. Fluorine ",
+    "output": "D"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Question: Has the smallest second ionization energy.\nOptions:\nA. Berylium\nB. Boron\nC. Carbon\nD. Oxygen ",
+    "output": "A"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Question: The half-life of 3 H is about 12 years. How much of a 4mg sample will remain after 36 years?\nOptions:\nA. 0.25mg\nB. 1mg\nC. 2mg\nD. 4mg ",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Question: All of the following statements about the oxygen family of elements are true except:\nOptions:\nA. The electron configuration of the valence shell of the atom is ns2 np4 .\nB. It contains all nonmetals.\nC. The atomic radii decrease with decreasing atomic number.\nD. Electronegativity increases with decreasing atomic number.",
+    "output": "B"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Question: Which of the following is the correct electron configuration for molybdenum?\nOptions:\nA. 1s 2 2s 2 2p6 3s 2 3p6 4s 2 3d104p6 5s 2 4d4\nB. [Kr] 5s 2 4d4\nC. 1s 2 2s 2 2p6 3s 2 3p6 4s 2 3d104p6  4d6\nD. [Kr] 5s 1 4d4",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which of the following are compounds that might reasonably form from combining iron andoxygen?(I) Fe2O3(II) Fe3O2(III) FeO\nOptions:\nA. I only\nB. II only\nC. III only\nD. I and II only",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which of the following is least likely to be a stable compound?\nOptions:\nA. CF4\nB. S2O\nC. PCl3\nD. SiO3",
+    "output": "D"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which of the following compounds is least likely to form?\nOptions:\nA. Na2Cr7O2\nB. KC2H3O2\nC. Li2CN\nD. Rb2C2O4",
+    "output": "C"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which of the following is correctly named?\nOptions:\nA. CsCl; cesium (I) chloride\nB. Fe2O3; iron (II) oxide\nC. CBr4; carbon quatrobromide\nD. NO2; dioxygen mononitride",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which of the following correctly lists the molecules in order of increasing polarity?\nOptions:\nA. H2O, H2S, HF, H2\nB. H2, HF, H2S, H2O\nC. H2, H2S, HF, H2O\nD. H2S, H2O, HF, H2",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which of the following molecules has bond angles closest to 109.5°?\nOptions:\nA. BF3\nB. SiS2\nC. CCl4\nD. H2O",
+    "output": "C"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Group IVA elements tend to hybridize in which of the following ways?\nOptions:\nA. sp\nB. Sp2\nC. Sp3\nD. sp2d",
+    "output": "C"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Within formaldehyde, CH2O, carbon possesses which of the following traits?I. sp2 hybridizationII. Three equivalent sigma bondsIII. Trigonal planar bonding geometry\nOptions:\nA. I only\nB. II only\nC. III only\nD. I, II and III",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which of the following accounts for the fact that gases generally do not behave ideally under high pressures?\nOptions:\nA. They begin to undergo rotational motion.\nB. Collisions between gas molecules become inelastic.\nC. Average molecular speeds increase.\nD. Collisions with the walls of the container become more frequent.",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which of the following will increase the rms speed of a molecule of gas, assuming that allother variables are kept constant?I. Increasing pressureII. Increasing temperatureIII. Decreasing molar mass\nOptions:\nA. I only\nB. I and II\nC. I and III\nD. II and III",
+    "output": "D"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "If gas A effuses (goes through a small hole into a vacuum) at three times the rate of gas B, then\nOptions:\nA. the molar mass of gas A is three times greater than the molar mass of gas B.\nB. the molar mass of gas B is three times greater than the molar mass of gas A.\nC. the molar mass of gas A is nine times greater than the molar mass of gas B.\nD. the molar mass of gas B is nine times greater than the molar mass of gas A.",
+    "output": "D"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "A sealed vessel contains 0.50 mol of neon gas, 0.20 mol hydrogen gas, and 0.3 mol oxygen gas. The total pressure of the the gas mixture is 8.0atm. The partial pressure of oxygen is\nOptions:\nA. 0.24atm.\nB. 0.3atm.\nC. 3atm.\nD. 4.8atm.",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "How much water must be added to 150mL of 0.500M KCl to make 0.150M KCl?\nOptions:\nA. 45mL.\nB. 150mL.\nC. 500mL\nD. 650mL",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "The Ksp of lead (II) chloride is 1.7 × 10–5. What is the molar concentration of a chloride ion in 1.0L of a saturated PbCl2 solution?\nOptions:\nA. 5.7 × 10–6.\nB. 1.1 × 10–5.\nC. 1.6 × 10–2\nD. 2.6 × 10–2",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "You can prepare 0.75 molal NaCl by dissolving 15g NaCl in what amount of water?\nOptions:\nA. 0.40kg.\nB. 0.34kg.\nC. 0.27kg\nD. 0.26kg.",
+    "output": "B"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "A sample of Li2SO4 (molar mass 110g) is reported to be 10.2% lithium. Assuming that none of the impurities contain any lithium, what percentage of the sample is pure lithium sulfate?\nOptions:\nA. 65%.\nB. 70%.\nC. 75%\nD. 85%.",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "What is the simplest formula for a compound containing only carbon and hydrogen and containing 16.67% H?\nOptions:\nA. CH4.\nB. C5H12.\nC. C6H14.\nD. C7H16.",
+    "output": "B"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "A substance has an empirical formula of CH2O and a molar mass of 180.0. What is its molecular formula?\nOptions:\nA. C2H4O2\nB. C3H6O3\nC. C4H8O4\nD. C5H10O5",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "In the reaction 2Fe2O3 + 3C → 4Fe + 3CO2 if 500.g of Fe2O3 reacts with 75.0g of C, how many grams of Fe will be produced?\nOptions:\nA. 56.4g\nB. 75.0g\nC. 316.g\nD. 349.g",
+    "output": "D"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "HCl + NaOH → NaCl + H2O If 30.0g of HCl is mixed with excess NaOH according to the reaction above and 41.0g of NaCl is produced, what is the difference between the actual and the theoretical yields for this reaction?\nOptions:\nA. 8.3g\nB. 15.5g\nC. 41.0g\nD. 48.1g",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "A molecule exhibits sp3 d2 hybridization in its bonding structure. The most probable geometric shape of this molecule is\nOptions:\nA. triangular bipyramidal\nB. T-shaped\nC. octahedral\nD. linear",
+    "output": "C"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "A solution has a pH of 11.0. What is the hydrogen ion concentration?\nOptions:\nA. 1.0 × 10–3 M\nB. 0.0 M\nC. 1.0 × 103 M\nD. 1.0 × 1011 M",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "A catalyst affects the activation energy by\nOptions:\nA. increasing the forward rate of reaction.\nB. changing the enthalpy of the reaction.\nC. increasing the rate of the reverse reaction.\nD. catalysts do not affect activation energies.",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "At constant temperature and pressure, the heats offormation of H2O(g), CO2(g), and C2H6(g) (inkilojoules per mole) are as follows:SpeciesHf (kJ/mole)H2O(g) –251CO2(g) –393C2H6(g) –84If H values are negative for exothermicreactions, what is H for 1 mole of C2H6 gas tooxidize to carbon dioxide gas and water vapor(temperature and pressure are held constant)?\nOptions:\nA. –8730 kJ/mole\nB. –2910 kJ/mole\nC. –1455 kJ/mole\nD. 1455 kJ/mole",
+    "output": "C"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "According to Raoult’s Law, which statement is false?\nOptions:\nA. The vapor pressure of a solvent over a solution is less than that of the pure solvent.\nB. Ionic solids ionize in water, increasing the effects of all colligative properties.\nC. The solubility of a gas increases as the temperature decreases.\nD. The solubility of a gas in solution increases as the pressure of the gas increases.",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "100 grams of O2(g) and 100 grams of He(g) are in separate containers of equal volume. Both gases are at 100°C. Which one of the following statements is true?\nOptions:\nA. Both gases would have the same pressure.\nB. The average kinetic energy of the O2 molecules is greater than that of the He molecules.\nC. The average kinetic energy of the Hemolecules is greater than that of the O2 molecules.\nD. The pressure of the He(g) would be greater than that of the O2(g).",
+    "output": "D"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which of the following statements is true of the critical temperature of a pure substance?\nOptions:\nA. The critical temperature is the temperature above which the liquid phase of a pure substance can exist.\nB. The critical temperature is the temperature below which the liquid phase of a pure substance cannot exist.\nC. The critical temperature is the temperature at which all three phases can coexist.\nD. The critical temperature is the temperature at which the pure substance reaches, but cannot go beyond, the critical pressure.",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "At the triple point, which of the following is NOT true?\nOptions:\nA. All phases of H2O can exist.\nB. It is possible to change all of the substance to ice, water, or steam by making infinitesimally small changes in pressure and temperature.\nC. At a constant pressure higher than the triple point, heating ice changes it to liquid, then to steam. \nD. At pressures below the triple point, liquid water can exist.",
+    "output": "D"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Beyond the critical point of H2O\nOptions:\nA. H2O exists in a state of equilibrium with all phases\nB. only the solid phase can exist \nC. H2O can no longer exist as a molecule\nD. only the liquid phase can exist",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Consider diethyl ether and 1-butanol. Which of the following are correct?\nOptions:\nA. Diethyl ether will have the higher boiling point.\nB. 1-butanol will have the higher boiling point.\nC. Because they contain the same number and types of atoms, they will boil at the same temperature. \nD. Because they contain the same number of atoms, but different types of atoms, more information is needed in order to determine which one will boil at a higher temperature.",
+    "output": "B"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Given a molecule with the general formula AB2, which one of the following would be the most useful in determining whether the molecule was bent or linear?\nOptions:\nA. ionization energies\nB. electron affinities\nC. dipole moments \nD. electronegativities\nE. bond energies",
+    "output": "C"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "The valence electron configuration of element A is 3s 2 3p1 and that of B is 3s 2 3p4 . What is the probable empirical formula for a compound of the two elements?\nOptions:\nA. A2B\nB. AB2\nC. A3B2 \nD. A2B3\nE. AB",
+    "output": "D"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "The Ksp of lead(II) chloride is 2.4 × 10–4. What conclusion can be made about the concentration of [Cl– ] in a solution of lead chloride if [Pb2+] = 1.0 M?\nOptions:\nA. [Cl– ] can have any value.\nB. [Cl– ] cannot be less that Ksp 1/2.\nC. [Cl– ] cannot be equal to Ksp 1/2.\nD. [Cl– ] must also be equal to 1.0 M.",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "For the following reaction Zn(s) + 2Ag+ (aq) → Zn2+ (aq) + 2Ag(s)The standard voltage E°cell has been calculated to be 1.56 volts. To decrease the voltage of the cell to 1.00 volt, one could\nOptions:\nA. increase the size of the zinc electrode\nB. reduce the coefficients of the reactions so that it reads 1 ⁄2 Zn(s) + Ag+ (aq) → 1 ⁄2 Zn2+ (aq) + Ag(s)\nC. increase the concentration of the silver ion in solution\nD. decrease the concentration of the zinc ion in solution",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "A freshman chemist analyzed a sample of copper(II) sulfate pentahydrate for water of hydration by weighing the hydrate, heating it to convert it to anhydrous copper(II) sulfate, and then weighing the anhydrate. The % H2O was determined to be 30.%. The theoretical value is 33%. Which of the following choices is definitely NOT the cause of the error?\nOptions:\nA. After the student weighed the hydrate, a piece of rust fell from the tongs into the crucible.\nB. Moisture driven from the hydrate condensed on the inside of the crucible cover before the student weighed the anhydride.\nC. All the weighings were made on a balance that was high by 10%.\nD. The original sample contained some anhydrous copper(II) sulfate.",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which of the following would be soluble in water?\nOptions:\nA. carbon tetrachloride\nB. methane\nC. octane\nD. methyl ethyl ketone",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which of the following liquids has the highest vapor pressure at 25°C?\nOptions:\nA. carbon tetrachloride, CCl4\nB. hydrogen peroxide, H2O2\nC. water, H2O\nD. dichloromethane, CH2Cl2",
+    "output": "D"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "An imaginary metal crystallizes in a cubic lattice. The unit cell edge length is 100. picometers (1 picometer = 1 × 10–12 meters). The density of this metal is 200. g/cm3 . The atomic mass of the metal is 60.2 g/mol. How many of these metal atoms are there within a unit cell?\nOptions:\nA. 1\nB. 2\nC. 4\nD. 6",
+    "output": "B"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "When 5.92 grams of a nonvolatile, nonionizing compound is dissolved in 186 grams of water, the freezing point (at normal pressure) of the resulting solution is –0.592°C. What is the molecular weight of the compound?\nOptions:\nA. 10.0 g/mol\nB. 100 g/mol\nC. 110 g/mol\nD. 200 g/mol",
+    "output": "B"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which of the following statements is NOT correct?\nOptions:\nA. At constant volume, the pressure of a certain amount of gas increases with increasing temperature.\nB. At constant pressure, the volume of a certain amount of gas increases with increasing temperature.\nC. In dealing with gas laws, the most convenient scale of temperature to use is the Kelvin temperature scale.\nD. Equal numbers of molecules of all gases exert about the same pressure at a certain temperature and volume.",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which one of the following is NOT an assumption of the kinetic theory of gases?\nOptions:\nA. Gas particles are negligibly small.\nB. Gas particles are in constant motion.\nC. Gas particles don’t attract each other.\nD. Gas particles undergo elastic collisions.",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "The hybridization of the central atom in NH2 – would be\nOptions:\nA. sp\nB. sp2\nC. sp3 d\nD. sp3 d2",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which strategy best validates rare-earth doping homogeneity in nanostructured hosts?\nOptions:\nA. Solely monitoring luminescence intensity changes\nB. Combining X-ray absorption fine structure (XAFS) with atomic-resolution STEM\nC. Relying on bulk magnetic susceptibility measurements\nD. Using only ICP-OES elemental quantification",
+    "output": "B"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "What is critical for achieving controlled energy migration in core-shell upconversion nanoparticles?\nOptions:\nA. Introducing interfacial Gd³⁺ spacers with matched ionic radii\nB. Maximizing Yb³⁺ concentration in both core and shell\nC. Using organic ligands with high vibrational frequencies\nD. Maintaining identical crystal phases between core/shell",
+    "output": "A"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which method properly addresses oxygen vacancy quantification in CeO₂-based catalysts?\nOptions:\nA. Exclusive use of XPS Ce³⁺/Ce⁴⁺ ratio analysis\nB. Assuming vacancy concentration equals dopant charge imbalance\nC. Relying on catalytic activity correlations\nD. Using BET surface area measurements",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "What is essential for validating upconversion energy transfer pathways?\nOptions:\nA. Single-wavelength power dependence studies\nB. Assuming all processes follow Förster resonance theory\nC. Using only steady-state emission spectra\nD. Temperature-dependent lifetime decay analysis across multiple excitation wavelengths",
+    "output": "D"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which approach correctly identifies catalytic active sites in doped oxides?\nOptions:\nA. Assuming uniform surface site reactivity\nB. Correlating only with bulk dopant concentration\nC. Using geometric surface area normalization\nD. Relying solely on DFT slab model predictions",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which strategy effectively suppresses concentration quenching in heavily doped luminescent materials?\nOptions:\nA. Random distribution of dopants in the host lattice\nB. Maximizing dopant-dopant distance through low-concentration doping\nC. Spatial confinement of activators using layered core-shell-shell architectures\nD. Using identical ionic radii for all dopants",
+    "output": "C"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "What is required for accurate interpretation of lanthanide luminescence thermometry?\nOptions:\nA. Assuming linear temperature-intensity relationships\nB. Using single calibration point at room temperature\nC. Ignoring phonon-assisted non-radiative decay\nD. Relying solely on spectral peak positions",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which approach properly validates oxygen evolution reaction (OER) mechanisms in doped perovskites?\nOptions:\nA. Assuming all current originates from OER\nB.  Using only linear sweep voltammetry \nC. Ignoring surface reconstruction during operation\nD. Combining in situ Raman with ¹⁸O isotope labeling",
+    "output": "D"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "What is critical for achieving stereoselective control in rare-earth-catalyzed reactions?\nOptions:\nA. Maximizing Lewis acidity through high doping levels\nB. Using racemic mixtures for statistical control \nC. Ignoring counterion coordination effects\nD. Relying solely on electrostatic stabilization",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which method reliably distinguishes between energy transfer upconversion (ETU) and photon avalanche (PA) mechanisms?\nOptions:\nA.  Multi-power threshold analysis with ns-pulsed excitation\nB. Single-power intensity dependence measurements \nC. Assuming all nonlinear responses indicate PA\nD. Using only continuous-wave excitation",
+    "output": "A"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "What is the most rigorous method to validate the ligand-to-metal charge transfer (LMCT) mechanism in MOF photocatalysis?\nOptions:\nA.Measuring UV-Vis absorption spectra alone.\nB. Relying solely on steady-state fluorescence quenching.\nC. Using molecular mechanics (MM) to simulate electronic transitions.\nD. Comparing bulk conductivity changes under dark/light conditions.",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which experimental design flaw would invalidate conclusions about MOF-based photocatalytic CO₂ reduction selectivity?\nOptions:\nA. Using H₂¹⁸O to trace oxygen sources in O₂ evolution.\nB. Omitting ¹³C isotopic labeling for carbon product tracking. \nC. Performing reactions under anhydrous conditions.\nD. Ignoring sacrificial agent decomposition pathways.",
+    "output": "D"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "What is a critical limitation of using frontier orbital theory alone to explain MOF photocatalysis?\nOptions:\nA. Overlooks exciton binding energy effects.\nB. Fails to predict LMCT directionality.\nC. Ignores metal-node spin-state variations.\nD. All of the above.",
+    "output": "D"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which approach best identifies reactive intermediates in photocatalytic CO₂ reduction over MOFs?\nOptions:\nA.  Combining in situ DRIFTS with EPR spin trapping.\nB. Solely analyzing final products via gas chromatography.\nC. Measuring bulk pH changes during reaction.\nD. Using only TEM to observe surface morphology.",
+    "output": "A"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "What critical validation is missing if a study attributes enhanced MOF photocatalysis solely to increased surface area?\nOptions:\nA. Porosity vs. active site density correlation.\nB. Bandgap measurements via Tauc plot.\nC. Leaching tests for metal node stability.\nD. All of the above.",
+    "output": "D"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Why is molecular mechanics (MM) unsuitable for simulating MOF-based photocatalytic transition states?\nOptions:\nA. MM overestimates van der Waals interactions.\nB. MM ignores solvent polarization effects.\nC. MM requires predefined force fields for excited states.\nD. All except B.",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which factor is most critical for achieving selective CH₄ production in MOF-based CO₂ photoreduction?\nOptions:\nA. Maximizing CO₂ adsorption capacity.\nB.  Stabilizing *COOH intermediates via H-bonding.\nC. Using noble metal cocatalysts.\nD. Operating at high temperatures (>100°C).",
+    "output": "B"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "What is the primary limitation of using only XRD to assess MOF photocatalyst stability?\nOptions:\nA. Cannot detect amorphous phase decomposition.\nB. Insensitive to ligand oxidation states.\nC. Overlooks surface-bound reactive species.\nD. All of the above.",
+    "output": "D"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which experimental design is essential for validating Z-scheme charge transfer in MOF heterojunctions?\nOptions:\nA. Measuring SPV polarity reversal under illumination.\nB. Comparing BET surface areas before/after reaction.\nC.Using monochromatic light matching MOF absorption.\nD.Calculating theoretical band alignment via DFT.",
+    "output": "A"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "What is the primary mechanism by which benzylphosphonic acid (BPA) enhances the performance of perovskite light-emitting diodes (PeLEDs)?\nOptions:\nA. By forming hydrogen bonds with surface bromine atoms to stabilize the lattice.\nB. By acting as a hole-transport layer to improve charge injection efficiency.\nC.By reducing the bandgap of perovskite through alloying with organic cations.\nD.By increasing grain size to minimize interfacial defects.",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "How does the in situ core/shell structure improve radiative recombination efficiency compared to 3D perovskites?\nOptions:\nA. By suppressing Auger recombination via thick organic ligand shells.\nB. By enabling Förster resonance energy transfer between adjacent grains.\nC.By eliminating all grain boundaries through epitaxial crystal growth.\nD.By increasing charge carrier mobility through extended π-conjugation.",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which analytical method is critical for validating the covalent bonding between benzylphosphonic acid and undercoordinated Pb²⁺?\nOptions:\nA. High-performance liquid chromatography (HPLC) purity testing.\nB. Thermogravimetric analysis (TGA) of thermal stability.\nC.Ultraviolet-visible (UV-vis) absorption edge fitting.\nD.Dynamic light scattering (DLS) for particle size distribution.",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Why does the in situ core/shell structure maintain high charge carrier mobility despite nanocrystal formation?\nOptions:\nA. The benzylphosphonic acid shell acts as a conductive polymer matrix.\nB. Ionic liquid additives enhance interparticle hopping.\nC.  Ligand-free interfaces enable direct grain-to-grain contact.\nD.Quantum tunneling dominates charge transport.",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which factor is excluded from the improved operational stability of in situ core/shell PeLEDs?\nOptions:\nA. Suppressed ion migration via defect passivation.\nB. Reduced Joule heating from low driving voltages.\nC.  Enhanced moisture resistance from hydrophobic benzylphosphonic acid.\nD.Elimination of halide segregation via size confinement.",
+    "output": "C"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "What is a key limitation of traditional 3D perovskite films addressed by the in situ core/shell design?\nOptions:\nA. Low solubility in polar solvents.\nB.Incompatibility with solution processing.\nC.High toxicity of lead-containing precursors.\nD.Limited color tunability via halide exchange.",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "How is the trap density in perovskite films quantitatively evaluated?\nOptions:\nA. By measuring photoluminescence quantum yield (PLQY).\nB. Through atomic force microscopy (AFM) surface roughness mapping.\nC.By fitting temperature-dependent PL lifetime decay curves.\nD.Using Hall effect measurements for carrier concentration.",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which spectroscopic result directly supports the reduction of self-doping effects in in situ core/shell perovskites?\nOptions:\nA.Blue shift in steady-state PL spectra.\nB. Increased Urbach energy in absorption edges.\nC.Lower work function in UPS measurements.\nD. Redshifted electroluminescence (EL) peaks.",
+    "output": "C"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "What is a critical flaw in attributing PeLED efficiency improvements solely to increased exciton binding energy?\nOptions:\nA. Overlooks Auger recombination suppression in nanocrystals.\nB.Fails to account for trap-assisted non-radiative losses.\nC.Assumes perfect charge balance without experimental validation.\nD.Neglects the contribution of interfacial dipole layers.",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which experimental design error would invalidate the trap density calculation using space-charge-limited current?\nOptions:\nA.Using a non-ohmic electrode contact for hole injection.\nB.Measuring I-V curves under ambient light exposure.\nC.Assuming a uniform electric field across the perovskite layer.\nD.Neglecting the impact of ion migration during voltage sweeps.",
+    "output": "A"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "What is the key methodology in validating the dynamic Cu-Cu bonding mechanism in geminal-atom catalysts (GACs)?\nOptions:\nA.Solely relying on TEM imaging to confirm atomic dispersion\nB.Using HPLC purity testing to exclude side reactions\nC.Measuring bulk conductivity to infer coordination changes\nD.Assuming static metal-metal distances based on crystallographic data",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Why does the polymeric carbon nitride support enable precise control over geminal Cu site separation?\nOptions:\nA. Its amorphous structure allows random metal anchoring\nB. High surface area increases statistical metal distribution\nC.Conductive π-network stabilizes single oxidation states\nD.Periodic N-H groups provide geometrically defined coordination sites",
+    "output": "D"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "What critical flaw does the geminal-atom catalysts design address in conventional Single-atom catalysts for cross-coupling?\nOptions:\nA. Inability to perform simple homo-coupling reactions\nB.Excessive reliance on precious metal catalysts\nC.Poor thermal stability under reflux conditions\nD.Requirement for chiral auxiliary groups",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which experimental evidence most conclusively demonstrates the absence of Cu nanoparticles in Cug/PCN（polymeric carbon nitride）?\nOptions:\nA. High-resolution XRD showing no metallic peaks\nB.EPR silence in fresh catalyst\nC.Linear correlation between Cu loading and activity\nD.Aberration-corrected ADF-STEM with single-atom contrast",
+    "output": "D"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "How does the geminal-atom catalysts mechanism avoid competitive homo-coupling pathways?\nOptions:\nA.Spatial separation prevents dimerization of identical reactants\nB.Electronic effects preferentially stabilize cross-coupled products\nC. Sequential adsorption enforces stoichiometric control\nD.Selective mass transfer limits reactant access",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "What key advantage does in situ XANES provide over ex situ characterization for mechanistic studies?\nOptions:\nA. Higher spatial resolution for atomic imaging\nB.Real-time tracking of oxidation state evolution\nC.Better sensitivity for trace impurities\nD.Direct measurement of bond dissociation energies",
+    "output": "B"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Why is conventional frontier orbital analysis insufficient to explain geminal-atom catalysts's selectivity?\nOptions:\nA. Neglects relativistic effects in Cu\nB.Overestimates solvent polarity effects\nC.Assumes fixed coordination geometry\nD.Ignores lattice strain effects",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "What critical validation step ensures the catalytic relevance of DFT-modeled intermediates?\nOptions:\nA. Matching calculated IR spectra to experimental data\nB.Correlating activation energies with Arrhenius plots\nC.Comparing theoretical/experimental XANES features\nD.Optimizing all structures at MM level",
+    "output": "C"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "What key limitation of traditional Cu powder catalysts does Cug/PCN (Polymeric Carbon Nitride) overcome?\nOptions:\nA. Inability to perform Ullmann-type couplings\nB.Requirement for anaerobic conditions\nC.Limited substrate scope for aromatic amines\nD.Sensitivity to sulfur-containing substrates",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which analytical approach best validates the charge confinement mechanism in gradient-shell QD-LEDs?\nOptions:\nA.Solely comparing photoluminescence quantum yields (PLQY) of core vs. core/shell structures\nB.Cross-correlating transient electroluminescence decay profiles with shell thickness-dependent Auger recombination suppression\nC.Relying exclusively on cyclic voltammetry for bandgap alignment verification\nD.Using molecular mechanics (MM) to simulate exciton diffusion pathways",
+    "output": "B"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "What methodology best addresses the interfacial energy mismatch in Cd-free QD/ZnO (Quantum Dots) electron transport layer (ETL) systems?\nOptions:\nA.Using identical ligands for QDs and ZnO to ensure homogeneous film morphology\nB.Relying solely on XPS surface analysis for band alignment validation\nC.Increasing QD shell thickness without considering hole injection barriers\nD.Assuming perfect charge balance based on bulk material properties",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which step is critical for ensuring operational stability in inkjet-printed QD-LEDs (Quantum Dots)?\nOptions:\nA.Using high-boiling-point solvents to maximize QD film uniformity\nB.Implementing in situ ligand exchange during printing to reduce surface traps\nC.Ignoring ambient oxygen levels during QD layer deposition\nD.Optimizing nozzle diameter without considering QD aggregation kinetics",
+    "output": "B"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which technique conclusively distinguishes Förster resonance energy transfer (FRET) from direct charge injection in QD-LEDs (Quantum Dots)?\nOptions:\nA.Comparing PL spectra of isolated QDs vs. QD/HTL bilayer films\nB.Measuring EQE dependence on QD layer thickness\nC.Assuming all efficiency losses arise from Auger recombination\nD. Relying solely on current-voltage (I-V) curves for carrier mobility estimation",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "What is the primary advantage of using a ZnSe-rich intermediate shell in red QD-LEDs?\nOptions:\nA.Maximizing Förster radius for enhanced energy transfer\nB.Reducing lattice mismatch-induced defects while maintaining hole injection efficiency\nC.Prioritizing electron confinement over exciton localization\nD. Simplifying synthesis by avoiding composition gradient control",
+    "output": "B"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which experimental approach best identifies non-radiative trap states in aged QD-LEDs?\nOptions:\nA.Single-molecule blinking statistics analysis\nB.Assuming all efficiency roll-off stems from Joule heating\nC. Using only EL spectra to assess defect density\nD. Neglecting interfacial layer oxidation in lifetime tests",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "What is a critical flaw in simulating QD-LED charge injection using DFT?\nOptions:\nA.Neglecting solvent-ligand interactions in the QD surface model\nB.Using bulk bandgaps without quantum confinement corrections\nC.Assuming perfect crystallinity for all core/shell interfaces\nD.All of the above",
+    "output": "D"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which method rigorously confirms the exergonicity of hole injection into QDs(Quantum Dots) from HTLs?\nOptions:\nA.Assuming alignment based on PL quenching efficiency\nB.Using DFT-calculated band edges without solvation effects\nC. Measuring open-circuit voltage under monochromatic illumination\nD.Ignoring interfacial dipole effects in energy diagrams",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "What is essential for achieving balanced electron/hole injection in inverted QD-LEDs?\nOptions:\nA.Maximizing ZnO ETL thickness to block hole leakage\nB.Tuning HTL hole mobility to match ZnO electron mobility\nC.Using identical ligands for QDs and ZnO ETL\nD.Assuming charge balance automatically follows from Fermi level alignment",
+    "output": "B"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "How does ligand branching density affect QD-LED(Quantum Dots) performance?\nOptions:\nA.Increases inter-QD distance, reducing FRET but hindering charge transport\nB.Has no impact if final ligand length is constant\nC.Prioritizes colloidal stability over device functionality\nD.Always improves both efficiency and operational stability",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "What is a key limitation of using Marcus theory alone to describe QD-LED(Quantum Dots) charge transfer?\nOptions:\nA.Neglects quantum confinement effects on reorganization energy\nB.Assumes parabolic potential surfaces for all interfacial states\nC.Overlooks multi-exciton generation in thick-shell QDs\nD.All of the above",
+    "output": "D"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which analytical methods are most critical for validating the turbostratic structure and closed pores?\nOptions:\nA. BET surface area analysis and XPS\nB. XRD peak broadening and SAXS closed-pore detection\nC.SEM morphology mapping and EDX elemental distribution\nD.Thermogravimetric analysis and DSC",
+    "output": "B"
+  },
+  {
+  "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+  "input": "What is the core mechanism of the dual-interfering chemistry strategy for microstructure regulation?\nOptions:\nA.Single gas-phase hydrogen consumption through CO₂ injection\nB.Physical templating with pre-synthesized ZnO nanoparticles\nC.Exclusive use of oxidative gas to prevent aromatic chain stacking\nD.Electrostatic repulsion induced by zinc ion intercalation",
+  "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which methodological innovation is critical for constructing fluorescent supramolecular materials based on AIEgens?\nOptions:\nA.Relying solely on HPLC purity testing to validate molecular aggregation\nB.Directly optimizing transition states using molecular mechanics (MM)\nC.Conducting catalytic reactions without inert gas protection\nD.Explaining emission mechanisms solely via frontier orbital theory",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which method is essential to validate the thermodynamic stability of AIEgen aggregates?\nOptions:\nA.Measuring fluorescence intensity changes under varying pH conditions\nB.Performing temperature-dependent dynamic light scattering (DLS)\nC.Using molecular mechanics to calculate single-point energies\nD.Assuming all aggregates form through J-type stacking",
+    "output": "B"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which strategy effectively controls the helicity of AIEgen-based supramolecular structures?\nOptions:\nA.Random mixing of chiral and achiral monomers\nB.Using achiral solvents to eliminate stereochemical interference\nC.Ignoring solvent polarity in conformational analysis\nD.Assuming all helical structures arise from π-π stacking",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which experimental approach best distinguishes RIM (Restricted Intramolecular Motion) from ACQ mechanisms?\nOptions:\nA.Comparing fluorescence lifetimes in solution vs. aggregate states\nB.Assuming all emission quenching arises from π-π stacking\nC.Using steady-state UV-Vis spectra without time-resolved data\nD.Ignoring solvent viscosity effects on molecular rotation",
+    "output": "A"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which computational method is appropriate for modeling the restriction of intramolecular rotation in AIEgens?\nOptions:\nA.Molecular mechanics (MM) force field optimization\nB.Single-point DFT calculations without conformational sampling\nC.Assuming rigid molecular structures in all calculations\nD.Using frontier orbital theory to predict emission wavelengths",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which method is critical for validating Förster resonance energy transfer (FRET) in AIEgen-based light-harvesting systems?\nOptions:\nA.Measuring absolute fluorescence quantum yields without reference standards\nB.Assuming perfect spectral overlap without experimental verification\nC.Controlling donor-acceptor distance through supramolecular confinement\nD.Ignoring dipole orientation factors in FRET efficiency calculations",
+    "output": "C"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which strategy ensures reversible structural control in AIEgen-based supramolecular hydrogels?\nOptions:\nA.Using permanent crosslinkers with fixed bond angles\nB.Relying solely on π-π interactions for network formation\nC.Ignoring solvent polarity in dynamic bond exchange\nD.Assuming all hydrogels self-heal via mechanical entanglement",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which factor is most critical for tuning the size of AIEgen-containing polymersomes?\nOptions:\nA.Adjusting the hydrophilic/hydrophobic block length ratio\nB.Randomly varying monomer ratios without phase separation analysis\nC.Assuming all self-assembly processes follow first-order kinetics\nD.Ignoring solvent evaporation rates during characterization",
+    "output": "A"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which experimental design is essential for studying AIEgen-based mechanofluorochromism?\nOptions:\nA.Using fixed-pressure conditions for all samples\nB.Assuming all fluorescence changes are irreversible\nC.Ignoring molecular packing modes in crystalline phases\nD.Relying solely on visual color changes without spectral data",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which strategy effectively amplifies supramolecular chirality in AIEgen systems?\nOptions:\nA.Mixing equal amounts of R- and S-enantiomers\nB.Using achiral solvents to eliminate competing interactions\nC.Incorporating chiral seeds during hierarchical assembly\nD.Assuming all helicity arises from π-π stacking symmetry",
+    "output": "C"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which approach achieves stable white-light emission in AIEgen-based systems?\nOptions:\nA.Using a single chromophore with broad emission\nB.Ignoring energy transfer between components\nC.Assuming all white light arises from excimer formation\nD.Relying solely on Förster resonance energy transfer",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which method confirms the reversibility of AIEgen-based host-guest interactions?\nOptions:\nA.Measuring single-cycle binding constants via NMR\nB.Observing fluorescence recovery after sequential acid/base treatment\nC.Assuming all complexation follows 1:1 stoichiometry\nD.Ignoring counterion effects in aqueous systems",
+    "output": "B"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which method is most rigorous for validating the transition state in supramolecular assembly processes?\nOptions:\nA.Relying exclusively on HPLC analysis of product distribution\nB.Combining transition state theory calculations with variable-temperature kinetic experiments\nC.Optimizing all possible conformations using molecular mechanics (MM)\nD.Assuming assembly is purely thermodynamically controlled",
+    "output": "B"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "What method ensures accurate identification of zeolite-confined metal coordination environments in dynamic catalytic systems?\nOptions:\nA.Relying solely on TEM particle size distribution analysis\nB.Using only UV-vis spectroscopy with static reference databases\nC.Directly correlating XRD crystallinity with catalytic activity\nD.Assuming fixed coordination states based on initial synthesis parameters",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which approach validates the stereoselectivity of metal@zeolite catalysts in hydrogenation reactions?\nOptions:\nA.Solely comparing reactant/product HPLC retention times\nB.Isotopic labeling coupled with operando IR spectroscopy\nC.Assuming selectivity arises purely from pore-size exclusion\nD.Using only kinetic isotope effects (KIE) without stereochemical analysis",
+    "output": "B"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "How to confirm Brønsted/Lewis acid synergy in zeolite-catalyzed dehydrogenation?\nOptions:\nA.Measuring total acidity via NH₃-TPD alone\nB.Assuming all framework-associated metals contribute equally\nC.Using only H₂-D₂ exchange kinetics\nD.Correlating Si/Al ratio with activity without site-specific probes",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "What validates the transition state in zeolite-mediated C-H activation?\nOptions:\nA.Direct MM optimization of guessed TS geometries\nB.Assuming identical TS geometries across zeolite topologies\nC.Matching experimental KIE to DFT-calculated imaginary frequencies\nD.Using only Eyring plot slopes without computational validation",
+    "output": "C"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "How to distinguish framework vs. extra-framework metal sites experimentally?\nOptions:\nA.Assuming all XRD-visible metals are extra-framework\nB.Using only ICP-OES metal loading data\nC.Correlating TEM particle counts with catalytic activity\nD.Relying solely on NH₃ adsorption calorimetry",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which method identifies metal sintering pathways in zeolites under reaction conditions?\nOptions:\nA.Post-reaction TEM without in situ tracking\nB.Assuming sintering is purely temperature-dependent\nC.Using only N₂ physisorption pore volume changes\nD.Operando XAS with multivariate curve resolution",
+    "output": "D"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "What confirms the nanoconfinement effect on reaction selectivity?\nOptions:\nA.Comparing activities with/without zeolite using same metal\nB.Assuming all selectivity differences arise from diffusion\nC.Using only reactant kinetic diameter vs. pore size data\nD.Correlating Si/Al ratio with product distribution",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "How to validate redox cycling of extra-framework Cu in NH₃-SCR?\nOptions:\nA.Assuming static Cu⁺/Cu²⁺ ratio from initial XPS\nB.In situ EPR with O₂/NH₃ modulation\nC.Using only bulk conductivity measurements\nD.Correlating total Cu loading with NO conversion",
+    "output": "B"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which approach correctly analyzes Brønsted acid strength distribution?\nOptions:\nA.Using only NH₃-TPD peak temperatures\nB.Assuming uniform strength based on framework Al content\nC.Correlating pyridine IR band positions with Si/Al ratio\nD.Relying solely on Hammett acidity measurements",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "What confirms metal-zeolite charge transfer in catalytic cycles?\nOptions:\nA.Assuming fixed oxidation states from synthesis conditions\nB.In situ XPS under reaction gas atmospheres\nC.Using only metal loading vs. activity correlations\nD.Relying solely on elemental mapping",
+    "output": "B"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "How to validate confinement-stabilized metastable reaction intermediates?\nOptions:\nA.Assuming all GC-detectable species are relevant intermediates\nB.Using only steady-state kinetic models\nC.Correlating intermediate lifetimes with pore volumes\nD.Relying solely on DFT-predicted intermediate stabilities",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which method best addresses late-stage fluorination of unprotected nitrogen heterocycles in drug-like molecules?\nOptions:\nA. Classical Balz-Schiemann reaction requiring diazotization\nB.Electrochemical fluorination using HF-pyridine\nC.Photoredox/Ni dual catalytic C-H activation\nD.Direct nucleophilic substitution without protecting groups",
+    "output": "C"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which strategy best enables stereoselective aliphatic C-H functionalization in piperidine derivatives?\nOptions:\nA. Iron-catalyzed remote functionalization with kinetic resolution\nB.Chiral auxiliary-directed oxidation\nC.Enzymatic resolution of racemic mixtures\nD.Simple temperature gradient crystallization\nE.MM2 force field-guided conformational control",
+    "output": "A"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "What key limitation persists in Buchwald-Hartwig couplings of unprotected amino-oxazoles?\nOptions:\nA.Insufficient activation energy for oxidative addition\nB.Competing protodehalogenation pathways\nC.Excessive π-backbonding destabilization\nD.Frontier orbital symmetry mismatch",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which innovation best addresses biomacromolecule-compatible conjugation?\nOptions:\nA.High-temperature SNAr reactions\nB.Palladium-mediated cysteine bioconjugation\nC.Traditional EDCI/HOBt amide coupling\nD.Strong acid-mediated lysine labeling",
+    "output": "B"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "What critical factor enables successful nickel-catalyzed sp³-sp³ couplings?\nOptions:\nA.Exclusive use of aryl halide partners\nB.Photoredox-mediated radical generation\nC.Strict anaerobic glovebox conditions\nD.High dielectric constant solvents",
+    "output": "B"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which validation is essential for claimed C-H activation mechanisms?\nOptions:\nA.Linear free-energy relationships\nB.HPLC yield correlation analysis\nC.Molecular weight distribution profiling\nD.Thermogravimetric analysis",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "What key advantage does hydrogen-borrowing amination provide?\nOptions:\nA. Enables use of unstable alkyl halides\nB.Enhances frontier orbital overlap\nC.Simplifies molecular mechanics modeling\nD.Eliminates stereochemical complexity",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which factor most limits traditional late-stage functionalization?\nOptions:\nA.Incompatibility with HPLC analysis\nB. Lack of protecting group strategies\nC.Regioselectivity control in complex molecules\nD.Excessive reaction exothermicity",
+    "output": "C"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "What critical innovation enables machine-assisted synthesis platforms?\nOptions:\nA.Universal chromatography integration\nB.Suzuki coupling-based iterative assembly\nC.Automated frontier orbital calculations\nD.High-vacuum distillation modules",
+    "output": "B"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which strategy best addresses polar molecule solubility in cross-couplings?\nOptions:\nA.Strictly non-polar solvent systems\nB.Micellar catalysis in aqueous media\nC.Ultra-high pressure conditions\nD.Exclusive use of gaseous reagents",
+    "output": "B"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which computational approach best predicts macromolecular targets for natural products containing Michael acceptors?\nOptions:\nA.Direct molecular docking using rigid receptor structures\nB.Structure-activity relationship analysis with fragment-based topological pharmacophores\nC.Frontier orbital theory optimization of α,β-unsaturated carbonyls\nD.Molecular mechanics-based transition state validation",
+    "output": "B"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "What critical validation step is required when designing natural-product-inspired macrocycles with improved ligand efficiency?\nOptions:\nA.Exclusive reliance on molecular weight reduction\nB.Frontier orbital theory optimization of α,β-unsaturated carbonyls\nC.Elimination of all sp³-hybridized bridgehead atoms\nD.Direct translation of microbial biosynthesis pathways",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which strategy best addresses false-positive bioactivity in natural products containing α,β-unsaturated carbonyls?\nOptions:\nA.Complete removal of Michael acceptors from screening libraries\nB.Exclusive use of frontier molecular orbital calculations\nC.Orthogonal assay validation with thiol trapping controls\nD.Systematic reduction of all oxygen-containing functional groups",
+    "output": "C"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "What is the primary limitation of using molecular mechanics (MM) for natural product target prediction?\nOptions:\nA.Inability to model aromatic ring systems\nB.Overestimation of hydrogen bonding networks\nC.Failure to account for solvent polarization effects\nD.Difficulty reproducing 3D pharmacophore patterns",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which experimental design is crucial when developing natural-product-derived kinase inhibitors?\nOptions:\nA.Complete exclusion of nitrogen-containing heterocycles\nB.Systematic elimination of allosteric binding pocket considerations\nC.Orthogonal validation using isothermal calorimetry\nD.Exclusive focus on molecular weight below 300 Da\nE.Avoidance of all sp³-hybridized carbons",
+    "output": "C"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "What critical analysis is missing if a natural product shows μM activity in phenotypic screening but contains a reactive quinone moiety?\nOptions:\nA.Molecular weight distribution profiling\nB.Oxidative stress pathway correlation\nC.Aggregate formation potential assessment\nD.Chiral center enumeration",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which computational method best validates the stereochemical configuration of a natural-product-inspired spirooxindole?\nOptions:\nA.Comparative molecular field analysis (CoMFA)\nB.Transition state ensemble modeling\nC.Molecular dynamics using implicit solvent\nD.Quantum mechanical NMR shift prediction",
+    "output": "D"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "What key parameter is overlooked when prioritizing natural-product fragments using ligand efficiency metrics alone?\nOptions:\nA.Synthetic tractability of core scaffolds\nB.Hydrogen bond donor count\nC.Sp²/sp³ hybridization ratio\nD.Target-class-specific efficiency thresholds",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which validation is critical when claiming target engagement for a covalent natural product inhibitor?\nOptions:\nA.LC-MS detection of unmodified protein\nB.Crystallographic evidence of binding orientation\nC.Kinetic analysis of irreversible binding\nD.Molecular weight correlation with bioactivity",
+    "output": "C"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "What critical flaw exists in a natural-product-optimization strategy that ignores scaffold tree analysis?\nOptions:\nA.Overemphasis on synthetic accessibility\nB.Excessive focus on molecular symmetry\nC.Neglect of biosynthetic pathway conservation\nD.Disregard for 3D shape similarity metrics",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which experimental control is essential when evaluating natural-product-mediated cell cycle arrest?\nOptions:\nA.Complete nutrient deprivation of control cells\nB.Parallel assessment of tubulin polymerization\nC.Elimination of all serum components\nD.Continuous oxygen tension monitoring",
+    "output": "B"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which experimental approach best addresses the oxygen sensitivity challenge in Atom transfer radical polymerization while maintaining high catalyst activity?\nOptions:\nA. Conducting polymerization under inert argon with a 10,000 ppm Cu catalyst.\nB.Using glucose oxidase and sodium pyruvate to enzymatically scavenge oxygen.\nC.Relying solely on vacuum distillation for oxygen removal.\nD.Increasing radical initiator concentration to outcompete oxygen quenching.",
+    "output": "B"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "What is the critical limitation of using traditional HPLC purity testing alone to validate Atom transfer radical polymerization-controlled polymer architectures?\nOptions:\nA. Inability to distinguish between dormant and terminated chains.\nB.Overestimation of dispersity due to column adsorption effects.\nC.Failure to detect residual monomer below 0.1% concentration.\nD.Lack of sensitivity to stereochemical configurations.",
+    "output": "A"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which mechanistic hypothesis conflicts with the experimentally observed suppression of the Trommsdorff effect in Atom transfer radical polymerization?\nOptions:\nA. Radical concentration remains constant via activation-deactivation equilibrium.\nB.Termination events occur predominantly via CRT mechanisms.\nC.Viscosity-induced diffusional limitations equally affect activation and termination.\nD.Catalyst regeneration maintains low persistent radical concentration.",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "What fundamental error occurs when using molecular mechanics (MM) to directly optimize Atom transfer radical polymerization transition states?\nOptions:\nA.Neglect of electron transfer steps in the redox cycle.\nB.Over-reliance on harmonic approximation for bond dissociation.\nC.Failure to account for solvent dielectric effects.\nD.Assumption of fixed coordination geometry for Cu complexes.",
+    "output": "B"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which experimental design flaw most critically impacts SARA Atom transfer radical polymerization reproducibility?\nOptions:\nA.Lack of inline FTIR for monomer conversion tracking.\nB.Employing non-deuterated solvents for NMR analysis.\nC.Omitting radical initiator in supplemental activator systems.\nD.Variable stirring rates affecting metallic copper dispersion.",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Why does frontier orbital theory alone fail to explain stereoselectivity in tacticity-controlled Atom transfer radical polymerization?\nOptions:\nA.Radical intermediates lack directional orbital interactions.\nB.Solvent polarity dominates over electronic effects.\nC.Metal-ligand complex symmetry dictates stereochemical outcome.\nD.Hydrogen bonding with Y(OTf)₃ overrides orbital considerations.",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which thermodynamic validation method best confirms the living character of Atom transfer radical polymerization systems?\nOptions:\nA.Linear first-order kinetic plots over extended conversions.\nB.Constant glass transition temperature across molecular weights.\nC.Agreement between theoretical and observed ceiling temperatures.\nD.Monotonic increase in dispersity with conversion.",
+    "output": "A"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which flawed mechanistic assumption underlies attempts to explain all CRT(Catalytic Resonance Theory) phenomena via single-reference DFT?\nOptions:\nA.Neglect of spin-orbit coupling in transition metal complexes.\nB.Assumption of harmonic vibrational modes in intermediates.\nC.Use of continuum solvation models for ionic species.\nD.Exclusion of London dispersion in radical interactions.",
+    "output": "null"
+  },
+  {
+  "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+  "input": "What key evidence invalidates the chain-end control hypothesis for Atom transfer radical polymerization stereoselectivity?\nOptions:\nA.Identical tacticity observed across different monomers.\nB.Temperature-independent syndiotactic bias.\nC.Retention of stereochemistry during chain extension.\nD.Molecular weight dependence of meso/racemo ratios.",
+  "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Why does bulk polymerization at >90% conversion challenge traditional Atom transfer radical polymerization characterization methods?\nOptions:\nA.Residual monomer plasticizes the polymer for DSC analysis.\nB.Signal broadening in high-MW polymers obscures NMR spectra.\nC.Dispersity measurements become insensitive to termination events.\nD.Chain-end functionality degrades during extended reactions.",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which strategy most effectively improves out-of-plane charge transport in ⟨100⟩-oriented 2D perovskites?\nOptions:\nA.Increasing organic spacer length to enhance dielectric contrast\nB.Using hot-casting to align inorganic layers perpendicular to the substrate\nC.Relying solely on time-resolved terahertz spectroscopy for orientation validation\nD.Applying frontier orbital theory to predict tunneling probabilities",
+    "output": "B"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "What primarily determines the exciton binding energy in 2D perovskites with varying inorganic layer thickness (n)?\nOptions:\nA.Crystallographic orientation of the organic spacer\nB.Hydrogen bonding capacity of the bulky cation\nC.Temperature-dependent Urbach energy measurements\nD.Frontier molecular orbital energy offsets",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which characterization method best validates NH₄SCN's role in enhancing vertical orientation of 2D perovskites?\nOptions:\nA.XRD pole figure analysis of (002) planes\nB.Cyclic voltammetry for energy level alignment\nC.FTIR monitoring of SCN⁻ coordination\nD.HPLC quantification of phase purity",
+    "output": "A"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Why does 4-fluorophenylethylammonium outperform phenylethylammonium in 2D perovskite charge transport?\nOptions:\nA.Fluorine increases organic layer hydrophobicity\nB.Reduced phenyl ring centroid-centroid distances enhance π-π coupling\nC.Stronger hydrogen bonding with iodide vacancies\nD.Higher dipole moment aligns with external electric fields\nE.Frontier orbital hybridization with Pb-I framework",
+    "output": "B"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "What critical flaw exists in using precursor stoichiometry alone to control n-value distribution?\nOptions:\nA.Ignores solvent coordination strength effects\nB.Fails to account for vertical phase segregation\nC.Overlooks temperature-dependent octahedral tilting\nD.Assumes perfect Langmuir adsorption kinetics",
+    "output": "B"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "What key advantage does the 3D/2D hybrid structure provide over pure 3D perovskites?\nOptions:\nA.Complete elimination of halide vacancies\nB.Type-I band alignment for carrier confinement\nC.Absolute immunity to oxygen degradation\nD.Perfect lattice parameter matching",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which approach would invalidate transition state validation for 2D perovskite formation?\nOptions:\nA.Using NEB method with DFT-optimized endpoints\nB.Incorporating solvent effects via COSMO model\nC.Calculating activation entropy from frequency analysis\nD.Benchmarking against experimental XRD data",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Why does DMF/DMSO co-solvent improve vertical orientation in anti-solvent methods?\nOptions:\nA.Increases dielectric constant for ion dissociation\nB.Accelerates solvent evaporation rate exponentially\nC.Eliminates all low-n phase nuclei\nD.Perfectly matches Goldschmidt tolerance factor",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "What is the primary role of Cs⁺ in BA₂(Cs,MA,FA)Pb₅I₁₆ systems?\nOptions:\nA.Complete replacement of organic cations\nB.Selective passivation of grain boundaries\nC.Enhancement of Rashba splitting magnitude\nD.Absolute prevention of halide segregation",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which accelerated aging test best correlates with real-world 2D perovskite degradation?\nOptions:\nA.85°C/N₂ dark storage\nB.1 Sun illumination at 30% RH\nC.-196°C thermal cycling\nD.Pure O₂ atmosphere exposure",
+    "output": "B"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which technique is insufficient for quantifying n-value distribution in quasi-2D films?\nOptions:\nA.Grazing-incidence XRD\nB.Photoluminescence spectral deconvolution\nC.XPS depth profiling\nD.UV-vis absorption edge analysis",
+    "output": "D"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "What critical challenge persists in Sn-based 2D perovskite solar cells?\nOptions:\nA.Inability to form ⟨100⟩ orientation\nB.Complete suppression of Sn²⁺ oxidation\nC.Perfect lattice matching with Pb analogues\nD.Elimination of all deep-level traps",
+    "output": "B"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which statement inaccurately describes 2D perovskite stability?\nOptions:\nA.Organic layers provide hydrophobic barriers\nB.Rashba splitting reduces nonradiative recombination\nC.Gua⁺(guanidinium) fills iodide vacancy sites\nD.Vertical alignment minimizes interfacial traps",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "How does excess PbI₂ affect 2D perovskite crystallization?\nOptions:\nA.Terminates layer growth at n=1\nB.Creates metallic lead inclusions\nC.Fully converts to RP phase\nD.Eliminates all organic components",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "What uniquely enables Gua⁺(guanidinium) to form alternating cation interlayer (ACI) structures?\nOptions:\nA.Perfect size matching with MA⁺\nB.Ability to donate three hydrogen bonds\nC.Complete resistance to thermal degradation\nD.sp³ hybridization geometry",
+    "output": "B"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "What methodology best validates the stereochemical retention during allyl migration in spiroidolenines?\nOptions:\nA.Single-crystal X-ray diffraction of intermediates\nB. Kinetic isotope effect (KIE) measurements\nC.Three-center-two-electron (3c-2e) transition state analysis\nD.Frontier molecular orbital (FMO) theory calculations",
+    "output": "C"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Why is the Ir-catalyzed dearomatization of hydroxyquinoline allylic chlorides enantioselective?\nOptions:\nA.π-π stacking between substrates and ligands\nB.Steric bulk of the allylic chloride group\nC.Thermodynamic control via reversible bond formation\nD.Hydrogen bonding with the hydroxyl group",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which factor critically enables enantiodivergence in allylic amination?\nOptions:\nA.Time-dependent competition between amination and etherification\nB.Temperature-controlled inversion of catalyst configuration\nC.Solvent-driven ligand dissociation\nD.Substrate preorganization via crystallization",
+    "output": "A"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "What validates the regioselectivity in visible-light-promoted [2+2] cycloaddition?\nOptions:\nA.Hammett correlation with substituent σ values\nB.Solvent polarity matching frontier orbital gaps\nC.Kinetic control via low-temperature quenching\nD.Steric repulsion between substituents",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "What is the key factor enabling high enantioselectivity in Ir-catalyzed allylic dearomatization of indole derivatives?\nOptions:\nA.RStrong π-π stacking between indole and ligand\nB.Rigid coordination geometry of Ir-(cod)Cl complexes\nC.Chiral ligand-induced facial bias in nucleophilic attack\nD.Thermodynamic control via reversible ring-opening",
+    "output": "C"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "What critical kinetic feature enables time-dependent enantiodivergence in allylic amination?\nOptions:\nA.Competing oxidative addition rates of carbonate enantiomers\nB.Differential activation energies for diastereomeric transition states\nC.Sequential catalyst decomposition pathways\nD.Competing amination/etherification with methanol",
+    "output": "D"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which strategy mimics arene dioxygenase's cis-dihydroxylation in catalytic asymmetric dearomatization reactions?\nOptions:\nA.Chiral Brønsted acid-mediated epoxide opening\nB.Metal-ligand cooperative proton-coupled electron transfer\nC.Biomimetic flavin photocatalysis\nD.Radical rebound mechanism with iron porphyrins",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which technique confirmed the intermediacy of spiroidolenines in tandem dearomatization/migration?\nOptions:\nA.Cryogenic XRD of reaction mixtures\nB.Isotopic scrambling experiments\nC.HPLC chiral purity analysis\nD.Cyclic voltammetry of intermediates",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "What prevents over-reduction in Ir-catalyzed asymmetric allylic dearomatization?\nOptions:\nA.Low catalyst loading limits hydrogenation activity\nB.In situ NaBH3CN selectively reduces imine groups\nC.Electron-rich arenes resist further reduction\nD.π-Allyliridium intermediates inhibit reduction pathways",
+    "output": "D"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Why do vinyl aziridines produce different diastereomers than vinyl cyclopropanes in Pd-catalyzed cyclization?\nOptions:\nA.Distinct ring-opening transition state geometries\nB.Variable π-backbonding to nitro groups\nC.Differential stabilization of zwitterionic intermediates\nD.Competing β-hydride elimination pathways\nE.Steric effects of N-protecting groups",
+    "output": "A"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": " What critical feature enables CADA (Catalytic Dearomatization) of non-activated benzene derivatives?\nOptions:\nA.High oxidation state transition metal catalysts\nB.Cooperative Lewis acid/base activation\nC.Radical-polar crossover mechanisms\nD.Supramolecular preorganization of substrates",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which methodological approach is most critical for achieving enantioselectivity in asymmetric hydroboration of terminal alkenes using Rh catalysts?\nOptions:\nA.Steric differentiation via ortho-substituted monodentate phosphines coordinating to Rh, enforcing a chiral Rh coordination sphere\nB.Electronic asymmetry in NHC(N-heterocyclic carbene) ligands with bulky flanking groups on Rh to bias borohydride migration\nC.Chiral pocket design in Rh-Phebox complexes to direct migratory insertion\nD.Solvent polarity optimization to stabilize Rh-alkene π-complex intermediates",
+    "output": "C"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "What mechanistic feature explains the regioselectivity reversal in Cu-catalyzed hydroboration of 1,3-dienes under NHC(N-heterocyclic carbene) vs. phosphine ligands?\nOptions:\nA.Faster oxidative addition with NHC-copper complexes\nB.Competing β-hydride elimination pathways\nC.Ligand-dependent stabilization of π-allyl intermediates\nD.Steric acceleration of reductive elimination",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which experimental validation method is most definitive for confirming the intermediacy of a Rh(III)-hydride species in asymmetric borylative cyclization?\nOptions:\nA.Kinetic isotope effect (KIE) measurements\nB.In situ SAESI-MS detection of Rh intermediates\nC.Linear free-energy relationships (LFER)\nD.Hammett correlation analysis",
+    "output": "B"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Why does Co(acac)₂ with chiral phosphine ligands enable enantioselective diborylation of 1,1-disubstituted alkenes?\nOptions:\nA.Co(I/III) redox cycling accelerates oxidative addition\nB.Phosphine ligands stabilize cobalt-boryl intermediates\nC.Acac⁻ counterions act as proton shuttles\nD.Radical chain propagation via Co-mediated HAT",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "What stereochemical outcome arises from using Josiphos ligands in Cu-catalyzed borylative cyclization of carbamoyl chlorides?\nOptions:\nA.Axial chirality transfer via restricted rotation of the biaryl backbone\nB.Syn periplanar attack on the carbamoyl carbonyl\nC.π-Stacking-induced planar chirality\nD.Dynamic kinetic resolution of atropisomers",
+    "output": "A"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which factor dominates enantiocontrol in Rh-catalyzed oxime-directed hydroboration of trisubstituted alkenes?\nOptions:\nA.Substrate preorganization via hydrogen bonding\nB.Steric differentiation of prochiral faces by the oxime\nC.Electronic modulation of the alkene π-system\nD.Solvent-assisted chiral aggregation",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Why does CuCl/(R)-DTBM-Segphos favor anti-Markovnikov selectivity in hydroboration of unactivated alkenes?\nOptions:\nA.Ligand-accelerated σ-bond metathesis at the terminal position\nB.Thermodynamic stabilization of the branched boronate\nC.Faster migratory insertion into secondary C-H bonds\nD.π-Complexation destabilizes internal transition states",
+    "output": "A"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "How does B₂dmpd₂ enhance regioselectivity in Cu/NHC-catalyzed(N-heterocyclic carbene) hydroboration compared to B₂pin₂?\nOptions:\nA.Stronger Lewis acidity of the diboron reagent \nB.Faster transmetallation kinetics with NHC-copper\nC.In situ generation of more reactive boron electrophiles\nD.Preferential stabilization of Cu(I) over Cu(III) states",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "What mechanistic role does cyclooctene play in Co-catalyzed enantioselective diborylation?\nOptions:\nA.Oxidative hydrogen acceptor for catalyst regeneration\nB.Proton shuttle for β-hydride elimination\nC.Chiral inducer via co-complexation with substrate\nD.π-Acidic ligand to stabilize low-valent Co intermediates",
+    "output": "D"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which strategy prevents racemization during Pd/XPhos-catalyzed cross-coupling of α-borylalkyl copper nucleophiles?\nOptions:\nA.Low-temperature quenching of the organocopper species\nB.Kinetic resolution of diastereomeric intermediates\nC.Chiral anion phase-transfer catalysis\nD.Entropic stabilization of the planar transition state",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "What key evidence supports the Ni(I/III) catalytic cycle in asymmetric carboboration?\nOptions:\nA.Stoichiometric comproportionation experiments\nB.EPR detection of paramagnetic Ni(I) intermediates\nC.Kinetic zeroth-order dependence on aryl bromide\nD.Hammett correlation with σ⁴ substituent constants",
+    "output": "A"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "How does DTBM-Segphos enforce enantioselectivity in Cu-catalyzed β-borylation of α,β-unsaturated aldehydes?\nOptions:\nA.Electron-withdrawing groups accelerate oxidative addition\nB.Axial chirality transfers to planar metal center\nC.π-Stacking with aromatic aldehydes\nD.Dynamic ligand folding controls migratory insertion",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "What critical function does LiOtBu serve in Cu-catalyzed asymmetric reductive coupling of vinylboronates?\nOptions:\nA.Activate B₂pin₂ via Lewis acid-base adduct formation\nB.Stabilize high-valent copper intermediates\nC.Scavenge trace water to prevent boronate hydrolysis\nD.Deprotonate silane reductants to generate Cu-H species",
+    "output": "D"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Why does Rh-catalyzed hydroboration of α-arylenamides require P-chiral BI-DIME ligands?\nOptions:\nA.Phosphorus stereogenicity accelerates oxidative addition\nB.Bulky substituents prevent β-hydride elimination\nC.Electronic tuning matches enamide LUMO energy\nD.Atropisomerism enables dynamic kinetic resolution",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "What mechanistic insight explains the regioselectivity of Co-catalyzed sequential alkyne hydrogenation/hydroboration?\nOptions:\nA.Anti-Markovnikov hydride insertion followed by stereoretentive borylation\nB.Radical chain mechanism with H₂ as initiator\nC.Ziegler-Natta-type surface polymerization control\nD.π-Alkyne complexation directs syn-addition",
+    "output": "A"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which methodology is critical for achieving enantioselective cross-coupling of racemic organomagnesium reagents?\nOptions:\nA.Dynamic kinetic asymmetric transformation (DYKAT) via ligand-controlled transmetalation\nB.Single-electron oxidative addition followed by radical recombination\nC.Thermodynamic resolution of diastereomeric intermediates\nD.Stereoretentive β-hydride elimination pathways",
+    "output": "A"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "How does the coordination of chiral ligands influence stereoselectivity in Ni-catalyzed alkyl cross-coupling?\nOptions:\nA.Stabilizes σ-alkyl intermediates to prevent β-hydride elimination\nB.Enforces syn periplanar geometry during oxidative addition\nC.Accelerates single-electron transfer to racemic electrophiles\nD.Facilitates ligand-substrate π-stacking interactions",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "What mechanistic feature enables stereoconvergent coupling of racemic α-bromo amides?\nOptions:\nA.Radical chain propagation via Ir-photoredox synergy\nB.Rapid interconversion of diastereomeric Ni complexes\nC.Dynamic equilibrium of organozinc intermediates\nD.Stereoretentive oxidative addition to Pd(0)  ",
+    "output": "B"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which factor is critical for enantioselective desymmetrization of meso-anhydrides?\nOptions:\nA. π-Acidic additives to stabilize η³-allyl intermediates\nB.Cooperative Lewis acid-base activation of the electrophile\nC.Ligand bite angle optimization for oxidative addition\nD.Chiral counterion-induced asymmetry",
+    "output": "C"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Why do bulky phosphine ligands improve stereospecificity in Suzuki-Miyaura couplings of secondary boronates?\nOptions:\nA.Accelerate reductive elimination through electron donation\nB.Enforce SE2(cyclic) transition states for retention\nC.Stabilize Pd-π-benzyl intermediates for inversion\nD.Prevent oxidative addition of aryl chlorides",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "What mechanistic insight explains stereoinversion in Cu-catalyzed allylic alkylation?\nOptions:\nA.Anti-periplanar SN2 oxidative addition\nB.Syn-carbocupration followed by reductive elimination\nC.π-AllylCu intermediate isomerization\nD.Radical recombination at the γ-position",
+    "output": "A"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "How does Ag2O enhance stereospecificity in Ni-catalyzed couplings of secondary boronates?\nOptions:\nA.Stabilizes Pd-π-allyl intermediates via η³-coordination\nB.Activates boronates via Lewis acid coordination\nC.Prevents racemization of chiral Ni complexes\nD.Promotes oxidative addition through iodide displacement",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which strategy prevents β-hydride elimination in stereospecific Negishi couplings?\nOptions:\nA.Low-temperature transmetalation to Cu(I)\nB.Bulky N-heterocyclic carbene ligands to stabilize σ-alkylpalladium\nC.Electron-deficient arylzinc reagents\nD.Kinetic resolution via chiral auxiliaries",
+    "output": "B"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "What drives stereoconvergence in Ni-catalyzed couplings of racemic α-bromo ketones?\nOptions:\nA.Radical chain propagation via Ni(I)/Ni(III) cycling\nB.Kinetic preference for syn oxidative addition\nC.Ligand-accelerated β-hydride elimination\nD.Dynamic resolution of organozinc intermediates",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Why do chiral 1,2-diamines improve enantioselectivity in Ni-catalyzed alkyl-alkyl couplings?\nOptions:\nA.Facilitate single-electron transfer to racemic electrophiles\nB.Enforce a trigonal bipyramidal transition state\nC.Stabilize η²-arene interactions during oxidative addition\nD.Preferentially coordinate to one enantiomer of the substrate",
+    "output": "D"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "How do Josiphos ligands achieve high γ-selectivity in allylic substitutions?\nOptions:\nA.π-Acidic dienes stabilize η³-allyl intermediates\nB.Bite angle control favors syn oxidative addition\nC.Chiral counterions enforce anti-periplanar geometry\nD.Accelerate transmetalation via Pd-O-B linkages",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "What role do protic additives play in Suginome’s stereoinvertive couplings?\nOptions:\nA.Hydrogen bonding strengthens B-O coordination\nB.Acidic protons accelerate oxidative addition\nC.Stabilize Pd-π-benzyl intermediates\nD.Prevent β-hydride elimination via H-bonding",
+    "output": "A"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Why does Zr(iPrO)4 reverse stereochemistry in [α-(acylamino)benzyl]boronate couplings?\nOptions:\nA.Acts as a Lewis acid to stabilize Pd-π complexes\nB.Accelerates oxidative addition via iodide displacement\nC.Induces η⁶-arene coordination for retention\nD.Promotes radical chain propagation",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "What explains the stereoretentive coupling of propargylic silanes?\nOptions:\nA.Syn SE' transmetalation via pseudochair transition states\nB.Anti-periplanar oxidative addition to Pd(0)\nC.Radical recombination at the α-position\nD.π-Acidic ligands stabilize η²-alkyne intermediates",
+    "output": "A"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "How do traceless directing groups improve stereospecific Kumada couplings?\nOptions:\nA.Stabilize Ni-π-benzyl intermediates via η³-coordination\nB.Prevent β-hydride elimination through steric shielding\nC.Accelerate transmetalation via Pd-O-B linkages\nD.Induce kinetic resolution of racemic electrophiles",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "What mechanistic feature distinguishes electron catalysis from traditional acid/base catalysis in radical cascade reactions?\nOptions:\nA.Involvement of transition-metal intermediates in electron transfer.\nB.Temporary addition/removal of a proton during the catalytic cycle.\nC.Use of radical ions as persistent intermediates throughout the reaction.\nD.Reliance on dissociative electron transfer to generate radical intermediates.",
+    "output": "D"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "In BHAS (base-promoted homolytic aromatic substitution), what critical role does KOtBu play?\nOptions:\nA.Acts as a one-electron reductant to initiate radical formation.\nB.Stabilizes the transition state via hydrogen bonding.\nC.Facilitates oxidative addition of the aryl halide.\nD.Coordinates with transition metals to enhance electron transfer.",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "What thermodynamic principle enables hole catalysis in pericyclic reactions like cyclohexadiene dimerization?\nOptions:\nA.Stabilization of radical cations through conjugation.\nB.Exothermic formation of σ-bonds overriding radical cation instability.\nC.Entropic advantage from cyclic transition states.\nD.Counterion stabilization of the electron-deficient intermediate.",
+    "output": "B"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "In radical cross-dehydrogenative coupling (CDC), what ensures selectivity during C–H bond activation?\nOptions:\nA.Steric hindrance from bulky initiators.\nB.Electronic directing groups on the arene.\nC.Base-mediated deprotonation of reactive intermediates.\nD.Transition-state stabilization by π-backdonation.",
+    "output": "C"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "What mechanistic evidence supports the radical chain pathway in BHAS(base-promoted homolytic aromatic substitution) reactions?\nOptions:\nA.Isolation of stable cyclohexadienyl radical intermediates.\nB.First-order kinetics in aryl halide concentration.\nC.Deuterium isotope effects in the deprotonation step.\nD.Detection of metal-bound intermediates by NMR.",
+    "output": "C"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "In the radical Heck-type reaction , what drives the regioselectivity of aryl radical addition to styrene?\nOptions:\nA.Electronic effects from the styrene’s substituents.\nB.Steric hindrance at the α-position of styrene.\nC.Coordination of the radical to potassium ions.\nD.Polarization of the styrene π-bond by the base.",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "What role does Bu4NI play in the trifluoromethylation of phenanthridines ?\nOptions:\nA.Acts as a phase-transfer catalyst.\nB.Stabilizes the CF3 radical via halogen bonding.\nC.Deprotonates the cyclohexadienyl radical intermediate.\nD.Scavenges trace oxygen to prevent radical quenching.",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "What mechanistic feature prevents radical chain termination in BHAS reactions under high substrate concentrations?\nOptions:\nA.Fast deprotonation of the cyclohexadienyl radical.\nB.Rapid electron transfer from the biaryl radical anion.\nC.Low solubility of the aryl halide in polar solvents.\nD.Stabilization of the aryl radical by π-conjugation.",
+    "output": "A"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "What molecular design strategy most effectively reduces the LUMO energy level of n-type organic semiconductors?\nOptions:\nA.Extending alkyl side chain lengths\nB.Increasing molecular weight through branched substituents\nC.Incorporating electron-donating methoxy groups\nD.Utilizing sp³-hybridized carbon frameworks",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which structural feature primarily enables high electron mobility in quinoid small molecules?\nOptions:\nA.Rotatable single bonds in the backbone\nB.Antiparallel slip-stacked π-π interactions\nC.Bulky tert-butyl substituents\nD.Non-planar chair conformations",
+    "output": "B"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "What critical role do cyano groups play in TCNBT-based(Tetracyanobenzothiadiazole) semiconductors?\nOptions:\nA.Enhance hole transport through p-doping\nB.Create steric hindrance for controlled crystallization\nC.Enable redox activity through radical formation\nD.Facilitate solution processability through dipole-dipole interactions",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which factor primarily limits the performance of chlorinated semiconductors compared to fluorinated analogs?\nOptions:\nA.Reduced thermal stability\nB.Larger atomic size causing steric distortion\nC.Lower electronegativity\nD.Inadequate π-conjugation length",
+    "output": "B"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "What key advantage does the B←N unit provide in heteroatom-doped semiconductors?\nOptions:\nA. Enables ambipolar charge transport\nB.Facilitates solution-phase redox processes\nC.Improves air stability through hydrophobic effects\nD.Enhances hole mobility via p-orbital overlap",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which characterization method would best verify the edge-on molecular orientation critical for charge transport?\nOptions:\nA.Cyclic voltammetry\nB.Grazing-incidence X-ray diffraction\nC.UV-vis spectroscopy\nD.Mass spectrometry",
+    "output": "B"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "What makes the dicyanomethylene group particularly effective in quinoid semiconductors?\nOptions:\nA.Enables supramolecular polymerization\nB.Creates helical molecular conformations\nC.Facilitates solution-phase self-assembly\nD.Induces thermally activated delayed fluorescence",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which synthetic strategy addresses the solubility challenges of pyrene diimides?\nOptions:\nA.Introducing tert-butyl protective groups\nB.Utilizing high-temperature annealing\nC.Creating branched polymer architectures\nD.Employing ionic liquid solvents",
+    "output": "A"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "What key advantage does the lactam functional group provide?\nOptions:\nA.Enables zwitterionic resonance structures\nB.Enhances electron affinity through conjugation\nC.Creates helical molecular conformations\nD.Facilitates solution-phase redox activity",
+    "output": "B"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "What methodology is most effective for generating monodisperse double emulsions with controlled hierarchical structures in droplet microfluidics?\nOptions:\nA.Sequential coflow assembly with capillary modules\nB.Single-step T-junction emulsification\nC.Electrowetting-driven droplet splitting\nD.Magnetic field-assisted droplet deformation",
+    "output": "A"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which mechanism primarily governs the stabilization of aqueous droplets in fluorocarbon oil for biochemical assays?\nOptions:\nA.Electrostatic repulsion between surfactant headgroups\nB.Magnetic nanoparticle-mediated interfacial rigidity\nC.Thermally induced Marangoni flows\nD.pH-dependent zwitterionic interactions",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "What experimental approach validates the diffusion-limited transport of small molecules across droplet interfaces?\nOptions:\nA.Electrochemical impedance spectroscopy\nB.Gravimetric analysis of surfactant monolayers\nC.Nuclear magnetic resonance (NMR) relaxometry\nD.Raman mapping of interfacial molecular vibrations",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "What design feature enables on-chip reagent dilution in droplet microfluidics without premixing?\nOptions:\nA.Pneumatic valve-actuated droplet merging\nB.Electrophoretic solute redistribution\nC.Surface acoustic wave (SAW)-driven mixing\nD.Sequential droplet splitting and reinjection",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which technique provides spatial resolution for analyzing protein adsorption at droplet interfaces?\nOptions:\nA.Mass spectrometry imaging\nB.Fluorescence lifetime imaging (FLIM)\nC.Quartz crystal microbalance (QCM)\nD.X-ray reflectometry",
+    "output": "B"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "What mechanism enables size-dependent passive sorting of droplets in bifurcated channels?\nOptions:\nA.Dielectrophoretic mobility differences\nB.Magnetic susceptibility variation\nC.Thermophoretic migration\nD.Interfacial tension gradient",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "What principle underlies the enhancement of mixing in winding microfluidic channels?\nOptions:\nA.Chaotic advection from periodic flow reversal\nB.Electrosomotic flow acceleration\nC.Magnetic nanoparticle-driven vortices\nD.Thermal Rayleigh-Bénard convection",
+    "output": "A"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which parameter determines the transition between dripping and jetting regimes in flow-focusing droplet generation?\nOptions:\nA.Weber number of the dispersed phase\nB.Reynolds number of the combined flow\nC.Bond number of the channel geometry\nD.Peclet number of the surfactant solution",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "What mechanism ensures the monodispersity of polymer microparticles in droplet templating?\nOptions:\nA.Interfacial radical polymerization\nB.Solvent evaporation rate control\nC.Microfluidic droplet size uniformity\nD.UV intensity gradient modulation",
+    "output": "C"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which factor is critical for achieving core-shell structure control in double emulsion templating?\nOptions:\nA.Stepwise interfacial gelation\nB.Surfactant HLB(Hydrophilic Lipophilic Balance) gradient design\nC.Alternating solvent polarity\nD.Magnetic core localization",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "What principle enables the synthesis of anisotropic Janus particles in droplet microfluidics?\nOptions:\nA.Electric field-driven dipole alignment\nB.Interfacial polymerization asymmetry\nC.Thermal gradient-induced crystallization\nD.Magnetic domain patterning",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which analytical technique combines two distinct separation mechanisms to significantly reduce the I-factor in complex organic mixtures?\nOptions:\nA.Single-step laser desorption/ionization (LDI)\nB.Proton-transfer-reaction mass spectrometry (PTR-MS)\nC.Fourier-transform infrared spectroscopy (FTIR)\nD.Aerosol mass spectrometer (AMS)",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which parameter directly determines the accuracy of molecular formula assignment in high-resolution mass spectrometry?\nOptions:\nA.Ionization efficiency\nB.Dynamic range\nC.Retention time reproducibility\nD.Signal-to-noise ratio",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which technique is essential for verifying the stereochemical configuration of a synthesized organic marker compound?\nOptions:\nA.Isotope-ratio mass spectrometry (IRMS)\nB.Nuclear magnetic resonance (NMR) spectroscopy\nC.Thermal desorption chemical ionization (TD-CIMS)\nD.Cavity ring-down spectroscopy (CRDS)",
+    "output": "B"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which step is critical to avoid artifacts in the quantification of semi-volatile organic compounds (SVOCs) during aerosol sampling?\nOptions:\nA.Using quartz fiber filters alone\nB.Employing single-stage impactors\nC.Increasing sampling face velocity\nD.Reducing relative humidity during collection",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which ionization method minimizes fragmentation to preserve molecular ion signals in aerosol analysis?\nOptions:\nA.Electron ionization (EI)\nB.Laser desorption/ionization (LDI)\nC.Electrospray ionization (ESI)\nD.Chemical ionization (CI)",
+    "output": "C"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which analytical approach is most effective for identifying unknown oxidation pathways in secondary organic aerosols (SOA)?\nOptions:\nA.Bulk functional group analysis via FTIR\nB.Real-time monitoring using AMS\nC.Off-line NMR of fractionated extracts\nD.Isotopic labeling with 13C-precurors",
+    "output": "D"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which technique enables structural elucidation of non-crystalline organic compounds in aerosols?\nOptions:\nA.X-ray diffraction (XRD)\nB.High-resolution TEM\nC.Raman spectroscopy\nD.Differential optical absorption spectroscopy (DOAS)",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which factor limits the use of electron ionization (EI) in identifying high-molecular-weight organic aerosols?\nOptions:\nA.Low ionization efficiency\nB.Excessive fragmentation\nC.Poor mass accuracy\nD.Incompatibility with chromatographic systems",
+    "output": "B"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which analytical challenge is uniquely addressed by tandem mass spectrometry (MS/MS)?\nOptions:\nA.Differentiating isobaric ions\nB.Measuring aerosol hygroscopicity\nC.Resolving chromatographic co-elution\nD.Detecting low-volatility gases",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which factor complicates the use of radiocarbon (14C) analysis for SOA source apportionment?\nOptions:\nA.Low natural abundance of 14C\nB.Isotopic fractionation during oxidation\nC.Co-emission from fossil and biogenic sources\nD.Interference from 13C isotpes",
+    "output": "B"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "What is the primary advantage of using microreactors for photochemical [2+2] cycloadditions compared to batch reactors?\nOptions:\nA.Enhanced mass transfer due to turbulent flow\nB.Higher solubility of gaseous reactants\nC.Reduced catalyst loading via heterogeneous immobilization\nD.Improved stereochemical control via chiral solvents",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which factor critically enhances diastereoselectivity in photocycloadditions performed in flow reactors?\nOptions:\nA.Use of supercritical CO₂ as a solvent\nB.Precise temperature control minimizing thermal equilibration\nC.Segmented flow regimes with nitrogen gas\nD.Increased photon flux density via LED arrays",
+    "output": "B"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Why does singlet oxygen generation in flow reactors reduce overoxidation byproducts?\nOptions:\nA.Higher oxygen solubility in segmented flow\nB.Enhanced photosensitizer stability in microchannels\nC.Reduced photon energy from visible-light LEDs\nD.Homogeneous solvent polarity via continuous mixing",
+    "output": "null"
+  },
+  {
+    "instruction": "Your task is to complete the following multiple-choice questions. Each multiple-choice question has four options. Some questions may not have a correct answer. Please make your answers after careful consideration. If there is a correct option, directly give the letter before the option. If there is no correct option, please output 'null'. ",
+    "input": "Which mechanism explains the improved quantum yield in microreactors for photoredox catalysis?\nOptions:\nA.Reduced triplet-state recombination via rapid quenching\nB.Enhanced photon absorption through reflective reactor coatings\nC.Suppression of chain-termination steps via laminar flow\nD.Increased interfacial area in gas-liquid segmented flow",
+    "output": "null"
+  }
+]

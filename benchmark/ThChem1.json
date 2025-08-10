@@ -1,0 +1,1267 @@
+[
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Question: In the ground state, has two electrons in one (and only one) of the p orbitals.\nOptions:\nA. Berylium\nB. Boron\nC. Carbon\nD. Oxygen\nE. Fluorine ",
+    "output": "D"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Question: Has the largest atomic radius.\nOptions:\nA. Berylium\nB. Boron\nC. Carbon\nD. Oxygen\nE. Fluorine ",
+    "output": "A"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Question: Has the largest value of the first ionization energy.\nOptions:\nA. Berylium\nB. Boron\nC. Carbon\nD. Oxygen\nE. Fluorine ",
+    "output": "E"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Question: Has the smallest second ionization energy.\nOptions:\nA. Berylium\nB. Boron\nC. Carbon\nD. Oxygen\nE. Fluorine ",
+    "output": "A"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Question: The half-life of 3 H is about 12 years. How much of a 4mg sample will remain after 36 years?\nOptions:\nA. 0.25mg\nB. 0.5mg\nC. 1mg\nD. 2mg\nE. 4mg ",
+    "output": "B"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Question: All of the following statements about the oxygen family of elements are true except:\nOptions:\nA. The electron configuration of the valence shell of the atom is ns2 np4 .\nB. It contains all nonmetals.\nC. The atomic radii decrease with decreasing atomic number.\nD. Electronegativity increases with decreasing atomic number.",
+    "output": "B"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Question: Which of the following is the correct electron configuration for molybdenum?\nOptions:\nA. 1s 2 2s 2 2p6 3s 2 3p6 4s 2 3d104p6 5s 2 4d4\nB. [Kr] 5s 2 4d4\nC. 1s 2 2s 2 2p6 3s 2 3p6 4s 2 3d104p6 5s 1 4d5\nD. [Kr] 5s 1 4d4",
+    "output": "C"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which of the following are compounds that might reasonably form from combining iron andoxygen?(I) Fe2O3(II) Fe3O2(III) FeO\nOptions:\nA. I only\nB. II only\nC. III only\nD. I and II only\nE. I and III only",
+    "output": "E"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which of the following is least likely to be a stable compound?\nOptions:\nA. CF4\nB. S2O\nC. PCl3\nD. SiO3\nE. NO",
+    "output": "D"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which of the following compounds is least likely to form?\nOptions:\nA. Na2Cr7O2\nB. KC2H3O2\nC. Li2CN\nD. Rb2C2O4\nE. HNO2",
+    "output": "C"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which of the following is correctly named?\nOptions:\nA. CsCl; cesium (I) chloride\nB. Fe2O3; iron (II) oxide\nC. CBr4; carbon quatrobromide\nD. NO2; dioxygen mononitride\nE. MnO2; manganese (IV) oxide",
+    "output": "E"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which of the following correctly lists the molecules in order of increasing polarity?\nOptions:\nA. H2O, H2S, HF, H2\nB. H2, HF, H2S, H2O\nC. H2, H2S, HF, H2O\nD. H2, H2S, H2O, HF\nE. H2S, H2O, HF, H2",
+    "output": "D"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which of the following molecules has bond angles closest to 109.5°?\nOptions:\nA. BF3\nB. SiS2\nC. CCl4\nD. H2O\nE. CO2",
+    "output": "C"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Group IVA elements tend to hybridize in which of the following ways?\nOptions:\nA. sp\nB. Sp2\nC. Sp3\nD. S2p2\nE. sp2d",
+    "output": "C"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Within formaldehyde, CH2O, carbon possesses which of the following traits?I. sp2 hybridizationII. Three equivalent sigma bondsIII. Trigonal planar bonding geometry\nOptions:\nA. I only\nB. II only\nC. III only\nD. I and III only\nE. I, II and III",
+    "output": "D"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which of the following accounts for the fact that gases generally do not behave ideally under high pressures?\nOptions:\nA. They begin to undergo rotational motion.\nB. Collisions between gas molecules become inelastic.\nC. Average molecular speeds increase.\nD. Intermolecular forces are greater when molecules are close together.\nE. Collisions with the walls of the container become more frequent.",
+    "output": "D"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which of the following will increase the rms speed of a molecule of gas, assuming that allother variables are kept constant?I. Increasing pressureII. Increasing temperatureIII. Decreasing molar mass\nOptions:\nA. I only\nB. I and II\nC. I and III\nD. II and III\nE. I, II, and III",
+    "output": "D"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "If gas A effuses (goes through a small hole into a vacuum) at three times the rate of gas B, then\nOptions:\nA. the molar mass of gas A is three times greater than the molar mass of gas B.\nB. the molar mass of gas B is three times greater than the molar mass of gas A.\nC. the molar mass of gas A is nine times greater than the molar mass of gas B.\nD. the molar mass of gas B is nine times greater than the molar mass of gas A.\nE. the molar masses of gas A and gas B are equal.",
+    "output": "D"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "A sealed vessel contains 0.50 mol of neon gas, 0.20 mol hydrogen gas, and 0.3 mol oxygen gas. The total pressure of the the gas mixture is 8.0atm. The partial pressure of oxygen is\nOptions:\nA. 0.24atm.\nB. 0.3atm.\nC. 2.4atm.\nD. 3atm.\nE. 4.8atm.",
+    "output": "C"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "How much water must be added to 150mL of 0.500M KCl to make 0.150M KCl?\nOptions:\nA. 45mL.\nB. 150mL.\nC. 350mL\nD. 500mL\nE. 650mL",
+    "output": "C"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "The Ksp of lead (II) chloride is 1.7 × 10–5. What is the molar concentration of a chloride ion in 1.0L of a saturated PbCl2 solution?\nOptions:\nA. 5.7 × 10–6.\nB. 1.1 × 10–5.\nC. 1.6 × 10–2\nD. 2.6 × 10–2\nE. 3.2 × 10–2",
+    "output": "E"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "You can prepare 0.75 molal NaCl by dissolving 15g NaCl in what amount of water?\nOptions:\nA. 0.40kg.\nB. 0.34kg.\nC. 0.27kg\nD. 0.20kg\nE. 0.26kg.",
+    "output": "B"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "A sample of Li2SO4 (molar mass 110g) is reported to be 10.2% lithium. Assuming that none of the impurities contain any lithium, what percentage of the sample is pure lithium sulfate?\nOptions:\nA. 65%.\nB. 70%.\nC. 75%\nD. 80%\nE. 85%.",
+    "output": "D"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "What is the simplest formula for a compound containing only carbon and hydrogen and containing 16.67% H?\nOptions:\nA. CH4.\nB. C3H8\nC. C5H12.\nD. C6H14.\nE. C7H16.",
+    "output": "C"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "A substance has an empirical formula of CH2O and a molar mass of 180.0. What is its molecular formula?\nOptions:\nA. C2H4O2\nB. C3H6O3\nC. C4H8O4\nD. C5H10O5\nE. C6H12O6",
+    "output": "E"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "In the reaction 2Fe2O3 + 3C → 4Fe + 3CO2 if 500.g of Fe2O3 reacts with 75.0g of C, how many grams of Fe will be produced?\nOptions:\nA. 56.4g\nB. 75.0g\nC. 316.g\nD. 349.g\nE. 465.g",
+    "output": "D"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "HCl + NaOH → NaCl + H2O If 30.0g of HCl is mixed with excess NaOH according to the reaction above and 41.0g of NaCl is produced, what is the difference between the actual and the theoretical yields for this reaction?\nOptions:\nA. 7.1g\nB. 8.3g\nC. 15.5g\nD. 41.0g\nE. 48.1g",
+    "output": "A"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "A molecule exhibits sp3 d2 hybridization in its bonding structure. The most probable geometric shape of this molecule is\nOptions:\nA. triangular bipyramidal\nB. T-shaped\nC. octahedral\nD. linear\nE. hexagonal",
+    "output": "C"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "A solution has a pH of 11.0. What is the hydrogen ion concentration?\nOptions:\nA. 1.0 × 10–11 M\nB. 1.0 × 10–3 M\nC. 0.0 M\nD. 1.0 × 103 M\nE. 1.0 × 1011 M",
+    "output": "A"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "A catalyst affects the activation energy by\nOptions:\nA. increasing the forward rate of reaction.\nB. changing the enthalpy of the reaction.\nC. increasing the rate of the reverse reaction.\nD. changing the reaction mechanism, thus lowering the activation energy.\nE. catalysts do not affect activation energies.",
+    "output": "D"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "At constant temperature and pressure, the heats offormation of H2O(g), CO2(g), and C2H6(g) (inkilojoules per mole) are as follows:SpeciesHf (kJ/mole)H2O(g) –251CO2(g) –393C2H6(g) –84If H values are negative for exothermicreactions, what is H for 1 mole of C2H6 gas tooxidize to carbon dioxide gas and water vapor(temperature and pressure are held constant)?\nOptions:\nA. –8730 kJ/mole\nB. –2910 kJ/mole\nC. –1455 kJ/mole\nD. 1455 kJ/mole\nE. 2910 kJ/mole",
+    "output": "C"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "According to Raoult’s Law, which statement is false?\nOptions:\nA. The vapor pressure of a solvent over a solution is less than that of the pure solvent.\nB. Ionic solids ionize in water, increasing the effects of all colligative properties.\nC. The vapor pressure of a solvent decreases as its mole fraction increases.\nD. The solubility of a gas increases as the temperature decreases.\nE. The solubility of a gas in solution increases as the pressure of the gas increases.",
+    "output": "C"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "100 grams of O2(g) and 100 grams of He(g) are in separate containers of equal volume. Both gases are at 100°C. Which one of the following statements is true?\nOptions:\nA. Both gases would have the same pressure.\nB. The average kinetic energy of the O2 molecules is greater than that of the He molecules.\nC. The average kinetic energy of the Hemolecules is greater than that of the O2 molecules.\nD. There are equal numbers of He molecules and O2 molecules.\nE. The pressure of the He(g) would be greater than that of the O2(g).",
+    "output": "E"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which of the following statements is true of the critical temperature of a pure substance?\nOptions:\nA. The critical temperature is the temperature above which the liquid phase of a pure substance can exist.\nB. The critical temperature is the temperature above which the liquid phase of a pure substance cannot exist.\nC. The critical temperature is the temperature below which the liquid phase of a pure substance cannot exist.\nD. The critical temperature is the temperature at which all three phases can coexist.\nE. The critical temperature is the temperature at which the pure substance reaches, but cannot go beyond, the critical pressure.",
+    "output": "B"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "At the triple point, which of the following is NOT true?\nOptions:\nA. All phases of H2O can exist.\nB. It is possible to change all of the substance to ice, water, or steam by making infinitesimally small changes in pressure and temperature.\nC. At a constant pressure higher than the triple point, heating ice changes it to liquid, then to steam. \nD. At pressures below the triple point, liquid water cannot exist.\nE. At pressures below the triple point, liquid water can exist.",
+    "output": "E"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Beyond the critical point of H2O\nOptions:\nA. H2O exists in a state of equilibrium with all phases\nB. liquid water can no longer exist\nC. only the solid phase can exist \nD. H2O can no longer exist as a molecule\nE. only the liquid phase can exist",
+    "output": "B"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Consider diethyl ether and 1-butanol. Which of the following are correct?\nOptions:\nA. Diethyl ether will have the higher boiling point.\nB. 1-butanol will have the higher boiling point.\nC. Because they contain the same number and types of atoms, they will boil at the same temperature. \nD. Because they contain the same number of atoms, but different types of atoms, more information is needed in order to determine which one will boil at a higher temperature.\nE. Because they contain different numbers of atoms, but the same type of atoms, more information is needed in order to determine which one will boil at a higher temperature.",
+    "output": "B"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Given a molecule with the general formula AB2, which one of the following would be the most useful in determining whether the molecule was bent or linear?\nOptions:\nA. ionization energies\nB. electron affinities\nC. dipole moments \nD. electronegativities\nE. bond energies",
+    "output": "C"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "The valence electron configuration of element A is 3s 2 3p1 and that of B is 3s 2 3p4 . What is the probable empirical formula for a compound of the two elements?\nOptions:\nA. A2B\nB. AB2\nC. A3B2 \nD. A2B3\nE. AB",
+    "output": "D"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "The Ksp of lead(II) chloride is 2.4 × 10–4. What conclusion can be made about the concentration of [Cl– ] in a solution of lead chloride if [Pb2+] = 1.0 M?\nOptions:\nA. [Cl– ] can have any value.\nB. [Cl– ] cannot be greater than Ksp 1/2.\nC. [Cl– ] cannot be less that Ksp 1/2.\nD. [Cl– ] cannot be equal to Ksp 1/2.\nE. [Cl– ] must also be equal to 1.0 M.",
+    "output": "B"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "For the following reaction Zn(s) + 2Ag+ (aq) → Zn2+ (aq) + 2Ag(s)The standard voltage E°cell has been calculated to be 1.56 volts. To decrease the voltage of the cell to 1.00 volt, one could\nOptions:\nA. increase the size of the zinc electrode\nB. reduce the coefficients of the reactions so that it reads 1 ⁄2 Zn(s) + Ag+ (aq) → 1 ⁄2 Zn2+ (aq) + Ag(s)\nC. decrease the concentration of the silver ion in solution\nD. increase the concentration of the silver ion in solution\nE. decrease the concentration of the zinc ion in solution",
+    "output": "C"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "A freshman chemist analyzed a sample of copper(II) sulfate pentahydrate for water of hydration by weighing the hydrate, heating it to convert it to anhydrous copper(II) sulfate, and then weighing the anhydrate. The % H2O was determined to be 30.%. The theoretical value is 33%. Which of the following choices is definitely NOT the cause of the error?\nOptions:\nA. After the student weighed the hydrate, a piece of rust fell from the tongs into the crucible.\nB. Moisture driven from the hydrate condensed on the inside of the crucible cover before the student weighed the anhydride.\nC. All the weighings were made on a balance that was high by 10%.\nD. The original sample contained some anhydrous copper(II) sulfate.\nE. The original sample was wet.",
+    "output": "E"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which of the following would be the most soluble in water?\nOptions:\nA. carbon tetrachloride\nB. methane\nC. octane\nD. methyl ethyl ketone\nE. ethyl alcohol",
+    "output": "E"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which of the following liquids has the highest vapor pressure at 25°C?\nOptions:\nA. carbon tetrachloride, CCl4\nB. hydrogen peroxide, H2O2\nC. water, H2O\nD. dichloromethane, CH2Cl2\nE. trichloromethane, CHCl3",
+    "output": "D"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "An imaginary metal crystallizes in a cubic lattice. The unit cell edge length is 100. picometers (1 picometer = 1 × 10–12 meters). The density of this metal is 200. g/cm3 . The atomic mass of the metal is 60.2 g/mol. How many of these metal atoms are there within a unit cell?\nOptions:\nA. 1\nB. 2\nC. 4\nD. 6\nE. 12",
+    "output": "B"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "When 5.92 grams of a nonvolatile, nonionizing compound is dissolved in 186 grams of water, the freezing point (at normal pressure) of the resulting solution is –0.592°C. What is the molecular weight of the compound?\nOptions:\nA. 10.0 g/mol\nB. 100 g/mol\nC. 110 g/mol\nD. 200 g/mol\nE. 210 g/mol",
+    "output": "B"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which of the following statements is NOT correct?\nOptions:\nA. At constant temperature, the pressure of a certain amount of gas increases with increasing volume.\nB. At constant volume, the pressure of a certain amount of gas increases with increasing temperature.\nC. At constant pressure, the volume of a certain amount of gas increases with increasing temperature.\nD. In dealing with gas laws, the most convenient scale of temperature to use is the Kelvin temperature scale.\nE. Equal numbers of molecules of all gases exert about the same pressure at a certain temperature and volume.",
+    "output": "A"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which one of the following is NOT an assumption of the kinetic theory of gases?\nOptions:\nA. Gas particles are negligibly small.\nB. Gas particles undergo a decrease in kinetic energy when passed from a region of high pressure to a region of low pressure.\nC. Gas particles are in constant motion.\nD. Gas particles don’t attract each other.\nE. Gas particles undergo elastic collisions.",
+    "output": "B"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "The hybridization of the central atom in NH2 – would be\nOptions:\nA. sp\nB. sp2\nC. sp3\nD. sp3 d\nE. sp3 d2",
+    "output": "C"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which strategy best validates rare-earth doping homogeneity in nanostructured hosts?\nOptions:\nA. Solely monitoring luminescence intensity changes\nB. Combining X-ray absorption fine structure (XAFS) with atomic-resolution STEM\nC. Relying on bulk magnetic susceptibility measurements\nD. Using only ICP-OES elemental quantification\nE. Assuming homogeneity based on precursor stoichiometry",
+    "output": "B"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "What is critical for achieving controlled energy migration in core-shell upconversion nanoparticles?\nOptions:\nA. Introducing interfacial Gd³⁺ spacers with matched ionic radii\nB. Maximizing Yb³⁺ concentration in both core and shell\nC. Using organic ligands with high vibrational frequencies\nD. Maintaining identical crystal phases between core/shell\nE. Ignoring lattice strain compensation",
+    "output": "A"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which method properly addresses oxygen vacancy quantification in CeO₂-based catalysts?\nOptions:\nA. Exclusive use of XPS Ce³⁺/Ce⁴⁺ ratio analysis\nB. Assuming vacancy concentration equals dopant charge imbalance\nC. Coupling Raman oxygen vacancy mapping with EPR spin quantification\nD. Relying on catalytic activity correlations\nE. Using BET surface area measurements",
+    "output": "C"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "What is essential for validating upconversion energy transfer pathways?\nOptions:\nA. Single-wavelength power dependence studies\nB. Assuming all processes follow Förster resonance theory\nC. Using only steady-state emission spectra\nD. Ignoring cross-relaxation channels\nE. Temperature-dependent lifetime decay analysis across multiple excitation wavelengths",
+    "output": "E"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which approach correctly identifies catalytic active sites in doped oxides?\nOptions:\nA. Combining in situ DRIFTS with site-selective poisoning experiments\nB. Assuming uniform surface site reactivity\nC. Correlating only with bulk dopant concentration\nD. Using geometric surface area normalization\nE. Relying solely on DFT slab model predictions",
+    "output": "A"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which strategy effectively suppresses concentration quenching in heavily doped luminescent materials?\nOptions:\nA. Random distribution of dopants in the host lattice\nB. Maximizing dopant-dopant distance through low-concentration doping\nC. Spatial confinement of activators using layered core-shell-shell architectures\nD. Using identical ionic radii for all dopants\nE. Ignoring lattice strain compensation",
+    "output": "C"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "What is required for accurate interpretation of lanthanide luminescence thermometry?\nOptions:\nA. Assuming linear temperature-intensity relationships\nB.  Cross-validating multiple thermally coupled levels \nC. Using single calibration point at room temperature\nD. Ignoring phonon-assisted non-radiative decay\nE. Relying solely on spectral peak positions",
+    "output": "B"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which approach properly validates oxygen evolution reaction (OER) mechanisms in doped perovskites?\nOptions:\nA. Assuming all current originates from OER\nB.  Using only linear sweep voltammetry \nC. Ignoring surface reconstruction during operation\nD. Combining in situ Raman with ¹⁸O isotope labeling\nE. Correlating activity solely with bulk composition",
+    "output": "D"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "What is critical for achieving stereoselective control in rare-earth-catalyzed reactions?\nOptions:\nA. Maximizing Lewis acidity through high doping levels\nB. Using racemic mixtures for statistical control \nC. Ignoring counterion coordination effects\nD. Relying solely on electrostatic stabilization\nE. Engineering chiral confinement via ligand-pocket size matching",
+    "output": "E"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which method reliably distinguishes between energy transfer upconversion (ETU) and photon avalanche (PA) mechanisms?\nOptions:\nA.  Multi-power threshold analysis with ns-pulsed excitation\nB. Single-power intensity dependence measurements \nC. Assuming all nonlinear responses indicate PA\nD. Using only continuous-wave excitation\nE. Ignoring activator-sensitizer distance effects",
+    "output": "A"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "What is the most rigorous method to validate the ligand-to-metal charge transfer (LMCT) mechanism in MOF photocatalysis?\nOptions:\nA.Measuring UV-Vis absorption spectra alone.\nB. Combining transient absorption spectroscopy (TAS) with in situ X-ray absorption spectroscopy (XAS). \nC. Relying solely on steady-state fluorescence quenching.\nD. Using molecular mechanics (MM) to simulate electronic transitions.\nE. Comparing bulk conductivity changes under dark/light conditions.",
+    "output": "B"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which experimental design flaw would invalidate conclusions about MOF-based photocatalytic CO₂ reduction selectivity?\nOptions:\nA. Using H₂¹⁸O to trace oxygen sources in O₂ evolution.\nB. Omitting ¹³C isotopic labeling for carbon product tracking. \nC. Performing reactions under anhydrous conditions.\nD. Ignoring sacrificial agent decomposition pathways.\nE. Using only gas chromatography without NMR validation.",
+    "output": "D"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "What is a critical limitation of using frontier orbital theory alone to explain MOF photocatalysis?\nOptions:\nA. Overlooks exciton binding energy effects.\nB. Fails to predict LMCT directionality.\nC. Ignores metal-node spin-state variations.\nD. Cannot account for π-π stacking in linkers.\nE. All of the above.",
+    "output": "E"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which approach best identifies reactive intermediates in photocatalytic CO₂ reduction over MOFs?\nOptions:\nA.  Combining in situ DRIFTS with EPR spin trapping.\nB. Solely analyzing final products via gas chromatography.\nC. Measuring bulk pH changes during reaction.\nD. Using only TEM to observe surface morphology.\nE. Relying on DFT-predicted intermediates without experimental validation.",
+    "output": "A"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "What critical validation is missing if a study attributes enhanced MOF photocatalysis solely to increased surface area?\nOptions:\nA. Porosity vs. active site density correlation.\nB. Bandgap measurements via Tauc plot.\nC. Leaching tests for metal node stability.\nD. Charge carrier lifetime analysis by TAS.\nE. All of the above.",
+    "output": "E"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Why is molecular mechanics (MM) unsuitable for simulating MOF-based photocatalytic transition states?\nOptions:\nA. MM cannot describe bond breaking/forming.\nB. MM overestimates van der Waals interactions.\nC. MM ignores solvent polarization effects.\nD. MM requires predefined force fields for excited states.\nE. All except B.",
+    "output": "A"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which factor is most critical for achieving selective CH₄ production in MOF-based CO₂ photoreduction?\nOptions:\nA. Maximizing CO₂ adsorption capacity.\nB.  Stabilizing *COOH intermediates via H-bonding.\nC. Using noble metal cocatalysts.\nD. Operating at high temperatures (>100°C).\nE. Avoiding water in the reaction system.",
+    "output": "B"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "What is the primary limitation of using only XRD to assess MOF photocatalyst stability?\nOptions:\nA. Cannot detect amorphous phase decomposition.\nB. Insensitive to ligand oxidation states.\nC. Overlooks surface-bound reactive species.\nD. All of the above.\nE. None—XRD is sufficient for stability studies.",
+    "output": "D"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which experimental design is essential for validating Z-scheme charge transfer in MOF heterojunctions?\nOptions:\nA. Measuring SPV polarity reversal under illumination.\nB. Comparing BET surface areas before/after reaction.\nC. Conducting reactions under vacuum.\nD.Using monochromatic light matching MOF absorption.\nE.Calculating theoretical band alignment via DFT.",
+    "output": "A"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "What is the primary mechanism by which benzylphosphonic acid (BPA) enhances the performance of perovskite light-emitting diodes (PeLEDs)?\nOptions:\nA. By forming hydrogen bonds with surface bromine atoms to stabilize the lattice.\nB. By splitting large perovskite crystals into nanocrystals and passivating undercoordinated Pb²⁺ via covalent Pb–O–P bonds.\nC. By acting as a hole-transport layer to improve charge injection efficiency.\nD.By reducing the bandgap of perovskite through alloying with organic cations.\nE.By increasing grain size to minimize interfacial defects.",
+    "output": "B"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "How does the in situ core/shell structure improve radiative recombination efficiency compared to 3D perovskites?\nOptions:\nA. By introducing quantum confinement effects through sub-10 nm nanocrystals.\nB. By suppressing Auger recombination via thick organic ligand shells.\nC. By enabling Förster resonance energy transfer between adjacent grains.\nD.By eliminating all grain boundaries through epitaxial crystal growth.\nE.By increasing charge carrier mobility through extended π-conjugation.",
+    "output": "A"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which analytical method is critical for validating the covalent bonding between benzylphosphonic acid and undercoordinated Pb²⁺?\nOptions:\nA. High-performance liquid chromatography (HPLC) purity testing.\nB. Thermogravimetric analysis (TGA) of thermal stability.\nC. X-ray photoelectron spectroscopy (XPS) of O 1s and Pb 4f orbitals.\nD.Ultraviolet-visible (UV-vis) absorption edge fitting.\nE.Dynamic light scattering (DLS) for particle size distribution.",
+    "output": "C"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Why does the in situ core/shell structure maintain high charge carrier mobility despite nanocrystal formation?\nOptions:\nA. The benzylphosphonic acid shell acts as a conductive polymer matrix.\nB. Ionic liquid additives enhance interparticle hopping.\nC.  Ligand-free interfaces enable direct grain-to-grain contact.\nD.The 3D perovskite core retains long-range crystallinity.\nE.Quantum tunneling dominates charge transport.",
+    "output": "D"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which factor is excluded from the improved operational stability of in situ core/shell PeLEDs?\nOptions:\nA. Suppressed ion migration via defect passivation.\nB. Reduced Joule heating from low driving voltages.\nC.  Enhanced moisture resistance from hydrophobic benzylphosphonic acid.\nD.Elimination of halide segregation via size confinement.\nE.Minimized non-radiative recombination at grain boundaries.",
+    "output": "C"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "What is a key limitation of traditional 3D perovskite films addressed by the in situ core/shell design?\nOptions:\nA. Low solubility in polar solvents.\nB. Weak carrier confinement in large grains.\nC.Incompatibility with solution processing.\nD.High toxicity of lead-containing precursors.\nE.Limited color tunability via halide exchange.",
+    "output": "B"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "How is the trap density in perovskite films quantitatively evaluated?\nOptions:\nA. By measuring photoluminescence quantum yield (PLQY).\nB. Through atomic force microscopy (AFM) surface roughness mapping.\nC.By fitting temperature-dependent PL lifetime decay curves.\nD.Using Hall effect measurements for carrier concentration.\nE.Using space-charge-limited current (SCLC) analysis in hole-only devices.",
+    "output": "E"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which spectroscopic result directly supports the reduction of self-doping effects in in situ core/shell perovskites?\nOptions:\nA.Blue shift in steady-state PL spectra.\nB. Increased Urbach energy in absorption edges.\nC.Lower work function in UPS measurements.\nD. Redshifted electroluminescence (EL) peaks.\nE. Enhanced Raman scattering from lattice phonons.",
+    "output": "C"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "What is a critical flaw in attributing PeLED efficiency improvements solely to increased exciton binding energy?\nOptions:\nA.Ignores the role of photon recycling in thick emissive layers.\nB. Overlooks Auger recombination suppression in nanocrystals.\nC.Fails to account for trap-assisted non-radiative losses.\nD.Assumes perfect charge balance without experimental validation.\nE.Neglects the contribution of interfacial dipole layers.",
+    "output": "A"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which experimental design error would invalidate the trap density calculation using space-charge-limited current?\nOptions:\nA.Using a non-ohmic electrode contact for hole injection.\nB.Measuring I-V curves under ambient light exposure.\nC.Assuming a uniform electric field across the perovskite layer.\nD.Neglecting the impact of ion migration during voltage sweeps.\nE.Failing to account for interfacial recombination losses.",
+    "output": "A"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "What is the key methodological innovation in validating the dynamic Cu-Cu bonding mechanism in geminal-atom catalysts (GACs)?\nOptions:\nA.Solely relying on TEM imaging to confirm atomic dispersion\nB.Combining in situ XAFS with DFT-based chemical bonding analysis\nC.Using HPLC purity testing to exclude side reactions\nD.Measuring bulk conductivity to infer coordination changes\nE.Assuming static metal-metal distances based on crystallographic data",
+    "output": "B"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Why does the polymeric carbon nitride support enable precise control over geminal Cu site separation?\nOptions:\nA. Its amorphous structure allows random metal anchoring\nB. High surface area increases statistical metal distribution\nC.Conductive π-network stabilizes single oxidation states\nD.Periodic N-H groups provide geometrically defined coordination sites\nE.Weak van der Waals interactions permit free metal migration",
+    "output": "D"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "What critical flaw does the geminal-atom catalysts design address in conventional Single-atom catalysts for cross-coupling?\nOptions:\nA. Inability to perform simple homo-coupling reactions\nB.Limited spatial flexibility for simultaneous substrate activation\nC.Excessive reliance on precious metal catalysts\nD.Poor thermal stability under reflux conditions\nE.Requirement for chiral auxiliary groups",
+    "output": "B"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which experimental evidence most conclusively demonstrates the absence of Cu nanoparticles in Cug/PCN（polymeric carbon nitride）?\nOptions:\nA. High-resolution XRD showing no metallic peaks\nB.EPR silence in fresh catalyst\nC.Linear correlation between Cu loading and activity\nD.Aberration-corrected ADF-STEM with single-atom contrast\nE.XPS showing only +1 oxidation state",
+    "output": "D"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "How does the geminal-atom catalysts mechanism avoid competitive homo-coupling pathways?\nOptions:\nA. Dynamic Cu-Cu bonding only activates dissimilar substrates\nB.Spatial separation prevents dimerization of identical reactants\nC.Electronic effects preferentially stabilize cross-coupled products\nD. Sequential adsorption enforces stoichiometric control\nE.Selective mass transfer limits reactant access",
+    "output": "A"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "What key advantage does in situ XANES provide over ex situ characterization for mechanistic studies?\nOptions:\nA. Higher spatial resolution for atomic imaging\nB.Real-time tracking of oxidation state evolution\nC.Better sensitivity for trace impurities\nD.Direct measurement of bond dissociation energies\nE.Automated phase identification",
+    "output": "B"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Why is conventional frontier orbital analysis insufficient to explain geminal-atom catalysts's selectivity?\nOptions:\nA. Neglects relativistic effects in Cu\nB.Fails to account for dynamic metal-metal cooperativity\nC.Overestimates solvent polarity effects\nD.Assumes fixed coordination geometry\nE.Ignores lattice strain effects",
+    "output": "B"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "What critical validation step ensures the catalytic relevance of DFT-modeled intermediates?\nOptions:\nA. Matching calculated IR spectra to experimental data\nB.Correlating activation energies with Arrhenius plots\nC.Comparing theoretical/experimental XANES features\nD.Optimizing all structures at MM level\nE.Calculating Mulliken charges for all atoms",
+    "output": "C"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "What key limitation of traditional Cu powder catalysts does Cug/PCN ((Polymeric Carbon Nitride)) overcome?\nOptions:\nA. Inability to perform Ullmann-type couplings\nB.Poor control over oxidative addition kinetics\nC.Requirement for anaerobic conditions\nD.Limited substrate scope for aromatic amines\nE.Sensitivity to sulfur-containing substrates",
+    "output": "B"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which analytical approach best validates the charge confinement mechanism in gradient-shell QD-LEDs?\nOptions:\nA.Solely comparing photoluminescence quantum yields (PLQY) of core vs. core/shell structures\nB.Cross-correlating transient electroluminescence decay profiles with shell thickness-dependent Auger recombination suppression\nC.Relying exclusively on cyclic voltammetry for bandgap alignment verification\nD.Using molecular mechanics (MM) to simulate exciton diffusion pathways\nE.Assuming charge balance based on current density ratios without spectroscopic validation",
+    "output": "B"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "What methodology best addresses the interfacial energy mismatch in Cd-free QD/ZnO (Quantum Dots) electron transport layer (ETL) systems?\nOptions:\nA.Introducing a ternary ZnMgO alloy to tune ETL conduction band minimum (CBM)\nB.Using identical ligands for QDs and ZnO to ensure homogeneous film morphology\nC.Relying solely on XPS surface analysis for band alignment validation\nD.Increasing QD shell thickness without considering hole injection barriers\nE.Assuming perfect charge balance based on bulk material properties",
+    "output": "A"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which step is critical for ensuring operational stability in inkjet-printed QD-LEDs (Quantum Dots)?\nOptions:\nA.Using high-boiling-point solvents to maximize QD film uniformity\nB.Implementing in situ ligand exchange during printing to reduce surface traps\nC.Ignoring ambient oxygen levels during QD layer deposition\nD.Optimizing nozzle diameter without considering QD aggregation kinetics\nE.Assuming solvent evaporation rate has no impact on QD packing density",
+    "output": "B"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which technique conclusively distinguishes Förster resonance energy transfer (FRET) from direct charge injection in QD-LEDs?\nOptions:\nA.Comparing PL spectra of isolated QDs vs. QD/HTL bilayer films\nB.Measuring EQE dependence on QD layer thickness\nC.Using time-resolved PL to quantify exciton lifetime differences in hybrid structures\nD.Assuming all efficiency losses arise from Auger recombination\nE. Relying solely on current-voltage (I-V) curves for carrier mobility estimation",
+    "output": "C"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "What is the primary advantage of using a ZnSe-rich intermediate shell in red QD-LEDs?\nOptions:\nA.Maximizing Förster radius for enhanced energy transfer\nB.Reducing lattice mismatch-induced defects while maintaining hole injection efficiency\nC.Prioritizing electron confinement over exciton localization\nD. Simplifying synthesis by avoiding composition gradient control\nE. Relying solely on ZnS outer layers for surface passivation",
+    "output": "B"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which experimental approach best identifies non-radiative trap states in aged QD-LEDs?\nOptions:\nA.Temperature-dependent PL intensity measurements\nB.Single-molecule blinking statistics analysis\nC.Assuming all efficiency roll-off stems from Joule heating\nD. Using only EL spectra to assess defect density\nE. Neglecting interfacial layer oxidation in lifetime tests",
+    "output": "A"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "What is a critical flaw in simulating QD-LED charge injection using DFT?\nOptions:\nA.Neglecting solvent-ligand interactions in the QD surface model\nB.Using bulk bandgaps without quantum confinement corrections\nC.Assuming perfect crystallinity for all core/shell interfaces\nD. Relying exclusively on frontier orbital theory for charge transfer\nE.All of the above",
+    "output": "E"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which method rigorously confirms the exergonicity of hole injection into QDs from HTLs?\nOptions:\nA.Comparing HOMO levels of HTL and QD via cyclic voltammetry\nB.Assuming alignment based on PL quenching efficiency\nC.Using DFT-calculated band edges without solvation effects\nD. Measuring open-circuit voltage under monochromatic illumination\nE.Ignoring interfacial dipole effects in energy diagrams",
+    "output": "A"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "What is essential for achieving balanced electron/hole injection in inverted QD-LEDs?\nOptions:\nA.Maximizing ZnO ETL thickness to block hole leakage\nB.Tuning HTL hole mobility to match ZnO electron mobility\nC.Using identical ligands for QDs and ZnO ETL\nD.Assuming charge balance automatically follows from Fermi level alignment\nE.Ignoring interfacial defect-assisted recombination",
+    "output": "B"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "How does ligand branching density affect QD-LED performance?\nOptions:\nA.Increases inter-QD distance, reducing FRET but hindering charge transport\nB.Maximizes PLQY by completely insulating QD surfaces\nC.Has no impact if final ligand length is constant\nD.Prioritizes colloidal stability over device functionality\nE.Always improves both efficiency and operational stability",
+    "output": "B"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "What is a key limitation of using Marcus theory alone to describe QD-LED charge transfer?\nOptions:\nA.Neglects quantum confinement effects on reorganization energy\nB.Assumes parabolic potential surfaces for all interfacial states\nC.Overlooks multi-exciton generation in thick-shell QDs\nD.Fails to account for Förster-type dipole-dipole coupling\nE.All of the above",
+    "output": "E"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which analytical methods are most critical for validating the turbostratic structure and closed pores?\nOptions:\nA. BET surface area analysis and XPS\nB. XRD peak broadening and SAXS closed-pore detection\nC.SEM morphology mapping and EDX elemental distribution\nD.Thermogravimetric analysis and DSC\nE.FTIR functional group identification",
+    "output": "B"
+  },
+  {
+  "instruction": "Which of the following options is correct?",
+  "input": "What is the core mechanism of the dual-interfering chemistry strategy for microstructure regulation?\nOptions:\nA.Single gas-phase hydrogen consumption through CO₂ injection\nB.Physical templating with pre-synthesized ZnO nanoparticles\nC.Combined gas-phase hydrogen depletion and solid-phase π-π interaction disruption\nD.Exclusive use of oxidative gas to prevent aromatic chain stacking\nE.Electrostatic repulsion induced by zinc ion intercalation",
+  "output": "C"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which methodological innovation is critical for constructing fluorescent supramolecular materials based on AIEgens?\nOptions:\nA.Relying solely on HPLC purity testing to validate molecular aggregation\nB.Utilizing host-guest complexation to restrict intramolecular rotation\nC.Directly optimizing transition states using molecular mechanics (MM)\nD.Conducting catalytic reactions without inert gas protection\nE.Explaining emission mechanisms solely via frontier orbital theory",
+    "output": "B"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which method is essential to validate the thermodynamic stability of AIEgen aggregates?\nOptions:\nA.Measuring fluorescence intensity changes under varying pH conditions\nB.Performing temperature-dependent dynamic light scattering (DLS)\nC.Using molecular mechanics to calculate single-point energies\nD.Assuming all aggregates form through J-type stacking\nE.Ignoring solvent entropy contributions in Gibbs free energy analysis",
+    "output": "B"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which strategy effectively controls the helicity of AIEgen-based supramolecular structures?\nOptions:\nA.Random mixing of chiral and achiral monomers\nB.Using achiral solvents to eliminate stereochemical interference\nC.Incorporating amino acid residues with fixed chirality\nD.Ignoring solvent polarity in conformational analysis\nE.Assuming all helical structures arise from π-π stacking",
+    "output": "C"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which experimental approach best distinguishes RIM (Restricted Intramolecular Motion) from ACQ mechanisms?\nOptions:\nA.Comparing fluorescence lifetimes in solution vs. aggregate states\nB.Assuming all emission quenching arises from π-π stacking\nC.Using steady-state UV-Vis spectra without time-resolved data\nD.Ignoring solvent viscosity effects on molecular rotation\nE.Attributing AIE solely to J-aggregate formation",
+    "output": "A"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which computational method is appropriate for modeling the restriction of intramolecular rotation in AIEgens?\nOptions:\nA.Molecular mechanics (MM) force field optimization\nB.Single-point DFT calculations without conformational sampling\nC.Molecular dynamics (MD) simulations with explicit solvent\nD.Assuming rigid molecular structures in all calculations\nE.Using frontier orbital theory to predict emission wavelengths",
+    "output": "C"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which method is critical for validating Förster resonance energy transfer (FRET) in AIEgen-based light-harvesting systems?\nOptions:\nA.Measuring absolute fluorescence quantum yields without reference standards\nB.Assuming perfect spectral overlap without experimental verification\nC.Controlling donor-acceptor distance through supramolecular confinement\nD.Ignoring dipole orientation factors in FRET efficiency calculations\nE.Using only concentration-dependent emission intensity changes",
+    "output": "C"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which strategy ensures reversible structural control in AIEgen-based supramolecular hydrogels?\nOptions:\nA.Using permanent crosslinkers with fixed bond angles\nB.Relying solely on π-π interactions for network formation\nC.Incorporating pH-responsive acylhydrazone bonds\nD.Ignoring solvent polarity in dynamic bond exchange\nE.Assuming all hydrogels self-heal via mechanical entanglement",
+    "output": "C"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which factor is most critical for tuning the size of AIEgen-containing polymersomes?\nOptions:\nA.Adjusting the hydrophilic/hydrophobic block length ratio\nB.Randomly varying monomer ratios without phase separation analysis\nC.Assuming all self-assembly processes follow first-order kinetics\nD.Ignoring solvent evaporation rates during characterization\nE.Using identical polymerization initiators for all systems",
+    "output": "A"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which experimental design is essential for studying AIEgen-based mechanofluorochromism?\nOptions:\nA.Using fixed-pressure conditions for all samples\nB.Assuming all fluorescence changes are irreversible\nC.Ignoring molecular packing modes in crystalline phases\nD.Correlating emission spectra with applied shear stress\nE.Relying solely on visual color changes without spectral data",
+    "output": "D"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which strategy effectively amplifies supramolecular chirality in AIEgen systems?\nOptions:\nA.Mixing equal amounts of R- and S-enantiomers\nB.Using achiral solvents to eliminate competing interactions\nC.Incorporating chiral seeds during hierarchical assembly\nD.Assuming all helicity arises from π-π stacking symmetry\nE.Ignoring solvent evaporation rate during gelation",
+    "output": "C"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which approach achieves stable white-light emission in AIEgen-based systems?\nOptions:\nA.Using a single chromophore with broad emission\nB.Combining blue-emitting hosts and yellow-emitting guests\nC.Ignoring energy transfer between components\nD.Assuming all white light arises from excimer formation\nE.Relying solely on Förster resonance energy transfer",
+    "output": "B"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which method confirms the reversibility of AIEgen-based host-guest interactions?\nOptions:\nA.Measuring single-cycle binding constants via NMR\nB.Observing fluorescence recovery after sequential acid/base treatment\nC.Assuming all complexation follows 1:1 stoichiometry\nD.Ignoring counterion effects in aqueous systems\nE.Using only UV-Vis absorbance for concentration analysis",
+    "output": "B"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which method is most rigorous for validating the transition state in supramolecular assembly processes?\nOptions:\nA.Relying exclusively on HPLC analysis of product distribution\nB.Combining transition state theory calculations with variable-temperature kinetic experiments\nC.Optimizing all possible conformations using molecular mechanics (MM)\nD.Assuming assembly is purely thermodynamically controlled\nE.Neglecting solvent polarity effects on activation energy",
+    "output": "B"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "What method ensures accurate identification of zeolite-confined metal coordination environments in dynamic catalytic systems?\nOptions:\nA.Relying solely on TEM particle size distribution analysis\nB.Combining in situ XAS with DFT-validated dynamic structural modeling\nC.Using only UV-vis spectroscopy with static reference databases\nD.Directly correlating XRD crystallinity with catalytic activity\nE.Assuming fixed coordination states based on initial synthesis parameters",
+    "output": "B"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which approach validates the stereoselectivity of metal@zeolite catalysts in hydrogenation reactions?\nOptions:\nA.Solely comparing reactant/product HPLC retention times\nB.Isotopic labeling coupled with operando IR spectroscopy\nC.Assuming selectivity arises purely from pore-size exclusion\nD.Using only kinetic isotope effects (KIE) without stereochemical analysis\nE.Correlating metal nanoparticle size with enantiomeric excess",
+    "output": "B"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "How to confirm Brønsted/Lewis acid synergy in zeolite-catalyzed dehydrogenation?\nOptions:\nA.Selective poisoning of Brønsted sites with 2,6-di-tert-butylpyridine\nB.Measuring total acidity via NH₃-TPD alone\nC.Assuming all framework-associated metals contribute equally\nD.Using only H₂-D₂ exchange kinetics\nE.Correlating Si/Al ratio with activity without site-specific probes",
+    "output": "A"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "What validates the transition state in zeolite-mediated C-H activation?\nOptions:\nA.Direct MM optimization of guessed TS geometries\nB.Assuming identical TS geometries across zeolite topologies\nC.Matching experimental KIE to DFT-calculated imaginary frequencies\nD.Using only Eyring plot slopes without computational validation\nE.Correlating turnover frequency with Bronsted acid strength",
+    "output": "C"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "How to distinguish framework vs. extra-framework metal sites experimentally?\nOptions:\nA.Assuming all XRD-visible metals are extra-framework\nB.Combining XANES coordination numbers with Al-MAS NMR\nC.Using only ICP-OES metal loading data\nD.Correlating TEM particle counts with catalytic activity\nE.Relying solely on NH₃ adsorption calorimetry",
+    "output": "B"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which method identifies metal sintering pathways in zeolites under reaction conditions?\nOptions:\nA.Post-reaction TEM without in situ tracking\nB.Assuming sintering is purely temperature-dependent\nC.Using only N₂ physisorption pore volume changes\nD.Correlating initial dispersion with long-term stability\nE.Operando XAS with multivariate curve resolution",
+    "output": "E"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "What confirms the nanoconfinement effect on reaction selectivity?\nOptions:\nA.Comparing activities with/without zeolite using same metal\nB.Assuming all selectivity differences arise from diffusion\nC.Using only reactant kinetic diameter vs. pore size data\nD.Isotopic tracing of intra- vs. extra-zeolite pathways\nE.Correlating Si/Al ratio with product distribution",
+    "output": "D"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "How to validate redox cycling of extra-framework Cu in NH₃-SCR?\nOptions:\nA.Assuming static Cu⁺/Cu²⁺ ratio from initial XPS\nB.In situ EPR with O₂/NH₃ modulation\nC.Using only bulk conductivity measurements\nD.Correlating total Cu loading with NO conversion\nE.Relying solely on DFT-predicted redox potentials",
+    "output": "B"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which approach correctly analyzes Brønsted acid strength distribution?\nOptions:\nA.Combining probe molecule IR with DPE calculations\nB.Using only NH₃-TPD peak temperatures\nC.Assuming uniform strength based on framework Al content\nD.Correlating pyridine IR band positions with Si/Al ratio\nE.Relying solely on Hammett acidity measurements",
+    "output": "A"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "What confirms metal-zeolite charge transfer in catalytic cycles?\nOptions:\nA.Assuming fixed oxidation states from synthesis conditions\nB.In situ XPS under reaction gas atmospheres\nC.Using only metal loading vs. activity correlations\nD.Relying solely on elemental mapping\nE.Correlating FTIR hydroxyl bands with turnover rates",
+    "output": "B"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "How to validate confinement-stabilized metastable reaction intermediates?\nOptions:\nA.Assuming all GC-detectable species are relevant intermediates\nB.Using only steady-state kinetic models\nC.Cryogenic trapping with in situ MAS NMR\nD.Correlating intermediate lifetimes with pore volumes\nE.Relying solely on DFT-predicted intermediate stabilities",
+    "output": "C"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which method best addresses late-stage fluorination of unprotected nitrogen heterocycles in drug-like molecules?\nOptions:\nA. Classical Balz-Schiemann reaction requiring diazotization\nB.Electrochemical fluorination using HF-pyridine\nC.Photoredox/Ni dual catalytic C-H activation\nD.Direct nucleophilic substitution without protecting groups\nE.Frontier molecular orbital-guided radical addition",
+    "output": "C"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which strategy best enables stereoselective aliphatic C-H functionalization in piperidine derivatives?\nOptions:\nA. Iron-catalyzed remote functionalization with kinetic resolution\nB.Chiral auxiliary-directed oxidation\nC.Enzymatic resolution of racemic mixtures\nD.Simple temperature gradient crystallization\nE.MM2 force field-guided conformational control",
+    "output": "A"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "What key limitation persists in Buchwald-Hartwig couplings of unprotected amino-oxazoles?\nOptions:\nA.Insufficient activation energy for oxidative addition\nB.Competing protodehalogenation pathways\nC.Chelation-induced catalyst poisoning\nD.Excessive π-backbonding destabilization\nE.Frontier orbital symmetry mismatch",
+    "output": "C"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which innovation best addresses biomacromolecule-compatible conjugation?\nOptions:\nA.High-temperature SNAr reactions\nB.Palladium-mediated cysteine bioconjugation\nC.Traditional EDCI/HOBt amide coupling\nD.Strong acid-mediated lysine labeling\nE.Gas-phase radical polymerization",
+    "output": "B"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "What critical factor enables successful nickel-catalyzed sp³-sp³ couplings?\nOptions:\nA.Exclusive use of aryl halide partners\nB.Photoredox-mediated radical generation\nC.Strict anaerobic glovebox conditions\nD.High dielectric constant solvents\nE.Empirical Hammett correlation",
+    "output": "B"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which validation is essential for claimed C-H activation mechanisms?\nOptions:\nA.Linear free-energy relationships\nB.HPLC yield correlation analysis\nC.Kinetic isotope effect measurements\nD.Molecular weight distribution profiling\nE.Thermogravimetric analysis",
+    "output": "C"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "What key advantage does hydrogen-borrowing amination provide?\nOptions:\nA.Avoids pre-functionalized electrophiles\nB. Enables use of unstable alkyl halides\nC.Enhances frontier orbital overlap\nD.Simplifies molecular mechanics modeling\nE.Eliminates stereochemical complexity",
+    "output": "A"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which factor most limits traditional late-stage functionalization?\nOptions:\nA.Incompatibility with HPLC analysis\nB. Lack of protecting group strategies\nC.Regioselectivity control in complex molecules\nD.Excessive reaction exothermicity\nE.Limited molecular weight range",
+    "output": "C"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "What critical innovation enables machine-assisted synthesis platforms?\nOptions:\nA.Universal chromatography integration\nB.Suzuki coupling-based iterative assembly\nC.Automated frontier orbital calculations\nD.High-vacuum distillation modules\nE.Empirical solvent polarity databases",
+    "output": "B"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which strategy best addresses polar molecule solubility in cross-couplings?\nOptions:\nA.Strictly non-polar solvent systems\nB.Micellar catalysis in aqueous media\nC.Ultra-high pressure conditions\nD.Exclusive use of gaseous reagents\nE.Empirical Hansen parameter matching",
+    "output": "B"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which computational approach best predicts macromolecular targets for natural products containing Michael acceptors?\nOptions:\nA.Direct molecular docking using rigid receptor structures\nB.Structure-activity relationship analysis with fragment-based topological pharmacophores\nC.Frontier orbital theory optimization of α,β-unsaturated carbonyls\nD.HPLC purity correlation with bioactivity screening\nE.Molecular mechanics-based transition state validation",
+    "output": "B"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "What critical validation step is required when designing natural-product-inspired macrocycles with improved ligand efficiency?\nOptions:\nA.Thermodynamic comparison of macrocycle-protein binding entropy\nB.Exclusive reliance on molecular weight reduction\nC.Frontier orbital theory optimization of α,β-unsaturated carbonyls\nD.Elimination of all sp³-hybridized bridgehead atoms\nE.Direct translation of microbial biosynthesis pathways",
+    "output": "A"
+  },
+  {
+  "instruction": "Which of the following options is correct?",
+  "input": "Which strategy best addresses false-positive bioactivity in natural products containing α,β-unsaturated carbonyls?\nOptions:\nA.Complete removal of Michael acceptors from screening libraries\nB.Exclusive use of frontier molecular orbital calculations\nC.Orthogonal assay validation with thiol trapping controls\nD.Systematic reduction of all oxygen-containing functional groups\nE.Prioritization of compounds violating the rule of five",
+  "output": "C"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "What is the primary limitation of using molecular mechanics (MM) for natural product target prediction?\nOptions:\nA.Poor handling of stereoelectronic effects in transition states\nB.Inability to model aromatic ring systems\nC.Overestimation of hydrogen bonding networks\nD.Failure to account for solvent polarization effects\nE.Difficulty reproducing 3D pharmacophore patterns",
+    "output": "A"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which experimental design is crucial when developing natural-product-derived kinase inhibitors?\nOptions:\nA.Complete exclusion of nitrogen-containing heterocycles\nB.Systematic elimination of allosteric binding pocket considerations\nC.Orthogonal validation using isothermal calorimetry\nD.Exclusive focus on molecular weight below 300 Da\nE.Avoidance of all sp³-hybridized carbons",
+    "output": "C"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "What critical analysis is missing if a natural product shows μM activity in phenotypic screening but contains a reactive quinone moiety?\nOptions:\nA.Molecular weight distribution profiling\nB.Oxidative stress pathway correlation\nC.Synthetic tractability scoring\nD.Aggregate formation potential assessment\nE.Chiral center enumeration",
+    "output": "D"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which computational method best validates the stereochemical configuration of a natural-product-inspired spirooxindole?\nOptions:\nA.Comparative molecular field analysis (CoMFA)\nB.Transition state ensemble modeling\nC.Molecular dynamics using implicit solvent\nD.Structure-based pharmacophore screening\nE.Quantum mechanical NMR shift prediction",
+    "output": "E"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "What key parameter is overlooked when prioritizing natural-product fragments using ligand efficiency metrics alone?\nOptions:\nA.Synthetic tractability of core scaffolds\nB.3D pharmacophore complexity\nC.Hydrogen bond donor count\nD.Sp²/sp³ hybridization ratio\nE.Target-class-specific efficiency thresholds",
+    "output": "B"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which validation is critical when claiming target engagement for a covalent natural product inhibitor?\nOptions:\nA.LC-MS detection of unmodified protein\nB.Crystallographic evidence of binding orientation\nC.Kinetic analysis of irreversible binding\nD.Molecular weight correlation with bioactivity\nE.Elimination of all non-covalent analogs",
+    "output": "C"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "What critical flaw exists in a natural-product-optimization strategy that ignores scaffold tree analysis?\nOptions:\nA.Overemphasis on synthetic accessibility\nB.Inadequate simplification of complex pharmacophores\nC.Excessive focus on molecular symmetry\nD.Neglect of biosynthetic pathway conservation\nE.Disregard for 3D shape similarity metrics",
+    "output": "B"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which experimental control is essential when evaluating natural-product-mediated cell cycle arrest?\nOptions:\nA.Complete nutrient deprivation of control cells\nB.Parallel assessment of tubulin polymerization\nC.Elimination of all serum components\nD.Continuous oxygen tension monitoring\nE.Concomitant P-glycoprotein inhibition",
+    "output": "B"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which experimental approach best addresses the oxygen sensitivity challenge in Atom transfer radical polymerization while maintaining high catalyst activity?\nOptions:\nA. Conducting polymerization under inert argon with a 10,000 ppm Cu catalyst.\nB.Using glucose oxidase and sodium pyruvate to enzymatically scavenge oxygen.\nC.Relying solely on vacuum distillation for oxygen removal.\nD.Increasing radical initiator concentration to outcompete oxygen quenching.\nE.Directly using molecular sieves without chemical oxygen scavengers.",
+    "output": "B"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "What is the critical limitation of using traditional HPLC purity testing alone to validate Atom transfer radical polymerization-controlled polymer architectures?\nOptions:\nA. Inability to distinguish between dormant and terminated chains.\nB.Overestimation of dispersity due to column adsorption effects.\nC.Failure to detect residual monomer below 0.1% concentration.\nD.Lack of sensitivity to stereochemical configurations.\nE.Incompatibility with aqueous polymerization systems.",
+    "output": "A"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which mechanistic hypothesis conflicts with the experimentally observed suppression of the Trommsdorff effect in Atom transfer radical polymerization?\nOptions:\nA. Radical concentration remains constant via activation-deactivation equilibrium.\nB.Termination events occur predominantly via CRT mechanisms.\nC.Chain transfer to monomer dominates at high conversions.\nD.Viscosity-induced diffusional limitations equally affect activation and termination.\nE.Catalyst regeneration maintains low persistent radical concentration.",
+    "output": "C"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "What fundamental error occurs when using molecular mechanics (MM) to directly optimize Atom transfer radical polymerization transition states?\nOptions:\nA.Neglect of electron transfer steps in the redox cycle.\nB.Over-reliance on harmonic approximation for bond dissociation.\nC.Failure to account for solvent dielectric effects.\nD.Assumption of fixed coordination geometry for Cu complexes.\nE.Inability to model radical stabilization energies.",
+    "output": "B"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which experimental design flaw most critically impacts SARA Atom transfer radical polymerization reproducibility?\nOptions:\nA.Using copper wire without surface oxide removal.\nB.Lack of inline FTIR for monomer conversion tracking.\nC.Employing non-deuterated solvents for NMR analysis.\nD.Omitting radical initiator in supplemental activator systems.\nE.Variable stirring rates affecting metallic copper dispersion.",
+    "output": "A"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Why does frontier orbital theory alone fail to explain stereoselectivity in tacticity-controlled Atom transfer radical polymerization?\nOptions:\nA.Radical intermediates lack directional orbital interactions.\nB.Chain propagation occurs faster than rotational diffusion.\nC.Solvent polarity dominates over electronic effects.\nD.Metal-ligand complex symmetry dictates stereochemical outcome.\nE.Hydrogen bonding with Y(OTf)₃ overrides orbital considerations.",
+    "output": "B"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which thermodynamic validation method best confirms the living character of Atom transfer radical polymerization systems?\nOptions:\nA.Linear first-order kinetic plots over extended conversions.\nB.Constant glass transition temperature across molecular weights.\nC.Agreement between theoretical and observed ceiling temperatures.\nD.Monotonic increase in dispersity with conversion.\nE.End-group fidelity via MALDI-TOF mass spectrometry.",
+    "output": "A"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which flawed mechanistic assumption underlies attempts to explain all CRT phenomena via single-reference DFT?\nOptions:\nA.Neglect of spin-orbit coupling in transition metal complexes.\nB.Over-simplification of multi-configurational Cu²⁺ states.\nC.Assumption of harmonic vibrational modes in intermediates.\nD.Use of continuum solvation models for ionic species.\nE.Exclusion of London dispersion in radical interactions.",
+    "output": "B"
+  },
+  {
+  "instruction": "Which of the following options is correct?",
+  "input": "What key evidence invalidates the chain-end control hypothesis for Atom transfer radical polymerization stereoselectivity?\nOptions:\nA.Identical tacticity observed across different monomers.\nB.Temperature-independent syndiotactic bias.\nC.Retention of stereochemistry during chain extension.\nD.Correlation between ligand chirality and polymer configuration.\nE.Molecular weight dependence of meso/racemo ratios.",
+  "output": "D"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Why does bulk polymerization at >90% conversion challenge traditional Atom transfer radical polymerization characterization methods?\nOptions:\nA.Residual monomer plasticizes the polymer for DSC analysis.\nB.Signal broadening in high-MW polymers obscures NMR spectra.\nC.Vitrification prevents sampling for kinetic measurements.\nD.Dispersity measurements become insensitive to termination events.\nE.Chain-end functionality degrades during extended reactions.",
+    "output": "C"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which strategy most effectively improves out-of-plane charge transport in ⟨100⟩-oriented 2D perovskites?\nOptions:\nA.Increasing organic spacer length to enhance dielectric contrast\nB.Using hot-casting to align inorganic layers perpendicular to the substrate\nC.Relying solely on time-resolved terahertz spectroscopy for orientation validation\nD.Applying frontier orbital theory to predict tunneling probabilities\nE.Optimizing solvent polarity without thermal control",
+    "output": "B"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "What primarily determines the exciton binding energy in 2D perovskites with varying inorganic layer thickness (n)?\nOptions:\nA.Crystallographic orientation of the organic spacer\nB.Quantum confinement strength in the inorganic framework\nC.Hydrogen bonding capacity of the bulky cation\nD.Temperature-dependent Urbach energy measurements\nE.Frontier molecular orbital energy offsets",
+    "output": "B"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which characterization method best validates NH₄SCN's role in enhancing vertical orientation of 2D perovskites?\nOptions:\nA.XRD pole figure analysis of (002) planes\nB.Cyclic voltammetry for energy level alignment\nC.FTIR monitoring of SCN⁻ coordination\nD.HPLC quantification of phase purity\nE.TGA-derived thermal stability profiles",
+    "output": "A"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Why does 4-fluorophenylethylammonium outperform phenylethylammonium in 2D perovskite charge transport?\nOptions:\nA.Fluorine increases organic layer hydrophobicity\nB.Reduced phenyl ring centroid-centroid distances enhance π-π coupling\nC.Stronger hydrogen bonding with iodide vacancies\nD.Higher dipole moment aligns with external electric fields\nE.Frontier orbital hybridization with Pb-I framework",
+    "output": "B"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "What critical flaw exists in using precursor stoichiometry alone to control n-value distribution?\nOptions:\nA.Ignores solvent coordination strength effects\nB.Fails to account for vertical phase segregation\nC.Overlooks temperature-dependent octahedral tilting\nD.Assumes perfect Langmuir adsorption kinetics\nE.Neglects Rashba splitting in thin layers",
+    "output": "B"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "What key advantage does the 3D/2D hybrid structure provide over pure 3D perovskites?\nOptions:\nA.Complete elimination of halide vacancies\nB.Type-I band alignment for carrier confinement\nC.Spontaneous formation of gradient phase distribution\nD.Absolute immunity to oxygen degradation\nE.Perfect lattice parameter matching",
+    "output": "C"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which approach would invalidate transition state validation for 2D perovskite formation?\nOptions:\nA.Using NEB method with DFT-optimized endpoints\nB.Applying molecular mechanics for geometry optimization\nC.Incorporating solvent effects via COSMO model\nD.Calculating activation entropy from frequency analysis\nE.Benchmarking against experimental XRD data",
+    "output": "B"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Why does DMF/DMSO co-solvent improve vertical orientation in anti-solvent methods?\nOptions:\nA.Increases dielectric constant for ion dissociation\nB.Creates intermediate complexes with unidirectional growth\nC.Accelerates solvent evaporation rate exponentially\nD.Eliminates all low-n phase nuclei\nE.Perfectly matches Goldschmidt tolerance factor",
+    "output": "B"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "What is the primary role of Cs⁺ in BA₂(Cs,MA,FA)Pb₅I₁₆ systems?\nOptions:\nA.Complete replacement of organic cations\nB.Strain relaxation through lattice contraction\nC.Selective passivation of grain boundaries\nD.Enhancement of Rashba splitting magnitude\nE.Absolute prevention of halide segregation",
+    "output": "B"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which accelerated aging test best correlates with real-world 2D perovskite degradation?\nOptions:\nA.85°C/N₂ dark storage\nB.1 Sun illumination at 30% RH\nC.-196°C thermal cycling\nD.Pure O₂ atmosphere exposure\nE.High-voltage bias stress",
+    "output": "B"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which technique is insufficient for quantifying n-value distribution in quasi-2D films?\nOptions:\nA.Grazing-incidence XRD\nB.Photoluminescence spectral deconvolution\nC.XPS depth profiling\nD.Time-resolved microwave conductivity\nE.UV-vis absorption edge analysis",
+    "output": "E"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "What critical challenge persists in Sn-based 2D perovskite solar cells?\nOptions:\nA.Inability to form ⟨100⟩ orientation\nB.Complete suppression of Sn²⁺ oxidation\nC.Perfect lattice matching with Pb analogues\nD.Elimination of all deep-level traps\nE.Achievement of 25% PCE",
+    "output": "B"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which statement inaccurately describes 2D perovskite stability?\nOptions:\nA.MA⁺ rotation is fully restricted by the inorganic lattice\nB.Organic layers provide hydrophobic barriers\nC.Rashba splitting reduces nonradiative recombination\nD.Gua⁺(guanidinium) fills iodide vacancy sites\nE.Vertical alignment minimizes interfacial traps",
+    "output": "A"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "How does excess PbI₂ affect 2D perovskite crystallization?\nOptions:\nA.Terminates layer growth at n=1\nB.Induces epitaxial 3D perovskite nucleation\nC.Creates metallic lead inclusions\nD.Fully converts to RP phase\nE.Eliminates all organic components",
+    "output": "B"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "What uniquely enables Gua⁺(guanidinium) to form alternating cation interlayer (ACI) structures?\nOptions:\nA.Perfect size matching with MA⁺\nB.Ability to donate three hydrogen bonds\nC.Complete resistance to thermal degradation\nD.sp³ hybridization geometry\nE.Zero dipole moment alignment",
+    "output": "B"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "What methodology best validates the stereochemical retention during allyl migration in spiroidolenines?\nOptions:\nA.Single-crystal X-ray diffraction of intermediates\nB. Kinetic isotope effect (KIE) measurements\nC.Three-center-two-electron (3c-2e) transition state analysis\nD.Frontier molecular orbital (FMO) theory calculations\nE.Solvent polarity correlation studies",
+    "output": "C"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Why is the Ir-catalyzed dearomatization of hydroxyquinoline allylic chlorides enantioselective?\nOptions:\nA.π-π stacking between substrates and ligands\nB. Chiral N-heterocyclic carbene (NHC) ligand induces facial selectivity\nC.Steric bulk of the allylic chloride group\nD.Thermodynamic control via reversible bond formation\nE.Hydrogen bonding with the hydroxyl group",
+    "output": "B"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which factor critically enables enantiodivergence in allylic amination?\nOptions:\nA.Time-dependent competition between amination and etherification\nB.Temperature-controlled inversion of catalyst configuration\nC.Solvent-driven ligand dissociation\nD.Substrate preorganization via crystallization\nE.pH-dependent protonation of intermediates",
+    "output": "A"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "What validates the regioselectivity in visible-light-promoted [2+2] cycloaddition?\nOptions:\nA.Resonance stabilization of biradical intermediates\nB.Hammett correlation with substituent σ values\nC.Solvent polarity matching frontier orbital gaps\nD.Kinetic control via low-temperature quenching\nE.Steric repulsion between substituents",
+    "output": "A"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "What is the key factor enabling high enantioselectivity in Ir-catalyzed allylic dearomatization of indole derivatives?\nOptions:\nA.RStrong π-π stacking between indole and ligand\nB.Rigid coordination geometry of Ir-(cod)Cl complexes\nC.Chiral ligand-induced facial bias in nucleophilic attack\nD.Thermodynamic control via reversible ring-opening\nE.Steric shielding of reactive sites by bulky counterions",
+    "output": "C"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "What critical kinetic feature enables time-dependent enantiodivergence in allylic amination?\nOptions:\nA.Competing oxidative addition rates of carbonate enantiomers\nB.Differential activation energies for diastereomeric transition states\nC.Sequential catalyst decomposition pathways\nD.Interconversion between substrate enantiomers\nE.Competing amination/etherification with methanol",
+    "output": "E"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which strategy mimics arene dioxygenase's cis-dihydroxylation in catalytic asymmetric dearomatization reactions?\nOptions:\nA.Chiral Brønsted acid-mediated epoxide opening\nB.Metal-ligand cooperative proton-coupled electron transfer\nC.Supramolecular cavity-controlled oxygen activation\nD.Biomimetic flavin photocatalysis\nE.Radical rebound mechanism with iron porphyrins",
+    "output": "C"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which technique confirmed the intermediacy of spiroidolenines in tandem dearomatization/migration?\nOptions:\nA.In situ IR monitoring of imine vibrations\nB.Cryogenic XRD of reaction mixtures\nC.Isotopic scrambling experiments\nD.HPLC chiral purity analysis\nE.Cyclic voltammetry of intermediates",
+    "output": "A"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "What prevents over-reduction in Ir-catalyzed asymmetric allylic dearomatization?\nOptions:\nA.Low catalyst loading limits hydrogenation activity\nB.In situ NaBH3CN selectively reduces imine groups\nC.Electron-rich arenes resist further reduction\nD.π-Allyliridium intermediates inhibit reduction pathways\nE.Steric protection of reactive double bonds",
+    "output": "D"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Why do vinyl aziridines produce different diastereomers than vinyl cyclopropanes in Pd-catalyzed cyclization?\nOptions:\nA.Distinct ring-opening transition state geometries\nB.Variable π-backbonding to nitro groups\nC.Differential stabilization of zwitterionic intermediates\nD.Competing β-hydride elimination pathways\nE.Steric effects of N-protecting groups",
+    "output": "A"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": " What critical feature enables CADA of non-activated benzene derivatives?\nOptions:\nA.High oxidation state transition metal catalysts\nB.Cooperative Lewis acid/base activation\nC.Radical-polar crossover mechanisms\nD.Supramolecular preorganization of substrates\nE.Photoredox-generated arene radical cations",
+    "output": "E"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which methodological approach is most critical for achieving enantioselectivity in asymmetric hydroboration of terminal alkenes using Rh catalysts?\nOptions:\nA.Steric differentiation via ortho-substituted monodentate phosphines coordinating to Rh, enforcing a chiral Rh coordination sphere\nB.Electronic asymmetry in NHC(N-heterocyclic carbene) ligands with bulky flanking groups on Rh to bias borohydride migration\nC.Chiral pocket design in Rh-Phebox complexes to direct migratory insertion\nD.Solvent polarity optimization to stabilize Rh-alkene π-complex intermediates\nE.Thermodynamic control through labile Rh-alkene binding equilibria",
+    "output": "C"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "What mechanistic feature explains the regioselectivity reversal in Cu-catalyzed hydroboration of 1,3-dienes under NHC(N-heterocyclic carbene) vs. phosphine ligands?\nOptions:\nA.Faster oxidative addition with NHC-copper complexes\nB.Divergent transition-state geometries during migratory insertion\nC.Competing β-hydride elimination pathways\nD.Ligand-dependent stabilization of π-allyl intermediates\nE.Steric acceleration of reductive elimination",
+    "output": "B"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which experimental validation method is most definitive for confirming the intermediacy of a Rh(III)-hydride species in asymmetric borylative cyclization?\nOptions:\nA.Kinetic isotope effect (KIE) measurements\nB.In situ SAESI-MS detection of Rh intermediates\nC.Linear free-energy relationships (LFER)\nD.Hammett correlation analysis\nE.Isotopic labeling of the boron reagent",
+    "output": "B"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Why does Co(acac)₂ with chiral phosphine ligands enable enantioselective diborylation of 1,1-disubstituted alkenes?\nOptions:\nA.Co(I/III) redox cycling accelerates oxidative addition\nB.Ligand-controlled stereospecific σ→π→σ tautomerization\nC.Phosphine ligands stabilize cobalt-boryl intermediates\nD.Acac⁻ counterions act as proton shuttles\nE.Radical chain propagation via Co-mediated HAT",
+    "output": "B"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "What stereochemical outcome arises from using Josiphos ligands in Cu-catalyzed borylative cyclization of carbamoyl chlorides?\nOptions:\nA.Axial chirality transfer via restricted rotation of the biaryl backbone\nB.Syn periplanar attack on the carbamoyl carbonyl\nC.π-Stacking-induced planar chirality\nD.Dynamic kinetic resolution of atropisomers\nE.Diastereotopic face differentiation by phosphine bite angle",
+    "output": "A"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which factor dominates enantiocontrol in Rh-catalyzed oxime-directed hydroboration of trisubstituted alkenes?\nOptions:\nA.Substrate preorganization via hydrogen bonding\nB.Steric differentiation of prochiral faces by the oxime\nC.Covalent metal-ligand templating of the directing group\nD.Electronic modulation of the alkene π-system\nE.Solvent-assisted chiral aggregation",
+    "output": "C"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Why does CuCl/(R)-DTBM-Segphos favor anti-Markovnikov selectivity in hydroboration of unactivated alkenes?\nOptions:\nA.Ligand-accelerated σ-bond metathesis at the terminal position\nB.Thermodynamic stabilization of the branched boronate\nC.Faster migratory insertion into secondary C-H bonds\nD.π-Complexation destabilizes internal transition states\nE.Base-mediated isomerization of the alkene",
+    "output": "A"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "How does B₂dmpd₂ enhance regioselectivity in Cu/NHC-catalyzed(N-heterocyclic carbene) hydroboration compared to B₂pin₂?\nOptions:\nA.Stronger Lewis acidity of the diboron reagent\nB.Steric protection of the β-boryl intermediate via dmpd substituents \nC.Faster transmetallation kinetics with NHC-copper\nD.In situ generation of more reactive boron electrophiles\nE.Preferential stabilization of Cu(I) over Cu(III) states",
+    "output": "B"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "What mechanistic role does cyclooctene play in Co-catalyzed enantioselective diborylation?\nOptions:\nA.Oxidative hydrogen acceptor for catalyst regeneration\nB.Proton shuttle for β-hydride elimination\nC.Chiral inducer via co-complexation with substrate\nD.π-Acidic ligand to stabilize low-valent Co intermediates\nE.Radical initiator through H₂ activation",
+    "output": "D"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which strategy prevents racemization during Pd/XPhos-catalyzed cross-coupling of α-borylalkyl copper nucleophiles?\nOptions:\nA.Low-temperature quenching of the organocopper species\nB.Stereoretentive transmetallation via a four-membered transition state\nC.Kinetic resolution of diastereomeric intermediates\nD.Chiral anion phase-transfer catalysis\nE.Entropic stabilization of the planar transition state",
+    "output": "B"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "What key evidence supports the Ni(I/III) catalytic cycle in asymmetric carboboration?\nOptions:\nA.Stoichiometric comproportionation experiments\nB.EPR detection of paramagnetic Ni(I) intermediates\nC.Kinetic zeroth-order dependence on aryl bromide\nD.Hammett correlation with σ⁴ substituent constants\nE.Isolation of Ni(0) oxidative addition complexes",
+    "output": "A"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "How does DTBM-Segphos enforce enantioselectivity in Cu-catalyzed β-borylation of α,β-unsaturated aldehydes?\nOptions:\nA.C2-symmetric ligand architecture creates a chiral boronate delivery pocket \nB.Electron-withdrawing groups accelerate oxidative addition\nC.Axial chirality transfers to planar metal center\nD.π-Stacking with aromatic aldehydes\nE.Dynamic ligand folding controls migratory insertion",
+    "output": "A"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "What critical function does LiOtBu serve in Cu-catalyzed asymmetric reductive coupling of vinylboronates?\nOptions:\nA.Activate B₂pin₂ via Lewis acid-base adduct formation\nB.Stabilize high-valent copper intermediates\nC.Scavenge trace water to prevent boronate hydrolysis\nD.Induce ligand dissociation for faster transmetallation\nE.Deprotonate silane reductants to generate Cu-H species",
+    "output": "E"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Why does Rh-catalyzed hydroboration of α-arylenamides require P-chiral BI-DIME ligands?\nOptions:\nA.Ligand chirality dictates face-selective enamide coordination\nB.Phosphorus stereogenicity accelerates oxidative addition\nC.Bulky substituents prevent β-hydride elimination\nD.Electronic tuning matches enamide LUMO energy\nE.Atropisomerism enables dynamic kinetic resolution",
+    "output": "A"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "What mechanistic insight explains the regioselectivity of Co-catalyzed sequential alkyne hydrogenation/hydroboration?\nOptions:\nA.Anti-Markovnikov hydride insertion followed by stereoretentive borylation\nB.Radical chain mechanism with H₂ as initiator\nC.Ziegler-Natta-type surface polymerization control\nD.π-Alkyne complexation directs syn-addition\nE.Oxidative cleavage to ketone intermediates",
+    "output": "A"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which methodology is critical for achieving enantioselective cross-coupling of racemic organomagnesium reagents?\nOptions:\nA.Dynamic kinetic asymmetric transformation (DYKAT) via ligand-controlled transmetalation\nB.Single-electron oxidative addition followed by radical recombination\nC.Thermodynamic resolution of diastereomeric intermediates\nD.Stereoretentive β-hydride elimination pathways\nE.Kinetic resolution using chiral phase-transfer catalysts",
+    "output": "A"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "How does the coordination of chiral ligands influence stereoselectivity in Ni-catalyzed alkyl cross-coupling?\nOptions:\nA.Stabilizes σ-alkyl intermediates to prevent β-hydride elimination\nB.Enforces syn periplanar geometry during oxidative addition\nC.Accelerates single-electron transfer to racemic electrophiles\nD.Facilitates ligand-substrate π-stacking interactions\nE.Directs transmetalation via precoordination to organometallic reagents",
+    "output": "E"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "What mechanistic feature enables stereoconvergent coupling of racemic α-bromo amides?\nOptions:\nA.Radical chain propagation via Ir-photoredox synergy\nB.Rapid interconversion of diastereomeric Ni complexes\nC.Dynamic equilibrium of organozinc intermediates\nD.Stereoretentive oxidative addition to Pd(0)\nE.Kinetic resolution of enantiomeric electrophiles",
+    "output": "B"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which factor is critical for enantioselective desymmetrization of meso-anhydrides?\nOptions:\nA. π-Acidic additives to stabilize η³-allyl intermediates\nB.Cooperative Lewis acid-base activation of the electrophile\nC.Ligand bite angle optimization for oxidative addition\nD.Kinetic preference for syn vs anti transmetalation\nE.Chiral counterion-induced asymmetry",
+    "output": "C"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Why do bulky phosphine ligands improve stereospecificity in Suzuki-Miyaura couplings of secondary boronates?\nOptions:\nA.Suppress β-hydride elimination via steric shielding\nB.Accelerate reductive elimination through electron donation\nC.Enforce SE2(cyclic) transition states for retention\nD.Stabilize Pd-π-benzyl intermediates for inversion\nE.Prevent oxidative addition of aryl chlorides",
+    "output": "A"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "What mechanistic insight explains stereoinversion in Cu-catalyzed allylic alkylation?\nOptions:\nA.Anti-periplanar SN2 oxidative addition\nB.Syn-carbocupration followed by reductive elimination\nC.π-AllylCu intermediate isomerization\nD.Radical recombination at the γ-position\nE.Oxidative addition via η²-coordination",
+    "output": "A"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "How does Ag2O enhance stereospecificity in Ni-catalyzed couplings of secondary boronates?\nOptions:\nA.Acts as a halide scavenger to accelerate transmetalation\nB.Stabilizes Pd-π-allyl intermediates via η³-coordination\nC.Activates boronates via Lewis acid coordination\nD.Prevents racemization of chiral Ni complexes\nE.Promotes oxidative addition through iodide displacement",
+    "output": "A"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which strategy prevents β-hydride elimination in stereospecific Negishi couplings?\nOptions:\nA.Low-temperature transmetalation to Cu(I)\nB.Bulky N-heterocyclic carbene ligands to stabilize σ-alkylpalladium\nC.Electron-deficient arylzinc reagents\nD.Kinetic resolution via chiral auxiliaries\nE.π-Acidic additives to destabilize Pd-H intermediates",
+    "output": "B"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "What drives stereoconvergence in Ni-catalyzed couplings of racemic α-bromo ketones?\nOptions:\nA.Radical chain propagation via Ni(I)/Ni(III) cycling\nB.Rapid equilibration of Ni-alkyl diastereomers\nC.Kinetic preference for syn oxidative addition\nD.Ligand-accelerated β-hydride elimination\nE.Dynamic resolution of organozinc intermediates",
+    "output": "B"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Why do chiral 1,2-diamines improve enantioselectivity in Ni-catalyzed alkyl-alkyl couplings?\nOptions:\nA.Facilitate single-electron transfer to racemic electrophiles\nB.Enforce a trigonal bipyramidal transition state\nC.Stabilize η²-arene interactions during oxidative addition\nD.Preferentially coordinate to one enantiomer of the substrate\nE.DAccelerate reductive elimination via electron donation",
+    "output": "D"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "How do Josiphos ligands achieve high γ-selectivity in allylic substitutions?\nOptions:\nA.π-Acidic dienes stabilize η³-allyl intermediates\nB.Bite angle control favors syn oxidative addition\nC.Steric bulk directs nucleophilic attack to the γ-position\nD.Chiral counterions enforce anti-periplanar geometry\nE.Accelerate transmetalation via Pd-O-B linkages",
+    "output": "C"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "What role do protic additives play in Suginome’s stereoinvertive couplings?\nOptions:\nA.Hydrogen bonding strengthens B-O coordination\nB.Acidic protons accelerate oxidative addition\nC.Stabilize Pd-π-benzyl intermediates\nD.Prevent β-hydride elimination via H-bonding\nE.Activate aryl chlorides via halide abstraction",
+    "output": "A"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Why does Zr(iPrO)4 reverse stereochemistry in [α-(acylamino)benzyl]boronate couplings?\nOptions:\nA.Disrupts B-N chelation to enforce SE2(cyclic) pathways\nB.Acts as a Lewis acid to stabilize Pd-π complexes\nC.Accelerates oxidative addition via iodide displacement\nD.Induces η⁶-arene coordination for retention\nE.Promotes radical chain propagation",
+    "output": "A"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "What explains the stereoretentive coupling of propargylic silanes?\nOptions:\nA.Syn SE' transmetalation via pseudochair transition states\nB.Anti-periplanar oxidative addition to Pd(0)\nC.Radical recombination at the α-position\nD.π-Acidic ligands stabilize η²-alkyne intermediates\nE.Dynamic resolution of racemic silanes",
+    "output": "A"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "How do traceless directing groups improve stereospecific Kumada couplings?\nOptions:\nA.Chelate Mg to activate C-O bonds for oxidative addition\nB.Stabilize Ni-π-benzyl intermediates via η³-coordination\nC.Prevent β-hydride elimination through steric shielding\nD.Accelerate transmetalation via Pd-O-B linkages\nE.Induce kinetic resolution of racemic electrophiles",
+    "output": "A"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "What mechanistic feature distinguishes electron catalysis from traditional acid/base catalysis in radical cascade reactions?\nOptions:\nA.Involvement of transition-metal intermediates in electron transfer.\nB.Temporary addition/removal of a proton during the catalytic cycle.\nC.Use of radical ions as persistent intermediates throughout the reaction.\nD.Reliance on dissociative electron transfer to generate radical intermediates.\nE.Direct participation of counterions in stabilizing transition states.",
+    "output": "D"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "In BHAS (base-promoted homolytic aromatic substitution), what critical role does KOtBu play?\nOptions:\nA.Acts as a one-electron reductant to initiate radical formation.\nB.Stabilizes the transition state via hydrogen bonding.\nC.Deprotonates the cyclohexadienyl radical intermediate\nD.Facilitates oxidative addition of the aryl halide.\nE.Coordinates with transition metals to enhance electron transfer.",
+    "output": "C"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "What thermodynamic principle enables hole catalysis in pericyclic reactions like cyclohexadiene dimerization?\nOptions:\nA.Stabilization of radical cations through conjugation.\nB.Exothermic formation of σ-bonds overriding radical cation instability.\nC.Entropic advantage from cyclic transition states.\nD.Counterion stabilization of the electron-deficient intermediate.\nE.Photochemical excitation lowering activation energy.",
+    "output": "B"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "In radical cross-dehydrogenative coupling (CDC), what ensures selectivity during C–H bond activation?\nOptions:\nA.Steric hindrance from bulky initiators.\nB.Electronic directing groups on the arene.\nC.Base-mediated deprotonation of reactive intermediates.\nD.Transition-state stabilization by π-backdonation.\nE.Kinetic control via fast radical recombination.",
+    "output": "C"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "What mechanistic evidence supports the radical chain pathway in BHAS(base-promoted homolytic aromatic substitution) reactions?\nOptions:\nA.Isolation of stable cyclohexadienyl radical intermediates.\nB.First-order kinetics in aryl halide concentration.\nC.Deuterium isotope effects in the deprotonation step.\nD.Detection of metal-bound intermediates by NMR.\nE.Correlation between initiator redox potential and yield.",
+    "output": "C"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "In the radical Heck-type reaction , what drives the regioselectivity of aryl radical addition to styrene?\nOptions:\nA.Electronic effects from the styrene’s substituents.\nB.Steric hindrance at the α-position of styrene.\nC.Coordination of the radical to potassium ions.\nD.Polarization of the styrene π-bond by the base.\nE.Thermodynamic stability of the benzylic radical intermediate.",
+    "output": "E"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "What role does Bu4NI play in the trifluoromethylation of phenanthridines ?\nOptions:\nA.Acts as a phase-transfer catalyst.\nB.Provides iodide ions to initiate electron transfer.\nC.Stabilizes the CF3 radical via halogen bonding.\nD.Deprotonates the cyclohexadienyl radical intermediate.\nE.Scavenges trace oxygen to prevent radical quenching.",
+    "output": "B"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "What mechanistic feature prevents radical chain termination in BHAS reactions under high substrate concentrations?\nOptions:\nA.Fast deprotonation of the cyclohexadienyl radical.\nB.Rapid electron transfer from the biaryl radical anion.\nC.Low solubility of the aryl halide in polar solvents.\nD.Stabilization of the aryl radical by π-conjugation.\nE.Competitive hydrogen atom abstraction by the base.",
+    "output": "A"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "What molecular design strategy most effectively reduces the LUMO energy level of n-type organic semiconductors?\nOptions:\nA.Introducing strong electron-withdrawing fluorine atoms\nB.Extending alkyl side chain lengths\nC.Increasing molecular weight through branched substituents\nD.Incorporating electron-donating methoxy groups\nE.Utilizing sp³-hybridized carbon frameworks",
+    "output": "A"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which structural feature primarily enables high electron mobility in quinoid small molecules?\nOptions:\nA.Rotatable single bonds in the backbone\nB.Antiparallel slip-stacked π-π interactions\nC.Bulky tert-butyl substituents\nD.Non-planar chair conformations\nE.Isolated molecular dipole moments",
+    "output": "B"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "What critical role do cyano groups play in TCNBT-based semiconductors?\nOptions:\nA.Enhance hole transport through p-doping\nB.Create steric hindrance for controlled crystallization\nC.Enable redox activity through radical formation\nD.Improve electron affinity via strong π-acceptance\nE.Facilitate solution processability through dipole-dipole interactions",
+    "output": "D"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which factor primarily limits the performance of chlorinated semiconductors compared to fluorinated analogs?\nOptions:\nA.Reduced thermal stability\nB.Larger atomic size causing steric distortion\nC.Lower electronegativity\nD.Inadequate π-conjugation length\nE.Poor film-forming capability",
+    "output": "B"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "What key advantage does the B←N unit provide in heteroatom-doped semiconductors?\nOptions:\nA. Enables ambipolar charge transport\nB.Creates strong intramolecular dipole moments\nC.Facilitates solution-phase redox processes\nD.Improves air stability through hydrophobic effects\nE.Enhances hole mobility via p-orbital overlap",
+    "output": "B"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which characterization method would best verify the edge-on molecular orientation critical for charge transport?\nOptions:\nA.Cyclic voltammetry\nB.Grazing-incidence X-ray diffraction\nC.UV-vis spectroscopy\nD.Mass spectrometry\nE.Thermogravimetric analysis",
+    "output": "B"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "What makes the dicyanomethylene group particularly effective in quinoid semiconductors?\nOptions:\nA.Simultaneously lowers LUMO and enhances planarity\nB.Enables supramolecular polymerization\nC.Creates helical molecular conformations\nD.Facilitates solution-phase self-assembly\nE.Induces thermally activated delayed fluorescence",
+    "output": "A"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which synthetic strategy addresses the solubility challenges of pyrene diimides?\nOptions:\nA.Introducing tert-butyl protective groups\nB.Utilizing high-temperature annealing\nC.Creating branched polymer architectures\nD.Employing ionic liquid solvents\nE.Incorporating sp³-hybridized linkers",
+    "output": "A"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "What key advantage does the lactam functional group provide?\nOptions:\nA.Enables zwitterionic resonance structures\nB.Enhances electron affinity through conjugation\nC.Creates helical molecular conformations\nD.Facilitates solution-phase redox activity\nE.Improves mechanical flexibility",
+    "output": "B"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "What methodology is most effective for generating monodisperse double emulsions with controlled hierarchical structures in droplet microfluidics?\nOptions:\nA.Sequential coflow assembly with capillary modules\nB.Single-step T-junction emulsification\nC.Electrowetting-driven droplet splitting\nD.Magnetic field-assisted droplet deformation\nE.Thermal gradient-induced phase separation",
+    "output": "A"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which mechanism primarily governs the stabilization of aqueous droplets in fluorocarbon oil for biochemical assays?\nOptions:\nA.Electrostatic repulsion between surfactant headgroups\nB.Steric hindrance from triblock copolymer surfactants\nC.Magnetic nanoparticle-mediated interfacial rigidity\nD.Thermally induced Marangoni flows\nE.pH-dependent zwitterionic interactions",
+    "output": "B"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "What experimental approach validates the diffusion-limited transport of small molecules across droplet interfaces?\nOptions:\nA.Fluorescence correlation spectroscopy (FCS)\nB.Electrochemical impedance spectroscopy\nC.Gravimetric analysis of surfactant monolayers\nD.Nuclear magnetic resonance (NMR) relaxometry\nE.Raman mapping of interfacial molecular vibrations",
+    "output": "A"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "What design feature enables on-chip reagent dilution in droplet microfluidics without premixing?\nOptions:\nA.Laminar flow-based gradient generators\nB.Pneumatic valve-actuated droplet merging\nC.Electrophoretic solute redistribution\nD.Surface acoustic wave (SAW)-driven mixing\nE.Sequential droplet splitting and reinjection",
+    "output": "A"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which technique provides spatial resolution for analyzing protein adsorption at droplet interfaces?\nOptions:\nA.Mass spectrometry imaging\nB.Fluorescence lifetime imaging (FLIM)\nC.Quartz crystal microbalance (QCM)\nD.X-ray reflectometry\nE.Atomic force microscopy (AFM)",
+    "output": "B"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "What mechanism enables size-dependent passive sorting of droplets in bifurcated channels?\nOptions:\nA.Dielectrophoretic mobility differences\nB.Hydrodynamic resistance asymmetry\nC.Magnetic susceptibility variation\nD.Thermophoretic migration\nE.Interfacial tension gradient",
+    "output": "B"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "What principle underlies the enhancement of mixing in winding microfluidic channels?\nOptions:\nA.Chaotic advection from periodic flow reversal\nB.Electrosomotic flow acceleration\nC.Magnetic nanoparticle-driven vortices\nD.Thermal Rayleigh-Bénard convection\nE.Acoustic streaming-induced turbulence",
+    "output": "A"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which parameter determines the transition between dripping and jetting regimes in flow-focusing droplet generation?\nOptions:\nA.Weber number of the dispersed phase\nB.Capillary number of the continuous phase\nC.Reynolds number of the combined flow\nD.Bond number of the channel geometry\nE.Peclet number of the surfactant solution",
+    "output": "B"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "What mechanism ensures the monodispersity of polymer microparticles in droplet templating?\nOptions:\nA.Interfacial radical polymerization\nB.Solvent evaporation rate control\nC.Microfluidic droplet size uniformity\nD.UV intensity gradient modulation\nE.Thermal initiator concentration",
+    "output": "C"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which factor is critical for achieving core-shell structure control in double emulsion templating?\nOptions:\nA.Stepwise interfacial gelation\nB.Surfactant HLB(Hydrophilic Lipophilic Balance) gradient design\nC.Coaxial fluid velocity matching\nD.Alternating solvent polarity\nE.Magnetic core localization",
+    "output": "C"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "What principle enables the synthesis of anisotropic Janus particles in droplet microfluidics?\nOptions:\nA.Laminar flow-guided phase separation\nB.Electric field-driven dipole alignment\nC.Interfacial polymerization asymmetry\nD.Thermal gradient-induced crystallization\nE.Magnetic domain patterning",
+    "output": "A"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which analytical technique combines two distinct separation mechanisms to significantly reduce the I-factor in complex organic mixtures?\nOptions:\nA.Single-step laser desorption/ionization (LDI)\nB.Proton-transfer-reaction mass spectrometry (PTR-MS)\nC.Two-dimensional gas chromatography (GC×GC)\nD.Fourier-transform infrared spectroscopy (FTIR)\nE.Aerosol mass spectrometer (AMS)",
+    "output": "C"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which parameter directly determines the accuracy of molecular formula assignment in high-resolution mass spectrometry?\nOptions:\nA.Ionization efficiency\nB.Mass resolution\nC.Dynamic range\nD.Retention time reproducibility\nE.Signal-to-noise ratio",
+    "output": "B"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which technique is essential for verifying the stereochemical configuration of a synthesized organic marker compound?\nOptions:\nA.Isotope-ratio mass spectrometry (IRMS)\nB.Nuclear magnetic resonance (NMR) spectroscopy\nC.Thermal desorption chemical ionization (TD-CIMS)\nD.Cavity ring-down spectroscopy (CRDS)\nE.Positive matrix factorization (PMF)",
+    "output": "B"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which step is critical to avoid artifacts in the quantification of semi-volatile organic compounds (SVOCs) during aerosol sampling?\nOptions:\nA.Using quartz fiber filters alone\nB.Coupling denuders with adsorbent beds\nC.Employing single-stage impactors\nD.Increasing sampling face velocity\nE.Reducing relative humidity during collection",
+    "output": "B"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which ionization method minimizes fragmentation to preserve molecular ion signals in aerosol analysis?\nOptions:\nA.Electron ionization (EI)\nB.Laser desorption/ionization (LDI)\nC.Electrospray ionization (ESI)\nD.Chemical ionization (CI)\nE.Photoionization (PI)",
+    "output": "C"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which analytical approach is most effective for identifying unknown oxidation pathways in secondary organic aerosols (SOA)?\nOptions:\nA.Bulk functional group analysis via FTIR\nB.Real-time monitoring using AMS\nC.Off-line NMR of fractionated extracts\nD.Isotopic labeling with 13C-precurors\nE.Single-particle mass spectrometry",
+    "output": "D"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which technique enables structural elucidation of non-crystalline organic compounds in aerosols?\nOptions:\nA.X-ray diffraction (XRD)\nB.Solid-state NMR\nC.High-resolution TEM\nD.Raman spectroscopy\nE.Differential optical absorption spectroscopy (DOAS)",
+    "output": "B"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which factor limits the use of electron ionization (EI) in identifying high-molecular-weight organic aerosols?\nOptions:\nA.Low ionization efficiency\nB.Excessive fragmentation\nC.Poor mass accuracy\nD.Incompatibility with chromatographic systems\nE.Sensitivity to water vapor",
+    "output": "B"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which analytical challenge is uniquely addressed by tandem mass spectrometry (MS/MS)?\nOptions:\nA.Differentiating isobaric ions\nB.Quantifying total organic carbon\nC.Measuring aerosol hygroscopicity\nD.Resolving chromatographic co-elution\nE.Detecting low-volatility gases",
+    "output": "B"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which factor complicates the use of radiocarbon (14C) analysis for SOA source apportionment?\nOptions:\nA.Low natural abundance of 14C\nB.Isotopic fractionation during oxidation\nC.Co-emission from fossil and biogenic sources\nD.Interference from 13C isotpes\nE.Limited sensitivity of accelerator mass spectrometry",
+    "output": "B"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "What is the primary advantage of using microreactors for photochemical [2+2] cycloadditions compared to batch reactors?\nOptions:\nA.Enhanced mass transfer due to turbulent flow\nB.Uniform irradiation via reduced path length (Lambert-Beer compliance)\nC.Higher solubility of gaseous reactants\nD.Reduced catalyst loading via heterogeneous immobilization\nE.Improved stereochemical control via chiral solvents",
+    "output": "B"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which factor critically enhances diastereoselectivity in photocycloadditions performed in flow reactors?\nOptions:\nA.Use of supercritical CO₂ as a solvent\nB.Precise temperature control minimizing thermal equilibration\nC.Segmented flow regimes with nitrogen gas\nD.Increased photon flux density via LED arrays\nE.Immobilized transition metal catalysts",
+    "output": "B"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Why does singlet oxygen generation in flow reactors reduce overoxidation byproducts?\nOptions:\nA.Higher oxygen solubility in segmented flow\nB.Enhanced photosensitizer stability in microchannels\nC.Reduced photon energy from visible-light LEDs\nD.Shorter residence time preventing secondary reactions\nE.Homogeneous solvent polarity via continuous mixing",
+    "output": "D"
+  },
+  {
+    "instruction": "Which of the following options is correct?",
+    "input": "Which mechanism explains the improved quantum yield in microreactors for photoredox catalysis?\nOptions:\nA.Reduced triplet-state recombination via rapid quenching\nB.Enhanced photon absorption through reflective reactor coatings\nC.Suppression of chain-termination steps via laminar flow\nD.Increased interfacial area in gas-liquid segmented flow\nE.Homogenized light distribution eliminating shadow zones",
+    "output": "E"
+  }
+]

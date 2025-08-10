@@ -1,0 +1,98 @@
+# ------------------ API Keys and Endpoints ------------------
+# IMPORTANT: Fill in your API keys here.
+api_keys:
+  clarivate_wos: "YOUR_CLARIVATE_WOS_API_KEY"
+  deepseek_api_key: "YOUR_DEEPSEEK_API_KEY"
+  qwen_api_key: "YOUR_QWEN_API_KEY"
+
+llm_endpoints:
+  deepseek_endpoint: "https://ark.cn-beijing.volces.com/api/v3"
+  qwen_endpoint: "https://dashscope.aliyuncs.com/compatible-mode/v1"
+
+# ------------------ Model Configuration ------------------
+# Select which LLM to use for the agent's tasks.
+# Options: "Qwen7B", "DeepSeekR1"
+active_model: "Qwen7B"
+
+models:
+  Qwen7B:
+    nickname: "Qwen7B"
+    model_name: "qwen2.5-7b-instruct"
+  DeepSeekR1:
+    nickname: "DeepSeek"
+    model_name: "ep-20250218211825-q28hr"
+
+# ------------------ File Paths ------------------
+# All output files will be saved relative to the project root.
+paths:
+  results_dir: "./results"
+
+# ------------------ Web of Science Search Parameters ------------------
+wos_search_params:
+  database: "WOS" # Web of Science Core Collection
+  # Number of articles to retrieve per search query.
+  limit_per_query: 10
+  # How to sort the articles. TC+D = Times Cited (Descending)
+  sort_field: "TC+D"
+
+# ------------------ Prompt Templates ------------------
+# You can customize the prompts sent to the LLM for each step.
+prompts:
+  article_summary: |
+    You are a seasoned researcher skilled in summarizing literature.
+    Analyze the following article content and extract key elements including:
+    - Study significance
+    - Background information
+    - Research objectives
+    - Methodology
+    - Mechanistic explanations
+    - Methodological innovations
+    Article content:
+    {content}
+
+  outline_generation: |
+    You are a senior professor drafting a literature review. Based on the user's request and summarized content,
+    create a structured research report with standard academic sections including:
+    - Research Background & Significance
+    - Common Methodologies
+    - Key Mechanisms and Findings
+    - Performance Optimization Strategies
+    - Future Directions and Challenges
+    User's requirement: {research_topic}
+    Summarized content:
+    {summary_content}
+
+  reflection_and_expansion: |
+    You are a research advisor identifying knowledge gaps. Analyze the outline to find the most important subtopic that requires deeper investigation.
+    Requirements:
+    - Provide a specific English research term.
+    - It must be directly related to the core research problem.
+    - It should be suitable for a Web of Science API query.
+    - It must be more focused than the initial keyword.
+    Example: "narrowband deep-blue TADF emitters"
+    Core research problem: {research_topic}
+    Current outline: {current_outline}
+    Return ONLY the most important keyword in this format: "keyword"
+
+  expand_section: |
+    Your task is to expand a specific section of a research report by synthesizing the provided reference materials.
+    Follow these requirements:
+    1. Write in a formal, academic tone using technical terminology.
+    2. Synthesize the information, do not just list summaries.
+    3. Include mathematical formulas using LaTeX notation ($equation$ or $$equation$$) where appropriate.
+    Core research problem: {research_topic}
+    Section to develop: {section_title}
+    Reference materials:
+    {summary_content}
+
+  report_polishing: |
+    You are a professional academic editor. Your task is to rewrite the following draft report into a comprehensive and polished review article.
+    Requirements:
+    1. Preserve all original DOI citations.
+    2. Write entirely in academic English.
+    3. Follow a standard review structure (Introduction, Core Concepts, Methodologies, Applications, Challenges, Conclusion).
+    4. Ensure logical flow and coherence between sections.
+    5. Format equations with LaTeX notation.
+    Report to polish:
+    {report_content}
+    Output ONLY the polished academic review in Markdown format.

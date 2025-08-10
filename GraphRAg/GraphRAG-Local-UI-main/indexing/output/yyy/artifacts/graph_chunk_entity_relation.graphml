@@ -1,0 +1,2331 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d7" for="edge" attr.name="order" attr.type="long" />
+  <key id="d6" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d5" for="edge" attr.name="description" attr.type="string" />
+  <key id="d4" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d3" for="node" attr.name="clusters" attr.type="string" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="entity_type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;AMERICAN CHEMICAL SOCIETY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The American Chemical Society is a scientific organization that publishes research, including the referenced figure on the mechanism of solar-driven water splitting."&lt;SEP&gt;"The American Chemical Society is the copyright holder of the referenced work by Fu et al."&lt;SEP&gt;"The American Chemical Society is an organization referenced for permission to reproduce a figure related to $\mathrm{TiSi}_{2}/\upalpha-\mathsf{F e}_{2}0_{3}$ nanonet photoanode."</data>
+      <data key="d2">chunk-cc3a4292c8bd745078b1765a7889afdb&lt;SEP&gt;chunk-618e09dd77f4b9bfd910c8187704f282&lt;SEP&gt;chunk-9ee02fe4aa8b10f8d72b681a996076d0</data>
+      <data key="d3">[{"level": 0, "cluster": 4}]</data>
+    </node>
+    <node id="&quot;NATURE&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Nature is referenced as demonstrating an efficient strategy for utilizing solar irradiation in photosynthesis."</data>
+      <data key="d2">chunk-618e09dd77f4b9bfd910c8187704f282</data>
+      <data key="d3">[{"level": 0, "cluster": 3}, {"level": 1, "cluster": 12}]</data>
+    </node>
+    <node id="&quot;WATER SPLITTING&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Water Splitting is an event described as a process that requires high overpotentials and is critical for the development of solar fuels."&lt;SEP&gt;"Water Splitting is an event or process where solar energy is used to split water into hydrogen and oxygen, often facilitated by photoanodes."&lt;SEP&gt;"Water Splitting is the process of breaking down water into hydrogen and oxygen using photocatalytic methods, which is the main focus of the text."&lt;SEP&gt;"Water Splitting is an event or process described in the text, involving the use of $\alpha\mathrm{-Fe_{2}O_{3}/TiSi_{2}}$ and $\mathrm{Fe_{2}O_{3}}{-}\mathrm{AZO}$ junctions."&lt;SEP&gt;"Water Splitting is the process being studied and improved through the use of $\mathrm{BiVO_{4}}$-based heterojunctions."&lt;SEP&gt;"Water Splitting is the process of breaking down water into hydrogen and oxygen using light energy, which is enhanced by the coupling of materials like RGO to BiVO4."&lt;SEP&gt;"Water Splitting is an event or process that has been studied using $\mathrm{C}_{3}\mathrm{N}_{4}$ and CDots."</data>
+      <data key="d2">chunk-618e09dd77f4b9bfd910c8187704f282&lt;SEP&gt;chunk-a25ac928300ab4714b483022a1f286a6&lt;SEP&gt;chunk-006e75529b4dbb0790b9194f0a9f7629&lt;SEP&gt;chunk-cc3a4292c8bd745078b1765a7889afdb&lt;SEP&gt;chunk-09862741ee51bafb225a8c1e64b49dbc&lt;SEP&gt;chunk-77716b6f0353561d48cc84b8bce9d40e&lt;SEP&gt;chunk-94fa033cbb96a8470acb76a680c4f004</data>
+      <data key="d3">[{"level": 0, "cluster": 3}, {"level": 1, "cluster": 12}]</data>
+    </node>
+    <node id="&quot;SOLAR FUELS DEVELOPMENT&quot;">
+      <data key="d0">"MISSION"</data>
+      <data key="d1">"Solar Fuels Development is the overarching mission to secure alternative clean, renewable energy supplies through the use of solar energy."</data>
+      <data key="d2">chunk-618e09dd77f4b9bfd910c8187704f282</data>
+      <data key="d3">[{"level": 0, "cluster": 3}, {"level": 1, "cluster": 12}]</data>
+    </node>
+    <node id="&quot;SOLAR SPECTRUM UTILIZATION&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Solar Spectrum Utilization is the process of efficiently using the energy from the solar spectrum for water splitting."</data>
+      <data key="d2">chunk-618e09dd77f4b9bfd910c8187704f282</data>
+      <data key="d3">[{"level": 0, "cluster": 3}, {"level": 1, "cluster": 12}]</data>
+    </node>
+    <node id="&quot;ARTIFICIAL PHOTOSYNTHESIS&quot;">
+      <data key="d0">"MISSION"</data>
+      <data key="d1">"Artificial Photosynthesis is a mission aimed at understanding and improving the fundamental mechanism and kinetics of processes during water splitting."</data>
+      <data key="d2">chunk-618e09dd77f4b9bfd910c8187704f282</data>
+      <data key="d3">[{"level": 0, "cluster": 5}]</data>
+    </node>
+    <node id="&quot;PHOTOELECTROCHEMICAL CELLS (PEC)&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Photoelectrochemical Cells (PEC) are a technology used to reduce water to hydrogen, involving the oxidation of water and the use of a counter electrode."</data>
+      <data key="d2">chunk-618e09dd77f4b9bfd910c8187704f282</data>
+      <data key="d3">[{"level": 0, "cluster": 3}, {"level": 1, "cluster": 12}]</data>
+    </node>
+    <node id="&quot;CHARGE RECOMBINATION&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Charge Recombination is an event that limits the efficiency in artificial photosynthesis, as carriers recombining faster than expected reactions can reduce energy conversion efficiency."</data>
+      <data key="d2">chunk-618e09dd77f4b9bfd910c8187704f282</data>
+      <data key="d3">[{"level": 0, "cluster": 5}]</data>
+    </node>
+    <node id="&quot;SCAVENGERS (SACRIFICIAL AGENTS)&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Scavengers (Sacrificial Agents) are a technology used to remove either holes or electrons in the system to study water-splitting reactions in isolation."</data>
+      <data key="d2">chunk-618e09dd77f4b9bfd910c8187704f282</data>
+      <data key="d3">[{"level": 0, "cluster": 5}]</data>
+    </node>
+    <node id="&quot;PHOTOCATALYST MORPHOLOGY VARIATION&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Photocatalyst Morphology Variation is a technology that improves photocatalytic activity by increasing surface area and shortening charge carrier diffusion pathways."</data>
+      <data key="d2">chunk-618e09dd77f4b9bfd910c8187704f282</data>
+      <data key="d3">[{"level": 0, "cluster": 5}]</data>
+    </node>
+    <node id="&quot;HETEROJUNCTION CREATION&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Heterojunction Creation is a technology that generates charge carriers in one photocatalyst and transfers them to another material to allow for long-lived electron–hole pairs."</data>
+      <data key="d2">chunk-618e09dd77f4b9bfd910c8187704f282</data>
+      <data key="d3">[{"level": 0, "cluster": 5}]</data>
+    </node>
+    <node id="&quot;SEMICONDUCTOR LIQUID JUNCTION (SCLJ)&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"SCLJ is a process where the Fermi level of a semiconductor equilibrates with the redox potential of an electrolyte solution during water splitting."</data>
+      <data key="d2">chunk-bc186a3ef3219bf5d0d5dace7d8369c0</data>
+      <data key="d3">[{"level": 0, "cluster": 6}]</data>
+    </node>
+    <node id="&quot;HETEROJUNCTIONS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Heterojunctions are interfaces between two materials (semiconductor–semiconductor, semiconductor–metal, semiconductor–carbon) that improve photocatalytic activity by enhancing charge separation and reducing recombination."</data>
+      <data key="d2">chunk-bc186a3ef3219bf5d0d5dace7d8369c0</data>
+      <data key="d3">[{"level": 0, "cluster": 6}]</data>
+    </node>
+    <node id="&quot;THE ROYAL SOCIETY OF CHEMISTRY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Royal Society of Chemistry is a learned society that publishes scientific research, including the work referenced in Figure 8.11."&lt;SEP&gt;"The Royal Society of Chemistry is an organization that has published works on band bending and alignment in heterojunctions for photocatalytic water splitting."</data>
+      <data key="d2">chunk-a25ac928300ab4714b483022a1f286a6&lt;SEP&gt;chunk-033d1f44ca5ef4c77c65b7f3b8f9747f</data>
+    </node>
+    <node id="&quot;RH-SRTIO_{3}&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Rh-SrTiO_{3} is a complex oxide material used in heterojunctions for overall water splitting under visible light."</data>
+      <data key="d2">chunk-a25ac928300ab4714b483022a1f286a6</data>
+      <data key="d3">[{"level": 0, "cluster": 6}]</data>
+    </node>
+    <node id="&quot;PBBI_{2}NB_{2}O_{9}&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"PbBi_{2}Nb_{2}O_{9} is a complex oxide material that has been used in heterojunctions for overall water splitting under visible light."</data>
+      <data key="d2">chunk-a25ac928300ab4714b483022a1f286a6</data>
+      <data key="d3">[{"level": 0, "cluster": 6}]</data>
+    </node>
+    <node id="&quot;SR_{1-X}NBO_{3}&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Sr_{1-x}NbO_{3} is a complex oxide material that has been used in heterojunctions for overall water splitting under visible light."</data>
+      <data key="d2">chunk-a25ac928300ab4714b483022a1f286a6</data>
+      <data key="d3">[{"level": 0, "cluster": 6}]</data>
+    </node>
+    <node id="&quot;SRNBO_{2}N&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"SrNbO_{2}N is an oxynitride material that has recently received attention for its use in heterojunctions for overall water splitting under visible light."</data>
+      <data key="d2">chunk-a25ac928300ab4714b483022a1f286a6</data>
+      <data key="d3">[{"level": 0, "cluster": 6}]</data>
+    </node>
+    <node id="&quot;LATIO_{2}N&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"LaTiO_{2}N is an oxynitride material that has been used in heterojunctions for overall water splitting under visible light."</data>
+      <data key="d2">chunk-a25ac928300ab4714b483022a1f286a6</data>
+      <data key="d3">[{"level": 0, "cluster": 6}]</data>
+    </node>
+    <node id="&quot;TION&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"TiON is an oxynitride material that has been used in heterojunctions for overall water splitting under visible light."</data>
+      <data key="d2">chunk-a25ac928300ab4714b483022a1f286a6</data>
+      <data key="d3">[{"level": 0, "cluster": 6}]</data>
+    </node>
+    <node id="&quot;CBE AT $-0.3\,\MATHRM{V}$ VS NHE, ${\MATHSF{P H}}0$ &quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"CBE at $-0.3\,\mathrm{V}$ vs NHE, ${\mathsf{p H}}0$ is a specific condition or event related to the performance of TaON in heterojunctions."</data>
+      <data key="d2">chunk-a25ac928300ab4714b483022a1f286a6</data>
+    </node>
+    <node id="&quot;TAON&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"TaON is an oxynitride material that has recently received much attention for its use in heterojunctions for overall water splitting under visible light."</data>
+      <data key="d2">chunk-a25ac928300ab4714b483022a1f286a6</data>
+      <data key="d3">[{"level": 0, "cluster": 3}, {"level": 1, "cluster": 12}]</data>
+    </node>
+    <node id="&quot;CAFE_{2}O_{4}&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"CaFe_{2}O_{4} is a material that has been used in heterojunctions with TaON for overall water splitting under visible light."</data>
+      <data key="d2">chunk-a25ac928300ab4714b483022a1f286a6</data>
+      <data key="d3">[{"level": 0, "cluster": 3}, {"level": 1, "cluster": 12}]</data>
+    </node>
+    <node id="&quot;N-DOPED TIO_{2}&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"N-doped TiO_{2} is a material that has been used in heterojunctions with TaON for overall water splitting under visible light."</data>
+      <data key="d2">chunk-a25ac928300ab4714b483022a1f286a6</data>
+      <data key="d3">[{"level": 0, "cluster": 3}, {"level": 1, "cluster": 12}]</data>
+    </node>
+    <node id="&quot;CU_{2}O&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Cu_{2}O is a material that has been used in heterojunctions with TaON for overall water splitting under visible light."</data>
+      <data key="d2">chunk-a25ac928300ab4714b483022a1f286a6</data>
+      <data key="d3">[{"level": 0, "cluster": 3}, {"level": 1, "cluster": 12}]</data>
+    </node>
+    <node id="&quot;OXYGEN EVOLUTION CATALYSTS (OECS)&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Oxygen Evolution Catalysts (OECs) are materials that play a crucial role in sustainable solar fuel generation by aiding charge separation and lowering the activation energy for water oxidation."</data>
+      <data key="d2">chunk-a25ac928300ab4714b483022a1f286a6</data>
+      <data key="d3">[{"level": 0, "cluster": 3}, {"level": 1, "cluster": 12}]</data>
+    </node>
+    <node id="&quot;OXYGEN EVOLUTION REACTION (OER)&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Oxygen Evolution Reaction (OER) is a chemical reaction that is part of the process of water splitting, requiring a large overpotential due to its relatively slow kinetics."</data>
+      <data key="d2">chunk-a25ac928300ab4714b483022a1f286a6</data>
+      <data key="d3">[{"level": 0, "cluster": 3}, {"level": 1, "cluster": 12}]</data>
+    </node>
+    <node id="&quot;BIVO_{4}&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"BiVO_{4} is a highly responsive visible-light-driven photocatalyst for water oxidation, attracting widespread attention for its use in both suspension and photoelectrochemical (PEC) systems."</data>
+      <data key="d2">chunk-a25ac928300ab4714b483022a1f286a6</data>
+      <data key="d3">[{"level": 0, "cluster": 3}, {"level": 1, "cluster": 12}]</data>
+    </node>
+    <node id="&quot;W:BIVO_{4}&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"W:BiVO_{4} is a gradient-doped photoanode material that has been used in tandem configuration with a Si solar cell for water splitting."</data>
+      <data key="d2">chunk-a25ac928300ab4714b483022a1f286a6</data>
+      <data key="d3">[{"level": 0, "cluster": 3}, {"level": 1, "cluster": 12}]</data>
+    </node>
+    <node id="&quot;SI SOLAR CELL&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Si Solar Cell is a component used in tandem configuration with W:BiVO_{4} for water splitting, providing a significant photocurrent."&lt;SEP&gt;"Si Solar Cell is a semiconductor device used in tandem configuration with $\mathrm{BiVO_{4}}$ photoanodes for water splitting."</data>
+      <data key="d2">chunk-77716b6f0353561d48cc84b8bce9d40e&lt;SEP&gt;chunk-a25ac928300ab4714b483022a1f286a6</data>
+      <data key="d3">[{"level": 0, "cluster": 3}, {"level": 1, "cluster": 13}]</data>
+    </node>
+    <node id="&quot;PEC SYSTEMS&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"PEC Systems are photoelectrochemical systems used for water splitting, where BiVO_{4} has been particularly effective."</data>
+      <data key="d2">chunk-a25ac928300ab4714b483022a1f286a6</data>
+    </node>
+    <node id="&quot;COBALT, IRON, AND NICKEL SPECIES&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Cobalt, Iron, and Nickel Species are identified as the most promising earth-abundant electrocatalysts for low-cost, efficient solar fuels synthesis."</data>
+      <data key="d2">chunk-a25ac928300ab4714b483022a1f286a6</data>
+      <data key="d3">[{"level": 0, "cluster": 3}, {"level": 1, "cluster": 12}]</data>
+    </node>
+    <node id="&quot;NUMEROUS GROUPS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Numerous Groups refers to multiple organizations or teams that have been working on improving the solar-to-hydrogen (STH) conversion efficiency of $\mathrm{BiVO_{4}}$ photoanodes, particularly through coupling with other semiconductors."</data>
+      <data key="d2">chunk-77716b6f0353561d48cc84b8bce9d40e</data>
+    </node>
+    <node id="&quot;S- S JUNCTION&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"S- S Junction is an event or process where $\mathrm{BiVO_{4}}$ is coupled with other semiconductors to improve STH conversion efficiency."</data>
+      <data key="d2">chunk-77716b6f0353561d48cc84b8bce9d40e</data>
+    </node>
+    <node id="&quot;COMPREHENSIVE REVIEW&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Comprehensive Review is a document or publication that summarizes recent key results in junctions containing $\mathrm{BiVO_{4}}$ for water splitting."</data>
+      <data key="d2">chunk-77716b6f0353561d48cc84b8bce9d40e</data>
+    </node>
+    <node id="&quot;STH EFFICIENCY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"STH Efficiency refers to the solar-to-hydrogen conversion efficiency, a measure of effectiveness in converting solar energy into hydrogen through photoanodes."</data>
+      <data key="d2">chunk-77716b6f0353561d48cc84b8bce9d40e</data>
+    </node>
+    <node id="&quot;GRADIENT-DOPED $\MATHRM{W}\MATHRM{:}\MATHRM{BIVO_{4}}$ PHOTOANODE&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Gradient-doped $\mathrm{W}\mathrm{:}\mathrm{BiVO_{4}}$ Photoanode is a specific type of photoanode that has been connected to a Si solar cell in tandem configuration for water splitting."</data>
+      <data key="d2">chunk-77716b6f0353561d48cc84b8bce9d40e</data>
+      <data key="d3">[{"level": 0, "cluster": 3}, {"level": 1, "cluster": 13}]</data>
+    </node>
+    <node id="&quot;FEOOH—NIOOH/CARBON QUANTUM DOTS/ $\MATHRM{BIVO_{4}}$ COMPOSITE ELECTRODE&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"FeOOH—NiOOH/carbon Quantum Dots/ $\mathrm{BiVO_{4}}$ Composite Electrode is a technology that has achieved a record photocurrent of about $5.9\,\mathrm{{mA}\,\mathrm{{cm}^{-2}}}$ at $1.23\,\mathrm{V}$ versus reference hydrogen electrode (RHE)."</data>
+      <data key="d2">chunk-77716b6f0353561d48cc84b8bce9d40e</data>
+      <data key="d3">[{"level": 0, "cluster": 3}, {"level": 1, "cluster": 12}]</data>
+    </node>
+    <node id="&quot;REFERENCE HYDROGEN ELECTRODE (RHE)&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Reference Hydrogen Electrode (RHE) is a standard electrode used as a reference point in electrochemical measurements."</data>
+      <data key="d2">chunk-77716b6f0353561d48cc84b8bce9d40e</data>
+    </node>
+    <node id="&quot;TABLE 8.1&quot;">
+      <data key="d0">"LOCATION"</data>
+      <data key="d1">"Table 8.1 is a location within the text where a summary of recent key advances in $\mathrm{BiVO_{4}}$-based heterojunction photoanodes is presented."</data>
+      <data key="d2">chunk-77716b6f0353561d48cc84b8bce9d40e</data>
+    </node>
+    <node id="&quot;JUDD JUNCTION&quot;">
+      <data key="d0">"LOCATION"</data>
+      <data key="d1">"Judd Junction is a location or context within Table 8.1 where different composite electrodes are described."</data>
+      <data key="d2">chunk-77716b6f0353561d48cc84b8bce9d40e</data>
+    </node>
+    <node id="&quot;BIVO4/WO3&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"BiVO4/WO3 is a composite technology mentioned in Table 8.1, achieving a maximum photocurrent of ~1.6 mA cm-2."</data>
+      <data key="d2">chunk-77716b6f0353561d48cc84b8bce9d40e</data>
+    </node>
+    <node id="&quot;BIVO4/SNO2/WO3&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"BiVO4/SnO2/WO3 is a composite technology mentioned in Table 8.1, achieving a maximum photocurrent of 2.5 mA cm-2."</data>
+      <data key="d2">chunk-77716b6f0353561d48cc84b8bce9d40e</data>
+    </node>
+    <node id="&quot;CO—PI/BIVO4/WO3&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Co—Pi/BiVO4/WO3 is a composite technology mentioned in Table 8.1, achieving a maximum photocurrent of ~3 mA cm-2."</data>
+      <data key="d2">chunk-77716b6f0353561d48cc84b8bce9d40e</data>
+    </node>
+    <node id="&quot;CO-PI/W:BIVO4&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Co-Pi/W:BiVO4 is a composite technology mentioned in Table 8.1, achieving a maximum photocurrent of ~3.6 mA cm-2."</data>
+      <data key="d2">chunk-77716b6f0353561d48cc84b8bce9d40e</data>
+    </node>
+    <node id="&quot;FEOOH-NIOOH/(W, MO)—BIVO4/WO3&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"FeOOH-NiOOH/(W, Mo)—BiVO4/WO3 is a composite technology mentioned in Table 8.1, achieving a maximum photocurrent of 5.35 mA cm-2."</data>
+      <data key="d2">chunk-77716b6f0353561d48cc84b8bce9d40e</data>
+    </node>
+    <node id="&quot;FEOOH-NIOOH/CARBON DOTS/BIVO4&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"FeOOH-NiOOH/carbon dots/BiVO4 is a composite technology mentioned in Table 8.1, achieving a maximum photocurrent of 5.9 mA cm-2."</data>
+      <data key="d2">chunk-77716b6f0353561d48cc84b8bce9d40e</data>
+    </node>
+    <node id="&quot;CO—PI/BIVO4/ZNO&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Co—Pi/BiVO4/ZnO is a composite technology mentioned in Table 8.1, achieving a maximum photocurrent of ~3 mA cm-2."</data>
+      <data key="d2">chunk-77716b6f0353561d48cc84b8bce9d40e</data>
+    </node>
+    <node id="&quot;CO-PI/MO—BIVO4&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Co-Pi/Mo—BiVO4 is a composite technology mentioned in Table 8.1, achieving a maximum photocurrent of ~1.25 mA cm-2."</data>
+      <data key="d2">chunk-77716b6f0353561d48cc84b8bce9d40e</data>
+    </node>
+    <node id="&quot;FEOOH/BIVO4&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"FeOOH/BiVO4 is a composite technology mentioned in Table 8.1, achieving a maximum photocurrent of ~2 mA cm-2."</data>
+      <data key="d2">chunk-77716b6f0353561d48cc84b8bce9d40e</data>
+    </node>
+    <node id="&quot;FEOOH-NIOOH/BIVO4&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"FeOOH-NiOOH/BiVO4 is a composite technology mentioned in Table 8.1, achieving a maximum photocurrent of ~4 mA cm-2."</data>
+      <data key="d2">chunk-77716b6f0353561d48cc84b8bce9d40e</data>
+    </node>
+    <node id="&quot;NI—B/BIVO4&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Ni—B/BiVO4 is a composite technology mentioned in Table 8.1, achieving a maximum photocurrent of ~1.25 mA cm-2."</data>
+      <data key="d2">chunk-77716b6f0353561d48cc84b8bce9d40e</data>
+    </node>
+    <node id="&quot;GRIMES&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Grimes is a researcher who has grown $\mathrm{BiVO_{4}/WO_{3}}$ nanorod array electrodes, demonstrating improved IPCE."</data>
+      <data key="d2">chunk-d327a1a3977a6203b724cd93ca00a29f</data>
+    </node>
+    <node id="&quot;LEE ET AL.&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Lee et al. is a group of researchers who have demonstrated a composite electrode consisting of $\mathrm{BiVO_{4}}$ coupled to four $\mathrm{WO_{3}}$ layers, showing significant increases in photocurrent and IPCE."&lt;SEP&gt;"Lee et al. is a research group that observed a significantly decreased value for charge transfer resistance in their optimized BiVO4/WO3 junction compared to bare BiVO4."</data>
+      <data key="d2">chunk-d327a1a3977a6203b724cd93ca00a29f&lt;SEP&gt;chunk-033d1f44ca5ef4c77c65b7f3b8f9747f</data>
+    </node>
+    <node id="&quot;DOMEN&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Domen is a researcher or scientist who conducted studies on $\mathrm{PtO}_{x}/\mathrm{WO}_{3}$ and its cocatalysts for oxygen evolution under visible-light irradiation."&lt;SEP&gt;"Domen is a researcher who has demonstrated triple junction $\mathrm{Co-Pi/BiVO_{4}/WO_{3}}$ nanorod photoanodes, producing high photocurrents and IPCE."</data>
+      <data key="d2">chunk-9ee02fe4aa8b10f8d72b681a996076d0&lt;SEP&gt;chunk-d327a1a3977a6203b724cd93ca00a29f</data>
+    </node>
+    <node id="&quot;TRIPLE JUNCTION $\MATHRM{CO-PI/BIVO_{4}/WO_{3}}$ NANOROD PHOTOANODES&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"This event refers to a demonstration by Domen that produced high photocurrents and IPCE, overcoming stability issues."</data>
+      <data key="d2">chunk-d327a1a3977a6203b724cd93ca00a29f</data>
+    </node>
+    <node id="&quot;$\MATHRM{BIVO_{4}/WO_{3}}$ NANOROD ARRAY ELECTRODES&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"These electrodes are grown by Grimes and show improved IPCE due to electron transfer from $\mathrm{BiVO_{4}}$ to $\mathrm{WO_{3}}$."&lt;SEP&gt;"This event refers to the growth of nanorod array electrodes by Grimes, which showed improved IPCE."</data>
+      <data key="d2">chunk-d327a1a3977a6203b724cd93ca00a29f</data>
+    </node>
+    <node id="&quot;$\MATHRM{BIVO_{4}/CUWO_{4}}$ HETEROJUNCTIONS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"These heterojunctions overcome stability issues posed by $\mathrm{WO_{3}}$ and exhibit high photocurrents."&lt;SEP&gt;"This event refers to the development of heterojunctions that overcome stability issues posed by $\mathrm{WO_{3}}$ and can exhibit high photocurrents."</data>
+      <data key="d2">chunk-d327a1a3977a6203b724cd93ca00a29f</data>
+    </node>
+    <node id="&quot;$\MATHRM{BIVO_{4}/WO_{3}}$ DOUBLE-DECK INVERSE OPAL JUNCTION&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"This event refers to the synthesis of a junction that enhances the poor charge carrier mobility of $\mathrm{BiVO_{4}}$ by combining it with a $\mathrm{WO_{3}}$ skeleton."&lt;SEP&gt;"This junction enhances the charge carrier mobility of $\mathrm{BiVO_{4}}$ and increases surface area."</data>
+      <data key="d2">chunk-d327a1a3977a6203b724cd93ca00a29f</data>
+    </node>
+    <node id="&quot;$\MATHRM{BIVO_{4}}$&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"$\mathrm{BiVO_{4}}$ is a semiconductor material that, when coupled with $\mathrm{WO_{3}}$, enhances photocurrent and IPCE."</data>
+      <data key="d2">chunk-d327a1a3977a6203b724cd93ca00a29f</data>
+    </node>
+    <node id="&quot;$\MATHRM{SNO_{2}}$ LAYER&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"The $\mathrm{SnO_{2}}$ layer is inserted between $\mathrm{BiVO_{4}}$ and $\mathrm{WO_{3}}$ to enhance photocurrent."</data>
+      <data key="d2">chunk-d327a1a3977a6203b724cd93ca00a29f</data>
+    </node>
+    <node id="&quot;$\MATHRM{WO_{3}}$ NANORODS&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"$\mathrm{WO_{3}}$ nanorods are used for light trapping and hole transfer in photoanode configurations."</data>
+      <data key="d2">chunk-d327a1a3977a6203b724cd93ca00a29f</data>
+    </node>
+    <node id="&quot;FEOOH—NIOOH/(W&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"This is a high-performing $\mathrm{BiVO_{4}}$-based junction that represents a significant advancement in the field of semiconductor-based photoanodes."</data>
+      <data key="d2">chunk-d327a1a3977a6203b724cd93ca00a29f</data>
+    </node>
+    <node id="&quot;BAND BENDING AND ALIGNMENT&quot;">
+      <data key="d2">chunk-a25ac928300ab4714b483022a1f286a6</data>
+      <data key="d1">"The Royal Society of Chemistry has published works on band bending and alignment in heterojunctions for photocatalytic water splitting, providing references for further study."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;COMPOSITE ELECTRODE&quot;">
+      <data key="d2">chunk-d327a1a3977a6203b724cd93ca00a29f</data>
+      <data key="d1">"Lee et al. have demonstrated a composite electrode consisting of $\mathrm{BiVO_{4}}$ coupled to four $\mathrm{WO_{3}}$ layers, showing significant increases in photocurrent and IPCE."&lt;SEP&gt;"Lee et al. have developed a composite electrode consisting of $\mathrm{BiVO_{4}}$ coupled to four $\mathrm{WO_{3}}$ layers, which exhibited a significant increase in photocurrent and IPCE."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;$\MATHRM{WO_{3}}$&quot;">
+      <data key="d2">chunk-d327a1a3977a6203b724cd93ca00a29f</data>
+      <data key="d1">"The $\mathrm{SnO_{2}}$ layer is used in conjunction with $\mathrm{WO_{3}}$ to enhance photocurrent."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;MONIZ ET AL.&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Moniz et al. is a research group that demonstrated the enhanced activity of a $\mathsf{C o\mathrm{{-}}P i/B i V O_{4}/Z n O}$ heterojunction."&lt;SEP&gt;"Moniz et al. is a research group that proposed a design strategy for a $\mathsf{C o\mathrm{{-}}P i/B i V O_{4}/Z n O}$ heterojunction."</data>
+      <data key="d2">chunk-cc3a4292c8bd745078b1765a7889afdb</data>
+      <data key="d3">[{"level": 0, "cluster": 4}]</data>
+    </node>
+    <node id="&quot;FU ET AL.&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Fu et al. is a research group that proposed a complex mechanism for charge transfer in $\mathrm{BiVO_{4}/Z n O}$ junctions and also reported on $\mathrm{BiVO_{4}/T i O_{2}}$ junctions."&lt;SEP&gt;"Fu et al. is a research group that reported on the charge transfer mechanism in $\mathrm{BiVO_{4}/Z n O}$ and $\mathrm{BiVO_{4}/T i O_{2}}$ junctions."&lt;SEP&gt;"Fu et al. is a research group that used TS-SPV and SS-SPV to probe charge carriers in BiVO4/TiO2 composites."</data>
+      <data key="d2">chunk-cc3a4292c8bd745078b1765a7889afdb&lt;SEP&gt;chunk-16e9ebf835f37cb6fd3406f6edf2922c</data>
+      <data key="d3">[{"level": 0, "cluster": 4}]</data>
+    </node>
+    <node id="&quot;WE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"We refers to the research group that reported on the $\mathrm{BiVO_{4}/T i O_{2}}$ junctions for water splitting."</data>
+      <data key="d2">chunk-cc3a4292c8bd745078b1765a7889afdb</data>
+      <data key="d3">[{"level": 0, "cluster": 4}]</data>
+    </node>
+    <node id="&quot;FIGURE 8.4A&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Figure 8.4a illustrates the design strategy of a $\mathsf{C o\mathrm{{-}}P i/B i V O_{4}/Z n O}$ heterojunction."</data>
+      <data key="d2">chunk-cc3a4292c8bd745078b1765a7889afdb</data>
+      <data key="d3">[{"level": 0, "cluster": 4}]</data>
+    </node>
+    <node id="&quot;FIGURE 8.4B&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Figure 8.4b illustrates the charge transfer mechanism in $\mathrm{BiVO_{4}/Z n O}$ junctions proposed by Fu et al."</data>
+      <data key="d2">chunk-cc3a4292c8bd745078b1765a7889afdb</data>
+      <data key="d3">[{"level": 0, "cluster": 4}]</data>
+    </node>
+    <node id="&quot;KUDO ET AL.&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Kudo et al. is a research group that reported the coupling of reduced graphene oxide (RGO) to BiVO4, which significantly enhanced PEC activity."</data>
+      <data key="d2">chunk-94fa033cbb96a8470acb76a680c4f004</data>
+      <data key="d3">[{"level": 0, "cluster": 8}]</data>
+    </node>
+    <node id="&quot;SIVULA ET AL.&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Sivula et al. is a research group that reported the use of a WO3 host scaffold to improve light absorption and increase the surface area of α-Fe2O3."</data>
+      <data key="d2">chunk-94fa033cbb96a8470acb76a680c4f004</data>
+    </node>
+    <node id="&quot;TI-DOPED FE2O3/SNO2 JUNCTION PHOTOELECTRODES&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"These photoelectrodes exhibit a twofold increase in electron lifetime compared to Ti:Fe2O3, as reported by a study."&lt;SEP&gt;"These photoelectrodes exhibit a twofold increase in electron lifetime compared to Ti:Fe2O3."</data>
+      <data key="d2">chunk-94fa033cbb96a8470acb76a680c4f004</data>
+    </node>
+    <node id="&quot;Α-FE2O3/WO3 ELECTRODE&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"This electrode shows higher activity for water oxidation due to more of the α-Fe2O3 being closer to the hematite/electrolyte interface."</data>
+      <data key="d2">chunk-94fa033cbb96a8470acb76a680c4f004</data>
+    </node>
+    <node id="&quot;Α-FE2O3/ZNFE2O4 COMPOSITE ELECTRODES&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"These composite electrodes exhibit enhanced photocurrents due to efficient electron and hole transfer between the materials."</data>
+      <data key="d2">chunk-94fa033cbb96a8470acb76a680c4f004</data>
+    </node>
+    <node id="&quot;TI-DOPED FE2O3/SNO2 JUNCTION PHOTOELECTRODES STUDY&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"This study involved the examination of Ti-doped Fe2O3/SnO2 junction photoelectrodes and their performance in comparison to Ti:Fe2O3."</data>
+      <data key="d2">chunk-94fa033cbb96a8470acb76a680c4f004</data>
+    </node>
+    <node id="&quot;Α-FE2O3/WO3 ELECTRODE STUDY&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"This study involved the examination of the α-Fe2O3/WO3 electrode and its performance in water oxidation."</data>
+      <data key="d2">chunk-94fa033cbb96a8470acb76a680c4f004</data>
+    </node>
+    <node id="&quot;Α-FE2O3/ZNFE2O4 COMPOSITE ELECTRODES STUDY&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"This study involved the examination of α-Fe2O3/ZnFe2O4 composite electrodes and their performance in enhancing photocurrents."</data>
+      <data key="d2">chunk-94fa033cbb96a8470acb76a680c4f004</data>
+    </node>
+    <node id="&quot;Α-FE2O3/TIO2 COUPLING STUDY&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"This study involved the examination of coupling α-Fe2O3 nanoparticles onto TiO2 to enhance water oxidation due to efficient electron transfer."</data>
+      <data key="d2">chunk-94fa033cbb96a8470acb76a680c4f004</data>
+      <data key="d3">[{"level": 0, "cluster": 8}]</data>
+    </node>
+    <node id="&quot;GRAPHENE NANOPLATES (GNP) STUDY&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"This study involved the examination of coupling α-Fe2O3 to graphene nanoplates (GNP) to achieve efficient water oxidation under visible-light irradiation."</data>
+      <data key="d2">chunk-94fa033cbb96a8470acb76a680c4f004</data>
+    </node>
+    <node id="&quot;BIVO4&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"BiVO4 is a material that, when coupled with carbon-based materials like RGO, shows enhanced PEC activity for water splitting."</data>
+      <data key="d2">chunk-94fa033cbb96a8470acb76a680c4f004</data>
+      <data key="d3">[{"level": 0, "cluster": 8}]</data>
+    </node>
+    <node id="&quot;RGO&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"RGO, or reduced graphene oxide, is used to couple with BiVO4 to enhance PEC activity."</data>
+      <data key="d2">chunk-94fa033cbb96a8470acb76a680c4f004</data>
+      <data key="d3">[{"level": 0, "cluster": 8}]</data>
+    </node>
+    <node id="&quot;PEC WATER SPLITTING&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"PEC Water Splitting is an event or process that involves the use of photoelectrodes to split water, and has been improved by the use of heterojunctions."&lt;SEP&gt;"PEC water splitting is a process or event involving the use of photoanode materials to split water into hydrogen and oxygen."&lt;SEP&gt;"PEC water splitting is an event or process described in the text, involving the use of $\alpha\mathrm{-Fe_{2}O_{3}/TiSi_{2}}$ nanonet core–shell heterojunction."&lt;SEP&gt;"PEC water splitting is the process being studied and improved through the coupling of materials like RGO to BiVO4."</data>
+      <data key="d2">chunk-9ee02fe4aa8b10f8d72b681a996076d0&lt;SEP&gt;chunk-006e75529b4dbb0790b9194f0a9f7629&lt;SEP&gt;chunk-94fa033cbb96a8470acb76a680c4f004&lt;SEP&gt;chunk-033d1f44ca5ef4c77c65b7f3b8f9747f</data>
+      <data key="d3">[{"level": 0, "cluster": 1}, {"level": 1, "cluster": 11}]</data>
+    </node>
+    <node id="&quot;HEMATITE (Α-FE2O3)&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Hematite (α-Fe2O3) is a material with a narrow bandgap that can absorb visible photons from sunlight, but its performance is hindered by charge recombination and low conductivity."</data>
+      <data key="d2">chunk-94fa033cbb96a8470acb76a680c4f004</data>
+      <data key="d3">[{"level": 0, "cluster": 1}, {"level": 1, "cluster": 11}]</data>
+    </node>
+    <node id="&quot;WO3 HOST SCAFFOLD&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"WO3 host scaffold is used by Sivula et al. to improve light absorption and increase the surface area of α-Fe2O3."</data>
+      <data key="d2">chunk-94fa033cbb96a8470acb76a680c4f004</data>
+    </node>
+    <node id="&quot;Α-FE2O3/TIO2 COUPLING&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"This coupling results in enhanced water oxidation due to efficient electron transfer from TiO2."</data>
+      <data key="d2">chunk-94fa033cbb96a8470acb76a680c4f004</data>
+      <data key="d3">[{"level": 0, "cluster": 8}]</data>
+    </node>
+    <node id="&quot;GNP STUDY&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The study involved coupling α-Fe2O3 to graphene nanoplates (GNP) to achieve efficient water oxidation under visible-light irradiation."</data>
+      <data key="d2">chunk-94fa033cbb96a8470acb76a680c4f004</data>
+    </node>
+    <node id="&quot;DFT CALCULATIONS&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"DFT calculations support the observation that coupling α-Fe2O3 nanoparticles onto TiO2 results in enhanced water oxidation due to efficient electron transfer."</data>
+      <data key="d2">chunk-94fa033cbb96a8470acb76a680c4f004</data>
+      <data key="d3">[{"level": 0, "cluster": 8}]</data>
+    </node>
+    <node id="&quot;WANG ET AL.&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Wang et al. is a research group that realized the relationship between the active components in $\mathrm{CuO/Cu_{2}O/TiO_{2}}$ heterojunctions."&lt;SEP&gt;"Wang et al. is a research group that synthesized an $\alpha\mathrm{-Fe_{2}O_{3}/TiSi_{2}}$ nanonet core–shell heterojunction for water splitting."&lt;SEP&gt;"Wang et al. is an organization or research group that reported a breakthrough in photocatalytic hydrogen evolution from water using $\mathrm{(g-C_{3}N_{4})}$, which has significantly influenced the field."&lt;SEP&gt;"Wang et al. is an organization or research team that deposited a Mn oxo-catalyst on ALD-grown $\mathrm{WO}_{3}$ films to improve stability."</data>
+      <data key="d2">chunk-ee2a5f1fd549a2cf4a7e5c35c15ccc49&lt;SEP&gt;chunk-82c87bf0f4d0072451627ba80fd6681c&lt;SEP&gt;chunk-006e75529b4dbb0790b9194f0a9f7629&lt;SEP&gt;chunk-e51b66a84e7962178361eefdb071b68d</data>
+      <data key="d3">[{"level": 0, "cluster": 1}, {"level": 1, "cluster": 10}]</data>
+    </node>
+    <node id="&quot;AL-DOPED ZINC OXIDE (AZO)&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"AZO is a material introduced into $\alpha\mathrm{-Fe_{2}O_{3}}$ to form a $\mathrm{Fe_{2}O_{3}}{-}\mathrm{AZO}$ junction, which improves electron collection and increases the surface area of the photoanode."</data>
+      <data key="d2">chunk-006e75529b4dbb0790b9194f0a9f7629</data>
+      <data key="d3">[{"level": 0, "cluster": 1}, {"level": 1, "cluster": 11}]</data>
+    </node>
+    <node id="&quot;GRAPHENE NANOPLATES (GNP)&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"GNP is a technology used to improve the conductivity and efficiency of water oxidation when coupled with $\alpha\mathrm{-Fe_{2}O_{3}}$."</data>
+      <data key="d2">chunk-006e75529b4dbb0790b9194f0a9f7629</data>
+      <data key="d3">[{"level": 0, "cluster": 3}, {"level": 1, "cluster": 12}]</data>
+    </node>
+    <node id="&quot;TISI_{2}&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"TiSi_{2} is a highly conductive metallic material used in the synthesis of $\alpha\mathrm{-Fe_{2}O_{3}/TiSi_{2}}$ nanonet core–shell heterojunction."</data>
+      <data key="d2">chunk-006e75529b4dbb0790b9194f0a9f7629</data>
+      <data key="d3">[{"level": 0, "cluster": 1}, {"level": 1, "cluster": 11}]</data>
+    </node>
+    <node id="&quot;ALD-GROWN ${\UPALPHA}\MATHRM{-}\MATHRM{FE}_{2}{\MATHRM O}_{3}$ LAYER&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"ALD-grown ${\upalpha}\mathrm{-}\mathrm{Fe}_{2}{\mathrm O}_{3}$ layer is a technology that improves the stability of AZO under experimental conditions."</data>
+      <data key="d2">chunk-006e75529b4dbb0790b9194f0a9f7629</data>
+      <data key="d3">[{"level": 0, "cluster": 1}, {"level": 1, "cluster": 11}]</data>
+    </node>
+    <node id="&quot;TIO2&quot;">
+      <data key="d2">chunk-94fa033cbb96a8470acb76a680c4f004&lt;SEP&gt;chunk-033d1f44ca5ef4c77c65b7f3b8f9747f</data>
+      <data key="d1">"TiO2 is a material used in photoelectrode junctions, alongside other materials like CdS and Co-Pi, to improve the efficiency of charge transfer."&lt;SEP&gt;"TiO2, when Ta-doped, improves charge carrier collection in BiVO4, resulting in higher photocurrent density."</data>
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d3">[{"level": 0, "cluster": 8}]</data>
+    </node>
+    <node id="&quot;Α-FE2O3&quot;">
+      <data key="d2">chunk-94fa033cbb96a8470acb76a680c4f004&lt;SEP&gt;chunk-033d1f44ca5ef4c77c65b7f3b8f9747f</data>
+      <data key="d1">"The WO3 host scaffold is used to improve the performance of α-Fe2O3 in PEC water splitting by enhancing light absorption and increasing surface area."&lt;SEP&gt;"α-Fe2O3 is a material used in photoelectrode junctions and has been studied using PEIS, IMPS, and IMVS techniques."</data>
+      <data key="d0">"TECHNOLOGY"</data>
+    </node>
+    <node id="&quot;TI-DOPED FE2O3&quot;">
+      <data key="d2">chunk-94fa033cbb96a8470acb76a680c4f004</data>
+      <data key="d1">"Ti-doped Fe2O3/SnO2 junction photoelectrodes exhibit a twofold increase in electron lifetime compared to Ti:Fe2O3."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;ZNFE2O4&quot;">
+      <data key="d2">chunk-94fa033cbb96a8470acb76a680c4f004</data>
+      <data key="d1">"The composite electrodes exhibit enhanced photocurrents due to efficient electron and hole transfer between α-Fe2O3 and ZnFe2O4."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;ALD&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"ALD stands for Atomic Layer Deposition, a technology used in forming homojunctions and overlayers in photoanode materials."</data>
+      <data key="d2">chunk-9ee02fe4aa8b10f8d72b681a996076d0</data>
+    </node>
+    <node id="&quot;ELECTROCHEMICAL IMPEDANCE SPECTROSCOPY (EIS)&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"EIS is a technology used to study charge transfer and separation processes in photoanode materials."</data>
+      <data key="d2">chunk-9ee02fe4aa8b10f8d72b681a996076d0</data>
+    </node>
+    <node id="&quot;VISIBLE-LIGHT IRRADIATION&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Visible-light Irradiation is a process used to drive hydrogen evolution from water using $\mathrm{g-C_{3}N_{4}}$ and other materials."&lt;SEP&gt;"Visible-light irradiation is an event or process used in the study of photocatalytic reactions, particularly in the context of oxygen evolution."&lt;SEP&gt;"Visible-light irradiation is a condition under which water oxidation activity is significantly improved in BiVO4/Co3O4 composites."</data>
+      <data key="d2">chunk-16e9ebf835f37cb6fd3406f6edf2922c&lt;SEP&gt;chunk-9ee02fe4aa8b10f8d72b681a996076d0&lt;SEP&gt;chunk-e51b66a84e7962178361eefdb071b68d</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;$\MATHRM{G-C_{3}N_{4}}$&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"$\mathrm{g-C_{3}N_{4}}$ is a metal-free graphitic carbon nitride that has attracted attention for its role in photocatalytic hydrogen evolution from water."</data>
+      <data key="d2">chunk-e51b66a84e7962178361eefdb071b68d</data>
+      <data key="d3">[{"level": 0, "cluster": 1}, {"level": 1, "cluster": 9}]</data>
+    </node>
+    <node id="&quot;HER&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"HER stands for Hydrogen Evolution Rate, which is a measure of the efficiency of hydrogen production in photocatalytic processes."</data>
+      <data key="d2">chunk-e51b66a84e7962178361eefdb071b68d</data>
+      <data key="d3">[{"level": 0, "cluster": 1}, {"level": 1, "cluster": 9}]</data>
+    </node>
+    <node id="&quot;$\MATHRM{SRTIO_{3}}$&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"$\mathrm{SrTiO_{3}}$ is a material used in conjunction with $\mathrm{g-C_{3}N_{4}}$ to enhance hydrogen evolution rates."</data>
+      <data key="d2">chunk-e51b66a84e7962178361eefdb071b68d</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;RH&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Rh (Ruthenium) is a metal used as a cocatalyst to enhance the performance of $\mathrm{g-C_{3}N_{4}}$ in photocatalytic hydrogen evolution."</data>
+      <data key="d2">chunk-e51b66a84e7962178361eefdb071b68d</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;IR&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Ir (Iridium) is a metal used as a cocatalyst to enhance the performance of $\mathrm{g-C_{3}N_{4}}$ in photocatalytic hydrogen evolution."</data>
+      <data key="d2">chunk-e51b66a84e7962178361eefdb071b68d</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;${\TT P T}$ (PT)&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Pt (Platinum) is a metal used as a cocatalyst to enhance the performance of $\mathrm{g-C_{3}N_{4}}$ in photocatalytic hydrogen evolution."</data>
+      <data key="d2">chunk-e51b66a84e7962178361eefdb071b68d</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;AU&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Au (Gold) is a metal used as a cocatalyst to enhance the performance of $\mathrm{g-C_{3}N_{4}}$ in photocatalytic hydrogen evolution."</data>
+      <data key="d2">chunk-e51b66a84e7962178361eefdb071b68d</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;PD&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Pd (Palladium) is a metal used as a cocatalyst to enhance the performance of $\mathrm{g-C_{3}N_{4}}$ in photocatalytic hydrogen evolution."</data>
+      <data key="d2">chunk-e51b66a84e7962178361eefdb071b68d</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;FLUORINE&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Fluorine is used in doping $\mathrm{g-C_{3}N_{4}}$ to improve its performance in photocatalytic hydrogen evolution."</data>
+      <data key="d2">chunk-e51b66a84e7962178361eefdb071b68d</data>
+      <data key="d3">[{"level": 0, "cluster": 1}, {"level": 1, "cluster": 9}]</data>
+    </node>
+    <node id="&quot;SULFUR&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Sulfur is used in doping $\mathrm{g-C_{3}N_{4}}$ to improve its performance in photocatalytic hydrogen evolution."</data>
+      <data key="d2">chunk-e51b66a84e7962178361eefdb071b68d</data>
+      <data key="d3">[{"level": 0, "cluster": 1}, {"level": 1, "cluster": 9}]</data>
+    </node>
+    <node id="&quot;$\MATHRM{C_{3}N_{4}/TIO_{2}}$ JUNCTION&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"The $\mathrm{C_{3}N_{4}/TiO_{2}}$ junction is a material combination that has been found to double the hydrogen evolution rate compared to pure $\mathrm{g-C_{3}N_{4}}$ under visible-light irradiation."</data>
+      <data key="d2">chunk-e51b66a84e7962178361eefdb071b68d</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;$\MATHRM{CBE}$ OF $\MATHRM{G-C_{3}N_{4}}$ (-1.12 EV)&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"The Conduction Band Edge (CBE) of $\mathrm{g-C_{3}N_{4}}$ is at -1.12 eV, which is more negative than that of $\mathrm{TiO_{2}}$, facilitating efficient electron transfer."</data>
+      <data key="d2">chunk-e51b66a84e7962178361eefdb071b68d</data>
+    </node>
+    <node id="&quot;$\MATHRM{CBE}$ OF $\MATHRM{TIO_{2}}$ (-0.29 EV)&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"The Conduction Band Edge (CBE) of $\mathrm{TiO_{2}}$ is at -0.29 eV, which is less negative than that of $\mathrm{g-C_{3}N_{4}}$, affecting electron transfer efficiency."</data>
+      <data key="d2">chunk-e51b66a84e7962178361eefdb071b68d</data>
+    </node>
+    <node id="&quot;$\MATHRM{C_{3}N_{4}/SRTIO_{3}}$ JUNCTION&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"The $\mathrm{C_{3}N_{4}/SrTiO_{3}}$ junction is a material combination that has been found to display a high hydrogen evolution rate under visible-light irradiation."</data>
+      <data key="d2">chunk-e51b66a84e7962178361eefdb071b68d</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;$\MATHRM{ZNO}$ PHOTOCATALYST HYBRID&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"The $\mathrm{ZnO}$ photocatalyst hybrid with graphite-like $\mathrm{C_{3}N_{4}}$ via a monolayer-dispersed method has shown a significant increase in photocurrent and suppression of $\mathrm{ZnO}$ photocorrosion."</data>
+      <data key="d2">chunk-e51b66a84e7962178361eefdb071b68d</data>
+      <data key="d3">[{"level": 0, "cluster": 0}]</data>
+    </node>
+    <node id="&quot;C3N4&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"C3N4 is a material used in the production of hydrogen from water under visible-light irradiation."</data>
+      <data key="d2">chunk-b005be5329c9ac75ae476aae3c2eba51</data>
+    </node>
+    <node id="&quot;NIS/C3N4 COMPOSITES&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"NiS/C3N4 composites are materials that have been shown to have appreciable activity for hydrogen production from water."</data>
+      <data key="d2">chunk-b005be5329c9ac75ae476aae3c2eba51</data>
+    </node>
+    <node id="&quot;NIS2&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"NiS2 is used as a cocatalyst for hydrogen production on C3N4."</data>
+      <data key="d2">chunk-b005be5329c9ac75ae476aae3c2eba51</data>
+    </node>
+    <node id="&quot;TA3N5&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Ta3N5 is coupled with C3N4 to enhance visible-light-driven hydrogen evolution."</data>
+      <data key="d2">chunk-b005be5329c9ac75ae476aae3c2eba51</data>
+    </node>
+    <node id="&quot;G-C3N4-CDS QDS COMPOSITES&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"g-C3N4-CdS QDs composites improve hydrogen production by over nine times due to in situ electron transfer to CdS."</data>
+      <data key="d2">chunk-b005be5329c9ac75ae476aae3c2eba51</data>
+    </node>
+    <node id="&quot;CARBON QUANTUM DOTS (CDOTS)&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"CDots are added to C3N4 to evolve hydrogen and oxygen in a 2:1 ratio from water under visible-light irradiation."</data>
+      <data key="d2">chunk-b005be5329c9ac75ae476aae3c2eba51</data>
+    </node>
+    <node id="&quot;CO/PT COCATALYSTS&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Co/Pt cocatalysts are used to evolve hydrogen and oxygen in a 2:1 ratio from water under visible-light irradiation without the need for sacrificial reagents."</data>
+      <data key="d2">chunk-b005be5329c9ac75ae476aae3c2eba51</data>
+    </node>
+    <node id="&quot;PURE WATER SPLITTING&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Pure water splitting is the most significant recent research area involving carbon nitride composites."</data>
+      <data key="d2">chunk-b005be5329c9ac75ae476aae3c2eba51</data>
+    </node>
+    <node id="&quot;GRÄTZEL ET AL.&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Grätzel et al. is a research group that has reported on the stability and conductivity improvements of $\mathrm{Cu_{2}O}$ electrodes in photoelectrochemical systems."</data>
+      <data key="d2">chunk-09862741ee51bafb225a8c1e64b49dbc</data>
+    </node>
+    <node id="&quot;CU2O/ZNO/AL2O3/TIO2/PT ELECTRODE&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"This electrode is a technological advancement reported by Grätzel et al., capable of high photocurrents and improved stability due to the protective nature of $\mathrm{TiO}_{2}$ and the conductivity of $Z\mathrm{nO/Al_{2}O_{3}}$ (AZO)."</data>
+      <data key="d2">chunk-09862741ee51bafb225a8c1e64b49dbc</data>
+    </node>
+    <node id="&quot;CU2O/N-AZO/TIO2/MOS2+X HETEROJUNCTION PHOTOCATHODE&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"This photocathode is another technological advancement reported by Grätzel et al., designed to improve the stability of $\mathrm{Cu_{2}O}$ in harsh acidic environments."&lt;SEP&gt;"This photocathode is another technological innovation reported by Grätzel et al., designed to improve the stability of $\mathrm{Cu_{2}O}$ in harsh acidic environments."</data>
+      <data key="d2">chunk-09862741ee51bafb225a8c1e64b49dbc</data>
+    </node>
+    <node id="&quot;NI–MO CATALYST LAYER&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"The Ni–Mo catalyst layer is a component that, when coupled with a $\mathrm{Cu_{2}O}$ electrode and a $\mathrm{MoS_{2}}$ HER catalyst, resulted in the highest reported photocurrent for a $\mathrm{Cu_{2}O}$ -based photocathode."</data>
+      <data key="d2">chunk-09862741ee51bafb225a8c1e64b49dbc</data>
+    </node>
+    <node id="&quot;PHOTOELECTROCHEMICAL HYDROGEN PRODUCTION&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Photoelectrochemical Hydrogen Production is a research focus that has been the subject of much work in the last 5-10 years."</data>
+      <data key="d2">chunk-09862741ee51bafb225a8c1e64b49dbc</data>
+    </node>
+    <node id="&quot;AM1.5 LIGHT&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"AM1.5 Light is a standard light source used in the evaluation of solar cells and photoelectrochemical systems."</data>
+      <data key="d2">chunk-09862741ee51bafb225a8c1e64b49dbc</data>
+    </node>
+    <node id="&quot;MOS2-X HER&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"MoS2-x HER is a catalyst used in the photodeposition process to enhance the photoresponse of $\mathrm{Cu_{2}O}$ electrodes."</data>
+      <data key="d2">chunk-09862741ee51bafb225a8c1e64b49dbc</data>
+    </node>
+    <node id="&quot;FIGURE 8.7&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Figure 8.7 is a reference to a schematic or diagram that illustrates the $\mathrm{Cu_{2}O/ZnO/Al2O3/TiO2/Pt}$ electrode."</data>
+      <data key="d2">chunk-09862741ee51bafb225a8c1e64b49dbc</data>
+    </node>
+    <node id="&quot;FIGURE 8.8&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Figure 8.8 is a reference to a schematic or diagram that shows the relative band positions for the $\mathrm{Cu_{2}O/AZO/TiO2/MoS2+x}$ photocathode."</data>
+      <data key="d2">chunk-09862741ee51bafb225a8c1e64b49dbc</data>
+    </node>
+    <node id="&quot;NATURE PUBLISHING GROUP&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Nature Publishing Group is the publisher of the referenced figures and studies."</data>
+      <data key="d2">chunk-ee2a5f1fd549a2cf4a7e5c35c15ccc49</data>
+      <data key="d3">[{"level": 0, "cluster": 1}, {"level": 1, "cluster": 10}]</data>
+    </node>
+    <node id="&quot;TEM&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"TEM is a technique used to observe the $\mathrm{CuO/Cu_{2}O/TiO_{2}}$ triple junction."</data>
+      <data key="d2">chunk-ee2a5f1fd549a2cf4a7e5c35c15ccc49</data>
+      <data key="d3">[{"level": 0, "cluster": 1}, {"level": 1, "cluster": 10}]</data>
+    </node>
+    <node id="&quot;CUO/CU_{2}O/TIO_{2}&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"CuO/Cu_{2}O/TiO_{2} is a heterojunction technology that was studied for its active components and restructuring process."</data>
+      <data key="d2">chunk-ee2a5f1fd549a2cf4a7e5c35c15ccc49</data>
+      <data key="d3">[{"level": 0, "cluster": 7}]</data>
+    </node>
+    <node id="&quot;CUO-TIO_{2}&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"CuO-TiO_{2} is a specific technology that does not initially catalyze water reduction but undergoes a restructuring process."</data>
+      <data key="d2">chunk-ee2a5f1fd549a2cf4a7e5c35c15ccc49</data>
+      <data key="d3">[{"level": 0, "cluster": 1}, {"level": 1, "cluster": 10}]</data>
+    </node>
+    <node id="&quot;H_{2}&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"H_{2} is the hydrogen gas evolved faster by the $\mathrm{CuO/Cu_{2}O/TiO_{2}}$ triple junction under solar irradiation."</data>
+      <data key="d2">chunk-ee2a5f1fd549a2cf4a7e5c35c15ccc49</data>
+      <data key="d3">[{"level": 0, "cluster": 7}]</data>
+    </node>
+    <node id="&quot;SOLAR IRRADIATION&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Solar Irradiation is the event under which the $\mathrm{CuO/Cu_{2}O/TiO_{2}}$ triple junction evolves hydrogen gas faster than P25 $\mathrm{TiO}_{2}$."</data>
+      <data key="d2">chunk-ee2a5f1fd549a2cf4a7e5c35c15ccc49</data>
+      <data key="d3">[{"level": 0, "cluster": 7}]</data>
+    </node>
+    <node id="&quot;P25 TIO_{2}&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"P25 TiO_{2} is a benchmark technology used for comparison with the $\mathrm{CuO/Cu_{2}O/TiO_{2}}$ triple junction in terms of hydrogen gas evolution under solar irradiation."</data>
+      <data key="d2">chunk-ee2a5f1fd549a2cf4a7e5c35c15ccc49</data>
+      <data key="d3">[{"level": 0, "cluster": 7}]</data>
+    </node>
+    <node id="&quot;AAAS&quot;">
+      <data key="d2">chunk-09862741ee51bafb225a8c1e64b49dbc</data>
+      <data key="d1">"AAAS holds the copyright for research on $\mathrm{C}_{3}\mathrm{N}_{4}$ and its applications in photoelectrochemical systems."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;C3N4 RESEARCH&quot;">
+      <data key="d2">chunk-09862741ee51bafb225a8c1e64b49dbc</data>
+      <data key="d1">"AAAS holds the copyright for research on $\mathrm{C}_{3}\mathrm{N}_{4}$ and its applications in photoelectrochemical systems."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;ABDI AND VAN DE KROL&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Abdi and van de Krol are researchers who have contributed to the field of photocatalytic activity enhancement by growing a Co—Pi OEC layer on $\mathrm{BiVO_{4}}$ photoanodes."</data>
+      <data key="d2">chunk-923d76f68dd918ad595bcbed7dc3ec79</data>
+    </node>
+    <node id="&quot;PILLI ET AL.&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Pilli et al. are researchers who demonstrated the photocatalytic activity enhancement of Mo-doped $\mathrm{BiVO_{4}}$ electrodes with Co—Pi loading."</data>
+      <data key="d2">chunk-923d76f68dd918ad595bcbed7dc3ec79</data>
+    </node>
+    <node id="&quot;ZHONG ET AL.&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Zhong et al. are researchers who electrodeposited $\mathrm{Co-Pi}$ onto $\alpha{\mathrm{-Fe}}_{2}{\mathrm{O}}_{3}$ electrodes, observing significant improvements in their performance."&lt;SEP&gt;"Zhong et al. are researchers who observed significant improvements in $\alpha{\mathrm{-Fe}}_{2}{\mathrm{O}}_{3}$ electrodes after electrodeposition of $\mathrm{Co-Pi}$, including a cathodic shift in onset potential and an increase in IPCE."&lt;SEP&gt;"Zhong et al. is a research group that proposed CdS-based heterojunctions for improved PEC water splitting."</data>
+      <data key="d2">chunk-923d76f68dd918ad595bcbed7dc3ec79&lt;SEP&gt;chunk-033d1f44ca5ef4c77c65b7f3b8f9747f</data>
+    </node>
+    <node id="&quot;CO—PI OEC LAYER&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Co—Pi OEC layer is a catalyst layer that enhances the performance of $\mathrm{BiVO_{4}}$ photoanodes."</data>
+      <data key="d2">chunk-923d76f68dd918ad595bcbed7dc3ec79</data>
+    </node>
+    <node id="&quot;FEOOH OEC&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"FeOOH OEC is a catalyst layer that significantly enhances the photocurrent generation and stability of $\mathrm{BiVO_{4}}$ photoanodes."</data>
+      <data key="d2">chunk-923d76f68dd918ad595bcbed7dc3ec79</data>
+    </node>
+    <node id="&quot;NIOOH OEC&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"NiOOH OEC is a catalyst layer that, when coupled with FeOOH, enhances the photocurrent generation of $\mathrm{BiVO_{4}}$ photoanodes."</data>
+      <data key="d2">chunk-923d76f68dd918ad595bcbed7dc3ec79</data>
+    </node>
+    <node id="&quot;NICKEL-BORATE (NI—B) OEC&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Nickel-borate (Ni—B) OEC is a catalyst layer that enhances the photocurrent generation and IPCE of $\mathrm{BiVO_{4}}$ photoanodes."</data>
+      <data key="d2">chunk-923d76f68dd918ad595bcbed7dc3ec79</data>
+    </node>
+    <node id="&quot;$\MATHRM{NIO/\ALPHA{-NI}(O H)_{2}.}$ –HEMATITE ELECTRODES&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"$\mathrm{NiO/\alpha{-Ni}(O H)_{2}.}$ –hematite electrodes are a type of technology that displays improved activity toward water oxidation."</data>
+      <data key="d2">chunk-923d76f68dd918ad595bcbed7dc3ec79</data>
+    </node>
+    <node id="&quot;ELECTROPHORETIC DEPOSITION OF IRIDIUM OXIDE NANOPARTICLES&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Electrophoretic deposition of iridium oxide nanoparticles onto hematite photoanodes enhances their performance in water oxidation."</data>
+      <data key="d2">chunk-923d76f68dd918ad595bcbed7dc3ec79</data>
+    </node>
+    <node id="&quot;WATER OXIDATION&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Water Oxidation is a process studied in the context of solar fuels research, particularly in relation to $\mathrm{TiO}_{2}$ and $\alpha{\mathrm{-Fe}_{2}}{\mathrm{O}_{3}}$ electrodes."&lt;SEP&gt;"Water Oxidation is a process that is the focus of the research described, involving the use of various catalysts to improve efficiency."&lt;SEP&gt;"Water Oxidation is an event or process that involves the use of photoelectrodes to split water, and has been studied in the context of charge transfer and recombination."</data>
+      <data key="d2">chunk-16b2424f0988972ec997197e401d55d3&lt;SEP&gt;chunk-923d76f68dd918ad595bcbed7dc3ec79&lt;SEP&gt;chunk-033d1f44ca5ef4c77c65b7f3b8f9747f</data>
+    </node>
+    <node id="&quot;PROLONGED ILLUMINATION&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Prolonged Illumination is a condition under which the stability of $\mathrm{BiVO_{4}}$ photoanodes is improved by the FeOOH layer."</data>
+      <data key="d2">chunk-923d76f68dd918ad595bcbed7dc3ec79</data>
+    </node>
+    <node id="&quot;TAS&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"TAS (Time-Resolved Absorption Spectroscopy) is a technique used to measure the number and lifetime of long-lived charges in photocatalysis."&lt;SEP&gt;"TAS is a technique used to observe the suppression of electron–hole recombination by Co—Pi on $\alpha{\mathrm{-Fe}}_{2}{\mathrm{O}}_{3}$ electrodes."</data>
+      <data key="d2">chunk-4b9f22e2bbfe258bca1b8d79e59235b4&lt;SEP&gt;chunk-923d76f68dd918ad595bcbed7dc3ec79</data>
+    </node>
+    <node id="&quot;$\MATHRM{BIVO_{4}}$ PHOTOANODES&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"$\mathrm{BiVO_{4}}$ photoanodes are a type of technology used in photocatalytic research, showing superior performance for water oxidation."</data>
+      <data key="d2">chunk-923d76f68dd918ad595bcbed7dc3ec79</data>
+    </node>
+    <node id="&quot;SEABOLD AND CHOI&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Seabold and Choi is an organization or research team that deposited Co—Pi OEC on $\mathrm{WO}_{3}$ photoanodes."</data>
+      <data key="d2">chunk-82c87bf0f4d0072451627ba80fd6681c</data>
+      <data key="d3">[{"level": 0, "cluster": 2}]</data>
+    </node>
+    <node id="&quot;CO—PI OEC&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Co—Pi OEC is a technology used as an Oxygen Evolving Catalyst (OEC) on $\mathrm{WO}_{3}$ photoanodes."</data>
+      <data key="d2">chunk-82c87bf0f4d0072451627ba80fd6681c</data>
+      <data key="d3">[{"level": 0, "cluster": 2}]</data>
+    </node>
+    <node id="&quot;MN OXO-CATALYST&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Mn oxo-catalyst is a technology used to improve the stability of $\mathrm{WO}_{3}$ photoanodes towards water oxidation."</data>
+      <data key="d2">chunk-82c87bf0f4d0072451627ba80fd6681c</data>
+      <data key="d3">[{"level": 0, "cluster": 1}, {"level": 1, "cluster": 10}]</data>
+    </node>
+    <node id="&quot;ELECTROPHORETIC DEPOSITION OF CATALYTIC IRIDIUM OXIDE NANOPARTICLES&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"This event describes the process of depositing $\mathrm{IrO}_{2}$ nanoparticles onto hematite photoanodes, which improved the onset potential and photocurrent density."</data>
+      <data key="d2">chunk-82c87bf0f4d0072451627ba80fd6681c</data>
+    </node>
+    <node id="&quot;PHOTODEPOSITION OF NI—B OEC ON $\ALPHA{\MATHRM{-FE}}_{2}{\MATHRM{O}}_{3}$ NANORODS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"This event describes the process of depositing Ni—B OEC on $\alpha{\mathrm{-Fe}}_{2}{\mathrm{O}}_{3}$ nanorods, which resulted in a cathodic shift of the onset potential and an increase in photocurrent density."</data>
+      <data key="d2">chunk-82c87bf0f4d0072451627ba80fd6681c</data>
+    </node>
+    <node id="&quot;TRANSIENT ABSORPTION SPECTROSCOPY (TAS)&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"TAS is a technique used to measure the decay kinetics of charge carriers in solar cell materials and PEC materials."</data>
+      <data key="d2">chunk-82c87bf0f4d0072451627ba80fd6681c</data>
+    </node>
+    <node id="&quot;PHOTODEPOSITION OF NI—B OEC ON $\ALPHA{\MATHRM{-FE}}_{2}\MATHRM{O}_{3}$ NANORODS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"This event describes the process of depositing Ni—B OEC on $\alpha{\mathrm{-Fe}}_{2}\mathrm{O}_{3}$ nanorods, which resulted in a cathodic shift of the onset potential and an increase in photocurrent density."</data>
+      <data key="d2">chunk-82c87bf0f4d0072451627ba80fd6681c</data>
+    </node>
+    <node id="&quot;HEMATITE PHOTOANODES&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Hematite Photoanodes are used in the electrophoretic deposition of $\mathrm{IrO}_{2}$ nanoparticles to improve their performance."</data>
+      <data key="d2">chunk-82c87bf0f4d0072451627ba80fd6681c</data>
+    </node>
+    <node id="&quot;$\ALPHA{\MATHRM{-FE}}_{2}\MATHRM{O}_{3}$ NANORODS&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"$\alpha{\mathrm{-Fe}}_{2}\mathrm{O}_{3}$ nanorods are used in the photodeposition of Ni—B OEC to improve their performance."</data>
+      <data key="d2">chunk-82c87bf0f4d0072451627ba80fd6681c</data>
+    </node>
+    <node id="&quot;$\MATHRM{WO}_{3}$ PHOTOANODES&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"$\mathrm{WO}_{3}$ Photoanodes are used in the deposition of Co—Pi OEC and Mn oxo-catalyst to improve their performance."</data>
+      <data key="d2">chunk-82c87bf0f4d0072451627ba80fd6681c</data>
+      <data key="d3">[{"level": 0, "cluster": 2}]</data>
+    </node>
+    <node id="&quot;BERERA ET AL.&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Berera et al. is an organization or research team that describes the process of using TAS to measure charge carrier kinetics."</data>
+      <data key="d2">chunk-82c87bf0f4d0072451627ba80fd6681c</data>
+    </node>
+    <node id="&quot;SOLAR FUELS RESEARCH&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Solar Fuels Research involves the use of techniques like TAS to understand and improve the efficiency of semiconductor water splitting."</data>
+      <data key="d2">chunk-82c87bf0f4d0072451627ba80fd6681c</data>
+    </node>
+    <node id="&quot;HETEROJUNCTION SYSTEMS&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Heterojunction Systems are a type of system in solar fuels research where suppressing recombination and increasing carrier lifetimes are key objectives."</data>
+      <data key="d2">chunk-82c87bf0f4d0072451627ba80fd6681c</data>
+    </node>
+    <node id="&quot;NONRADIATIVE ELECTRON–HOLE RECOMBINATION&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Nonradiative Electron–Hole Recombination is a process that reduces the efficiency of semiconductor water splitting."</data>
+      <data key="d2">chunk-82c87bf0f4d0072451627ba80fd6681c</data>
+    </node>
+    <node id="&quot;SURFACE MODIFICATION WITH CO—PI&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Surface Modification with Co—Pi is a technique used in solar fuels research to observe changes in photocurrent and the appearance of long-lived hematite photoholes."</data>
+      <data key="d2">chunk-16b2424f0988972ec997197e401d55d3</data>
+    </node>
+    <node id="&quot;MO-DOPED $\MATHRM{BIVO_{4}}$ ELECTRODES&quot;">
+      <data key="d2">chunk-923d76f68dd918ad595bcbed7dc3ec79</data>
+      <data key="d1">"Pilli et al. demonstrated that Mo-doped $\mathrm{BiVO_{4}}$ electrodes' photocatalytic activity doubles with Co—Pi loading."&lt;SEP&gt;"Pilli et al. showed that the photocatalytic activity of Mo-doped $\mathrm{BiVO_{4}}$ electrodes doubles with Co—Pi loading."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;$\ALPHA{\MATHRM{-FE}}_{2}{\MATHRM{O}}_{3}$ ELECTRODES&quot;">
+      <data key="d2">chunk-923d76f68dd918ad595bcbed7dc3ec79</data>
+      <data key="d1">"Zhong et al. electrodeposited $\mathrm{Co-Pi}$ onto $\alpha{\mathrm{-Fe}}_{2}{\mathrm{O}}_{3}$ electrodes, observing significant improvements in their performance."&lt;SEP&gt;"Zhong et al. electrodeposited Co—Pi onto $\alpha{\mathrm{-Fe}}_{2}{\mathrm{O}}_{3}$ electrodes, improving their performance in water oxidation."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;W-DOPED $\MATHRM{BIVO_{4}}$ PHOTOANODES&quot;">
+      <data key="d2">chunk-923d76f68dd918ad595bcbed7dc3ec79</data>
+      <data key="d1">"Pilli et al. also showed that W-doped $\mathrm{BiVO_{4}}$ photoanodes' activity is enhanced by Co—Pi loading."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;$\ALPHA{\MATHRM{-FE}}_{2}{\MATHRM{O}}_{3}$ NANORODS&quot;">
+      <data key="d2">chunk-82c87bf0f4d0072451627ba80fd6681c</data>
+      <data key="d1">"The event of photodeposition of Ni—B OEC on $\alpha{\mathrm{-Fe}}_{2}{\mathrm{O}}_{3}$ nanorods improved the onset potential and photocurrent density."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;CHARGE CARRIER KINETICS&quot;">
+      <data key="d2">chunk-82c87bf0f4d0072451627ba80fd6681c</data>
+      <data key="d1">"TAS is used to measure the kinetics of charge carriers in solar cell materials and PEC materials, aiding in understanding and improving the efficiency of these systems."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;KLOTZ ET AL.&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Klotz et al. is a research group that has provided a recent perspective on the use of PEIS, IMPS, and IMVS techniques to study photoelectrode performance."</data>
+      <data key="d2">chunk-033d1f44ca5ef4c77c65b7f3b8f9747f</data>
+    </node>
+    <node id="&quot;CDS-BASED JUNCTIONS&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"CdS-based junctions are a type of photoelectrode used in the study of charge transfer and recombination processes."</data>
+      <data key="d2">chunk-033d1f44ca5ef4c77c65b7f3b8f9747f</data>
+    </node>
+    <node id="&quot;BIVO4/WO3 JUNCTION&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"BiVO4/WO3 junction is a specific type of heterojunction that has been optimized to exhibit favorable charge transfer characteristics."</data>
+      <data key="d2">chunk-033d1f44ca5ef4c77c65b7f3b8f9747f</data>
+    </node>
+    <node id="&quot;IMPS (INTENSITY-MODULATED PHOTOCURRENT SPECTROSCOPY)&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"IMPS is a technique used to study photoelectrode performance, particularly in the context of charge carrier kinetics and recombination."</data>
+      <data key="d2">chunk-033d1f44ca5ef4c77c65b7f3b8f9747f</data>
+    </node>
+    <node id="&quot;IMVS (INTENSITY-MODULATED PHOTOVOLTAGE SPECTROSCOPY)&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"IMVS is a technique used to study photoelectrode performance, particularly in the context of charge carrier kinetics and recombination."</data>
+      <data key="d2">chunk-033d1f44ca5ef4c77c65b7f3b8f9747f</data>
+    </node>
+    <node id="&quot;PEIS (PHOTOELECTROCHEMICAL IMPEDANCE SPECTROSCOPY)&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"PEIS is a technique used to study photoelectrode performance, particularly in the context of charge carrier kinetics and recombination."</data>
+      <data key="d2">chunk-033d1f44ca5ef4c77c65b7f3b8f9747f</data>
+    </node>
+    <node id="&quot;SPS (SURFACE PHOTOVOLTAGE SPECTROSCOPY)&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"SPS is a measurement technique used to probe charge carrier kinetics and recombination in dye sensitized solar cells and semiconductor photoelectrodes."</data>
+      <data key="d2">chunk-033d1f44ca5ef4c77c65b7f3b8f9747f</data>
+    </node>
+    <node id="&quot;JOHN WILEY &amp; SONS&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"John Wiley &amp; Sons is a publishing company that has granted permission for the reproduction of a figure related to the study of photoelectrode performance."</data>
+      <data key="d2">chunk-033d1f44ca5ef4c77c65b7f3b8f9747f</data>
+    </node>
+    <node id="&quot;TIO2/CDS&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"TiO2/CdS is a type of photoelectrode junction used in the study of charge transfer and recombination processes."</data>
+      <data key="d2">chunk-033d1f44ca5ef4c77c65b7f3b8f9747f</data>
+    </node>
+    <node id="&quot;TIO2/CDS/CO-PI&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"TiO2/CdS/Co-Pi is a type of photoelectrode junction used in the study of charge transfer and recombination processes."</data>
+      <data key="d2">chunk-033d1f44ca5ef4c77c65b7f3b8f9747f</data>
+    </node>
+    <node id="&quot;TIO2/CDS/CU2O/RGO&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"TiO2/CdS/Cu2O/RGO is a type of photoelectrode junction used in the study of charge transfer and recombination processes."</data>
+      <data key="d2">chunk-033d1f44ca5ef4c77c65b7f3b8f9747f</data>
+    </node>
+    <node id="&quot;IMPS, IMVS, PEIS&quot;">
+      <data key="d2">chunk-033d1f44ca5ef4c77c65b7f3b8f9747f</data>
+      <data key="d1">"Klotz et al. provided a recent perspective on the use of IMPS, IMVS, and PEIS techniques to study photoelectrode performance."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;DYE SENSITIZED SOLAR CELLS&quot;">
+      <data key="d2">chunk-033d1f44ca5ef4c77c65b7f3b8f9747f</data>
+      <data key="d1">"SPS has been used for many years to probe charge carrier kinetics and recombination in dye sensitized solar cells."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;SPS&quot;">
+      <data key="d2">chunk-033d1f44ca5ef4c77c65b7f3b8f9747f</data>
+      <data key="d1">"SPS has been used for many years to probe charge carrier kinetics and recombination in dye sensitized solar cells."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;SEMICONDUCTOR PHOTOELECTRODES FOR WATER SPLITTING&quot;">
+      <data key="d2">chunk-033d1f44ca5ef4c77c65b7f3b8f9747f</data>
+      <data key="d1">"SPS has only recently been applied to the field of semiconductor photoelectrodes for water splitting."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;FIGURE 8.11&quot;">
+      <data key="d2">chunk-033d1f44ca5ef4c77c65b7f3b8f9747f</data>
+      <data key="d1">"The Royal Society of Chemistry granted permission for the reproduction of Figure 8.11, which includes the Nyquist plot of a BiVO4/WO3 junction."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;FIGURE 8.12&quot;">
+      <data key="d2">chunk-033d1f44ca5ef4c77c65b7f3b8f9747f</data>
+      <data key="d1">"John Wiley &amp; Sons granted permission for the reproduction of Figure 8.12, which includes the Nyquist plot and fitted equivalent circuit model of CdS-based heterojunctions."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;OSTERLOH ET AL.&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Osterloh et al. is a research group that measured internal photovoltages in platinum-/ruthenium-modified Rh-doped SrTiO3 nanocrystals."</data>
+      <data key="d2">chunk-16e9ebf835f37cb6fd3406f6edf2922c</data>
+    </node>
+    <node id="&quot;ZHAO AND OSTERLOH&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Zhao and Osterloh is a research duo that reported the use of SPV spectroscopy to probe carrier dynamics in nanocrystal films of HCa2Nb3O10."</data>
+      <data key="d2">chunk-16e9ebf835f37cb6fd3406f6edf2922c</data>
+    </node>
+    <node id="&quot;CUS/ZN0.8CD0.2S&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"CuS/Zn0.8Cd0.2S is a composite material that has shown improved charge separation compared to CuS alone, as observed in visible-light-driven hydrogen production from water."</data>
+      <data key="d2">chunk-16e9ebf835f37cb6fd3406f6edf2922c</data>
+    </node>
+    <node id="&quot;BIVO4/TIO2&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"BiVO4/TiO2 is a composite material that has shown improved charge separation due to the unusual spatial transfer of high-energy electrons from BiVO4 to TiO2."</data>
+      <data key="d2">chunk-16e9ebf835f37cb6fd3406f6edf2922c</data>
+      <data key="d3">[{"level": 0, "cluster": 4}]</data>
+    </node>
+    <node id="&quot;HCA2NB3O10&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"HCa2Nb3O10 is a material whose carrier dynamics were probed using SPV spectroscopy by Zhao and Osterloh."</data>
+      <data key="d2">chunk-16e9ebf835f37cb6fd3406f6edf2922c</data>
+    </node>
+    <node id="&quot;CUS&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"CuS is a material that, when combined with Zn0.8Cd0.2S, shows improved charge separation efficiency."</data>
+      <data key="d2">chunk-16e9ebf835f37cb6fd3406f6edf2922c</data>
+    </node>
+    <node id="&quot;SS-SPV&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"SS-SPV is a steady state experiment used to measure the surface photovoltage as a function of light wavelength."</data>
+      <data key="d2">chunk-16e9ebf835f37cb6fd3406f6edf2922c</data>
+    </node>
+    <node id="&quot;TS-SPV&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"TS-SPV is a transient measurement used to measure the surface photovoltage as a function of time."</data>
+      <data key="d2">chunk-16e9ebf835f37cb6fd3406f6edf2922c</data>
+      <data key="d3">[{"level": 0, "cluster": 4}]</data>
+    </node>
+    <node id="&quot;VISIBLE-LIGHT-DRIVEN HYDROGEN PRODUCTION FROM WATER&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Visible-light-driven hydrogen production from water is an observed phenomenon on CuS/Zn0.8Cd0.2S composites, indicating improved charge separation."</data>
+      <data key="d2">chunk-16e9ebf835f37cb6fd3406f6edf2922c</data>
+    </node>
+    <node id="&quot;PHOTOCHEMICAL CHARGE SEPARATION&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Photochemical charge separation is an event evaluated using SPV spectroscopy at the sample–support (Au) interface."</data>
+      <data key="d2">chunk-16e9ebf835f37cb6fd3406f6edf2922c</data>
+    </node>
+    <node id="&quot;WATER OXIDATION UNDER VISIBLE-LIGHT IRRADIATION&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Water oxidation under visible-light irradiation is an event demonstrated with significantly improved activity in BiVO4/Co3O4 composites."</data>
+      <data key="d2">chunk-16e9ebf835f37cb6fd3406f6edf2922c</data>
+    </node>
+    <node id="&quot;ZN0.8CD0.2S&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Zn0.8Cd0.2S is a material that, when combined with CuS, shows improved charge separation efficiency in visible-light-driven hydrogen production from water."</data>
+      <data key="d2">chunk-16e9ebf835f37cb6fd3406f6edf2922c</data>
+    </node>
+    <node id="&quot;PEDOT:PSS LAYER&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"PEDOT:PSS layer is an electron-blocking layer used in experiments to evaluate photochemical charge separation efficiency."</data>
+      <data key="d2">chunk-16e9ebf835f37cb6fd3406f6edf2922c</data>
+    </node>
+    <node id="&quot;BIVO4/CO3O4 COMPOSITES&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"BiVO4/Co3O4 composites are materials that have shown significantly improved activity for water oxidation under visible-light irradiation."</data>
+      <data key="d2">chunk-16e9ebf835f37cb6fd3406f6edf2922c</data>
+    </node>
+    <node id="&quot;AG/AG3PO4/GRAPHENE&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Ag/Ag3PO4/graphene is a visible-driven heterojunction catalyst that has shown improved charge separation."</data>
+      <data key="d2">chunk-16e9ebf835f37cb6fd3406f6edf2922c</data>
+    </node>
+    <node id="&quot;NIS/CDS&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"NiS/CdS is a visible-driven heterojunction catalyst that has shown improved charge separation."</data>
+      <data key="d2">chunk-16e9ebf835f37cb6fd3406f6edf2922c</data>
+    </node>
+    <node id="&quot;MN/ZNO&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Mn/ZnO is a visible-driven heterojunction catalyst that has shown improved charge separation."</data>
+      <data key="d2">chunk-16e9ebf835f37cb6fd3406f6edf2922c</data>
+    </node>
+    <node id="&quot;V2O5/BIVO4&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"V2O5/BiVO4 is a visible-driven heterojunction catalyst that has shown improved charge separation."</data>
+      <data key="d2">chunk-16e9ebf835f37cb6fd3406f6edf2922c</data>
+    </node>
+    <node id="&quot;ELECTRON TRANSFER ACROSS THE NANOCRYSTAL–GOLD INTERFACE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Electron transfer across the nanocrystal–gold interface is an event that occurs in the presence of an electron blocking PEDOT:PSS layer."</data>
+      <data key="d2">chunk-16e9ebf835f37cb6fd3406f6edf2922c</data>
+    </node>
+    <node id="&quot;PARTICLE-BASED SYSTEM&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Particle-based system is another technology used in water splitting, alongside PEC cells, and is noted for its potential due to the use of carbon-based materials."</data>
+      <data key="d2">chunk-e367a391cb298cff23d39f5fbfece5a1</data>
+    </node>
+    <node id="&quot;CARBON-BASED MATERIALS&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Carbon-based materials are highlighted for their potential in large-scale water splitting due to their excellent performance and low materials cost."</data>
+      <data key="d2">chunk-e367a391cb298cff23d39f5fbfece5a1</data>
+    </node>
+    <node id="&quot;ROYAL SOCIETY OF CHEMISTRY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Royal Society of Chemistry is an organization referenced in the text for permission to reproduce a figure, indicating its role in scientific publishing."</data>
+      <data key="d2">chunk-e367a391cb298cff23d39f5fbfece5a1</data>
+    </node>
+    <node id="&quot;PT AND RU COCATALYSTS&quot;">
+      <data key="d2">chunk-16e9ebf835f37cb6fd3406f6edf2922c</data>
+      <data key="d1">"Osterloh et al. measured the internal photovoltages in single crystalline platinum-/ruthenium-modified Rh-doped SrTiO3 nanocrystals, showing the importance of these cocatalysts in their research."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;AU SUBSTRATE&quot;">
+      <data key="d2">chunk-16e9ebf835f37cb6fd3406f6edf2922c</data>
+      <data key="d1">"HCa2Nb3O10 films on an Au substrate were used to evaluate the efficiency of photochemical charge separation at the sample–support interface."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;CO3O4&quot;">
+      <data key="d2">chunk-16e9ebf835f37cb6fd3406f6edf2922c</data>
+      <data key="d1">"BiVO4 and Co3O4 are combined in composites that have significantly improved activity for water oxidation under visible-light irradiation, resulting in improved electron–hole separation due to hole injection into Co3O4."</data>
+      <data key="d0">"UNKNOWN"</data>
+      <data key="d3">[{"level": 0, "cluster": 8}]</data>
+    </node>
+    <node id="&quot;VISIBLE-LIGHT-DRIVEN HYDROGEN PRODUCTION&quot;">
+      <data key="d2">chunk-16e9ebf835f37cb6fd3406f6edf2922c</data>
+      <data key="d1">"Ag/Ag3PO4/graphene is a visible-driven heterojunction catalyst that has shown improved charge separation, contributing to visible-light-driven hydrogen production."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;PEC CELL&quot;">
+      <data key="d2">chunk-e367a391cb298cff23d39f5fbfece5a1</data>
+      <data key="d1">"Carbon-based materials have the potential to be utilized within PEC cells for large-scale water splitting."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <node id="&quot;FIGURE 8.14&quot;">
+      <data key="d2">chunk-e367a391cb298cff23d39f5fbfece5a1</data>
+      <data key="d1">"The Royal Society of Chemistry granted permission for the reproduction of Figure 8.14, indicating its role in the dissemination of scientific research."</data>
+      <data key="d0">"UNKNOWN"</data>
+    </node>
+    <edge source="&quot;AMERICAN CHEMICAL SOCIETY&quot;" target="&quot;WATER SPLITTING&quot;">
+      <data key="d4">16.0</data>
+      <data key="d5">"The American Chemical Society has published research on the mechanism of water splitting under solar irradiation, as referenced in the text."</data>
+      <data key="d6">chunk-618e09dd77f4b9bfd910c8187704f282</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;AMERICAN CHEMICAL SOCIETY&quot;" target="&quot;MONIZ ET AL.&quot;">
+      <data key="d4">5.0</data>
+      <data key="d5">"Moniz et al.'s work was published and reproduced with permission from the American Chemical Society."</data>
+      <data key="d6">chunk-cc3a4292c8bd745078b1765a7889afdb</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;AMERICAN CHEMICAL SOCIETY&quot;" target="&quot;FU ET AL.&quot;">
+      <data key="d4">5.0</data>
+      <data key="d5">"Fu et al.'s work was published and reproduced with permission from the American Chemical Society."</data>
+      <data key="d6">chunk-cc3a4292c8bd745078b1765a7889afdb</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;AMERICAN CHEMICAL SOCIETY&quot;" target="&quot;FIGURE 8.4B&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"The American Chemical Society holds the copyright for the work illustrated in Figure 8.4b."</data>
+      <data key="d6">chunk-cc3a4292c8bd745078b1765a7889afdb</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;NATURE&quot;" target="&quot;WATER SPLITTING&quot;">
+      <data key="d4">14.0</data>
+      <data key="d5">"Nature is used as a reference for an efficient strategy to utilize solar irradiation, which is compared to the process of water splitting in artificial photosynthesis."</data>
+      <data key="d6">chunk-618e09dd77f4b9bfd910c8187704f282</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;WATER SPLITTING&quot;" target="&quot;SOLAR FUELS DEVELOPMENT&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"Water Splitting is a critical process for the Solar Fuels Development mission, aiming to secure alternative clean, renewable energy supplies."</data>
+      <data key="d6">chunk-618e09dd77f4b9bfd910c8187704f282</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;WATER SPLITTING&quot;" target="&quot;SOLAR SPECTRUM UTILIZATION&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"Efficient utilization of the solar spectrum is required for the Water Splitting event to be successful in the context of solar fuels development."</data>
+      <data key="d6">chunk-618e09dd77f4b9bfd910c8187704f282</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;WATER SPLITTING&quot;" target="&quot;ARTIFICIAL PHOTOSYNTHESIS&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"Artificial Photosynthesis involves the study and improvement of the fundamental mechanism and kinetics of the Water Splitting process."</data>
+      <data key="d6">chunk-618e09dd77f4b9bfd910c8187704f282</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;WATER SPLITTING&quot;" target="&quot;PHOTOELECTROCHEMICAL CELLS (PEC)&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"PEC technology is used to improve the efficiency of the Water Splitting process by utilizing minimal applied bias."</data>
+      <data key="d6">chunk-618e09dd77f4b9bfd910c8187704f282</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;WATER SPLITTING&quot;" target="&quot;SEMICONDUCTOR LIQUID JUNCTION (SCLJ)&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"Water Splitting involves the formation of a Semiconductor Liquid Junction (SCLJ) as a result of electron transfer between the semiconductor and the electrolyte solution."</data>
+      <data key="d6">chunk-bc186a3ef3219bf5d0d5dace7d8369c0</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;WATER SPLITTING&quot;" target="&quot;HETEROJUNCTIONS&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"Heterojunctions play a crucial role in improving the efficiency of water splitting by enhancing charge separation and reducing recombination."</data>
+      <data key="d6">chunk-bc186a3ef3219bf5d0d5dace7d8369c0</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;WATER SPLITTING&quot;" target="&quot;OXYGEN EVOLUTION CATALYSTS (OECS)&quot;">
+      <data key="d4">27.0</data>
+      <data key="d5">"OECs are crucial for sustainable solar fuel generation by aiding charge separation and lowering the activation energy for water oxidation, which is part of the water splitting process."</data>
+      <data key="d6">chunk-a25ac928300ab4714b483022a1f286a6</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;WATER SPLITTING&quot;" target="&quot;OXYGEN EVOLUTION REACTION (OER)&quot;">
+      <data key="d4">24.0</data>
+      <data key="d5">"OER is a critical event in the water splitting process, requiring a large overpotential due to its relatively slow kinetics."</data>
+      <data key="d6">chunk-a25ac928300ab4714b483022a1f286a6</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;WATER SPLITTING&quot;" target="&quot;BIVO_{4}&quot;">
+      <data key="d4">27.0</data>
+      <data key="d5">"BiVO_{4} is a highly responsive visible-light-driven photocatalyst for water oxidation, attracting widespread attention for its use in both suspension and photoelectrochemical (PEC) systems for water splitting."</data>
+      <data key="d6">chunk-a25ac928300ab4714b483022a1f286a6</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;WATER SPLITTING&quot;" target="&quot;W:BIVO_{4}&quot;">
+      <data key="d4">24.0</data>
+      <data key="d5">"W:BiVO_{4} is a gradient-doped photoanode material that has been used in tandem configuration with a Si solar cell for water splitting, indicating its role in improving the efficiency of the process."</data>
+      <data key="d6">chunk-a25ac928300ab4714b483022a1f286a6</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;WATER SPLITTING&quot;" target="&quot;SI SOLAR CELL&quot;">
+      <data key="d4">24.0</data>
+      <data key="d5">"Si Solar Cell is used in tandem configuration with W:BiVO_{4} for water splitting, providing a significant photocurrent that enhances the efficiency of the process."</data>
+      <data key="d6">chunk-a25ac928300ab4714b483022a1f286a6</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;WATER SPLITTING&quot;" target="&quot;TAON&quot;">
+      <data key="d4">16.0</data>
+      <data key="d5">"TaON is used in heterojunctions for overall water splitting under visible light, indicating its promising role in advanced photocatalytic systems."</data>
+      <data key="d6">chunk-a25ac928300ab4714b483022a1f286a6</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;WATER SPLITTING&quot;" target="&quot;CAFE_{2}O_{4}&quot;">
+      <data key="d4">14.0</data>
+      <data key="d5">"CaFe_{2}O_{4} is used in heterojunctions with TaON for overall water splitting under visible light, showing its role in improving photocatalytic efficiency."</data>
+      <data key="d6">chunk-a25ac928300ab4714b483022a1f286a6</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;WATER SPLITTING&quot;" target="&quot;N-DOPED TIO_{2}&quot;">
+      <data key="d4">14.0</data>
+      <data key="d5">"N-doped TiO_{2} is used in heterojunctions with TaON for overall water splitting under visible light, indicating its role in advanced photocatalytic systems."</data>
+      <data key="d6">chunk-a25ac928300ab4714b483022a1f286a6</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;WATER SPLITTING&quot;" target="&quot;CU_{2}O&quot;">
+      <data key="d4">14.0</data>
+      <data key="d5">"Cu_{2}O is used in heterojunctions with TaON for overall water splitting under visible light, highlighting its potential in photocatalytic applications."</data>
+      <data key="d6">chunk-a25ac928300ab4714b483022a1f286a6</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;WATER SPLITTING&quot;" target="&quot;COBALT, IRON, AND NICKEL SPECIES&quot;">
+      <data key="d4">16.0</data>
+      <data key="d5">"Cobalt, Iron, and Nickel Species are identified as the most promising earth-abundant electrocatalysts for low-cost, efficient solar fuels synthesis, which is part of the water splitting process."</data>
+      <data key="d6">chunk-a25ac928300ab4714b483022a1f286a6</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;WATER SPLITTING&quot;" target="&quot;FEOOH—NIOOH/CARBON QUANTUM DOTS/ $\MATHRM{BIVO_{4}}$ COMPOSITE ELECTRODE&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"The FeOOH—NiOOH/carbon Quantum Dots/ $\mathrm{BiVO_{4}}$ Composite Electrode is used in the Water Splitting process."</data>
+      <data key="d6">chunk-77716b6f0353561d48cc84b8bce9d40e</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;WATER SPLITTING&quot;" target="&quot;MONIZ ET AL.&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"Moniz et al. proposed a heterojunction design that enhances the efficiency of water splitting."</data>
+      <data key="d6">chunk-cc3a4292c8bd745078b1765a7889afdb</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;WATER SPLITTING&quot;" target="&quot;FU ET AL.&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"Fu et al. reported on the charge transfer mechanisms in $\mathrm{BiVO_{4}}$-based heterojunctions for water splitting."</data>
+      <data key="d6">chunk-cc3a4292c8bd745078b1765a7889afdb</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;WATER SPLITTING&quot;" target="&quot;WE&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"The research group reported on the enhanced activity of $\mathrm{BiVO_{4}/T i O_{2}}$ junctions for water splitting."</data>
+      <data key="d6">chunk-cc3a4292c8bd745078b1765a7889afdb</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;WATER SPLITTING&quot;" target="&quot;PEC WATER SPLITTING&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"PEC water splitting is a method used to enhance the efficiency of water splitting through the use of photoelectrochemical processes."</data>
+      <data key="d6">chunk-94fa033cbb96a8470acb76a680c4f004</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;WATER SPLITTING&quot;" target="&quot;GRAPHENE NANOPLATES (GNP)&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"GNP is used in water splitting to improve the efficiency of water oxidation when coupled with $\alpha\mathrm{-Fe_{2}O_{3}}$."</data>
+      <data key="d6">chunk-006e75529b4dbb0790b9194f0a9f7629</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;WATER SPLITTING&quot;" target="&quot;AL-DOPED ZINC OXIDE (AZO)&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"AZO is used in water splitting to improve electron collection and increase the surface area of the photoanode, enhancing the efficiency of the process."</data>
+      <data key="d6">chunk-006e75529b4dbb0790b9194f0a9f7629</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;ARTIFICIAL PHOTOSYNTHESIS&quot;" target="&quot;CHARGE RECOMBINATION&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"Charge Recombination is a key limiting factor in Artificial Photosynthesis, affecting the efficiency of the process."</data>
+      <data key="d6">chunk-618e09dd77f4b9bfd910c8187704f282</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;CHARGE RECOMBINATION&quot;" target="&quot;SCAVENGERS (SACRIFICIAL AGENTS)&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"Scavengers are used to suppress Charge Recombination by removing either holes or electrons in the system."</data>
+      <data key="d6">chunk-618e09dd77f4b9bfd910c8187704f282</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;CHARGE RECOMBINATION&quot;" target="&quot;PHOTOCATALYST MORPHOLOGY VARIATION&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"Photocatalyst Morphology Variation is a technology aimed at improving photocatalytic activity and potentially suppressing Charge Recombination."</data>
+      <data key="d6">chunk-618e09dd77f4b9bfd910c8187704f282</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;CHARGE RECOMBINATION&quot;" target="&quot;HETEROJUNCTION CREATION&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"Heterojunction Creation is a technology that aims to enhance the efficiency of artificial photosynthesis by suppressing Charge Recombination."</data>
+      <data key="d6">chunk-618e09dd77f4b9bfd910c8187704f282</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;SEMICONDUCTOR LIQUID JUNCTION (SCLJ)&quot;" target="&quot;HETEROJUNCTIONS&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"Heterojunctions can be applied to improve the efficiency of the Semiconductor Liquid Junction (SCLJ) process."</data>
+      <data key="d6">chunk-bc186a3ef3219bf5d0d5dace7d8369c0</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;HETEROJUNCTIONS&quot;" target="&quot;RH-SRTIO_{3}&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"Rh-SrTiO_{3} is used in heterojunctions for overall water splitting under visible light, indicating its role in improving photocatalytic efficiency."</data>
+      <data key="d6">chunk-a25ac928300ab4714b483022a1f286a6</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;HETEROJUNCTIONS&quot;" target="&quot;PBBI_{2}NB_{2}O_{9}&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"PbBi_{2}Nb_{2}O_{9} is used in heterojunctions for overall water splitting under visible light, highlighting its potential in photocatalytic applications."</data>
+      <data key="d6">chunk-a25ac928300ab4714b483022a1f286a6</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;HETEROJUNCTIONS&quot;" target="&quot;SR_{1-X}NBO_{3}&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"Sr_{1-x}NbO_{3} is used in heterojunctions for overall water splitting under visible light, indicating its role in advanced photocatalytic systems."</data>
+      <data key="d6">chunk-a25ac928300ab4714b483022a1f286a6</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;HETEROJUNCTIONS&quot;" target="&quot;SRNBO_{2}N&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"SrNbO_{2}N is an oxynitride material that has been used in heterojunctions for overall water splitting under visible light, showing its importance in recent research."</data>
+      <data key="d6">chunk-a25ac928300ab4714b483022a1f286a6</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;HETEROJUNCTIONS&quot;" target="&quot;LATIO_{2}N&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"LaTiO_{2}N is an oxynitride material that has been used in heterojunctions for overall water splitting under visible light, indicating its role in improving photocatalytic efficiency."</data>
+      <data key="d6">chunk-a25ac928300ab4714b483022a1f286a6</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;HETEROJUNCTIONS&quot;" target="&quot;TION&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"TiON is an oxynitride material that has been used in heterojunctions for overall water splitting under visible light, highlighting its potential in photocatalytic applications."</data>
+      <data key="d6">chunk-a25ac928300ab4714b483022a1f286a6</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;HETEROJUNCTIONS&quot;" target="&quot;TAON&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"TaON is used in heterojunctions for overall water splitting under visible light, indicating its promising role in advanced photocatalytic systems."</data>
+      <data key="d6">chunk-a25ac928300ab4714b483022a1f286a6</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;HETEROJUNCTIONS&quot;" target="&quot;CAFE_{2}O_{4}&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"CaFe_{2}O_{4} is used in heterojunctions with TaON for overall water splitting under visible light, showing its role in improving photocatalytic efficiency."</data>
+      <data key="d6">chunk-a25ac928300ab4714b483022a1f286a6</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;HETEROJUNCTIONS&quot;" target="&quot;N-DOPED TIO_{2}&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"N-doped TiO_{2} is used in heterojunctions with TaON for overall water splitting under visible light, indicating its role in advanced photocatalytic systems."</data>
+      <data key="d6">chunk-a25ac928300ab4714b483022a1f286a6</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;HETEROJUNCTIONS&quot;" target="&quot;CU_{2}O&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"Cu_{2}O is used in heterojunctions with TaON for overall water splitting under visible light, highlighting its potential in photocatalytic applications."</data>
+      <data key="d6">chunk-a25ac928300ab4714b483022a1f286a6</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;THE ROYAL SOCIETY OF CHEMISTRY&quot;" target="&quot;BAND BENDING AND ALIGNMENT&quot;">
+      <data key="d4">24.0</data>
+      <data key="d5">"The Royal Society of Chemistry has published works on band bending and alignment in heterojunctions for photocatalytic water splitting, providing references for further study."</data>
+      <data key="d6">chunk-a25ac928300ab4714b483022a1f286a6</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;THE ROYAL SOCIETY OF CHEMISTRY&quot;" target="&quot;FIGURE 8.11&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"The Royal Society of Chemistry granted permission for the reproduction of Figure 8.11, which includes the Nyquist plot of a BiVO4/WO3 junction."</data>
+      <data key="d6">chunk-033d1f44ca5ef4c77c65b7f3b8f9747f</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;SI SOLAR CELL&quot;" target="&quot;GRADIENT-DOPED $\MATHRM{W}\MATHRM{:}\MATHRM{BIVO_{4}}$ PHOTOANODE&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"The Gradient-doped $\mathrm{W}\mathrm{:}\mathrm{BiVO_{4}}$ Photoanode is connected to a Si Solar Cell in tandem configuration for water splitting."</data>
+      <data key="d6">chunk-77716b6f0353561d48cc84b8bce9d40e</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;NUMEROUS GROUPS&quot;" target="&quot;S- S JUNCTION&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"Numerous Groups have attempted to improve the STH conversion efficiency of $\mathrm{BiVO_{4}}$ through the S- S Junction event."</data>
+      <data key="d6">chunk-77716b6f0353561d48cc84b8bce9d40e</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;NUMEROUS GROUPS&quot;" target="&quot;COMPREHENSIVE REVIEW&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"The Comprehensive Review summarizes the recent key results from the work of Numerous Groups on $\mathrm{BiVO_{4}}$ photoanodes."</data>
+      <data key="d6">chunk-77716b6f0353561d48cc84b8bce9d40e</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;NUMEROUS GROUPS&quot;" target="&quot;STH EFFICIENCY&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"Numerous Groups have been working on improving the STH Efficiency of $\mathrm{BiVO_{4}}$ photoanodes."</data>
+      <data key="d6">chunk-77716b6f0353561d48cc84b8bce9d40e</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;COMPREHENSIVE REVIEW&quot;" target="&quot;TABLE 8.1&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"Table 8.1 is part of the Comprehensive Review, summarizing recent key advances in $\mathrm{BiVO_{4}}$-based heterojunction photoanodes."</data>
+      <data key="d6">chunk-77716b6f0353561d48cc84b8bce9d40e</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;JUDD JUNCTION&quot;" target="&quot;BIVO4/WO3&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"BiVO4/WO3 is one of the technologies described under Judd Junction in Table 8.1."</data>
+      <data key="d6">chunk-77716b6f0353561d48cc84b8bce9d40e</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;JUDD JUNCTION&quot;" target="&quot;BIVO4/SNO2/WO3&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"BiVO4/SnO2/WO3 is one of the technologies described under Judd Junction in Table 8.1."</data>
+      <data key="d6">chunk-77716b6f0353561d48cc84b8bce9d40e</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;JUDD JUNCTION&quot;" target="&quot;CO—PI/BIVO4/WO3&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"Co—Pi/BiVO4/WO3 is one of the technologies described under Judd Junction in Table 8.1."</data>
+      <data key="d6">chunk-77716b6f0353561d48cc84b8bce9d40e</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;JUDD JUNCTION&quot;" target="&quot;CO-PI/W:BIVO4&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"Co-Pi/W:BiVO4 is one of the technologies described under Judd Junction in Table 8.1."</data>
+      <data key="d6">chunk-77716b6f0353561d48cc84b8bce9d40e</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;JUDD JUNCTION&quot;" target="&quot;FEOOH-NIOOH/(W, MO)—BIVO4/WO3&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"FeOOH-NiOOH/(W, Mo)—BiVO4/WO3 is one of the technologies described under Judd Junction in Table 8.1."</data>
+      <data key="d6">chunk-77716b6f0353561d48cc84b8bce9d40e</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;JUDD JUNCTION&quot;" target="&quot;FEOOH-NIOOH/CARBON DOTS/BIVO4&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"FeOOH-NiOOH/carbon dots/BiVO4 is one of the technologies described under Judd Junction in Table 8.1."</data>
+      <data key="d6">chunk-77716b6f0353561d48cc84b8bce9d40e</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;JUDD JUNCTION&quot;" target="&quot;CO—PI/BIVO4/ZNO&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"Co—Pi/BiVO4/ZnO is one of the technologies described under Judd Junction in Table 8.1."</data>
+      <data key="d6">chunk-77716b6f0353561d48cc84b8bce9d40e</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;JUDD JUNCTION&quot;" target="&quot;CO-PI/MO—BIVO4&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"Co-Pi/Mo—BiVO4 is one of the technologies described under Judd Junction in Table 8.1."</data>
+      <data key="d6">chunk-77716b6f0353561d48cc84b8bce9d40e</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;JUDD JUNCTION&quot;" target="&quot;FEOOH/BIVO4&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"FeOOH/BiVO4 is one of the technologies described under Judd Junction in Table 8.1."</data>
+      <data key="d6">chunk-77716b6f0353561d48cc84b8bce9d40e</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;JUDD JUNCTION&quot;" target="&quot;FEOOH-NIOOH/BIVO4&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"FeOOH-NiOOH/BiVO4 is one of the technologies described under Judd Junction in Table 8.1."</data>
+      <data key="d6">chunk-77716b6f0353561d48cc84b8bce9d40e</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;JUDD JUNCTION&quot;" target="&quot;NI—B/BIVO4&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"Ni—B/BiVO4 is one of the technologies described under Judd Junction in Table 8.1."</data>
+      <data key="d6">chunk-77716b6f0353561d48cc84b8bce9d40e</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;GRIMES&quot;" target="&quot;$\MATHRM{BIVO_{4}/WO_{3}}$ NANOROD ARRAY ELECTRODES&quot;">
+      <data key="d4">18.0</data>
+      <data key="d5">"Grimes has grown $\mathrm{BiVO_{4}/WO_{3}}$ nanorod array electrodes, which demonstrated improved IPCE."&lt;SEP&gt;"Grimes is responsible for the growth of $\mathrm{BiVO_{4}/WO_{3}}$ nanorod array electrodes, which showed improved IPCE."</data>
+      <data key="d6">chunk-d327a1a3977a6203b724cd93ca00a29f</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;LEE ET AL.&quot;" target="&quot;COMPOSITE ELECTRODE&quot;">
+      <data key="d4">18.0</data>
+      <data key="d5">"Lee et al. have demonstrated a composite electrode consisting of $\mathrm{BiVO_{4}}$ coupled to four $\mathrm{WO_{3}}$ layers, showing significant increases in photocurrent and IPCE."&lt;SEP&gt;"Lee et al. have developed a composite electrode consisting of $\mathrm{BiVO_{4}}$ coupled to four $\mathrm{WO_{3}}$ layers, which exhibited a significant increase in photocurrent and IPCE."</data>
+      <data key="d6">chunk-d327a1a3977a6203b724cd93ca00a29f</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;LEE ET AL.&quot;" target="&quot;BIVO4/WO3 JUNCTION&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"Lee et al. observed a significantly decreased value for charge transfer resistance in their optimized BiVO4/WO3 junction."</data>
+      <data key="d6">chunk-033d1f44ca5ef4c77c65b7f3b8f9747f</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;LEE ET AL.&quot;" target="&quot;WATER OXIDATION&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"Lee et al.'s research on BiVO4/WO3 junctions is related to the process of water oxidation."</data>
+      <data key="d6">chunk-033d1f44ca5ef4c77c65b7f3b8f9747f</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;DOMEN&quot;" target="&quot;TRIPLE JUNCTION $\MATHRM{CO-PI/BIVO_{4}/WO_{3}}$ NANOROD PHOTOANODES&quot;">
+      <data key="d4">18.0</data>
+      <data key="d5">"Domen has demonstrated triple junction $\mathrm{Co-Pi/BiVO_{4}/WO_{3}}$ nanorod photoanodes, which produce high photocurrents and IPCE."&lt;SEP&gt;"Domen has developed triple junction $\mathrm{Co-Pi/BiVO_{4}/WO_{3}}$ nanorod photoanodes, which produce high photocurrents and IPCE."</data>
+      <data key="d6">chunk-d327a1a3977a6203b724cd93ca00a29f</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;$\MATHRM{BIVO_{4}/WO_{3}}$ NANOROD ARRAY ELECTRODES&quot;" target="&quot;$\MATHRM{WO_{3}}$&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"$\mathrm{WO_{3}}$ is a component of $\mathrm{BiVO_{4}/WO_{3}}$ Nanorod Array Electrodes, which show improved IPCE."</data>
+      <data key="d6">chunk-d327a1a3977a6203b724cd93ca00a29f</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;$\MATHRM{BIVO_{4}/WO_{3}}$ NANOROD ARRAY ELECTRODES&quot;" target="&quot;$\MATHRM{BIVO_{4}}$&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"$\mathrm{BiVO_{4}}$ is a component of $\mathrm{BiVO_{4}/WO_{3}}$ Nanorod Array Electrodes, which show improved IPCE."</data>
+      <data key="d6">chunk-d327a1a3977a6203b724cd93ca00a29f</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;$\MATHRM{BIVO_{4}/CUWO_{4}}$ HETEROJUNCTIONS&quot;" target="&quot;$\MATHRM{WO_{3}}$&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"$\mathrm{WO_{3}}$ is compared to $\mathrm{BiVO_{4}/CuWO_{4}}$ Heterojunctions, which exhibit higher photocurrents."</data>
+      <data key="d6">chunk-d327a1a3977a6203b724cd93ca00a29f</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;$\MATHRM{BIVO_{4}/CUWO_{4}}$ HETEROJUNCTIONS&quot;" target="&quot;$\MATHRM{BIVO_{4}}$&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"$\mathrm{BiVO_{4}}$ is a component of $\mathrm{BiVO_{4}/CuWO_{4}}$ Heterojunctions, which overcome stability issues."</data>
+      <data key="d6">chunk-d327a1a3977a6203b724cd93ca00a29f</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;$\MATHRM{BIVO_{4}/WO_{3}}$ DOUBLE-DECK INVERSE OPAL JUNCTION&quot;" target="&quot;$\MATHRM{WO_{3}}$&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"$\mathrm{WO_{3}}$ is a component of the $\mathrm{BiVO_{4}/WO_{3}}$ Double-Deck Inverse Opal Junction, which enhances charge carrier mobility."</data>
+      <data key="d6">chunk-d327a1a3977a6203b724cd93ca00a29f</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;$\MATHRM{BIVO_{4}/WO_{3}}$ DOUBLE-DECK INVERSE OPAL JUNCTION&quot;" target="&quot;$\MATHRM{BIVO_{4}}$&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"$\mathrm{BiVO_{4}}$ is a component of the $\mathrm{BiVO_{4}/WO_{3}}$ Double-Deck Inverse Opal Junction, which enhances charge carrier mobility."</data>
+      <data key="d6">chunk-d327a1a3977a6203b724cd93ca00a29f</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;$\MATHRM{BIVO_{4}}$&quot;" target="&quot;$\MATHRM{SNO_{2}}$ LAYER&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"The $\mathrm{SnO_{2}}$ layer is used in conjunction with $\mathrm{BiVO_{4}}$ to enhance photocurrent."</data>
+      <data key="d6">chunk-d327a1a3977a6203b724cd93ca00a29f</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;$\MATHRM{BIVO_{4}}$&quot;" target="&quot;FEOOH—NIOOH/(W&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"$\mathrm{BiVO_{4}}$ is a component of the high-performing $\mathrm{BiVO_{4}}$-based junction, FeOOH—NiOOH/(W."</data>
+      <data key="d6">chunk-d327a1a3977a6203b724cd93ca00a29f</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;$\MATHRM{SNO_{2}}$ LAYER&quot;" target="&quot;$\MATHRM{WO_{3}}$&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"The $\mathrm{SnO_{2}}$ layer is used in conjunction with $\mathrm{WO_{3}}$ to enhance photocurrent."</data>
+      <data key="d6">chunk-d327a1a3977a6203b724cd93ca00a29f</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;$\MATHRM{WO_{3}}$ NANORODS&quot;" target="&quot;$\MATHRM{WO_{3}}$&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"$\mathrm{WO_{3}}$ Nanorods are a form of $\mathrm{WO_{3}}$ used for light trapping and hole transfer."</data>
+      <data key="d6">chunk-d327a1a3977a6203b724cd93ca00a29f</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;FEOOH—NIOOH/(W&quot;" target="&quot;$\MATHRM{WO_{3}}$&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"$\mathrm{WO_{3}}$ is a component of the high-performing $\mathrm{BiVO_{4}}$-based junction, FeOOH—NiOOH/(W."</data>
+      <data key="d6">chunk-d327a1a3977a6203b724cd93ca00a29f</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;MONIZ ET AL.&quot;" target="&quot;FU ET AL.&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"Both research groups have contributed to the understanding of charge transfer mechanisms in $\mathrm{BiVO_{4}}$-based heterojunctions."</data>
+      <data key="d6">chunk-cc3a4292c8bd745078b1765a7889afdb</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;MONIZ ET AL.&quot;" target="&quot;FIGURE 8.4A&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"Moniz et al.'s work is illustrated in Figure 8.4a, showing their design strategy for a $\mathsf{C o\mathrm{{-}}P i/B i V O_{4}/Z n O}$ heterojunction."</data>
+      <data key="d6">chunk-cc3a4292c8bd745078b1765a7889afdb</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;FU ET AL.&quot;" target="&quot;FIGURE 8.4B&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"Fu et al.'s proposed charge transfer mechanism is illustrated in Figure 8.4b."</data>
+      <data key="d6">chunk-cc3a4292c8bd745078b1765a7889afdb</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;FU ET AL.&quot;" target="&quot;BIVO4/TIO2&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"Fu et al. conducted experiments on BiVO4/TiO2 composites to probe charge carriers, indicating a direct relationship between the research group and the material."</data>
+      <data key="d6">chunk-16e9ebf835f37cb6fd3406f6edf2922c</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;WE&quot;" target="&quot;FIGURE 8.4B&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"The research group's work on $\mathrm{BiVO_{4}/T i O_{2}}$ junctions is related to the charge transfer mechanisms illustrated in Figure 8.4b."</data>
+      <data key="d6">chunk-cc3a4292c8bd745078b1765a7889afdb</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;KUDO ET AL.&quot;" target="&quot;BIVO4&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"Kudo et al. reported on the coupling of reduced graphene oxide (RGO) to BiVO4, which significantly enhanced PEC activity."</data>
+      <data key="d6">chunk-94fa033cbb96a8470acb76a680c4f004</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;SIVULA ET AL.&quot;" target="&quot;Α-FE2O3/WO3 ELECTRODE&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"Sivula et al. reported on the use of a WO3 host scaffold to improve light absorption and increase the surface area of α-Fe2O3, leading to higher water oxidation activity."</data>
+      <data key="d6">chunk-94fa033cbb96a8470acb76a680c4f004</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;TI-DOPED FE2O3/SNO2 JUNCTION PHOTOELECTRODES&quot;" target="&quot;TI-DOPED FE2O3/SNO2 JUNCTION PHOTOELECTRODES STUDY&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"The study examined the performance of Ti-doped Fe2O3/SnO2 junction photoelectrodes, showing a twofold increase in electron lifetime."</data>
+      <data key="d6">chunk-94fa033cbb96a8470acb76a680c4f004</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;TI-DOPED FE2O3/SNO2 JUNCTION PHOTOELECTRODES&quot;" target="&quot;TI-DOPED FE2O3&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"Ti-doped Fe2O3/SnO2 junction photoelectrodes exhibit a twofold increase in electron lifetime compared to Ti:Fe2O3."</data>
+      <data key="d6">chunk-94fa033cbb96a8470acb76a680c4f004</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;Α-FE2O3/WO3 ELECTRODE&quot;" target="&quot;Α-FE2O3/WO3 ELECTRODE STUDY&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"The study examined the performance of the α-Fe2O3/WO3 electrode, showing higher activity for water oxidation."</data>
+      <data key="d6">chunk-94fa033cbb96a8470acb76a680c4f004</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;Α-FE2O3/ZNFE2O4 COMPOSITE ELECTRODES&quot;" target="&quot;Α-FE2O3/ZNFE2O4 COMPOSITE ELECTRODES STUDY&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"The study examined the performance of α-Fe2O3/ZnFe2O4 composite electrodes, showing enhanced photocurrents due to efficient charge transfer."</data>
+      <data key="d6">chunk-94fa033cbb96a8470acb76a680c4f004</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;Α-FE2O3/ZNFE2O4 COMPOSITE ELECTRODES&quot;" target="&quot;ZNFE2O4&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"The composite electrodes exhibit enhanced photocurrents due to efficient electron and hole transfer between α-Fe2O3 and ZnFe2O4."</data>
+      <data key="d6">chunk-94fa033cbb96a8470acb76a680c4f004</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;Α-FE2O3/TIO2 COUPLING STUDY&quot;" target="&quot;Α-FE2O3/TIO2 COUPLING&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"The study examined the coupling of α-Fe2O3 nanoparticles onto TiO2, resulting in enhanced water oxidation due to efficient electron transfer."</data>
+      <data key="d6">chunk-94fa033cbb96a8470acb76a680c4f004</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;GRAPHENE NANOPLATES (GNP) STUDY&quot;" target="&quot;GNP STUDY&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"The study involved coupling α-Fe2O3 to graphene nanoplates (GNP) to achieve efficient water oxidation under visible-light irradiation."</data>
+      <data key="d6">chunk-94fa033cbb96a8470acb76a680c4f004</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;BIVO4&quot;" target="&quot;TIO2&quot;">
+      <data key="d4">16.0</data>
+      <data key="d5">"BiVO4 and TiO2 are combined in composites that show improved charge separation efficiency due to the unusual spatial transfer of high-energy electrons from BiVO4 to TiO2."&lt;SEP&gt;"TiO2, when Ta-doped, improves charge carrier collection in BiVO4, resulting in higher photocurrent density."</data>
+      <data key="d6">chunk-16e9ebf835f37cb6fd3406f6edf2922c&lt;SEP&gt;chunk-94fa033cbb96a8470acb76a680c4f004</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;BIVO4&quot;" target="&quot;RGO&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"BiVO4, when coupled with RGO, shows a near tenfold enhancement in PEC activity for water splitting."</data>
+      <data key="d6">chunk-94fa033cbb96a8470acb76a680c4f004</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;BIVO4&quot;" target="&quot;CO3O4&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"BiVO4 and Co3O4 are combined in composites that have significantly improved activity for water oxidation under visible-light irradiation, resulting in improved electron–hole separation due to hole injection into Co3O4."</data>
+      <data key="d6">chunk-16e9ebf835f37cb6fd3406f6edf2922c</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;RGO&quot;" target="&quot;PEC WATER SPLITTING&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"RGO enhances the PEC activity of BiVO4, contributing to the efficiency of water splitting."</data>
+      <data key="d6">chunk-94fa033cbb96a8470acb76a680c4f004</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;PEC WATER SPLITTING&quot;" target="&quot;HEMATITE (Α-FE2O3)&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"Hematite (α-Fe2O3) is used in PEC water splitting but faces challenges such as high charge recombination and low conductivity."</data>
+      <data key="d6">chunk-94fa033cbb96a8470acb76a680c4f004</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;PEC WATER SPLITTING&quot;" target="&quot;WANG ET AL.&quot;">
+      <data key="d4">16.0</data>
+      <data key="d5">"Wang et al. contributed to the advancement of PEC water splitting technology through their synthesis of $\alpha\mathrm{-Fe_{2}O_{3}/TiSi_{2}}$ nanonet core–shell heterojunction."</data>
+      <data key="d6">chunk-006e75529b4dbb0790b9194f0a9f7629</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;PEC WATER SPLITTING&quot;" target="&quot;AL-DOPED ZINC OXIDE (AZO)&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"AZO is used in PEC water splitting to improve electron collection and increase the surface area of the photoanode, enhancing the efficiency of the process."</data>
+      <data key="d6">chunk-006e75529b4dbb0790b9194f0a9f7629</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;PEC WATER SPLITTING&quot;" target="&quot;TISI_{2}&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"TiSi_{2} is used in PEC water splitting to form a heterojunction with $\alpha\mathrm{-Fe_{2}O_{3}}$, improving the performance of the process."</data>
+      <data key="d6">chunk-006e75529b4dbb0790b9194f0a9f7629</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;WO3 HOST SCAFFOLD&quot;" target="&quot;Α-FE2O3&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"The WO3 host scaffold is used to improve the performance of α-Fe2O3 in PEC water splitting by enhancing light absorption and increasing surface area."</data>
+      <data key="d6">chunk-94fa033cbb96a8470acb76a680c4f004</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;Α-FE2O3/TIO2 COUPLING&quot;" target="&quot;TIO2&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"Coupling α-Fe2O3 nanoparticles onto TiO2 enhances water oxidation due to efficient electron transfer from TiO2."</data>
+      <data key="d6">chunk-94fa033cbb96a8470acb76a680c4f004</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;Α-FE2O3/TIO2 COUPLING&quot;" target="&quot;DFT CALCULATIONS&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"DFT calculations support the observation that coupling α-Fe2O3 nanoparticles onto TiO2 enhances water oxidation."</data>
+      <data key="d6">chunk-94fa033cbb96a8470acb76a680c4f004</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;GNP STUDY&quot;" target="&quot;Α-FE2O3&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"The study involved coupling α-Fe2O3 to GNP to achieve efficient water oxidation under visible-light irradiation."</data>
+      <data key="d6">chunk-94fa033cbb96a8470acb76a680c4f004</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;WANG ET AL.&quot;" target="&quot;$\MATHRM{G-C_{3}N_{4}}$&quot;">
+      <data key="d4">18.0</data>
+      <data key="d5">"Wang et al. reported a breakthrough using $\mathrm{g-C_{3}N_{4}}$, which has led to further research and development in the field."</data>
+      <data key="d6">chunk-e51b66a84e7962178361eefdb071b68d</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;WANG ET AL.&quot;" target="&quot;NATURE PUBLISHING GROUP&quot;">
+      <data key="d4">16.0</data>
+      <data key="d5">"Wang et al.'s study was published by Nature Publishing Group."</data>
+      <data key="d6">chunk-ee2a5f1fd549a2cf4a7e5c35c15ccc49</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;WANG ET AL.&quot;" target="&quot;TEM&quot;">
+      <data key="d4">14.0</data>
+      <data key="d5">"Wang et al. used TEM to observe the triple junction in their study."</data>
+      <data key="d6">chunk-ee2a5f1fd549a2cf4a7e5c35c15ccc49</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;WANG ET AL.&quot;" target="&quot;CUO/CU_{2}O/TIO_{2}&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"Wang et al. studied the relationship between the active components in CuO/Cu_{2}O/TiO_{2} heterojunctions."</data>
+      <data key="d6">chunk-ee2a5f1fd549a2cf4a7e5c35c15ccc49</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;WANG ET AL.&quot;" target="&quot;CUO-TIO_{2}&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"Wang et al. observed the restructuring process of CuO-TiO_{2} in their study."</data>
+      <data key="d6">chunk-ee2a5f1fd549a2cf4a7e5c35c15ccc49</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;WANG ET AL.&quot;" target="&quot;MN OXO-CATALYST&quot;">
+      <data key="d4">16.0</data>
+      <data key="d5">"Wang et al. used Mn oxo-catalyst in their research to improve the stability of $\mathrm{WO}_{3}$ photoanodes."</data>
+      <data key="d6">chunk-82c87bf0f4d0072451627ba80fd6681c</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;WANG ET AL.&quot;" target="&quot;$\MATHRM{WO}_{3}$ PHOTOANODES&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"Wang et al. worked with $\mathrm{WO}_{3}$ photoanodes to improve their stability using a Mn oxo-catalyst."</data>
+      <data key="d6">chunk-82c87bf0f4d0072451627ba80fd6681c</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;AL-DOPED ZINC OXIDE (AZO)&quot;" target="&quot;ALD-GROWN ${\UPALPHA}\MATHRM{-}\MATHRM{FE}_{2}{\MATHRM O}_{3}$ LAYER&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"The ALD-grown ${\upalpha}\mathrm{-}\mathrm{Fe}_{2}{\mathrm O}_{3}$ layer improves the stability of AZO under experimental conditions."</data>
+      <data key="d6">chunk-006e75529b4dbb0790b9194f0a9f7629</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;Α-FE2O3&quot;" target="&quot;WATER OXIDATION&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"α-Fe2O3 is used in the study of water oxidation processes, particularly in the context of photoelectrode performance."</data>
+      <data key="d6">chunk-033d1f44ca5ef4c77c65b7f3b8f9747f</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;VISIBLE-LIGHT IRRADIATION&quot;" target="&quot;HER&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"Visible-light Irradiation is used to enhance the HER in photocatalytic processes involving $\mathrm{g-C_{3}N_{4}}$ and other materials."</data>
+      <data key="d6">chunk-e51b66a84e7962178361eefdb071b68d</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;VISIBLE-LIGHT IRRADIATION&quot;" target="&quot;$\MATHRM{G-C_{3}N_{4}}$&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"Visible-light Irradiation is used to enhance the HER in photocatalytic processes involving $\mathrm{g-C_{3}N_{4}}$ and other materials."</data>
+      <data key="d6">chunk-e51b66a84e7962178361eefdb071b68d</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;VISIBLE-LIGHT IRRADIATION&quot;" target="&quot;$\MATHRM{SRTIO_{3}}$&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"Visible-light Irradiation is used to enhance hydrogen evolution from water using $\mathrm{SrTiO_{3}}$ in conjunction with $\mathrm{g-C_{3}N_{4}}$."</data>
+      <data key="d6">chunk-e51b66a84e7962178361eefdb071b68d</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;VISIBLE-LIGHT IRRADIATION&quot;" target="&quot;RH&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"Rh is used as a cocatalyst under visible-light Irradiation to enhance the performance of $\mathrm{g-C_{3}N_{4}}$ in hydrogen evolution."</data>
+      <data key="d6">chunk-e51b66a84e7962178361eefdb071b68d</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;VISIBLE-LIGHT IRRADIATION&quot;" target="&quot;IR&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"Ir is used as a cocatalyst under visible-light Irradiation to enhance the performance of $\mathrm{g-C_{3}N_{4}}$ in hydrogen evolution."</data>
+      <data key="d6">chunk-e51b66a84e7962178361eefdb071b68d</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;VISIBLE-LIGHT IRRADIATION&quot;" target="&quot;${\TT P T}$ (PT)&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"Pt is used as a cocatalyst under visible-light Irradiation to enhance the performance of $\mathrm{g-C_{3}N_{4}}$ in hydrogen evolution."</data>
+      <data key="d6">chunk-e51b66a84e7962178361eefdb071b68d</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;VISIBLE-LIGHT IRRADIATION&quot;" target="&quot;AU&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"Au is used as a cocatalyst under visible-light Irradiation to enhance the performance of $\mathrm{g-C_{3}N_{4}}$ in hydrogen evolution."</data>
+      <data key="d6">chunk-e51b66a84e7962178361eefdb071b68d</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;VISIBLE-LIGHT IRRADIATION&quot;" target="&quot;PD&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"Pd is used as a cocatalyst under visible-light Irradiation to enhance the performance of $\mathrm{g-C_{3}N_{4}}$ in hydrogen evolution."</data>
+      <data key="d6">chunk-e51b66a84e7962178361eefdb071b68d</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;VISIBLE-LIGHT IRRADIATION&quot;" target="&quot;$\MATHRM{C_{3}N_{4}/TIO_{2}}$ JUNCTION&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"Visible-light Irradiation is used to enhance the HER in the $\mathrm{C_{3}N_{4}/TiO_{2}}$ junction."</data>
+      <data key="d6">chunk-e51b66a84e7962178361eefdb071b68d</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;VISIBLE-LIGHT IRRADIATION&quot;" target="&quot;$\MATHRM{C_{3}N_{4}/SRTIO_{3}}$ JUNCTION&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"Visible-light Irradiation is used to enhance the HER in the $\mathrm{C_{3}N_{4}/SrTiO_{3}}$ junction."</data>
+      <data key="d6">chunk-e51b66a84e7962178361eefdb071b68d</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;VISIBLE-LIGHT IRRADIATION&quot;" target="&quot;$\MATHRM{ZNO}$ PHOTOCATALYST HYBRID&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"Visible-light Irradiation is used to enhance the photocurrent and suppress photocorrosion in the $\mathrm{ZnO}$ photocatalyst hybrid with $\mathrm{g-C_{3}N_{4}}$."</data>
+      <data key="d6">chunk-e51b66a84e7962178361eefdb071b68d</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;$\MATHRM{G-C_{3}N_{4}}$&quot;" target="&quot;HER&quot;">
+      <data key="d4">16.0</data>
+      <data key="d5">"$\mathrm{g-C_{3}N_{4}}$ is used to measure HER, indicating its effectiveness in hydrogen evolution."</data>
+      <data key="d6">chunk-e51b66a84e7962178361eefdb071b68d</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;$\MATHRM{G-C_{3}N_{4}}$&quot;" target="&quot;FLUORINE&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"Fluorine is used in doping $\mathrm{g-C_{3}N_{4}}$ to improve its performance in photocatalytic hydrogen evolution."</data>
+      <data key="d6">chunk-e51b66a84e7962178361eefdb071b68d</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;$\MATHRM{G-C_{3}N_{4}}$&quot;" target="&quot;SULFUR&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"Sulfur is used in doping $\mathrm{g-C_{3}N_{4}}$ to improve its performance in photocatalytic hydrogen evolution."</data>
+      <data key="d6">chunk-e51b66a84e7962178361eefdb071b68d</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;$\MATHRM{CBE}$ OF $\MATHRM{G-C_{3}N_{4}}$ (-1.12 EV)&quot;" target="&quot;$\MATHRM{CBE}$ OF $\MATHRM{TIO_{2}}$ (-0.29 EV)&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"The more negative CBE of $\mathrm{g-C_{3}N_{4}}$ compared to $\mathrm{TiO_{2}}$ facilitates efficient electron transfer from $\mathrm{g-C_{3}N_{4}}$ to $\mathrm{TiO_{2}}$."</data>
+      <data key="d6">chunk-e51b66a84e7962178361eefdb071b68d</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;C3N4&quot;" target="&quot;NIS/C3N4 COMPOSITES&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"C3N4 is a component of NiS/C3N4 composites, which are used for hydrogen production from water."</data>
+      <data key="d6">chunk-b005be5329c9ac75ae476aae3c2eba51</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;C3N4&quot;" target="&quot;TA3N5&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"C3N4 is coupled with Ta3N5 to enhance visible-light-driven hydrogen evolution."</data>
+      <data key="d6">chunk-b005be5329c9ac75ae476aae3c2eba51</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;C3N4&quot;" target="&quot;G-C3N4-CDS QDS COMPOSITES&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"C3N4 is a base material for g-C3N4-CdS QDs composites, which significantly improve hydrogen production."</data>
+      <data key="d6">chunk-b005be5329c9ac75ae476aae3c2eba51</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;C3N4&quot;" target="&quot;PURE WATER SPLITTING&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"C3N4 is involved in the process of pure water splitting, particularly with the addition of cocatalysts."</data>
+      <data key="d6">chunk-b005be5329c9ac75ae476aae3c2eba51</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;NIS/C3N4 COMPOSITES&quot;" target="&quot;PURE WATER SPLITTING&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"NiS/C3N4 composites are used in the process of pure water splitting for hydrogen production."</data>
+      <data key="d6">chunk-b005be5329c9ac75ae476aae3c2eba51</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;TA3N5&quot;" target="&quot;PURE WATER SPLITTING&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"Ta3N5 is used in conjunction with C3N4 for enhancing hydrogen evolution in the process of pure water splitting."</data>
+      <data key="d6">chunk-b005be5329c9ac75ae476aae3c2eba51</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;G-C3N4-CDS QDS COMPOSITES&quot;" target="&quot;PURE WATER SPLITTING&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"g-C3N4-CdS QDs composites are used in the process of pure water splitting to improve hydrogen production."</data>
+      <data key="d6">chunk-b005be5329c9ac75ae476aae3c2eba51</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;CARBON QUANTUM DOTS (CDOTS)&quot;" target="&quot;PURE WATER SPLITTING&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"CDots are added to C3N4 to evolve hydrogen and oxygen in a 2:1 ratio from water under visible-light irradiation as part of the pure water splitting process."</data>
+      <data key="d6">chunk-b005be5329c9ac75ae476aae3c2eba51</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;CO/PT COCATALYSTS&quot;" target="&quot;PURE WATER SPLITTING&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"Co/Pt cocatalysts are used in the process of pure water splitting to evolve hydrogen and oxygen in a 2:1 ratio from water."</data>
+      <data key="d6">chunk-b005be5329c9ac75ae476aae3c2eba51</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;GRÄTZEL ET AL.&quot;" target="&quot;CU2O/ZNO/AL2O3/TIO2/PT ELECTRODE&quot;">
+      <data key="d4">18.0</data>
+      <data key="d5">"Grätzel et al. reported the development of the $\mathrm{Cu_{2}O/ZnO/Al_{2}O_{3}/TiO_{2}/Pt}$ electrode, which represents a significant technological advancement in the field."</data>
+      <data key="d6">chunk-09862741ee51bafb225a8c1e64b49dbc</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;GRÄTZEL ET AL.&quot;" target="&quot;CU2O/N-AZO/TIO2/MOS2+X HETEROJUNCTION PHOTOCATHODE&quot;">
+      <data key="d4">18.0</data>
+      <data key="d5">"Grätzel et al. also reported the $\mathrm{Cu_{2}O/n-AZO/TiO_{2}/MoS_{2+x}}$ heterojunction photocathode, which is another technological innovation aimed at enhancing the stability and performance of $\mathrm{Cu_{2}O}$ electrodes."&lt;SEP&gt;"Grätzel et al.'s research includes the $\mathrm{Cu_{2}O/n-AZO/TiO_{2}/MoS_{2+x}}$ heterojunction photocathode, which is designed to improve the stability and performance of $\mathrm{Cu_{2}O}$ electrodes."</data>
+      <data key="d6">chunk-09862741ee51bafb225a8c1e64b49dbc</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;GRÄTZEL ET AL.&quot;" target="&quot;NI–MO CATALYST LAYER&quot;">
+      <data key="d4">16.0</data>
+      <data key="d5">"Grätzel et al.'s research has led to the use of a Ni–Mo catalyst layer in conjunction with $\mathrm{Cu_{2}O}$ and $\mathrm{MoS_{2}}$ to achieve the highest reported photocurrent for a $\mathrm{Cu_{2}O}$ -based photocathode."</data>
+      <data key="d6">chunk-09862741ee51bafb225a8c1e64b49dbc</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;GRÄTZEL ET AL.&quot;" target="&quot;PHOTOELECTROCHEMICAL HYDROGEN PRODUCTION&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"Grätzel et al.'s work has contributed to the field of photoelectrochemical hydrogen production, focusing on the stability and conductivity of $\mathrm{Cu_{2}O}$ electrodes."</data>
+      <data key="d6">chunk-09862741ee51bafb225a8c1e64b49dbc</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;GRÄTZEL ET AL.&quot;" target="&quot;MOS2-X HER&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"Grätzel et al. utilized $\mathrm{MoS_{2-x}}$ HER in their research to enhance the photoresponse of $\mathrm{Cu_{2}O}$ electrodes."</data>
+      <data key="d6">chunk-09862741ee51bafb225a8c1e64b49dbc</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;CU2O/ZNO/AL2O3/TIO2/PT ELECTRODE&quot;" target="&quot;FIGURE 8.7&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"Figure 8.7 illustrates the $\mathrm{Cu_{2}O/ZnO/Al_{2}O_{3}/TiO_{2}/Pt}$ electrode, a technological advancement reported by Grätzel et al."</data>
+      <data key="d6">chunk-09862741ee51bafb225a8c1e64b49dbc</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;CU2O/N-AZO/TIO2/MOS2+X HETEROJUNCTION PHOTOCATHODE&quot;" target="&quot;FIGURE 8.8&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"Figure 8.8 shows the relative band positions for the $\mathrm{Cu_{2}O/n-AZO/TiO_{2}/MoS_{2+x}}$ photocathode, a technological innovation aimed at enhancing the stability and performance of $\mathrm{Cu_{2}O}$ electrodes."</data>
+      <data key="d6">chunk-09862741ee51bafb225a8c1e64b49dbc</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;CUO/CU_{2}O/TIO_{2}&quot;" target="&quot;H_{2}&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"The CuO/Cu_{2}O/TiO_{2} triple junction evolves H_{2} faster under solar irradiation."</data>
+      <data key="d6">chunk-ee2a5f1fd549a2cf4a7e5c35c15ccc49</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;CUO/CU_{2}O/TIO_{2}&quot;" target="&quot;SOLAR IRRADIATION&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"Solar Irradiation is the condition under which the CuO/Cu_{2}O/TiO_{2} triple junction shows improved hydrogen gas evolution."</data>
+      <data key="d6">chunk-ee2a5f1fd549a2cf4a7e5c35c15ccc49</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;SOLAR IRRADIATION&quot;" target="&quot;P25 TIO_{2}&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"P25 TiO_{2} is used as a benchmark under solar irradiation for comparison with the CuO/Cu_{2}O/TiO_{2} triple junction."</data>
+      <data key="d6">chunk-ee2a5f1fd549a2cf4a7e5c35c15ccc49</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;AAAS&quot;" target="&quot;C3N4 RESEARCH&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"AAAS holds the copyright for research on $\mathrm{C}_{3}\mathrm{N}_{4}$ and its applications in photoelectrochemical systems."</data>
+      <data key="d6">chunk-09862741ee51bafb225a8c1e64b49dbc</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;ABDI AND VAN DE KROL&quot;" target="&quot;$\MATHRM{BIVO_{4}}$ PHOTOANODES&quot;">
+      <data key="d4">24.0</data>
+      <data key="d5">"Abdi and van de Krol grew a Co—Pi OEC layer on $\mathrm{BiVO_{4}}$ photoanodes, enhancing their photocurrent generation."&lt;SEP&gt;"Abdi and van de Krol's research involved growing a Co—Pi OEC layer on $\mathrm{BiVO_{4}}$ photoanodes, enhancing their performance."</data>
+      <data key="d6">chunk-923d76f68dd918ad595bcbed7dc3ec79</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;PILLI ET AL.&quot;" target="&quot;MO-DOPED $\MATHRM{BIVO_{4}}$ ELECTRODES&quot;">
+      <data key="d4">21.0</data>
+      <data key="d5">"Pilli et al. demonstrated that Mo-doped $\mathrm{BiVO_{4}}$ electrodes' photocatalytic activity doubles with Co—Pi loading."&lt;SEP&gt;"Pilli et al. showed that the photocatalytic activity of Mo-doped $\mathrm{BiVO_{4}}$ electrodes doubles with Co—Pi loading."</data>
+      <data key="d6">chunk-923d76f68dd918ad595bcbed7dc3ec79</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;PILLI ET AL.&quot;" target="&quot;W-DOPED $\MATHRM{BIVO_{4}}$ PHOTOANODES&quot;">
+      <data key="d4">12.0</data>
+      <data key="d5">"Pilli et al. also showed that W-doped $\mathrm{BiVO_{4}}$ photoanodes' activity is enhanced by Co—Pi loading."</data>
+      <data key="d6">chunk-923d76f68dd918ad595bcbed7dc3ec79</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;ZHONG ET AL.&quot;" target="&quot;$\ALPHA{\MATHRM{-FE}}_{2}{\MATHRM{O}}_{3}$ ELECTRODES&quot;">
+      <data key="d4">24.0</data>
+      <data key="d5">"Zhong et al. electrodeposited $\mathrm{Co-Pi}$ onto $\alpha{\mathrm{-Fe}}_{2}{\mathrm{O}}_{3}$ electrodes, observing significant improvements in their performance."&lt;SEP&gt;"Zhong et al. electrodeposited Co—Pi onto $\alpha{\mathrm{-Fe}}_{2}{\mathrm{O}}_{3}$ electrodes, improving their performance in water oxidation."</data>
+      <data key="d6">chunk-923d76f68dd918ad595bcbed7dc3ec79</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;ZHONG ET AL.&quot;" target="&quot;CDS-BASED JUNCTIONS&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"Zhong et al. proposed CdS-based heterojunctions for improved PEC water splitting."</data>
+      <data key="d6">chunk-033d1f44ca5ef4c77c65b7f3b8f9747f</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;ZHONG ET AL.&quot;" target="&quot;WATER OXIDATION&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"Zhong et al.'s research on CdS-based heterojunctions is related to the process of water oxidation."</data>
+      <data key="d6">chunk-033d1f44ca5ef4c77c65b7f3b8f9747f</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;FEOOH OEC&quot;" target="&quot;$\MATHRM{BIVO_{4}}$ PHOTOANODES&quot;">
+      <data key="d4">16.0</data>
+      <data key="d5">"FeOOH OEC enhances the photocurrent generation and stability of $\mathrm{BiVO_{4}}$ photoanodes during prolonged illumination."</data>
+      <data key="d6">chunk-923d76f68dd918ad595bcbed7dc3ec79</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;NIOOH OEC&quot;" target="&quot;$\MATHRM{BIVO_{4}}$ PHOTOANODES&quot;">
+      <data key="d4">14.0</data>
+      <data key="d5">"NiOOH OEC, when coupled with FeOOH, enhances the photocurrent generation of $\mathrm{BiVO_{4}}$ photoanodes."</data>
+      <data key="d6">chunk-923d76f68dd918ad595bcbed7dc3ec79</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;NICKEL-BORATE (NI—B) OEC&quot;" target="&quot;$\MATHRM{BIVO_{4}}$ PHOTOANODES&quot;">
+      <data key="d4">16.0</data>
+      <data key="d5">"Nickel-borate (Ni—B) OEC enhances the photocurrent generation and IPCE of $\mathrm{BiVO_{4}}$ photoanodes."</data>
+      <data key="d6">chunk-923d76f68dd918ad595bcbed7dc3ec79</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;ELECTROPHORETIC DEPOSITION OF IRIDIUM OXIDE NANOPARTICLES&quot;" target="&quot;HEMATITE PHOTOANODES&quot;">
+      <data key="d4">16.0</data>
+      <data key="d5">"Electrophoretic deposition of iridium oxide nanoparticles onto hematite photoanodes enhances their performance in water oxidation."</data>
+      <data key="d6">chunk-923d76f68dd918ad595bcbed7dc3ec79</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;WATER OXIDATION&quot;" target="&quot;KLOTZ ET AL.&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"Klotz et al.'s perspective on the use of PEIS, IMPS, and IMVS techniques is related to the study of water oxidation processes."</data>
+      <data key="d6">chunk-033d1f44ca5ef4c77c65b7f3b8f9747f</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;WATER OXIDATION&quot;" target="&quot;TIO2/CDS&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"TiO2/CdS junctions are used in the study of water oxidation processes."</data>
+      <data key="d6">chunk-033d1f44ca5ef4c77c65b7f3b8f9747f</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;WATER OXIDATION&quot;" target="&quot;TIO2/CDS/CO-PI&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"TiO2/CdS/Co-Pi junctions are used in the study of water oxidation processes."</data>
+      <data key="d6">chunk-033d1f44ca5ef4c77c65b7f3b8f9747f</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;WATER OXIDATION&quot;" target="&quot;TIO2/CDS/CU2O/RGO&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"TiO2/CdS/Cu2O/RGO junctions are used in the study of water oxidation processes."</data>
+      <data key="d6">chunk-033d1f44ca5ef4c77c65b7f3b8f9747f</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;SEABOLD AND CHOI&quot;" target="&quot;CO—PI OEC&quot;">
+      <data key="d4">16.0</data>
+      <data key="d5">"Seabold and Choi used Co—Pi OEC in their research to improve the performance of $\mathrm{WO}_{3}$ photoanodes."</data>
+      <data key="d6">chunk-82c87bf0f4d0072451627ba80fd6681c</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;SEABOLD AND CHOI&quot;" target="&quot;$\MATHRM{WO}_{3}$ PHOTOANODES&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"Seabold and Choi worked with $\mathrm{WO}_{3}$ photoanodes to improve their performance using Co—Pi OEC."</data>
+      <data key="d6">chunk-82c87bf0f4d0072451627ba80fd6681c</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;ELECTROPHORETIC DEPOSITION OF CATALYTIC IRIDIUM OXIDE NANOPARTICLES&quot;" target="&quot;HEMATITE PHOTOANODES&quot;">
+      <data key="d4">18.0</data>
+      <data key="d5">"The event of electrophoretic deposition of $\mathrm{IrO}_{2}$ nanoparticles onto hematite photoanodes resulted in improved performance metrics."</data>
+      <data key="d6">chunk-82c87bf0f4d0072451627ba80fd6681c</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;PHOTODEPOSITION OF NI—B OEC ON $\ALPHA{\MATHRM{-FE}}_{2}{\MATHRM{O}}_{3}$ NANORODS&quot;" target="&quot;$\ALPHA{\MATHRM{-FE}}_{2}{\MATHRM{O}}_{3}$ NANORODS&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"The event of photodeposition of Ni—B OEC on $\alpha{\mathrm{-Fe}}_{2}{\mathrm{O}}_{3}$ nanorods improved the onset potential and photocurrent density."</data>
+      <data key="d6">chunk-82c87bf0f4d0072451627ba80fd6681c</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;TRANSIENT ABSORPTION SPECTROSCOPY (TAS)&quot;" target="&quot;CHARGE CARRIER KINETICS&quot;">
+      <data key="d4">20.0</data>
+      <data key="d5">"TAS is used to measure the kinetics of charge carriers in solar cell materials and PEC materials, aiding in understanding and improving the efficiency of these systems."</data>
+      <data key="d6">chunk-82c87bf0f4d0072451627ba80fd6681c</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;TRANSIENT ABSORPTION SPECTROSCOPY (TAS)&quot;" target="&quot;BERERA ET AL.&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"Berera et al. described the process of using TAS to measure charge carrier kinetics in their research."</data>
+      <data key="d6">chunk-82c87bf0f4d0072451627ba80fd6681c</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;TRANSIENT ABSORPTION SPECTROSCOPY (TAS)&quot;" target="&quot;SOLAR FUELS RESEARCH&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"TAS is a critical tool in Solar Fuels Research for understanding and improving the efficiency of semiconductor water splitting."</data>
+      <data key="d6">chunk-82c87bf0f4d0072451627ba80fd6681c</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;PHOTODEPOSITION OF NI—B OEC ON $\ALPHA{\MATHRM{-FE}}_{2}\MATHRM{O}_{3}$ NANORODS&quot;" target="&quot;$\ALPHA{\MATHRM{-FE}}_{2}\MATHRM{O}_{3}$ NANORODS&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"The event of photodeposition of Ni—B OEC on $\alpha{\mathrm{-Fe}}_{2}\mathrm{O}_{3}$ nanorods improved the onset potential and photocurrent density."</data>
+      <data key="d6">chunk-82c87bf0f4d0072451627ba80fd6681c</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;SOLAR FUELS RESEARCH&quot;" target="&quot;HETEROJUNCTION SYSTEMS&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"Solar Fuels Research includes the study of heterojunction systems to enhance the efficiency of water splitting."</data>
+      <data key="d6">chunk-82c87bf0f4d0072451627ba80fd6681c</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;SOLAR FUELS RESEARCH&quot;" target="&quot;NONRADIATIVE ELECTRON–HOLE RECOMBINATION&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"Solar Fuels Research aims to suppress nonradiative electron–hole recombination to improve the efficiency of semiconductor water splitting."</data>
+      <data key="d6">chunk-82c87bf0f4d0072451627ba80fd6681c</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;KLOTZ ET AL.&quot;" target="&quot;IMPS, IMVS, PEIS&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"Klotz et al. provided a recent perspective on the use of IMPS, IMVS, and PEIS techniques to study photoelectrode performance."</data>
+      <data key="d6">chunk-033d1f44ca5ef4c77c65b7f3b8f9747f</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;JOHN WILEY &amp; SONS&quot;" target="&quot;FIGURE 8.12&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"John Wiley &amp; Sons granted permission for the reproduction of Figure 8.12, which includes the Nyquist plot and fitted equivalent circuit model of CdS-based heterojunctions."</data>
+      <data key="d6">chunk-033d1f44ca5ef4c77c65b7f3b8f9747f</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;DYE SENSITIZED SOLAR CELLS&quot;" target="&quot;SPS&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"SPS has been used for many years to probe charge carrier kinetics and recombination in dye sensitized solar cells."</data>
+      <data key="d6">chunk-033d1f44ca5ef4c77c65b7f3b8f9747f</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;SPS&quot;" target="&quot;SEMICONDUCTOR PHOTOELECTRODES FOR WATER SPLITTING&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"SPS has only recently been applied to the field of semiconductor photoelectrodes for water splitting."</data>
+      <data key="d6">chunk-033d1f44ca5ef4c77c65b7f3b8f9747f</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;OSTERLOH ET AL.&quot;" target="&quot;PT AND RU COCATALYSTS&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"Osterloh et al. measured the internal photovoltages in single crystalline platinum-/ruthenium-modified Rh-doped SrTiO3 nanocrystals, showing the importance of these cocatalysts in their research."</data>
+      <data key="d6">chunk-16e9ebf835f37cb6fd3406f6edf2922c</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;ZHAO AND OSTERLOH&quot;" target="&quot;HCA2NB3O10&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"Zhao and Osterloh used SPV spectroscopy to probe carrier dynamics in nanocrystal films of HCa2Nb3O10, indicating a direct relationship between the researchers and the material."</data>
+      <data key="d6">chunk-16e9ebf835f37cb6fd3406f6edf2922c</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;CUS/ZN0.8CD0.2S&quot;" target="&quot;VISIBLE-LIGHT-DRIVEN HYDROGEN PRODUCTION FROM WATER&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"CuS/Zn0.8Cd0.2S composites have been observed to produce hydrogen from water under visible light, indicating a direct relationship between the material and the event."</data>
+      <data key="d6">chunk-16e9ebf835f37cb6fd3406f6edf2922c</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;BIVO4/TIO2&quot;" target="&quot;TS-SPV&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"TS-SPV was used to measure the photogenerated electrons transfer from TiO2 to BiVO4 in the BiVO4/TiO2 composites, indicating a direct relationship between the material and the measurement method."</data>
+      <data key="d6">chunk-16e9ebf835f37cb6fd3406f6edf2922c</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;HCA2NB3O10&quot;" target="&quot;AU SUBSTRATE&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"HCa2Nb3O10 films on an Au substrate were used to evaluate the efficiency of photochemical charge separation at the sample–support interface."</data>
+      <data key="d6">chunk-16e9ebf835f37cb6fd3406f6edf2922c</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;CUS&quot;" target="&quot;ZN0.8CD0.2S&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"CuS and Zn0.2Cd0.8S are combined to form a composite that shows improved charge separation efficiency in visible-light-driven hydrogen production from water."</data>
+      <data key="d6">chunk-16e9ebf835f37cb6fd3406f6edf2922c</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;SS-SPV&quot;" target="&quot;PHOTOCHEMICAL CHARGE SEPARATION&quot;">
+      <data key="d4">8.0</data>
+      <data key="d5">"SS-SPV measurement was used to evaluate the efficiency of photochemical charge separation at the sample–support interface, indicating a direct relationship between the measurement method and the event."</data>
+      <data key="d6">chunk-16e9ebf835f37cb6fd3406f6edf2922c</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;WATER OXIDATION UNDER VISIBLE-LIGHT IRRADIATION&quot;" target="&quot;BIVO4/CO3O4 COMPOSITES&quot;">
+      <data key="d4">9.0</data>
+      <data key="d5">"BiVO4/Co3O4 composites were demonstrated to have significantly improved activity for water oxidation under visible-light irradiation, indicating a direct relationship between the event and the material."</data>
+      <data key="d6">chunk-16e9ebf835f37cb6fd3406f6edf2922c</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;AG/AG3PO4/GRAPHENE&quot;" target="&quot;VISIBLE-LIGHT-DRIVEN HYDROGEN PRODUCTION&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"Ag/Ag3PO4/graphene is a visible-driven heterojunction catalyst that has shown improved charge separation, contributing to visible-light-driven hydrogen production."</data>
+      <data key="d6">chunk-16e9ebf835f37cb6fd3406f6edf2922c</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;NIS/CDS&quot;" target="&quot;VISIBLE-LIGHT-DRIVEN HYDROGEN PRODUCTION&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"NiS/CdS is a visible-driven heterojunction catalyst that has shown improved charge separation, contributing to visible-light-driven hydrogen production."</data>
+      <data key="d6">chunk-16e9ebf835f37cb6fd3406f6edf2922c</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;MN/ZNO&quot;" target="&quot;VISIBLE-LIGHT-DRIVEN HYDROGEN PRODUCTION&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"Mn/ZnO is a visible-driven heterojunction catalyst that has shown improved charge separation, contributing to visible-light-driven hydrogen production."</data>
+      <data key="d6">chunk-16e9ebf835f37cb6fd3406f6edf2922c</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;V2O5/BIVO4&quot;" target="&quot;VISIBLE-LIGHT-DRIVEN HYDROGEN PRODUCTION&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"V2O5/BiVO4 is a visible-driven heterojunction catalyst that has shown improved charge separation, contributing to visible-light-driven hydrogen production."</data>
+      <data key="d6">chunk-16e9ebf835f37cb6fd3406f6edf2922c</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;PARTICLE-BASED SYSTEM&quot;" target="&quot;CARBON-BASED MATERIALS&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"Carbon-based materials can also be used in particle-based systems for water splitting."</data>
+      <data key="d6">chunk-e367a391cb298cff23d39f5fbfece5a1</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;CARBON-BASED MATERIALS&quot;" target="&quot;PEC CELL&quot;">
+      <data key="d4">6.0</data>
+      <data key="d5">"Carbon-based materials have the potential to be utilized within PEC cells for large-scale water splitting."</data>
+      <data key="d6">chunk-e367a391cb298cff23d39f5fbfece5a1</data>
+      <data key="d7">1</data>
+    </edge>
+    <edge source="&quot;ROYAL SOCIETY OF CHEMISTRY&quot;" target="&quot;FIGURE 8.14&quot;">
+      <data key="d4">7.0</data>
+      <data key="d5">"The Royal Society of Chemistry granted permission for the reproduction of Figure 8.14, indicating its role in the dissemination of scientific research."</data>
+      <data key="d6">chunk-e367a391cb298cff23d39f5fbfece5a1</data>
+      <data key="d7">1</data>
+    </edge>
+  </graph>
+</graphml>

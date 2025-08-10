@@ -1,0 +1,10 @@
+prompt_tuning:
+  chunk_size: 200
+  domain: ''
+  language: ''
+  limit: 15
+  max_tokens: 2000
+  method: random
+  no_entity_types: false
+  output: indexing/prompts
+  root: indexing

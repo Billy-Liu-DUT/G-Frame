@@ -1,0 +1,82 @@
+[
+  {
+    "theme": "Wittig Reaction Mechanism & Selectivity",
+    "question": "Explain the mechanism of the Wittig reaction, including ylide formation and oxaphosphetane intermediate decomposition, and discuss how reaction conditions and substrate structure influence E/Z selectivity."
+  },
+  {
+    "theme": "Atomic Structure & Bonding Theory",
+    "question": "Using Molecular Orbital Theory, explain why O₂ is paramagnetic and N₂ is diamagnetic, and compare the advantages of MOT over Valence Bond Theory in explaining molecular properties."
+  },
+  {
+    "theme": "Thermodynamics",
+    "question": "Analyze how temperature and pressure affect the spontaneity, equilibrium constant, and yield of the ammonia synthesis reaction by influencing ΔH, ΔS, and ΔG."
+  },
+  {
+    "theme": "Chemical Kinetics",
+    "question": "Define the rate-determining step in a multi-step reaction and describe experimental methods to identify it, including how catalysts lower activation energy."
+  },
+  {
+    "theme": "Organic Chemistry Reaction Mechanisms - SN1/SN2",
+    "question": "Compare SN1 and SN2 mechanisms, focusing on substrate structure, nucleophile nature, leaving group ability, and solvent effects, including stereochemical outcomes."
+  },
+  {
+    "theme": "Organic Synthesis Strategy",
+    "question": "Design a multi-step synthesis of cinnamic acid from benzaldehyde and acetone, justifying reaction choices and strategies to control selectivity and side reactions."
+  },
+  {
+    "theme": "Spectroscopic Methodology",
+    "question": "Explain how IR, NMR, and MS complement each other in structural elucidation and discuss key structural information each technique provides."
+  },
+  {
+    "theme": "Inorganic Chemistry - Coordination Chemistry Theory",
+    "question": "Compare CFT and LFT in describing electronic structure and properties of [CoF₆]³⁻ and [Co(CN)₆]³⁻, highlighting LFT’s advancements over CFT."
+  },
+  {
+    "theme": "Analytical Chemistry - Chromatographic Separation Science",
+    "question": "Describe the principles of GC and HPLC and discuss factors for method optimization, including sample properties and operational parameters."
+  },
+  {
+    "theme": "Electrochemical Principles & Applications",
+    "question": "Explain the Nernst equation’s role in relating electrode potentials to concentration and temperature, with examples in pH meters and corrosion."
+  },
+  {
+    "theme": "Solution Chemistry & Equilibrium Control",
+    "question": "Define buffer solutions and explain how the phosphate buffer resists pH changes, including factors for selecting an appropriate buffer system."
+  },
+  {
+    "theme": "Grignard Reaction Mechanism & Applications",
+    "question": "Describe Grignard reagent preparation and reaction mechanisms, including factors influencing success and strategies to control side reactions."
+  },
+  {
+    "theme": "Materials Chemistry - Functional Material Design",
+    "question": "Discuss MOF design strategies (ligand engineering, metal node selection) and their applications in gas adsorption, catalysis, and drug delivery."
+  },
+  {
+    "theme": "Environmental Chemistry - Atmospheric Chemistry & Pollution Control",
+    "question": "Explain natural ozone equilibrium, how CFCs disrupt it, and the role of the Montreal Protocol in mitigating ozone depletion."
+  },
+  {
+    "theme": "Biochemistry - Enzyme Function & Regulation",
+    "question": "Describe the Michaelis-Menten equation and how different inhibitors affect Km and Vmax, including mechanisms of allosteric regulation."
+  },
+  {
+    "theme": "Solid-State Chemistry - Electronic Structure & Material Properties",
+    "question": "Explain Band Theory’s description of conductors, semiconductors, and insulators, and discuss doping mechanisms in semiconductor devices."
+  },
+  {
+    "theme": "Diels-Alder Reaction, Mechanisms & Selectivity",
+    "question": "Describe the thermodynamic and kinetic factors that determine whether a Diels-Alder reaction proceeds under thermal or photochemical conditions, and explain how solvent choice influences the reaction stereoselectivity."
+  },
+  {
+    "theme": "Aldol Reaction Mechanism & Stereoselectivity",
+    "question": "Explain the aldol reaction mechanism, including enolate formation, and discuss factors influencing stereoselectivity, such as metal counterions and solvents."
+  },
+  {
+    "theme": "Methodology & Application of Advanced Analytical Techniques",
+    "question": "Describe tandem MS principles and its applications in proteomics and metabolomics, including structural elucidation and quantitative analysis."
+  },
+  {
+    "theme": "Supramolecular Chemistry and Self-Assembly",
+    "question": "Discuss non-covalent interactions driving self-assembly and analyze the mechanism of a specific system (e.g., micelles or DNA origami)."
+  }
+]
