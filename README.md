@@ -1,17 +1,5 @@
 # G-Frame & OmniChem: An Adaptive Multi-Agent Framework for Scientific Discovery in Chemistry
 
-<p align="center">
-  <a href="https://huggingface.co/Billy-Liu-DUT/OmniChem-7B-v1" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-OmniChem--7B--v1%20Model-blue" alt="Hugging Face Model">
-  </a>
-  <a href="https://huggingface.co/datasets/Billy-Liu-DUT/OmniChem" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-OmniChem%20Dataset-green" alt="Hugging Face Dataset">
-  </a>
-  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">
-    <img src="https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey" alt="License">
-  </a>
-</p>
-
 This repository contains the complete open-source suite for **G-Frame**, an adaptive multi-agent framework designed to overcome the reasoning deficiencies and factual "hallucinations" of lightweight Large Language Models (LLMs) in specialized scientific domains. The primary outcome of this framework is **OmniChem**, a 7B parameter model that demonstrates expert-level performance in chemistry, comparable to models like GPT-4o mini.
 
 The core of G-Frame is a novel data synthesis pipeline that leverages **Bayesian game theory** to model the interaction between multiple LLM agents. This approach establishes an automated, closed-loop process where agents are incentivized to generate factually accurate and causally reasoned data, effectively internalizing the axiomatic constraints of science. The framework's **adaptive concurrency optimization** ensures maximum throughput and efficiency during this large-scale data generation process.
