@@ -14,12 +14,6 @@ This work establishes a scalable and automated paradigm for creating domain-spec
 
 This repository provides an end-to-end toolchain that covers the entire lifecycle of creating a specialized scientific LLM.
 
-<p align="center">
-  <img src="https://i.imgur.com/your-workflow-diagram.png" alt="G-Frame Workflow" width="800"/>
-  <br/>
-  <i><b>Figure 1:</b> The automated, closed-loop workflow of the G-Frame ecosystem.</i>
-</p>
-
 1.  **Stage 1: High-Quality Data Synthesis (The G-Frame Core)**: The `1_data_synthesis` module uses an adaptive concurrency manager to efficiently orchestrate multiple LLM agents. Modeled on Bayesian game principles, this system generates a vast corpus of high-quality, factually grounded chemical data.
 2.  **Stage 2: Model Training**: The `2_model_training` scripts use the synthesized data to fine-tune a base model, creating the specialized OmniChem model. The suite supports both pre-training and supervised fine-tuning (SFT) with DeepSpeed.
 3.  **Stage 3: Application & Interaction (RAG)**: The trained OmniChem model is deployed and integrated into a sophisticated Retrieval-Augmented Generation (RAG) system using the `4_rag_backend` and `5_chat_ui` components, enabling intuitive interaction via a Gradio interface.
@@ -105,6 +99,8 @@ This project is licensed under the [Creative Commons Attribution-NonCommercial-S
 This project was developed by the **Digital Chemistry Research Group** at **Dalian University of Technology**.
 
 Key contributors include **Biquan Bie** and **Runzhe Liu**.
+
+We used Gemini 2.5 Pro to create a storybook for OmniChem.
 
 ## Citing G-Frame & OmniChem
 
