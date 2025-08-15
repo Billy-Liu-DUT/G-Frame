@@ -105,7 +105,7 @@ Quantitatively measure your model's performance using the provided benchmarks.
 To showcase the creative possibilities of advanced AI, we used Gemini 2.5 Pro to create a storybook for OmniChem, bringing the world of digital chemistry to life.
 ## License
 
-This project is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+This project is licensed under the MIT License .
 
 ## Acknowledgements
 
