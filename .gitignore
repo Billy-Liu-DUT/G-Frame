@@ -1,0 +1,64 @@
+# Python bytecode and test tooling
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# Local environments and package builds
+.venv/
+venv/
+env/
+ENV/
+build/
+dist/
+*.egg-info/
+*.whl
+.deploy-*.tar.gz
+
+# Run outputs, caches, logs, and local service state
+runs/
+artifacts/
+outputs/
+checkpoints/
+wandb/
+logs/
+*.log
+.hf-cache/
+.cache/
+.gpu-runtime/
+.gpu-packages/
+.gpu-pip-cache/
+.gpu-tmp/
+.torch-extensions/
+.triton-cache/
+
+# Model and training artifacts
+*.safetensors
+*.ckpt
+*.pt
+*.pth
+*.onnx
+*.gguf
+*.pdf
+
+# Local configuration and UI state
+.env
+.env.*
+!.env.example
+chat_interface/chat_history/
+
+# Local third-party checkout retained outside the published source tree
+graph_rag/graph_rag_local_ui_main/
+
+# Editor and operating-system files
+.DS_Store
+Thumbs.db
+.idea/
+graph_rag/nano_graphrag/idea/
+.vscode/
+.ipynb_checkpoints/

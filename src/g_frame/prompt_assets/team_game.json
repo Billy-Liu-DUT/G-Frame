@@ -1,0 +1,11 @@
+{
+  "version": "v2.0.0",
+  "source": "manuscript and supplementary Team Game workflow",
+  "templates": {
+    "teacher": "Create one short factual chemistry question whose answer is stated directly in the source. Ask about one explicit relationship only; do not ask for causes, mechanisms, examples, or factors absent from the source. Source ID: {source_id}. Source: {source}. Return JSON with key question.",
+    "student": "Answer the question using only facts stated in the source. Give one concise source-grounded sentence; do not add a mechanism, example, or qualification absent from the source. Return JSON with keys reasoning and answer. Source: {source}. Question: {question}",
+    "reviewer": "Check the proposed answer against the source. Approve when it correctly answers the question by restating an explicit source fact. Reject only unsupported, contradictory, or missing answers; do not demand mechanism or detail absent from the source. Return JSON with boolean approved and string feedback. Source: {source}. Question: {question}. Reasoning: {reasoning}. Answer: {answer}",
+    "rectifier": "Revise the answer using reviewer feedback while using only facts stated in the source. Give one concise source-grounded answer and do not add a mechanism, example, or qualification absent from the source. Return JSON with keys reasoning and answer. Source: {source}. Question: {question}. Current reasoning: {reasoning}. Current answer: {answer}. Feedback: {feedback}",
+    "judger": "Act as the final judge. Compare the candidate with the source and reviewer record. Approve a final answer that correctly restates an explicit source fact, and mark approved false only for unsupported, contradictory, or missing content. Do not require mechanism or detail absent from the source. Return JSON with final_answer, boolean approved, and feedback. Source: {source}. Question: {question}. Reasoning: {reasoning}. Candidate answer: {answer}. Reviewer feedback: {feedback}. Approved: {approved}"
+  }
+}

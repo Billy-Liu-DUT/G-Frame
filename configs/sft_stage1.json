@@ -1,0 +1,22 @@
+{
+  "model_path": "Qwen/Qwen2.5-0.5B-Instruct",
+  "dataset_path": "../runs/mock-pipeline/sft_stage1.jsonl",
+  "dataset_format": "jsonl_messages",
+  "eval_dataset_path": "../runs/mock-pipeline/sft_eval.jsonl",
+  "eval_dataset_format": "jsonl_messages",
+  "eval_strategy": "steps",
+  "eval_steps": 1,
+  "output_dir": "../runs/mock-pipeline/sft_stage1",
+  "deepspeed_config": "../llm_training/ds_config_sft_smoke.json",
+  "learning_rate": 5e-05,
+  "per_device_train_batch_size": 1,
+  "gradient_accumulation_steps": 1,
+  "max_steps": 1,
+  "logging_steps": 1,
+  "save_strategy": "steps",
+  "save_steps": 1,
+  "save_total_limit": 2,
+  "bf16": true,
+  "gradient_checkpointing": false,
+  "max_seq_length": 256
+}

@@ -1,0 +1,8 @@
+{
+  "version": "v2.0.0",
+  "source": "manuscript-derived reasoning transformation workflow",
+  "templates": {
+    "distill": "Extract a concise, source-grounded chain of reasoning from the supplied passage. Preserve uncertainty and do not introduce facts. Return JSON with a reasoning string. Source ID: {source_id}. Source: {source}",
+    "synth": "Write a concise, source-grounded reasoning trace using the source and the supplied distilled reasoning. Preserve uncertainty and do not introduce facts. Return JSON with a reasoning string. Source ID: {source_id}. Source: {source}. Distilled reasoning: {reasoning}"
+  }
+}

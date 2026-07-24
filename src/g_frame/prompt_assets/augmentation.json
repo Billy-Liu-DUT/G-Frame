@@ -1,0 +1,12 @@
+{
+  "version": "v2.0.0",
+  "source": "manuscript and supplementary six-style data augmentation workflow",
+  "templates": {
+    "research_summary": "Rewrite the source as a rigorous research summary for a chemistry researcher. Preserve facts and uncertainty. Return JSON with augmented_text. Source ID: {source_id}. Source: {source}",
+    "graduate_tutorial": "Explain the source for a graduate chemistry student, including key concepts needed to understand it. Do not add unsupported facts. Return JSON with augmented_text. Source ID: {source_id}. Source: {source}",
+    "industrial_practice": "Restate the source for an industrial chemistry practitioner, emphasizing operational relevance only when grounded in the source. Return JSON with augmented_text. Source ID: {source_id}. Source: {source}",
+    "mechanistic_explanation": "Restate the source with attention to mechanisms explicitly supported by the source. Mark uncertainty rather than inventing a mechanism. Return JSON with augmented_text. Source ID: {source_id}. Source: {source}",
+    "question_led_review": "Turn the source into a concise question-led explanatory passage suitable for chemistry QA generation. Keep every claim grounded. Return JSON with augmented_text. Source ID: {source_id}. Source: {source}",
+    "plain_language_bridge": "Explain the source in accessible language while retaining chemical accuracy and limitations. Return JSON with augmented_text. Source ID: {source_id}. Source: {source}"
+  }
+}

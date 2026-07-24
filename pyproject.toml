@@ -1,0 +1,38 @@
+[build-system]
+requires = ["setuptools>=69", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "g-frame-omnichem"
+version = "0.2.0"
+description = "G-Frame v2: typed, testable multi-agent chemistry data synthesis and full-parameter SFT orchestration."
+readme = "readme.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [
+  { name = "Digital Chemistry Research Group, Dalian University of Technology" }
+]
+dependencies = []
+
+[project.optional-dependencies]
+runtime = [
+  "openai>=1.0",
+  "PyYAML>=6.0",
+]
+training = [
+  "datasets>=2.18",
+  "deepspeed>=0.14",
+  "torch>=2.1",
+  "transformers>=4.40",
+]
+dev = ["pytest>=7.0"]
+
+[project.scripts]
+gframe = "g_frame.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+include = ["g_frame*"]
+
+[tool.setuptools.package-data]
+g_frame = ["prompt_assets/*.json"]

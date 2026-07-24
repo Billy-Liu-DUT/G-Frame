@@ -1,0 +1,7 @@
+{
+  "version": "v2.0.0",
+  "source": "manuscript-derived source normalization workflow",
+  "templates": {
+    "semantic_complete": "Normalize the supplied chemistry source after character cleanup. Complete only unambiguous truncated wording, preserve uncertainty, and do not introduce facts. Return JSON with cleaned_text. Source ID: {source_id}. Source: {source}"
+  }
+}

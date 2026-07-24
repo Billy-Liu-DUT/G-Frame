@@ -1,0 +1,41 @@
+# ------------------ Endpoint Configuration ------------------
+# Endpoints for the Large Language and Embedding models.
+endpoints:
+  # Used for the RAG process (generation, summarization).
+  llm_endpoint: "http://localhost:8002/v1"
+  # Used for embedding documents and queries.
+  embedding_endpoint: "http://localhost:8003/v1"
+  # The model name to be used for generation tasks.
+  llm_model: "Qwen2.5-14B-Instruct"
+  # The model name for embedding tasks.
+  embedding_model: "mxbai-embed-large-v1"
+
+# ------------------ Server Configuration ------------------
+# Settings for the custom backend server (serve.py).
+server:
+  host: "0.0.0.0"
+  port: 8004
+
+# ------------------ Data and Graph Configuration ------------------
+data_paths:
+  # Directory where the knowledge graph is stored and managed.
+  working_dir: "./graph_data"
+  # A list of source documents to be ingested into the graph.
+  source_documents:
+    - "./books/document_01.txt"
+    - "./books/document_02.txt"
+
+# ------------------ RAG Process Configuration ------------------
+rag_config:
+  # Temperature for the final answer generation.
+  temperature: 0.0
+  # Concurrency limit for requests to the LLM.
+  llm_concurrency: 80
+
+# ------------------ Prompts (Optional) ------------------
+# System prompts used during the RAG process.
+prompts:
+  # Prompt for translating user input to English before querying.
+  translate_to_english: "Your task is to translate the user's input into English. Reply only with the translated content."
+  # Prompt for translating the final RAG result back to Chinese.
+  translate_to_chinese: "Your task is to translate the user's input into Chinese. Reply only with the translated content. If the content is already in Chinese, leave it unchanged."
