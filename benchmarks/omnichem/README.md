@@ -9,4 +9,3 @@ This directory contains the benchmark datasets used to evaluate OmniChem:
 
 The files are provided in JSON format for evaluation and reproducibility. They
 are benchmark question datasets, not raw model-generated outputs.
-
