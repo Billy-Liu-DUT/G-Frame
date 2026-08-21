@@ -1,0 +1,2357 @@
+[
+  {
+    "theme": "Pericyclic Reactions - Electrocyclic",
+    "question": "Analyze the electrocyclic ring closure of (2E,4Z,6E)-2,4,6-octatriene under thermal and photochemical conditions using Frontier Molecular Orbital (FMO) theory and predict the stereochemistry of the products.",
+    "id": 0
+  },
+  {
+    "theme": "Organometallic Chemistry - Catalytic Cycles",
+    "question": "Describe the catalytic cycle of the Suzuki-Miyaura coupling reaction, detailing the oxidative addition, transmetallation, and reductive elimination steps, and discuss the role of the base.",
+    "id": 1
+  },
+  {
+    "theme": "Quantum Chemistry - Perturbation Theory",
+    "question": "Explain the fundamental principles of Møller-Plesset perturbation theory (MP2) as an improvement over Hartree-Fock, and discuss its limitations in describing systems with strong electron correlation.",
+    "id": 2
+  },
+  {
+    "theme": "Surface Chemistry - Adsorption Isotherms",
+    "question": "Derive the Langmuir adsorption isotherm equation starting from kinetic assumptions, and contrast it with the BET isotherm regarding multilayer adsorption and surface heterogeneity.",
+    "id": 3
+  },
+  {
+    "theme": "Bioinorganic Chemistry - Oxygen Transport",
+    "question": "Compare the oxygen-binding mechanisms of Hemoglobin and Hemocyanin, focusing on the metal center oxidation states, coordination geometry changes, and the concept of cooperativity.",
+    "id": 4
+  },
+  {
+    "theme": "Polymer Chemistry - Radical Polymerization",
+    "question": "Discuss the kinetics of free radical polymerization, specifically the steady-state assumption, and explain how chain transfer agents influence the molecular weight distribution (PDI).",
+    "id": 5
+  },
+  {
+    "theme": "Analytical Chemistry - Voltammetry",
+    "question": "Explain the principle of Cyclic Voltammetry (CV) for a reversible redox couple, describing the physical meaning of peak separation (ΔEp) and the relationship between peak current and scan rate (Randles-Sevcik equation).",
+    "id": 6
+  },
+  {
+    "theme": "Stereochemistry - Chirality & Topicity",
+    "question": "Define the terms enantiotopic, diastereotopic, and homotopic protons, and explain how they can be distinguished using chiral and achiral solvents in 1H NMR spectroscopy.",
+    "id": 7
+  },
+  {
+    "theme": "Thermodynamics - Phase Equilibria",
+    "question": "Derive the Clausius-Clapeyron equation from the Maxwell relations and discuss its application in predicting the phase transition boundaries of a pure substance.",
+    "id": 8
+  },
+  {
+    "theme": "Advanced Organic Synthesis - Protecting Groups",
+    "question": "Propose a strategy for the selective protection and deprotection of a molecule containing a primary alcohol, a secondary alcohol, and a ketone, justifying the choice of reagents (e.g., TBDMS, MOM, acetals).",
+    "id": 9
+  },
+  {
+    "theme": "Solid State Chemistry - Crystal Defects",
+    "question": "Distinguish between Schottky and Frenkel defects in ionic solids, calculating the equilibrium concentration of defects as a function of temperature and formation energy.",
+    "id": 10
+  },
+  {
+    "theme": "Spectroscopy - Raman vs IR",
+    "question": "Compare the selection rules for Infrared (IR) and Raman spectroscopy based on dipole moment and polarizability changes, and explain why the symmetric stretch of CO2 is Raman active but IR inactive.",
+    "id": 11
+  },
+  {
+    "theme": "Acid-Base Chemistry - Non-Aqueous Solvents",
+    "question": "Discuss the leveling effect and differentiating effect of solvents on acid strength, using liquid ammonia and glacial acetic acid as examples to explain superacids and superbasis.",
+    "id": 12
+  },
+  {
+    "theme": "Industrial Chemistry - Haber Process Kinetics",
+    "question": "Analyze the kinetics of the Haber-Bosch process on an iron catalyst surface, specifically focusing on the rate-determining step of nitrogen dissociation and the concept of volcano plots in catalysis.",
+    "id": 13
+  },
+  {
+    "theme": "Photochemistry - Jablonski Diagram",
+    "question": "Draw and explain a Jablonski diagram, detailing radiative (fluorescence, phosphorescence) and non-radiative transitions (internal conversion, intersystem crossing), and define quantum yield.",
+    "id": 14
+  },
+  {
+    "theme": "Heterocyclic Chemistry - Synthesis",
+    "question": "Outline the mechanism of the Fischer Indole synthesis starting from phenylhydrazine and a ketone, emphasizing the [3,3]-sigmatropic rearrangement step.",
+    "id": 15
+  },
+  {
+    "theme": "Nuclear Chemistry - Decay Kinetics",
+    "question": "Derive the equations for secular and transient equilibrium in a radioactive decay chain (Parent -> Daughter), and explain the conditions under which each equilibrium is established.",
+    "id": 16
+  },
+  {
+    "theme": "Colloid Chemistry - Stability",
+    "question": "Explain the DLVO theory regarding the stability of lyophobic colloids, detailing the interplay between Van der Waals attraction and electrostatic double-layer repulsion.",
+    "id": 17
+  },
+  {
+    "theme": "Biochemistry - Protein Folding",
+    "question": "Discuss the thermodynamic forces driving protein folding (hydrophobic effect, H-bonding, entropy), and explain the Levinthal paradox.",
+    "id": 18
+  },
+  {
+    "theme": "Green Chemistry - Principles",
+    "question": "Evaluate the Atom Economy and E-factor of a given reaction, and discuss how the 12 Principles of Green Chemistry guide the design of safer solvents and energy-efficient processes.",
+    "id": 19
+  },
+  {
+    "theme": "Organic Mechanism - Carbene Chemistry",
+    "question": "Compare the reactivity and spin states of singlet and triplet carbenes, and describe the stereospecificity of their addition reactions to alkenes.",
+    "id": 20
+  },
+  {
+    "theme": "Inorganic Chemistry - Trans Effect",
+    "question": "Explain the Trans Effect in square planar platinum(II) complexes, distinguishing between the kinetic trans effect and the thermodynamic trans influence with specific ligand examples.",
+    "id": 21
+  },
+  {
+    "theme": "Electrochemistry - Batteries",
+    "question": "Describe the intercalation mechanism in Lithium-ion batteries, comparing the cathode (e.g., LiCoO2) and anode (Graphite) half-reactions and the role of the solid electrolyte interphase (SEI).",
+    "id": 22
+  },
+  {
+    "theme": "Computational Chemistry - Basis Sets",
+    "question": "Explain the difference between Slater-type orbitals (STOs) and Gaussian-type orbitals (GTOs), and discuss the significance of split-valence, polarization, and diffuse functions in basis set design.",
+    "id": 23
+  },
+  {
+    "theme": "Spectroscopy - Mass Spec Ionization",
+    "question": "Compare hard (EI) and soft (ESI, MALDI) ionization techniques in Mass Spectrometry, discussing their mechanisms and suitability for analyzing small molecules versus large biomolecules.",
+    "id": 24
+  },
+  {
+    "theme": "Organic Synthesis - Oxidation",
+    "question": "Compare the mechanisms and selectivity of the Swern oxidation, Jones oxidation, and Dess-Martin periodinane oxidation for converting alcohols to carbonyls.",
+    "id": 25
+  },
+  {
+    "theme": "Statistical Mechanics - Partition Functions",
+    "question": "Define the molecular partition function and explain how it relates microscopic energy levels to macroscopic thermodynamic properties like Internal Energy (U) and Entropy (S).",
+    "id": 26
+  },
+  {
+    "theme": "Coordination Chemistry - Isomerism",
+    "question": "Describe the different types of isomerism in coordination complexes (linkage, ionization, coordination, optical, and geometric), providing an example for each.",
+    "id": 27
+  },
+  {
+    "theme": "Nanochemistry - Quantum Dots",
+    "question": "Explain the quantum confinement effect in semiconductor quantum dots and how particle size influences the bandgap and emission wavelength (Brus equation).",
+    "id": 28
+  },
+  {
+    "theme": "Analytical Chemistry - Atomic Spectroscopy",
+    "question": "Contrast Atomic Absorption Spectroscopy (AAS) and Inductively Coupled Plasma Optical Emission Spectroscopy (ICP-OES) in terms of excitation source, detection limits, and multi-element capability.",
+    "id": 29
+  },
+  {
+    "theme": "Physical Organic Chemistry - Hammett Equation",
+    "question": "Explain the physical significance of the Hammett substituent constant (σ) and reaction constant (ρ), and describe how they are used to elucidate reaction mechanisms and transition state character.",
+    "id": 30
+  },
+  {
+    "theme": "Materials Science - Superconductivity",
+    "question": "Discuss the BCS theory of superconductivity, focusing on the formation of Cooper pairs and the concept of critical temperature (Tc) and critical field.",
+    "id": 31
+  },
+  {
+    "theme": "Organic Mechanism - Rearrangements",
+    "question": "Detail the mechanism of the Beckmann rearrangement of cyclohexanone oxime to caprolactam, and discuss its industrial significance in polymer synthesis.",
+    "id": 32
+  },
+  {
+    "theme": "Inorganic Chemistry - Boranes",
+    "question": "Describe the bonding in diborane (B2H6) using the concept of 3-center-2-electron bonds, and explain Wade's rules for predicting the structures of borane clusters (closo, nido, arachno).",
+    "id": 33
+  },
+  {
+    "theme": "Biochemistry - DNA Replication",
+    "question": "Explain the chemical mechanism of DNA polymerization, focusing on the nucleophilic attack of the 3'-OH on the alpha-phosphate of the incoming dNTP and the role of magnesium ions.",
+    "id": 34
+  },
+  {
+    "theme": "Thermodynamics - Solution Chemistry",
+    "question": "Explain the concept of Chemical Potential in non-ideal solutions, defining activity and activity coefficients, and use the Gibbs-Duhem equation to relate changes in solute and solvent potentials.",
+    "id": 35
+  },
+  {
+    "theme": "Polymer Chemistry - Step-Growth",
+    "question": "Derive the Carothers equation for step-growth polymerization and explain why high monomer conversion is essential to achieve high molecular weights compared to chain-growth polymerization.",
+    "id": 36
+  },
+  {
+    "theme": "Organic Synthesis - Enolate Chemistry",
+    "question": "Discuss the kinetic vs. thermodynamic control in the formation of enolates from 2-methylcyclohexanone, specifying the base, temperature, and solvent conditions for each.",
+    "id": 37
+  },
+  {
+    "theme": "Instrumental Analysis - NMR Pulse Sequences",
+    "question": "Explain the principle of the DEPT-135 (Distortionless Enhancement by Polarization Transfer) NMR experiment and how it distinguishes between CH, CH2, and CH3 carbons.",
+    "id": 38
+  },
+  {
+    "theme": "Physical Chemistry - Electrical Double Layer",
+    "question": "Compare the Helmholtz, Gouy-Chapman, and Stern models of the electrical double layer at a solid-liquid interface, highlighting the improvements each model offers.",
+    "id": 39
+  },
+  {
+    "theme": "Organometallics - Metathesis",
+    "question": "Describe the mechanism of Olefin Metathesis catalyzed by Grubbs' catalyst, focusing on the [2+2] cycloaddition and cycloreversion steps involving the metallocyclobutane intermediate.",
+    "id": 40
+  },
+  {
+    "theme": "Environmental Chemistry - Greenhouse Effect",
+    "question": "Explain the molecular basis of the greenhouse effect, focusing on the vibrational modes of CO2, CH4, and H2O that allow them to absorb IR radiation.",
+    "id": 41
+  },
+  {
+    "theme": "Solid State Chemistry - Band Gap Engineering",
+    "question": "Discuss strategies for band gap engineering in semiconductors, such as alloying (e.g., GaAsP) and doping, and their application in LED and solar cell design.",
+    "id": 42
+  },
+  {
+    "theme": "Organic Mechanism - Nucleophilic Aromatic Substitution",
+    "question": "Compare the mechanisms of SNAr (Addition-Elimination) and Benzyne (Elimination-Addition) pathways in nucleophilic aromatic substitution, providing evidence for the benzyne intermediate.",
+    "id": 43
+  },
+  {
+    "theme": "Biochemistry - Metabolic Regulation",
+    "question": "Explain the reciprocal regulation of Glycolysis and Gluconeogenesis, specifically focusing on the allosteric control of Phosphofructokinase-1 (PFK-1) and Fructose-1,6-bisphosphatase.",
+    "id": 44
+  },
+  {
+    "theme": "Analytical Chemistry - Titration Theory",
+    "question": "Derive the titration curve for a weak diprotic acid (like H2CO3) with a strong base, calculating the pH at the first and second equivalence points and the half-equivalence points.",
+    "id": 45
+  },
+  {
+    "theme": "Inorganic Chemistry - Lanthanides",
+    "question": "Explain the Lanthanide Contraction and its consequences on the atomic radii, ionization energies, and chemical properties of the post-lanthanide transition metals (e.g., Zr vs. Hf).",
+    "id": 46
+  },
+  {
+    "theme": "Physical Chemistry - Gas Laws",
+    "question": "Derive the Van der Waals equation of state from the Ideal Gas Law by applying corrections for intermolecular forces and molecular volume, and interpret the 'a' and 'b' constants.",
+    "id": 47
+  },
+  {
+    "theme": "Organic Synthesis - Reduction",
+    "question": "Compare the selectivity and mechanism of Lithium Aluminum Hydride (LiAlH4), Sodium Borohydride (NaBH4), and DIBAL-H in the reduction of esters, amides, and aldehydes.",
+    "id": 48
+  },
+  {
+    "theme": "Spectroscopy - Fluorescence Quenching",
+    "question": "Derive the Stern-Volmer equation for fluorescence quenching and distinguish between dynamic (collisional) and static quenching mechanisms using lifetime measurements.",
+    "id": 49
+  },
+  {
+    "theme": "Supramolecular Chemistry - Host-Guest",
+    "question": "Discuss the preorganization and complementarity principles in host-guest chemistry, using Crown Ethers and Cryptands binding alkali metal ions as examples.",
+    "id": 50
+  },
+  {
+    "theme": "Chemical Engineering - Reactor Design",
+    "question": "Compare the performance equations and conversion profiles of a Continuous Stirred-Tank Reactor (CSTR) and a Plug Flow Reactor (PFR) for a first-order irreversible reaction.",
+    "id": 51
+  },
+  {
+    "theme": "Physical Organic - Isotope Effects",
+    "question": "Explain the origin of the Primary Kinetic Isotope Effect (KIE) using zero-point energy differences, and describe how KIEs are used to determine if C-H bond breaking is the rate-determining step.",
+    "id": 52
+  },
+  {
+    "theme": "Materials Chemistry - Sol-Gel",
+    "question": "Describe the chemistry of the Sol-Gel process for synthesizing silica glass, detailing the hydrolysis and condensation mechanisms and the transition from sol to gel.",
+    "id": 53
+  },
+  {
+    "theme": "Coordination Chemistry - Jahn-Teller",
+    "question": "Explain the Jahn-Teller theorem and predict the structural distortion expected for an octahedral Copper(II) complex (d9) compared to a Chromium(III) complex (d3).",
+    "id": 54
+  },
+  {
+    "theme": "Organic Mechanism - Radicals",
+    "question": "Detail the mechanism of the radical halogenation of alkanes (initiation, propagation, termination) and explain the selectivity difference between chlorination and bromination based on the Hammond Postulate.",
+    "id": 55
+  },
+  {
+    "theme": "Analytical Chemistry - Errors",
+    "question": "Distinguish between systematic and random errors in chemical analysis, and explain how they affect accuracy and precision respectively, giving examples of propagation of uncertainty.",
+    "id": 56
+  },
+  {
+    "theme": "Biochemistry - Enzyme Kinetics",
+    "question": "Compare Competitive, Non-competitive, and Uncompetitive inhibition using Lineweaver-Burk plots, explaining how Vmax and Km change in each case.",
+    "id": 57
+  },
+  {
+    "theme": "Thermodynamics - Entropy",
+    "question": "Explain the Third Law of Thermodynamics and the concept of Residual Entropy, using CO or ice crystals at 0K as examples of systems with non-zero entropy.",
+    "id": 58
+  },
+  {
+    "theme": "Inorganic Chemistry - 18 Electron Rule",
+    "question": "Apply the 18-Electron Rule to predict the stability of organometallic complexes like [Fe(CO)5] and [Cp2Fe], and discuss classes of complexes that violate this rule (e.g., 16-electron square planar).",
+    "id": 59
+  },
+  {
+    "theme": "Organic Synthesis - C-C Coupling",
+    "question": "Discuss the mechanism and utility of the Heck Reaction, highlighting the role of the Pd(0)/Pd(II) cycle and the necessity of the base for regenerating the catalyst.",
+    "id": 60
+  },
+  {
+    "theme": "Physical Chemistry - Surface Tension",
+    "question": "Explain the Young-Laplace equation relating pressure difference across a curved interface to surface tension, and discuss the phenomenon of capillary action.",
+    "id": 61
+  },
+  {
+    "theme": "Analytical Chemistry - Electrodes",
+    "question": "Describe the construction and working principle of a Glass pH Electrode, explaining the origin of the boundary potential across the glass membrane.",
+    "id": 62
+  },
+  {
+    "theme": "Polymer Chemistry - Tg",
+    "question": "Define the Glass Transition Temperature (Tg) of a polymer and discuss how factors like chain flexibility, side groups, and cross-linking density affect Tg.",
+    "id": 63
+  },
+  {
+    "theme": "Organic Mechanism - Elimination",
+    "question": "Compare the E1, E2, and E1cB elimination mechanisms, focusing on the timing of bond breaking, the requirement for anti-periplanar geometry in E2, and substrate influences.",
+    "id": 64
+  },
+  {
+    "theme": "Spectroscopy - UV-Vis",
+    "question": "Explain the electronic transitions (sigma->sigma*, n->pi*, pi->pi*) observed in UV-Vis spectroscopy and how conjugation results in a bathochromic shift (red shift).",
+    "id": 65
+  },
+  {
+    "theme": "Inorganic Chemistry - HSAB Theory",
+    "question": "Explain Pearson's Hard and Soft Acids and Bases (HSAB) principle and use it to predict the stability of complexes and reaction outcomes, such as the preference of thiocyanate to bind S- or N-.",
+    "id": 66
+  },
+  {
+    "theme": "Biochemistry - Lipid Bilayers",
+    "question": "Discuss the Fluid Mosaic Model of cell membranes, explaining how cholesterol and the degree of fatty acid saturation regulate membrane fluidity.",
+    "id": 67
+  },
+  {
+    "theme": "Thermodynamics - Maxwell Relations",
+    "question": "Derive the four fundamental Maxwell Relations from the exact differentials of U, H, A, and G, and explain their utility in relating measurable quantities.",
+    "id": 68
+  },
+  {
+    "theme": "Organic Synthesis - Asymmetric Synthesis",
+    "question": "Describe the principle of the Sharpless Asymmetric Epoxidation, specifically the role of the chiral tartrate ligand in creating a chiral environment for the allylic alcohol substrate.",
+    "id": 69
+  },
+  {
+    "theme": "Materials Chemistry - Conducting Polymers",
+    "question": "Explain the mechanism of electrical conductivity in conjugated polymers like polyacetylene, focusing on the concepts of doping, solitons, polarons, and bipolarons.",
+    "id": 70
+  },
+  {
+    "theme": "Analytical Chemistry - Internal Standard",
+    "question": "Explain the method of Internal Standards in chromatography, discussing why it is preferred over external calibration when sample injection volume or matrix effects are variable.",
+    "id": 71
+  },
+  {
+    "theme": "Physical Chemistry - Kinetics",
+    "question": "Derive the integrated rate law for a second-order reaction (2A -> P) and explain the half-life dependence on initial concentration compared to a first-order reaction.",
+    "id": 72
+  },
+  {
+    "theme": "Inorganic Chemistry - Molecular Orbital Diagrams",
+    "question": "Construct and interpret the MO diagram for Carbon Monoxide (CO), explaining why it acts as a sigma-donor and pi-acceptor ligand in metal complexes.",
+    "id": 73
+  },
+  {
+    "theme": "Organic Mechanism - Sigmatropic",
+    "question": "Detail the mechanism of the Claisen Rearrangement of allyl vinyl ethers, classifying it as a [3,3]-sigmatropic shift and discussing the chair-like transition state.",
+    "id": 74
+  },
+  {
+    "theme": "Biochemistry - Electron Transport Chain",
+    "question": "Describe the flow of electrons through Complexes I-IV of the mitochondrial electron transport chain and explain how the proton gradient is coupled to ATP synthesis (Chemiosmotic Theory).",
+    "id": 75
+  },
+  {
+    "theme": "Spectroscopy - NMR Relaxation",
+    "question": "Explain the physical mechanisms of Spin-Lattice (T1) and Spin-Spin (T2) relaxation in NMR, and how they influence signal saturation and line width.",
+    "id": 76
+  },
+  {
+    "theme": "Organic Synthesis - Retrosynthesis",
+    "question": "Perform a retrosynthetic analysis of a generic 1,5-dicarbonyl compound, proposing the Michael Addition as the key forward synthetic step (Robinson Annulation logic).",
+    "id": 77
+  },
+  {
+    "theme": "Physical Chemistry - Statistical Thermodynamics",
+    "question": "Explain the concept of the Canonical Ensemble and the Boltzmann distribution, and how they bridge the gap between quantum states and classical thermodynamics.",
+    "id": 78
+  },
+  {
+    "theme": "Environmental Chemistry - Acid Rain",
+    "question": "Describe the chemical reactions leading to the formation of acid rain from SO2 and NOx emissions, and discuss the buffering capacity of natural water bodies.",
+    "id": 79
+  },
+  {
+    "theme": "Inorganic Chemistry - Zeolites",
+    "question": "Describe the structure and acidity of Zeolites (aluminosilicates), explaining how their shape-selective catalysis is utilized in petrochemical cracking.",
+    "id": 80
+  },
+  {
+    "theme": "Analytical Chemistry - X-ray Diffraction",
+    "question": "Explain Bragg's Law in X-ray Diffraction (XRD) and describe how powder XRD patterns are used to identify crystal phases and determine lattice parameters.",
+    "id": 81
+  },
+  {
+    "theme": "Organic Mechanism - Acetal Hydrolysis",
+    "question": "Provide the detailed mechanism for the acid-catalyzed hydrolysis of an acetal to a ketone and an alcohol, explaining why this reaction does not proceed under basic conditions.",
+    "id": 82
+  },
+  {
+    "theme": "Materials Chemistry - Perovskites",
+    "question": "Describe the crystal structure of Perovskites (ABX3) and discuss their tunable optoelectronic properties that make them promising for next-generation solar cells.",
+    "id": 83
+  },
+  {
+    "theme": "Thermodynamics - Gibbs Energy",
+    "question": "Discuss the relationship between Gibbs Free Energy change (Delta G) and the maximum non-expansion work a system can perform, differentiating between exergonic and exothermic processes.",
+    "id": 84
+  },
+  {
+    "theme": "Biochemistry - Photosynthesis",
+    "question": "Explain the light-dependent reactions of photosynthesis (Z-scheme), focusing on charge separation in Photosystem II and water oxidation at the Oxygen Evolving Complex.",
+    "id": 85
+  },
+  {
+    "theme": "Physical Chemistry - Quantum Tunneling",
+    "question": "Explain the phenomenon of Quantum Tunneling and its relevance in chemistry, such as in the inversion of ammonia or proton tunneling in enzymatic reactions.",
+    "id": 86
+  },
+  {
+    "theme": "Organic Synthesis - Olefin Metathesis",
+    "question": "Compare Ring-Closing Metathesis (RCM) and Ring-Opening Metathesis Polymerization (ROMP), discussing the thermodynamic driving forces for each process.",
+    "id": 87
+  },
+  {
+    "theme": "Inorganic Chemistry - Crystal Field Stabilization",
+    "question": "Calculate the Crystal Field Stabilization Energy (CFSE) for high-spin and low-spin d6 octahedral complexes, and explain why Co(III) forms low-spin complexes with ammonia.",
+    "id": 88
+  },
+  {
+    "theme": "Analytical Chemistry - ELISA",
+    "question": "Explain the principle of Enzyme-Linked Immunosorbent Assay (ELISA), specifically the Sandwich method, and discuss its sensitivity and specificity in biochemical analysis.",
+    "id": 89
+  },
+  {
+    "theme": "Organic Mechanism - Baeyer-Villiger",
+    "question": "Describe the mechanism of the Baeyer-Villiger oxidation of ketones to esters, explaining the migratory aptitude of different substituents (e.g., tertiary > secondary > methyl).",
+    "id": 90
+  },
+  {
+    "theme": "Materials Chemistry - Carbon Nanotubes",
+    "question": "Distinguish between Single-walled (SWCNT) and Multi-walled (MWCNT) carbon nanotubes, and explain how their chirality (n,m indices) determines whether they are metallic or semiconducting.",
+    "id": 91
+  },
+  {
+    "theme": "Physical Chemistry - Colloids",
+    "question": "Explain the Tyndall Effect in colloids and discuss the kinetic properties of Brownian motion using the Einstein-Smoluchowski relation.",
+    "id": 92
+  },
+  {
+    "theme": "Inorganic Chemistry - Cluster Chemistry",
+    "question": "Discuss the metal-metal bonding in the [Re2Cl8]2- ion, explaining the formation of the quadruple bond including the delta bond.",
+    "id": 93
+  },
+  {
+    "theme": "Organic Synthesis - Click Chemistry",
+    "question": "Describe the mechanism of the Copper(I)-catalyzed Azide-Alkyne Cycloaddition (CuAAC), highlighting why it is considered a premier example of Click Chemistry.",
+    "id": 94
+  },
+  {
+    "theme": "Biochemistry - Signal Transduction",
+    "question": "Explain the G-Protein Coupled Receptor (GPCR) signaling pathway involving cAMP as a second messenger, detailing the activation of Protein Kinase A.",
+    "id": 95
+  },
+  {
+    "theme": "Spectroscopy - Circular Dichroism",
+    "question": "Explain the principle of Circular Dichroism (CD) spectroscopy and its application in determining the secondary structure (alpha-helix vs. beta-sheet) of proteins.",
+    "id": 96
+  },
+  {
+    "theme": "Thermodynamics - Heat Capacity",
+    "question": "Explain the difference between Heat Capacity at constant volume (Cv) and constant pressure (Cp), and derive the relation Cp - Cv = R for an ideal gas.",
+    "id": 97
+  },
+  {
+    "theme": "Organic Mechanism - Hofmann Rearrangement",
+    "question": "Detail the mechanism of the Hofmann Rearrangement of primary amides to primary amines, specifically the formation and rearrangement of the nitrene/isocyanate intermediate.",
+    "id": 98
+  },
+  {
+    "theme": "Analytical Chemistry - Capillary Electrophoresis",
+    "question": "Explain the principles of Capillary Electrophoresis, differentiating between electrophoretic mobility and electroosmotic flow (EOF), and how they affect separation resolution.",
+    "id": 99
+  },
+  {
+    "theme": "Materials Chemistry - Hydrogels",
+    "question": "Discuss the structure and properties of hydrogels, focusing on the cross-linking mechanisms (physical vs. chemical) and their stimuli-responsive behavior (pH, temperature).",
+    "id": 100
+  },
+  {
+    "theme": "Physical Chemistry - Born-Oppenheimer",
+    "question": "Explain the Born-Oppenheimer approximation in quantum mechanics and why it allows the separation of nuclear and electronic motions in solving the Schrödinger equation.",
+    "id": 101
+  },
+  {
+    "theme": "Inorganic Chemistry - Bio-availability",
+    "question": "Discuss the Siderophore-mediated iron uptake mechanism in bacteria, explaining how these chelating agents overcome the low solubility of Fe(III) in the environment.",
+    "id": 102
+  },
+  {
+    "theme": "Organic Synthesis - Wittig vs Horner-Wadsworth-Emmons",
+    "question": "Compare the Wittig reaction and the Horner-Wadsworth-Emmons (HWE) reaction, specifically focusing on the nature of the phosphorus reagent and the E/Z selectivity of the product.",
+    "id": 103
+  },
+  {
+    "theme": "Biochemistry - Hemoglobin Cooperativity",
+    "question": "Explain the Allosteric regulation of Hemoglobin using the T-state and R-state model (MWC model), and the effect of 2,3-BPG on oxygen affinity.",
+    "id": 104
+  },
+  {
+    "theme": "Spectroscopy - FTIR",
+    "question": "Explain the working principle of Fourier Transform Infrared (FTIR) spectroscopy, specifically the role of the Michelson interferometer and the advantages over dispersive IR.",
+    "id": 105
+  },
+  {
+    "theme": "Thermodynamics - Fugacity",
+    "question": "Define fugacity and the fugacity coefficient, and explain their use in calculating phase equilibria for real gases at high pressures.",
+    "id": 106
+  },
+  {
+    "theme": "Organic Mechanism - Diazotization",
+    "question": "Describe the mechanism of the diazotization of primary aromatic amines and the subsequent Sandmeyer reaction to introduce halides or cyano groups.",
+    "id": 107
+  },
+  {
+    "theme": "Analytical Chemistry - Sample Preparation",
+    "question": "Compare Solid Phase Extraction (SPE) and Liquid-Liquid Extraction (LLE) in terms of selectivity, solvent consumption, and automation potential.",
+    "id": 108
+  },
+  {
+    "theme": "Materials Chemistry - Liquid Crystals",
+    "question": "Describe the molecular ordering in Nematic, Smectic, and Cholesteric liquid crystal phases, and explain the electro-optic effect used in LCD displays.",
+    "id": 109
+  },
+  {
+    "theme": "Physical Chemistry - Reaction Dynamics",
+    "question": "Discuss Transition State Theory (TST) versus Collision Theory, highlighting how TST incorporates thermodynamic formulation (Eyring equation) to calculate rate constants.",
+    "id": 110
+  },
+  {
+    "theme": "Inorganic Chemistry - Spinel Structure",
+    "question": "Describe the Normal and Inverse Spinel structures (AB2O4), and predict the cation distribution for Fe3O4 (Magnetite) based on Crystal Field Stabilization Energy.",
+    "id": 111
+  },
+  {
+    "theme": "Organic Synthesis - Protecting Groups (Amine)",
+    "question": "Compare the orthogonality of Boc (tert-butyloxycarbonyl), Fmoc (fluorenylmethyloxycarbonyl), and Cbz (benzyloxycarbonyl) protecting groups for amines in peptide synthesis.",
+    "id": 112
+  },
+  {
+    "theme": "Biochemistry - PCR",
+    "question": "Explain the chemical cycle of the Polymerase Chain Reaction (PCR), detailing the denaturation, annealing, and extension steps, and the importance of thermostable DNA polymerase.",
+    "id": 113
+  },
+  {
+    "theme": "Spectroscopy - 2D NMR",
+    "question": "Explain the information provided by COSY (Correlation Spectroscopy) and HSQC (Heteronuclear Single Quantum Coherence) NMR experiments in structural elucidation.",
+    "id": 114
+  },
+  {
+    "theme": "Thermodynamics - Colligative Properties",
+    "question": "Derive the expression for freezing point depression from the chemical potential equilibrium condition, and explain why it depends on the molality of the solute but not its identity.",
+    "id": 115
+  },
+  {
+    "theme": "Organic Mechanism - Cannizzaro",
+    "question": "Detail the mechanism of the Cannizzaro reaction of benzaldehyde, explaining the hydride transfer step and why alpha-hydrogens prevent this reaction.",
+    "id": 116
+  },
+  {
+    "theme": "Analytical Chemistry - Gravimetry",
+    "question": "Discuss the critical steps in Gravimetric Analysis (precipitation, digestion, filtration, ignition), emphasizing the conditions needed to obtain pure, filterable precipitates (Von Weimarn ratio).",
+    "id": 117
+  },
+  {
+    "theme": "Materials Chemistry - Piezoelectricity",
+    "question": "Explain the origin of the piezoelectric effect in non-centrosymmetric crystals (e.g., Quartz, PZT) and discuss their application in sensors and actuators.",
+    "id": 118
+  },
+  {
+    "theme": "Physical Chemistry - Photochemistry",
+    "question": "Explain the mechanism of Photosensitization, distinguishing between energy transfer (FRET/Dexter) and electron transfer quenching pathways.",
+    "id": 119
+  },
+  {
+    "theme": "Inorganic Chemistry - Isomer Shift",
+    "question": "Explain the concept of Isomer Shift in Mössbauer Spectroscopy and how it relates to the s-electron density at the nucleus and the oxidation state of the metal.",
+    "id": 120
+  },
+  {
+    "theme": "Organic Synthesis - Aldol Condensation",
+    "question": "Discuss the Robinson Annulation as a combination of Michael Addition and Aldol Condensation, detailing the mechanism for forming six-membered rings.",
+    "id": 121
+  },
+  {
+    "theme": "Biochemistry - Michaelis-Menten",
+    "question": "Derive the Michaelis-Menten equation using the steady-state approximation for the Enzyme-Substrate complex, and interpret the catalytic efficiency (kcat/Km).",
+    "id": 122
+  },
+  {
+    "theme": "Spectroscopy - XPS",
+    "question": "Explain the principle of X-ray Photoelectron Spectroscopy (XPS), focusing on the Photoelectric effect, and how binding energy shifts provide information about chemical oxidation states.",
+    "id": 123
+  },
+  {
+    "theme": "Thermodynamics - Joule-Thomson",
+    "question": "Define the Joule-Thomson coefficient and explain the physical basis for the cooling or heating of real gases upon isenthalpic expansion (throttling).",
+    "id": 124
+  },
+  {
+    "theme": "Organic Mechanism - Pericyclic",
+    "question": "Analyze the [3,3]-sigmatropic Cope Rearrangement using the chair-like transition state model to predict the major stereoisomer of the product.",
+    "id": 125
+  },
+  {
+    "theme": "Analytical Chemistry - Karl Fischer",
+    "question": "Describe the chemical principle of Karl Fischer titration for water determination, distinguishing between volumetric and coulometric methods.",
+    "id": 126
+  },
+  {
+    "theme": "Materials Chemistry - Ceramics",
+    "question": "Discuss the sintering process in ceramic processing, explaining the mechanisms of densification and grain growth and the role of liquid phase sintering.",
+    "id": 127
+  },
+  {
+    "theme": "Physical Chemistry - H-Atom",
+    "question": "Solve the Schrödinger equation for the Hydrogen atom qualitatively, describing the separation of radial and angular parts and the origin of quantum numbers n, l, and m.",
+    "id": 128
+  },
+  {
+    "theme": "Inorganic Chemistry - Organolithium",
+    "question": "Discuss the structure and bonding in organolithium reagents (e.g., methyllithium), highlighting their oligomeric nature (tetramers/hexamers) and aggregate reactivity.",
+    "id": 129
+  },
+  {
+    "theme": "Organic Synthesis - Cross-Coupling",
+    "question": "Compare the Stille, Negishi, and Suzuki cross-coupling reactions in terms of the organometallic transmetallating agent used and their tolerance for functional groups.",
+    "id": 130
+  },
+  {
+    "theme": "Biochemistry - Beta-Oxidation",
+    "question": "Detail the four repeating steps of Fatty Acid Beta-Oxidation (oxidation, hydration, oxidation, cleavage) and calculate the ATP yield from Palmitate.",
+    "id": 131
+  },
+  {
+    "theme": "Spectroscopy - EPR",
+    "question": "Explain the principle of Electron Paramagnetic Resonance (EPR) spectroscopy, discussing hyperfine splitting and its use in identifying organic radicals and transition metal ions.",
+    "id": 132
+  },
+  {
+    "theme": "Thermodynamics - Le Chatelier",
+    "question": "Rigorous explanation of Le Chatelier's Principle using the reaction quotient (Q) and equilibrium constant (K), specifically for changes in pressure, volume, and inert gas addition.",
+    "id": 133
+  },
+  {
+    "theme": "Organic Mechanism - Carbocation Rearrangement",
+    "question": "Describe the mechanism of the Pinacol-Pinacolone rearrangement, focusing on the formation of the carbocation and the migratory aptitude of groups.",
+    "id": 134
+  },
+  {
+    "theme": "Analytical Chemistry - Conductometry",
+    "question": "Explain the principle of conductometric titration, sketching and explaining the curve for the titration of a strong acid with a strong base vs. a weak acid with a strong base.",
+    "id": 135
+  },
+  {
+    "theme": "Materials Chemistry - Shape Memory Alloys",
+    "question": "Explain the mechanism of the Shape Memory Effect in alloys like Nitinol, focusing on the reversible martensitic phase transformation.",
+    "id": 136
+  },
+  {
+    "theme": "Physical Chemistry - Fluorescence",
+    "question": "Discuss the phenomena of Stokes Shift and Kasha's Rule in fluorescence spectroscopy, explaining why emission typically occurs from the lowest vibrational level of S1.",
+    "id": 137
+  },
+  {
+    "theme": "Inorganic Chemistry - Phosphazenes",
+    "question": "Describe the synthesis and structure of Polyphosphazenes, discussing their inorganic backbone (-P=N-) and versatility in biomedical applications.",
+    "id": 138
+  },
+  {
+    "theme": "Organic Synthesis - Gabriel Synthesis",
+    "question": "Describe the Gabriel Synthesis of primary amines using phthalimide, explaining why it avoids the over-alkylation problem seen in direct ammonia alkylation.",
+    "id": 139
+  },
+  {
+    "theme": "Biochemistry - Ramachandran Plot",
+    "question": "Explain the significance of the Ramachandran Plot in protein structure, defining the Phi and Psi torsional angles and the allowed regions for alpha-helices and beta-sheets.",
+    "id": 140
+  },
+  {
+    "theme": "Spectroscopy - Mossbauer",
+    "question": "Discuss the conditions required for the Mössbauer effect (recoil-free nuclear resonance absorption) and its application in probing the chemical environment of Iron (Fe-57).",
+    "id": 141
+  },
+  {
+    "theme": "Thermodynamics - Activity",
+    "question": "Explain the Debye-Hückel limiting law for calculating the mean ionic activity coefficient in dilute electrolyte solutions, and its dependence on ionic strength.",
+    "id": 142
+  },
+  {
+    "theme": "Organic Mechanism - Birch Reduction",
+    "question": "Detail the mechanism of the Birch Reduction of benzene derivatives, explaining why electron-donating groups end up on the non-reduced carbons and electron-withdrawing groups on reduced carbons.",
+    "id": 143
+  },
+  {
+    "theme": "Analytical Chemistry - Ion Exchange",
+    "question": "Explain the principle of Ion Exchange Chromatography (IEC), discussing the influence of pH and ionic strength on the retention and elution of proteins.",
+    "id": 144
+  },
+  {
+    "theme": "Materials Chemistry - Self-Assembled Monolayers",
+    "question": "Describe the formation and structure of Self-Assembled Monolayers (SAMs) of alkanethiols on gold, discussing the nature of the S-Au bond and chain ordering.",
+    "id": 145
+  },
+  {
+    "theme": "Physical Chemistry - Harmonic Oscillator",
+    "question": "Apply the Quantum Harmonic Oscillator model to molecular vibrations, explaining the zero-point energy and the selection rule for IR transitions.",
+    "id": 146
+  },
+  {
+    "theme": "Inorganic Chemistry - Metal Carbonyls",
+    "question": "Discuss the synergic bonding in Metal Carbonyls, explaining the sigma-donation from C to Metal and pi-backbonding from Metal to C, and how IR spectroscopy confirms this.",
+    "id": 147
+  },
+  {
+    "theme": "Organic Synthesis - Mitsunobu",
+    "question": "Describe the mechanism of the Mitsunobu reaction for converting alcohols to esters/ethers with inversion of configuration, detailing the role of DEAD and Triphenylphosphine.",
+    "id": 148
+  },
+  {
+    "theme": "Biochemistry - Urea Cycle",
+    "question": "Outline the steps of the Urea Cycle, explaining how nitrogen from amino acids is converted to urea and the energetic cost of the pathway.",
+    "id": 149
+  },
+  {
+    "theme": "Spectroscopy - AAS Interferences",
+    "question": "Discuss chemical and spectral interferences in Atomic Absorption Spectroscopy (AAS) and methods to mitigate them, such as using releasing agents or the Zeeman background correction.",
+    "id": 150
+  },
+  {
+    "theme": "Thermodynamics - Carnot",
+    "question": "Describe the four steps of the Carnot Cycle and derive the expression for the maximum theoretical efficiency of a heat engine in terms of reservoir temperatures.",
+    "id": 151
+  },
+  {
+    "theme": "Organic Mechanism - Reformatsky",
+    "question": "Describe the Reformatsky reaction of alpha-bromoesters with aldehydes/ketones using Zinc, comparing its chemoselectivity towards esters vs. the Grignard reaction.",
+    "id": 152
+  },
+  {
+    "theme": "Analytical Chemistry - Potentiometry",
+    "question": "Explain the principle of Ion-Selective Electrodes (ISE), such as the Fluoride electrode, specifically the function of the lanthanum fluoride crystal membrane.",
+    "id": 153
+  },
+  {
+    "theme": "Materials Chemistry - Zeolitic Imidazolate Frameworks",
+    "question": "Discuss the structure and topology of Zeolitic Imidazolate Frameworks (ZIFs), explaining their resemblance to zeolites and their thermal/chemical stability.",
+    "id": 154
+  },
+  {
+    "theme": "Physical Chemistry - Viscosity",
+    "question": "Explain the temperature dependence of viscosity for liquids (Arrhenius-like) vs. gases (kinetic theory prediction), and the physical reasons for the difference.",
+    "id": 155
+  },
+  {
+    "theme": "Inorganic Chemistry - Fluxionality",
+    "question": "Explain the concept of Fluxionality in organometallic molecules (e.g., Berry Pseudorotation in PF5 or ring whizzing in CpFe(CO)2), and how NMR timescale affects the observed spectrum.",
+    "id": 156
+  },
+  {
+    "theme": "Organic Synthesis - Vilsmeier-Haack",
+    "question": "Detail the mechanism of the Vilsmeier-Haack formylation of electron-rich aromatics, explaining the formation of the chloroiminium ion active species.",
+    "id": 157
+  },
+  {
+    "theme": "Biochemistry - Enzyme Catalysis",
+    "question": "Explain the mechanisms of acid-base catalysis and covalent catalysis in enzymes, using Chymotrypsin's catalytic triad as a specific example.",
+    "id": 158
+  },
+  {
+    "theme": "Chemical Safety - Reactivity",
+    "question": "Discuss the storage and handling hazards of Peroxide-Forming Solvents (e.g., ethers, THF), explaining the radical mechanism of peroxide formation and detection methods.",
+    "id": 159
+  },
+  {
+    "theme": "Organic Mechanism - E1cB",
+    "question": "Analyze the E1cB elimination mechanism, identifying the conditions (poor leaving group, acidic beta-hydrogen) that favor the formation of the carbanion intermediate.",
+    "id": 160
+  },
+  {
+    "theme": "Analytical Chemistry - Cyclic Voltammetry Reversibility",
+    "question": "Discuss the criteria for chemical and electrochemical reversibility in Cyclic Voltammetry, referring to peak current ratios and peak separation behavior.",
+    "id": 161
+  },
+  {
+    "theme": "Materials Chemistry - OLEDs",
+    "question": "Explain the working principle of Organic Light Emitting Diodes (OLEDs), detailing charge injection, transport, and recombination to form excitons.",
+    "id": 162
+  },
+  {
+    "theme": "Physical Chemistry - Dipole Moment",
+    "question": "Define the molecular dipole moment and explain how it relates to molecular geometry and bond polarity, comparing CO2 (nonpolar) and SO2 (polar).",
+    "id": 163
+  },
+  {
+    "theme": "Inorganic Chemistry - Polyoxometalates",
+    "question": "Describe the structure and properties of Keggin-type Polyoxometalates (POMs), discussing their high acidity and redox reversibility in catalytic applications.",
+    "id": 164
+  },
+  {
+    "theme": "Organic Synthesis - Mannich Reaction",
+    "question": "Describe the mechanism of the Mannich Reaction to form beta-amino ketones, involving the formation of the iminium ion from formaldehyde and an amine.",
+    "id": 165
+  },
+  {
+    "theme": "Biochemistry - Glycogen",
+    "question": "Explain the structural differences between Glycogen and Starch (Amylopectin), and how glycogen phosphorylase and debranching enzyme work together in glycogenolysis.",
+    "id": 166
+  },
+  {
+    "theme": "Thermodynamics - Exergy",
+    "question": "Define Exergy (Availability) and explain the concept of exergy destruction (irreversibility) in real chemical processes compared to ideal reversible ones.",
+    "id": 167
+  },
+  {
+    "theme": "Organic Mechanism - Radical polymerization",
+    "question": "Explain the Trommsdorff-Norrish effect (Gel Effect) in free radical polymerization, specifically how auto-acceleration occurs due to restricted termination kinetics.",
+    "id": 168
+  },
+  {
+    "theme": "Analytical Chemistry - TLC",
+    "question": "Explain the principle of Thin Layer Chromatography (TLC) and the definition of the Retardation Factor (Rf), discussing how solvent polarity affects Rf values.",
+    "id": 169
+  },
+  {
+    "theme": "Materials Chemistry - Corrosion",
+    "question": "Describe the electrochemical mechanism of Galvanic Corrosion, and explain methods of protection such as Sacrificial Anodes and Passivation.",
+    "id": 170
+  },
+  {
+    "theme": "Pericyclic Reactions - Sigmatropic",
+    "question": "Compare the transition state geometries of the Cope rearrangement and the Claisen rearrangement. Explain why the chair-like transition state is generally preferred over the boat-like transition state and predict the major stereoisomer formed from a chiral precursor.",
+    "id": 171
+  },
+  {
+    "theme": "Physical Organic Chemistry - Kinetic Isotope Effect",
+    "question": "Differentiate between normal and inverse secondary deuterium kinetic isotope effects (KIE) in nucleophilic substitution reactions. How does the hybridization change from sp3 to sp2 (or vice versa) at the reaction center influence the magnitude of the KIE in SN1 versus SN2 mechanisms?",
+    "id": 172
+  },
+  {
+    "theme": "Stereochemistry - Nucleophilic Addition",
+    "question": "Analyze the nucleophilic addition of a Grignard reagent to a chiral aldehyde using both the Cram's Chelate Model and the Felkin-Anh Model. Under what specific conditions (solvent, metal ion) would the chelation-controlled product predominate over the steric-controlled product?",
+    "id": 173
+  },
+  {
+    "theme": "Organometallic Chemistry - Catalytic Cycles",
+    "question": "In the mechanism of the Suzuki-Miyaura cross-coupling reaction, the transmetallation step is often rate-determining. Explain the role of the base (e.g., hydroxide or alkoxide) in activating the organoboron species. Does the base react with the palladium complex or the organoboron species first?",
+    "id": 174
+  },
+  {
+    "theme": "Molecular Orbital Theory - Diatomics",
+    "question": "Using Molecular Orbital (MO) theory, compare the bond order and magnetic properties of O2, O2-, and O2+. Explain why the bond length of O2+ is shorter than that of neutral O2, whereas the bond length of O2- is longer.",
+    "id": 175
+  },
+  {
+    "theme": "Inorganic Chemistry - Ligand Field Theory",
+    "question": "Explain the phenomenon of 'Spin Crossover' in octahedral d6 Iron(II) complexes. How do temperature and pressure affect the equilibrium between the low-spin (1A1g) and high-spin (5T2g) states, and what role does the ligand field strength (Delta_o) play?",
+    "id": 176
+  },
+  {
+    "theme": "Reaction Mechanisms - Elimination",
+    "question": "Contrast the E1cB (Elimination Unimolecular conjugate Base) mechanism with the E2 mechanism. What specific structural features in the substrate (e.g., leaving group ability, acidity of beta-hydrogens) and reaction conditions favor the E1cB pathway?",
+    "id": 177
+  },
+  {
+    "theme": "Stereoelectronics - Anomeric Effect",
+    "question": "Explain the thermodynamic preference for the axial conformer over the equatorial conformer in 2-methoxytetrahydropyran (the Anomeric Effect). Discuss the contributions of dipole-dipole minimization and n -> sigma* hyperconjugation to this phenomenon.",
+    "id": 178
+  },
+  {
+    "theme": "Photochemistry - Excited States",
+    "question": "Describe the mechanism of the Norrish Type II reaction for an aryl ketone. Explain the role of the 1,4-biradical intermediate and how the Yang cyclization competes with the cleavage reaction.",
+    "id": 179
+  },
+  {
+    "theme": "Solid State Chemistry - Defects",
+    "question": "Compare Schottky defects and Frenkel defects in ionic solids. Explain how each defect type affects the density and ionic conductivity of the crystal. Which type of defect is favored in AgCl and why?",
+    "id": 180
+  },
+  {
+    "theme": "Polymer Chemistry - Mechanism",
+    "question": "Analyze the mechanism of Atom Transfer Radical Polymerization (ATRP). What is the role of the transition metal complex in establishing the equilibrium between active and dormant chains, and how does this control the polydispersity index (PDI)?",
+    "id": 181
+  },
+  {
+    "theme": "Organometallic Chemistry - 18 Electron Rule",
+    "question": "Vanadium hexacarbonyl, V(CO)6, is a stable 17-electron paramagnetic complex, whereas dimerization to V2(CO)12 is not observed. In contrast, Mn2(CO)10 is stable. Rationalize this difference based on steric bulk and electronic stability.",
+    "id": 182
+  },
+  {
+    "theme": "Total Synthesis - Protecting Groups",
+    "question": "In a multi-step synthesis containing a primary alcohol, a secondary alcohol, and a ketone, propose a strategy to selectively oxidize the secondary alcohol. Discuss the necessary protection and deprotection steps and reagents.",
+    "id": 183
+  },
+  {
+    "theme": "Computational Chemistry - DFT",
+    "question": "Explain the concept of 'Basis Set Superposition Error' (BSSE) in calculating the interaction energy of a dimer using Density Functional Theory. How does the Counterpoise Correction method address this error?",
+    "id": 184
+  },
+  {
+    "theme": "Bioinorganic Chemistry - Enzymes",
+    "question": "Analyze the catalytic mechanism of Carbonic Anhydrase. Explain how the Zinc(II) ion lowers the pKa of the coordinated water molecule to generate a nucleophilic hydroxide ion at physiological pH.",
+    "id": 185
+  },
+  {
+    "theme": "Pericyclic Reactions - Cycloaddition",
+    "question": "Explain the regioselectivity and stereoselectivity of the Diels-Alder reaction between 2-methyl-1,3-butadiene (isoprene) and methyl vinyl ketone. Use Frontier Molecular Orbital (FMO) coefficients to justify the major product.",
+    "id": 186
+  },
+  {
+    "theme": "Physical Chemistry - Thermodynamics",
+    "question": "Derive the relationship between Gibbs Free Energy (G) and the equilibrium constant (K). Explain why a reaction can be spontaneous (Delta G < 0) but kinetically stable (slow rate) using the concept of Activation Energy.",
+    "id": 187
+  },
+  {
+    "theme": "Spectroscopy - NMR",
+    "question": "Explain the origin of the Nuclear Overhauser Effect (NOE) in 1H NMR spectroscopy. How can NOE difference spectroscopy be used to distinguish between cis and trans isomers of an alkene?",
+    "id": 188
+  },
+  {
+    "theme": "Asymmetric Synthesis - Catalysis",
+    "question": "Describe the mechanism of Sharpless Asymmetric Epoxidation. What is the specific role of the titanium(IV) tartrate complex, and how does the geometry of the allylic alcohol determine the stereochemistry of the epoxide formed?",
+    "id": 189
+  },
+  {
+    "theme": "Main Group Chemistry - Bonding",
+    "question": "Discuss the bonding in Diborane (B2H6). Explain why it is considered an electron-deficient molecule and describe the nature of the 3-center-2-electron (3c-2e) B-H-B bonds.",
+    "id": 190
+  },
+  {
+    "theme": "Reaction Mechanisms - Baldwin's Rules",
+    "question": "According to Baldwin's rules for ring closure, explain why 5-endo-trig cyclizations are generally disfavored while 5-exo-trig cyclizations are favored. Analyze the orbital alignment required for the nucleophilic attack on the pi-system.",
+    "id": 191
+  },
+  {
+    "theme": "Surface Chemistry - Catalysis",
+    "question": "Explain the Langmuir-Hinshelwood mechanism for bimolecular surface reactions. How does it differ from the Eley-Rideal mechanism, and what is the kinetic dependence on the partial pressures of the reactants at low vs. high coverage?",
+    "id": 192
+  },
+  {
+    "theme": "Organic Chemistry - Aromaticity",
+    "question": "Analyze the aromaticity of Azulene compared to Naphthalene. Explain why Azulene possesses a significant dipole moment and undergoes electrophilic substitution primarily at the 1- and 3-positions.",
+    "id": 193
+  },
+  {
+    "theme": "Supramolecular Chemistry - Host-Guest",
+    "question": "Discuss the 'preorganization' principle in the design of macrocyclic hosts (e.g., Crown Ethers vs. Cryptands). Why do cryptands generally exhibit higher binding constants for metal cations than their corresponding crown ethers?",
+    "id": 194
+  },
+  {
+    "theme": "Electrochemistry - Nernst Equation",
+    "question": "Derive the Nernst equation from the Gibbs free energy change of an electrochemical cell. Explain how the cell potential changes as the concentration of products increases relative to reactants.",
+    "id": 195
+  },
+  {
+    "theme": "Materials Science - Band Theory",
+    "question": "Explain the difference between a direct bandgap and an indirect bandgap semiconductor. Why are direct bandgap materials (like GaAs) essential for light-emitting diodes (LEDs), while indirect bandgap materials (like Si) are inefficient emitters?",
+    "id": 196
+  },
+  {
+    "theme": "Coordination Chemistry - Jahn-Teller",
+    "question": "Predict the structural distortion in a hexaaquacopper(II) complex, [Cu(H2O)6]2+, due to the Jahn-Teller effect. Which bonds are elongated, and what is the electronic driving force for this distortion?",
+    "id": 197
+  },
+  {
+    "theme": "Radical Chemistry - Stability",
+    "question": "Compare the stability of the triphenylmethyl radical to the methyl radical. Discuss the roles of resonance delocalization and steric hindrance in the kinetic persistence of the Gomberg radical.",
+    "id": 198
+  },
+  {
+    "theme": "Organometallics - Metathesis",
+    "question": "Compare the Chauvin mechanism for Olefin Metathesis using Schrock (Mo/W) and Grubbs (Ru) catalysts. Discuss the functional group tolerance of both catalysts and the initiation step involving phosphine dissociation in Grubbs catalysts.",
+    "id": 199
+  },
+  {
+    "theme": "Acid-Base Chemistry - Lewis Theory",
+    "question": "Explain the concept of 'Frustrated Lewis Pairs' (FLPs). How do steric hindrance and electronic tuning prevent the formation of a classical Lewis adduct, allowing FLPs to activate small molecules like H2 or CO2?",
+    "id": 200
+  },
+  {
+    "theme": "Physical Organic - Hammett Plot",
+    "question": "Interpret a non-linear (concave down) Hammett plot for a reaction series. What does a change in the slope (rho value) from negative to positive indicate about the change in the rate-determining step or mechanism?",
+    "id": 201
+  },
+  {
+    "theme": "Spectroscopy - IR",
+    "question": "Explain why the carbonyl stretching frequency of an acyl chloride is higher (~1800 cm-1) than that of an amide (~1650 cm-1). Discuss the competing effects of induction and resonance on the C=O bond order.",
+    "id": 202
+  },
+  {
+    "theme": "Reaction Mechanisms - Rearrangement",
+    "question": "Analyze the mechanism of the Baeyer-Villiger oxidation of an asymmetrical ketone. Explain the migratory aptitude of different groups (e.g., tertiary alkyl > secondary alkyl > phenyl > methyl) based on the electronic nature of the transition state.",
+    "id": 203
+  },
+  {
+    "theme": "Inorganic Chemistry - Clusters",
+    "question": "Apply Wade's Rules (Polyhedral Skeletal Electron Pair Theory) to predict the structure of the carborane B10C2H12. Is it closo, nido, or arachno?",
+    "id": 204
+  },
+  {
+    "theme": "Crystallography - X-ray Diffraction",
+    "question": "Explain Bragg's Law (n*lambda = 2d*sin(theta)). How does the systematic absence of certain reflections in an X-ray diffraction pattern provide information about the lattice centering (e.g., Body-Centered Cubic vs. Face-Centered Cubic)?",
+    "id": 205
+  },
+  {
+    "theme": "Biochemistry - Michaelis-Menten",
+    "question": "Differentiate between competitive, non-competitive, and uncompetitive enzyme inhibition using Lineweaver-Burk plots. How does each type of inhibitor affect Vmax and Km?",
+    "id": 206
+  },
+  {
+    "theme": "Organic Synthesis - Aldol",
+    "question": "Discuss the Zimmerman-Traxler transition state model for the aldol reaction of a Z-enolate. Explain why Z-enolates typically yield syn-aldol products, while E-enolates yield anti-aldol products.",
+    "id": 207
+  },
+  {
+    "theme": "Organometallics - Hapticity",
+    "question": "Explain the phenomenon of 'Ring Whizzing' (fluxionality) in (eta-1)-cyclopentadienyl metal complexes. How would you use variable-temperature NMR to study this 1,2-metal shift?",
+    "id": 208
+  },
+  {
+    "theme": "Quantum Chemistry - Particle in a Box",
+    "question": "Apply the 1D Particle in a Box model to conjugated polyenes (e.g., butadiene, hexatriene). Explain why the HOMO-LUMO gap decreases (and absorption wavelength increases) as the conjugation length increases.",
+    "id": 209
+  },
+  {
+    "theme": "Reaction Mechanisms - SNi",
+    "question": "Describe the SNi (Substitution Nucleophilic internal) mechanism for the conversion of alcohols to alkyl chlorides using thionyl chloride (SOCl2). Why does this reaction proceed with retention of configuration in the absence of a base, but inversion in the presence of pyridine?",
+    "id": 210
+  },
+  {
+    "theme": "Solid State - Superconductivity",
+    "question": "Explain the BCS theory of superconductivity. What is the role of Cooper pairs and phonon-mediated electron-electron attraction? Why does this mechanism fail to fully explain high-temperature superconductors?",
+    "id": 211
+  },
+  {
+    "theme": "Photochemistry - Jablonski Diagram",
+    "question": "Using a Jablonski diagram, differentiate between Fluorescence and Phosphorescence. Explain the role of Intersystem Crossing (ISC) and why Phosphorescence lifetimes are significantly longer than Fluorescence lifetimes.",
+    "id": 212
+  },
+  {
+    "theme": "Organic Chemistry - Hyperconjugation",
+    "question": "Explain why the tert-butyl cation is more stable than the methyl cation. Describe the role of C-H sigma bond orbital overlap with the empty p-orbital (hyperconjugation) in stabilizing the positive charge.",
+    "id": 213
+  },
+  {
+    "theme": "Coordination Chemistry - Trans Effect",
+    "question": "In the substitution reactions of square planar Platinum(II) complexes, explain the kinetic 'Trans Effect'. How do sigma-donor ability and pi-acceptor ability of a ligand influence the rate of substitution of the ligand trans to it?",
+    "id": 214
+  },
+  {
+    "theme": "Thermodynamics - Entropy",
+    "question": "Explain the Chelate Effect. Why is the formation of a complex with polydentate ligands (e.g., [Ni(en)3]2+) thermodynamically more favorable than with equivalent monodentate ligands (e.g., [Ni(NH3)6]2+), primarily in terms of entropy?",
+    "id": 215
+  },
+  {
+    "theme": "Reaction Mechanisms - Neighboring Group Participation",
+    "question": "Analyze the hydrolysis of mustard gas (bis(2-chloroethyl)sulfide). Explain how the sulfur atom acts as an internal nucleophile (anchimeric assistance) to form an episulfonium ion, leading to rapid reaction rates.",
+    "id": 216
+  },
+  {
+    "theme": "Analytical Chemistry - Mass Spec",
+    "question": "Explain the McLafferty Rearrangement in Mass Spectrometry. What structural requirements (e.g., gamma-hydrogen) are necessary for a molecule to undergo this fragmentation pathway?",
+    "id": 217
+  },
+  {
+    "theme": "Organometallics - Oxidative Addition",
+    "question": "Compare the mechanisms of oxidative addition of H2, CH3I, and O2 to Vaska's complex. Distinguish between concerted (three-center) mechanisms and SN2-like mechanisms.",
+    "id": 218
+  },
+  {
+    "theme": "Materials - Zeolites",
+    "question": "Discuss the shape selectivity of Zeolite catalysts. Differentiate between reactant selectivity, product selectivity, and restricted transition state selectivity in the context of hydrocarbon cracking.",
+    "id": 219
+  },
+  {
+    "theme": "Organic Synthesis - Umpolung",
+    "question": "Explain the concept of 'Umpolung' (polarity inversion) using the reaction of an aldehyde with 1,3-propanedithiol. How does the resulting dithiane anion allow for nucleophilic acylation?",
+    "id": 220
+  },
+  {
+    "theme": "Physical Chemistry - Colligative Properties",
+    "question": "Explain why the freezing point depression constant (Kf) is a property of the solvent, not the solute. Derive the relationship between Kf and the enthalpy of fusion of the solvent.",
+    "id": 221
+  },
+  {
+    "theme": "Inorganic Chemistry - Hard Soft Acid Base",
+    "question": "Apply the HSAB (Hard and Soft Acids and Bases) principle to predict the stability of metal complexes. Why does Hg2+ prefer to bind to sulfur-containing ligands (soft-soft), while Mg2+ prefers oxygen-containing ligands (hard-hard)?",
+    "id": 222
+  },
+  {
+    "theme": "Stereochemistry - Atropisomerism",
+    "question": "Define atropisomerism in the context of biphenyl derivatives. What steric conditions are required to restrict rotation around the single bond sufficiently to separate the enantiomers at room temperature?",
+    "id": 223
+  },
+  {
+    "theme": "Polymer Chemistry - Tacticity",
+    "question": "Differentiate between isotactic, syndiotactic, and atactic polypropylene. How does the tacticity influence the crystallinity and melting point of the polymer, and how can Ziegler-Natta catalysts control this?",
+    "id": 224
+  },
+  {
+    "theme": "Spectroscopy - Raman vs IR",
+    "question": "Compare the selection rules for IR spectroscopy and Raman spectroscopy. Why is the symmetric stretch of CO2 Raman active but IR inactive, while the asymmetric stretch is IR active but Raman inactive?",
+    "id": 225
+  },
+  {
+    "theme": "Reaction Mechanisms - Cannizzaro",
+    "question": "Describe the mechanism of the Cannizzaro reaction. Why is it restricted to aldehydes lacking alpha-hydrogens? Explain the hydride transfer step and the role of the dianion intermediate at high base concentrations.",
+    "id": 226
+  },
+  {
+    "theme": "Organometallics - Agostic Interaction",
+    "question": "Define an 'Agostic Interaction' in organometallic complexes. How does the 3-center-2-electron interaction between a C-H bond and a metal center manifest in 1H NMR and IR spectroscopy?",
+    "id": 227
+  },
+  {
+    "theme": "Bioinorganic - Hemoglobin",
+    "question": "Explain the cooperative binding of oxygen to Hemoglobin (the Bohr Effect and Allostery). How does the T-state to R-state transition upon O2 binding affect the position of the Iron atom relative to the porphyrin plane?",
+    "id": 228
+  },
+  {
+    "theme": "Organic Synthesis - Olefin Metathesis",
+    "question": "Explain the driving force in Ring-Opening Metathesis Polymerization (ROMP). Why is the polymerization of cyclooctene favorable, whereas the polymerization of cyclohexene is generally thermodynamically difficult?",
+    "id": 229
+  },
+  {
+    "theme": "Physical Organic - Solvatochromism",
+    "question": "Explain the phenomenon of negative solvatochromism (hypsochromic shift) for a dye in polar solvents. How does the stabilization of the ground state (dipolar) vs. the excited state affect the energy gap?",
+    "id": 230
+  },
+  {
+    "theme": "Coordination Chemistry - Isomerism",
+    "question": "Describe linkage isomerism in coordination complexes, using [Co(NH3)5(NO2)]2+ as an example. How do the nitro (N-bound) and nitrito (O-bound) isomers differ in stability and synthesis?",
+    "id": 231
+  },
+  {
+    "theme": "Nanochemistry - Quantum Dots",
+    "question": "Explain the Quantum Confinement Effect in semiconductor quantum dots. Why does the bandgap energy increase (blue shift) as the particle size decreases below the exciton Bohr radius?",
+    "id": 232
+  },
+  {
+    "theme": "Organic Mechanism - Robinson Annulation",
+    "question": "Break down the Robinson Annulation into its two component reactions: the Michael Addition and the Intramolecular Aldol Condensation. Explain the regiochemistry of the enolate formation.",
+    "id": 233
+  },
+  {
+    "theme": "Thermodynamics - Phase Rule",
+    "question": "Apply the Gibbs Phase Rule (F = C - P + 2) to the triple point of water. Why is the system invariant (zero degrees of freedom) at this point?",
+    "id": 234
+  },
+  {
+    "theme": "Inorganic Chemistry - Color",
+    "question": "Explain why [Ti(H2O)6]3+ is violet, but [Sc(H2O)6]3+ is colorless. Discuss the d-d transition and the role of the d-electron count.",
+    "id": 235
+  },
+  {
+    "theme": "Organic Synthesis - Diels-Alder",
+    "question": "Explain why furan is a diene that can react in Diels-Alder reactions, but pyrrole generally undergoes electrophilic substitution instead. How does the resonance energy difference affect their reactivity?",
+    "id": 236
+  },
+  {
+    "theme": "Spectroscopy - Mass Spec",
+    "question": "Explain the Nitrogen Rule in Mass Spectrometry. Why does a molecule with an odd number of nitrogen atoms have an odd molecular weight, while one with an even number (or zero) has an even molecular weight?",
+    "id": 237
+  },
+  {
+    "theme": "Electrochemistry - Corrosion",
+    "question": "Explain the mechanism of Galvanic Corrosion. Why does connecting a block of Zinc to a steel ship hull (sacrificial anode) prevent the rusting of the iron?",
+    "id": 238
+  },
+  {
+    "theme": "Organometallics - Hydroformylation",
+    "question": "Describe the mechanism of Cobalt-catalyzed Hydroformylation (Oxo process). Explain the role of HCo(CO)4 and how the ratio of linear to branched aldehydes is influenced by ligand steric bulk (e.g., using phosphines).",
+    "id": 239
+  },
+  {
+    "theme": "Organic Chemistry - Acidity",
+    "question": "Compare the acidity of Cyclopentadiene (pKa ~16) and Cycloheptatriene (pKa ~36). Explain the immense difference in stability of their conjugate bases using Hückel's rule for aromaticity.",
+    "id": 240
+  },
+  {
+    "theme": "Physical Chemistry - Kinetics",
+    "question": "Derive the integrated rate law for a second-order reaction (Rate = k[A]^2). How does the half-life of a second-order reaction depend on the initial concentration, and how does this differ from a first-order reaction?",
+    "id": 241
+  },
+  {
+    "theme": "Materials - Liquid Crystals",
+    "question": "Describe the structural ordering in Nematic, Smectic, and Cholesteric liquid crystal phases. How does the application of an electric field allow Liquid Crystal Displays (LCDs) to modulate light transmission?",
+    "id": 242
+  },
+  {
+    "theme": "Coordination Chemistry - Crystal Field Theory",
+    "question": "Why are tetrahedral complexes almost always high-spin? Explain based on the magnitude of the crystal field splitting energy (Delta_t) relative to the pairing energy (P).",
+    "id": 243
+  },
+  {
+    "theme": "Organic Synthesis - Mitsunobu",
+    "question": "Explain the mechanism of the Mitsunobu reaction for converting an alcohol to an ester with inversion of configuration. What are the roles of Triphenylphosphine (PPh3) and DEAD (Diethyl azodicarboxylate)?",
+    "id": 244
+  },
+  {
+    "theme": "Analytical Chemistry - Chromatography",
+    "question": "Explain the Van Deemter equation (H = A + B/u + C*u) in chromatography. Discuss the physical origins of Eddy diffusion, longitudinal diffusion, and mass transfer resistance.",
+    "id": 245
+  },
+  {
+    "theme": "Bioinorganic - Photosynthesis",
+    "question": "Analyze the Oxygen Evolving Complex (OEC) in Photosystem II. Describe the structure of the Mn4CaO5 cluster and the Kok cycle (S-states) leading to water oxidation.",
+    "id": 246
+  },
+  {
+    "theme": "Organic Mechanism - Benzine",
+    "question": "Describe the mechanism of Nucleophilic Aromatic Substitution via a Benzyne intermediate. How does the isotopic labeling experiment using Chlorobenzene-14C prove the existence of the benzyne mechanism?",
+    "id": 247
+  },
+  {
+    "theme": "Quantum Chemistry - Tunneling",
+    "question": "Explain the concept of Quantum Tunneling in the context of Ammonia Inversion. How does tunneling allow the nitrogen atom to pass through the potential energy barrier of the planar transition state?",
+    "id": 248
+  },
+  {
+    "theme": "Inorganic Chemistry - Isoelectronic",
+    "question": "Compare the structures of CO2, SiO2, and SnO2. Explain why Carbon forms discrete linear molecules with double bonds, while Silicon and Tin form extended 3D network solids, based on pi-bonding ability.",
+    "id": 249
+  },
+  {
+    "theme": "Organic Synthesis - Click Chemistry",
+    "question": "Describe the mechanism of the Copper(I)-catalyzed Azide-Alkyne Cycloaddition (CuAAC). How does the copper catalyst change the regioselectivity compared to the thermal Huisgen 1,3-dipolar cycloaddition?",
+    "id": 250
+  },
+  {
+    "theme": "Physical Chemistry - Surface Tension",
+    "question": "Explain the Young-Laplace equation for a spherical droplet. Why is the pressure inside a small droplet higher than the pressure outside, and how does this relate to the phenomenon of Ostwald Ripening?",
+    "id": 251
+  },
+  {
+    "theme": "Materials - Supercapacitors",
+    "question": "Differentiate between the energy storage mechanisms of Electric Double-Layer Capacitors (EDLCs) and Pseudocapacitors. How do Faradaic redox reactions contribute to the capacitance in pseudocapacitors?",
+    "id": 252
+  },
+  {
+    "theme": "Organometallics - Reductive Elimination",
+    "question": "Discuss the requirements for Reductive Elimination from a metal center. Why is this step generally favored for metals in high oxidation states and for electron-deficient ligands?",
+    "id": 253
+  },
+  {
+    "theme": "Stereochemistry - Topicity",
+    "question": "Define 'enantiotopic' and 'diastereotopic' protons using the substitution test. Why do diastereotopic protons appear as distinct signals in an achiral solvent in 1H NMR, while enantiotopic protons are chemically equivalent?",
+    "id": 254
+  },
+  {
+    "theme": "Polymer Chemistry - Glass Transition",
+    "question": "Explain the concept of Free Volume in the context of the Glass Transition Temperature (Tg) of polymers. How do factors like chain stiffness, side groups, and cross-linking affect Tg?",
+    "id": 255
+  },
+  {
+    "theme": "Spectroscopy - UV-Vis",
+    "question": "Explain the concept of a Bathochromic Shift (Red Shift) in UV-Vis spectroscopy. How does extending conjugation in a polyene system lower the energy gap between the HOMO and LUMO?",
+    "id": 256
+  },
+  {
+    "theme": "Reaction Mechanisms - Favorskii",
+    "question": "Describe the mechanism of the Favorskii rearrangement of alpha-halo ketones to esters. Explain the formation of the cyclopropanone intermediate and how ring opening dictates the structure of the final product.",
+    "id": 257
+  },
+  {
+    "theme": "Inorganic Chemistry - Inert Pair Effect",
+    "question": "Explain the 'Inert Pair Effect' for heavier Group 13-15 elements (e.g., Tl, Pb, Bi). Why is Tl(I) more stable than Tl(III), whereas Al(III) is more stable than Al(I)?",
+    "id": 258
+  },
+  {
+    "theme": "Surface Chemistry - SAMs",
+    "question": "Discuss the formation and structure of Self-Assembled Monolayers (SAMs) of alkanethiols on gold. Explain the nature of the Sulfur-Gold interaction and the role of van der Waals forces between alkyl chains in ordering the monolayer.",
+    "id": 259
+  },
+  {
+    "theme": "Organic Synthesis - Cross Coupling",
+    "question": "Explain the difference between the Heck reaction and the Stille reaction. Specifically, discuss the mechanism of beta-hydride elimination in the Heck reaction and why it is not a step in the Stille cycle.",
+    "id": 260
+  },
+  {
+    "theme": "Computational Chemistry - PES",
+    "question": "Define a 'Transition State' on a Potential Energy Surface (PES). Mathematically, what distinguishes a transition state (saddle point) from a local minimum in terms of the Hessian matrix eigenvalues?",
+    "id": 261
+  },
+  {
+    "theme": "Bioinorganic - Cisplatin",
+    "question": "Explain the mechanism of action of the anticancer drug Cisplatin. How does the hydration of the complex inside the cell allow it to cross-link DNA, and why is the trans-isomer (Transplatin) therapeutically inactive?",
+    "id": 262
+  },
+  {
+    "theme": "Organic Mechanism - Vilsmeier-Haack",
+    "question": "Describe the mechanism of the Vilsmeier-Haack formylation. Explain the structure of the chloroiminium ion (Vilsmeier reagent) formed from DMF and POCl3 and how it acts as an electrophile toward electron-rich aromatic rings.",
+    "id": 263
+  },
+  {
+    "theme": "Thermodynamics - Chemical Potential",
+    "question": "Define Chemical Potential (mu). Explain why matter spontaneously flows from a region of high chemical potential to a region of low chemical potential, and how this relates to phase equilibrium.",
+    "id": 264
+  },
+  {
+    "theme": "Materials - Perovskites",
+    "question": "Describe the crystal structure of an ideal cubic Perovskite (ABX3). Discuss the Goldschmidt Tolerance Factor and how deviations from the ideal ionic radii ratios lead to structural distortions (e.g., tilting of octahedra).",
+    "id": 265
+  },
+  {
+    "theme": "Organometallics - Wacker Process",
+    "question": "Explain the catalytic cycle of the Wacker Process (oxidation of ethylene to acetaldehyde). What is the specific role of the Copper(II) chloride co-catalyst in regenerating the active Palladium(II) species?",
+    "id": 266
+  },
+  {
+    "theme": "Spectroscopy - Fluorescence Quenching",
+    "question": "Differentiate between Dynamic (Collisional) Quenching and Static Quenching using the Stern-Volmer plot. How does temperature affect the quenching constant (Ksv) in each case?",
+    "id": 267
+  },
+  {
+    "theme": "Organic Synthesis - Protecting Groups",
+    "question": "Compare the stability and deprotection conditions of the Boc (tert-butoxycarbonyl), Fmoc (fluorenylmethyloxycarbonyl), and Cbz (carboxybenzyl) amine protecting groups. Which one is base-labile, which is acid-labile, and which is removed by hydrogenolysis?",
+    "id": 268
+  },
+  {
+    "theme": "Physical Organic - Strain",
+    "question": "Analyze the strain energy in Cyclopropane, Cyclobutane, and Cyclopentane. Discuss the contributions of angle strain (Baeyer strain) and torsional strain (Pitzer strain) to the total ring strain.",
+    "id": 269
+  },
+  {
+    "theme": "Coordination Chemistry - Spectrochemical Series",
+    "question": "Explain why Carbon Monoxide (CO) is a strong field ligand while Fluoride (F-) is a weak field ligand. Use Molecular Orbital theory to discuss sigma-donation and pi-backbonding effects on the t2g-eg splitting.",
+    "id": 270
+  },
+  {
+    "theme": "Stereoelectronics - Torquoselectivity",
+    "question": "Analyze the torquoselectivity in the electrocyclic ring opening of 3-substituted cyclobutenes. Why does an electron-donating substituent prefer to rotate outward (outward rotation), while an electron-withdrawing substituent prefers inward rotation?",
+    "id": 271
+  },
+  {
+    "theme": "Reaction Mechanisms - Curtin-Hammett",
+    "question": "Explain the Curtin-Hammett Principle in the context of a reaction involving two rapidly interconverting conformers. Under what conditions does the product ratio depend solely on the difference in transition state energies rather than the ground state population ratio?",
+    "id": 272
+  },
+  {
+    "theme": "Organic Synthesis - Homoenolates",
+    "question": "Describe the generation and reactivity of homoenolates (e.g., from cyclopropanols or siloxycyclopropanes). How does the titanium-mediated ring opening allow for bond formation at the beta-position of a carbonyl equivalent?",
+    "id": 273
+  },
+  {
+    "theme": "Pericyclic Reactions - Sigmatropic Shifts",
+    "question": "Contrast the [1,5]-hydride shift with the [1,5]-alkyl shift in neutral dienes. Why is the hydride shift thermally allowed and facile, while the alkyl shift is structurally constrained despite being allowed by orbital symmetry?",
+    "id": 274
+  },
+  {
+    "theme": "Physical Organic - Alpha Effect",
+    "question": "Discuss the origin of the 'Alpha-Effect' in nucleophiles (e.g., hydrazine, hydroxylaime). How does the presence of an adjacent lone pair raise the HOMO energy and stabilize the transition state via molecular orbital interactions?",
+    "id": 275
+  },
+  {
+    "theme": "Organometallics - C-H Activation",
+    "question": "Compare the mechanisms of Concerted Metallation-Deprotonation (CMD) and Sigma-Bond Metathesis in C-H activation. Why is CMD often preferred for Palladium(II) carboxylate systems on electron-deficient arenes?",
+    "id": 276
+  },
+  {
+    "theme": "Inorganic Chemistry - Fluxionality",
+    "question": "Explain the Berry Pseudorotation mechanism for the ligand exchange in pentacoordinate trigonal bipyramidal complexes. How does the turnstile rotation mechanism differ, and how can they be distinguished computationally?",
+    "id": 277
+  },
+  {
+    "theme": "Surface Chemistry - STM Theory",
+    "question": "Explain the principle of Scanning Tunneling Microscopy (STM) based on quantum tunneling probability. Why does the tunneling current decay exponentially with distance, and how does the Local Density of States (LDOS) affect the image contrast?",
+    "id": 278
+  },
+  {
+    "theme": "Photochemistry - Energy Transfer",
+    "question": "Differentiate between Dexter Electron Exchange and Förster Resonance Energy Transfer (FRET). Why does FRET fall off as 1/R^6 and occur over long distances, while Dexter transfer requires orbital overlap and decays exponentially?",
+    "id": 279
+  },
+  {
+    "theme": "Bioinorganic - Nitrogenase",
+    "question": "Analyze the mechanism of dinitrogen reduction by the Nitrogenase enzyme (FeMoco). What is the role of the Lowe-Thorneley kinetic scheme and the accumulation of hydrides (E4 state) prior to N2 binding?",
+    "id": 280
+  },
+  {
+    "theme": "Polymer Science - Controlled Radical",
+    "question": "In Reversible Addition-Fragmentation Chain Transfer (RAFT) polymerization, explain the 'retardation' phenomenon observed with dithiobenzoate CTAs. Discuss the stability of the intermediate radical and its potential termination pathways.",
+    "id": 281
+  },
+  {
+    "theme": "Spectroscopy - 2D NMR",
+    "question": "Explain the pulse sequence of the HSQC (Heteronuclear Single Quantum Coherence) experiment. How does the INEPT transfer polarization from proton to carbon (or nitrogen) to enhance sensitivity?",
+    "id": 282
+  },
+  {
+    "theme": "Total Synthesis - Strategy",
+    "question": "Discuss the 'Two-Directional Synthesis' strategy. How does symmetry desymmetrization or terminus differentiation allow for the rapid assembly of complex polyketide chains?",
+    "id": 283
+  },
+  {
+    "theme": "Theoretical Chemistry - Born-Oppenheimer",
+    "question": "Describe the breakdown of the Born-Oppenheimer approximation at a Conical Intersection. How does the coupling between electronic and nuclear motion (vibronic coupling) facilitate ultra-fast non-radiative decay in photoexcited molecules?",
+    "id": 284
+  },
+  {
+    "theme": "Solid State - Magnetism",
+    "question": "Explain the mechanism of Superexchange in antiferromagnetic metal oxides (e.g., MnO). How does the intervening oxide p-orbital mediate the magnetic coupling between two metal d-orbitals?",
+    "id": 285
+  },
+  {
+    "theme": "Organic Mechanism - Sommelet-Hauser",
+    "question": "Detail the mechanism of the Sommelet-Hauser rearrangement of benzylic quaternary ammonium salts. Explain the competition between the [2,3]-sigmatropic rearrangement and the Stevens [1,2]-shift.",
+    "id": 286
+  },
+  {
+    "theme": "Organometallics - Isolobal Analogy",
+    "question": "Apply the Isolobal Analogy to compare the frontier orbitals of a d7 Mn(CO)5 fragment and a methyl radical (CH3). How does this analogy predict the formation of metal-metal and metal-carbon bonds?",
+    "id": 287
+  },
+  {
+    "theme": "Thermodynamics - Non-Equilibrium",
+    "question": "Discuss the Onsager Reciprocal Relations in non-equilibrium thermodynamics. How do they relate coupled flows (e.g., thermoelectric effect) to the entropy production rate?",
+    "id": 288
+  },
+  {
+    "theme": "Materials - Semiconductors",
+    "question": "Explain the formation of a p-n junction depletion region. How does the built-in potential barrier prevent diffusion current at equilibrium, and how does forward bias reduce this barrier?",
+    "id": 289
+  },
+  {
+    "theme": "Analytical Chemistry - Chromatography",
+    "question": "Analyze the 'General Elution Problem' in chromatography. How does temperature programming in GC or solvent gradient elution in HPLC address the trade-off between resolution and elution time for complex mixtures?",
+    "id": 290
+  },
+  {
+    "theme": "Coordination Chemistry - Mixed Valency",
+    "question": "Classify mixed-valence complexes according to the Robin-Day classification (Class I, II, III). How does the Creutz-Taube ion exemplify Class III delocalization, and what spectral features (IVCT band) indicate this?",
+    "id": 291
+  },
+  {
+    "theme": "Organic Synthesis - Olefinations",
+    "question": "Compare the Horner-Wadsworth-Emmons (HWE) reaction with the Still-Gennari modification. How does the use of trifluoroethyl phosphonates and KHMDS invert the stereoselectivity to favor the Z-alkene?",
+    "id": 292
+  },
+  {
+    "theme": "Quantum Chemistry - DFT",
+    "question": "Explain the Self-Interaction Error (SIE) in Density Functional Theory. Why do standard GGA functionals delocalize electrons excessively, and how do Hybrid Functionals (like B3LYP) mitigate this?",
+    "id": 293
+  },
+  {
+    "theme": "Reaction Mechanisms - Birch Reduction",
+    "question": "Explain the regioselectivity of the Birch reduction for anisole vs. benzoic acid. Use molecular orbital arguments to explain why electron-donating groups end up on the non-reduced carbons, while electron-withdrawing groups end up on the reduced carbons.",
+    "id": 294
+  },
+  {
+    "theme": "Surface Science - Adsorption",
+    "question": "Differentiate between the Langmuir and BET (Brunauer-Emmett-Teller) adsorption isotherms. How does the BET theory account for multilayer adsorption, and what assumption allows it to calculate surface area?",
+    "id": 295
+  },
+  {
+    "theme": "Biochemistry - Enzyme Kinetics",
+    "question": "Derive the Hill Equation for cooperative binding. What is the physical meaning of the Hill coefficient (n), and how does it relate to the Monod-Wyman-Changeux (MWC) concerted model of allostery?",
+    "id": 296
+  },
+  {
+    "theme": "Organometallics - Negishi Coupling",
+    "question": "In the Negishi cross-coupling, why are organozinc reagents often preferred over organolithium or Grignard reagents? Discuss the functional group tolerance and the role of salt effects in the transmetallation step.",
+    "id": 297
+  },
+  {
+    "theme": "Physical Organic - Solvolysis",
+    "question": "Analyze the 'Winstein-Grunwald' equation for solvent ionizing power (Y). How does the use of standard substrates (like t-butyl chloride) allow for the quantification of nucleophilic solvent assistance vs. ionizing power?",
+    "id": 298
+  },
+  {
+    "theme": "Inorganic - Cluster Chemistry",
+    "question": "Discuss the bonding in the Re2Cl8(2-) ion. Explain the formation of the delta-bond from the overlap of dxy orbitals and its rotational barrier compared to pi-bonds.",
+    "id": 299
+  },
+  {
+    "theme": "Materials - Superconductivity",
+    "question": "Differentiate between Type I and Type II superconductors. Explain the concept of flux pinning and the formation of Abrikosov vortices in the mixed state of Type II materials.",
+    "id": 300
+  },
+  {
+    "theme": "Organic Synthesis - Pauson-Khand",
+    "question": "Describe the mechanism of the Pauson-Khand reaction [2+2+1] cycloaddition. How does the cobalt-alkyne complex coordinate the alkene and CO insertion to form the cyclopentenone framework?",
+    "id": 301
+  },
+  {
+    "theme": "Spectroscopy - Mass Spec",
+    "question": "Explain the principle of a Quadrupole Mass Analyzer. How do combined DC and RF voltages create stable trajectories for ions of specific m/z ratios while destabilizing others?",
+    "id": 302
+  },
+  {
+    "theme": "Coordination Chemistry - Nephelauxetic Effect",
+    "question": "Explain the Nephelauxetic Effect ('cloud-expanding'). Why is the Racah parameter B always smaller in a complex than in the free gaseous ion, and how does this relate to covalency and ligand electronegativity?",
+    "id": 303
+  },
+  {
+    "theme": "Photochemistry - Singlet Oxygen",
+    "question": "Describe the generation of Singlet Oxygen (1O2) via photosensitization. Why is the reaction of Singlet Oxygen with dienes (Diels-Alder like) stereospecific, whereas its reaction with alkenes (Ene reaction) is regioselective?",
+    "id": 304
+  },
+  {
+    "theme": "Thermodynamics - Solutions",
+    "question": "Explain the concept of 'Regular Solution Theory'. How does the interaction parameter (chi) determine the enthalpy of mixing, and under what conditions does phase separation (immiscibility) occur?",
+    "id": 305
+  },
+  {
+    "theme": "Reaction Mechanisms - Carbene",
+    "question": "Contrast the reactivity of singlet and triplet carbenes towards alkenes. Why is singlet carbene addition stereospecific (retention), while triplet carbene addition is non-stereospecific (mixture)?",
+    "id": 306
+  },
+  {
+    "theme": "Solid State - Crystal Systems",
+    "question": "Derive the packing efficiency of Face-Centered Cubic (FCC) and Hexagonal Close-Packed (HCP) structures. Why do they share the same efficiency (74%), and how does their stacking sequence (ABC vs AB) differ?",
+    "id": 307
+  },
+  {
+    "theme": "Biochemistry - Protein Folding",
+    "question": "Explain the 'Levinthal's Paradox' in protein folding. How does the concept of a 'Folding Funnel' energy landscape resolve the impossibility of a random search for the native state?",
+    "id": 308
+  },
+  {
+    "theme": "Organometallics - Beta-Elimination",
+    "question": "Why is beta-hydride elimination a major decomposition pathway for transition metal alkyls? Discuss the requirement for a vacant coordination site and the syn-coplanar geometry of the M-C-C-H moiety.",
+    "id": 309
+  },
+  {
+    "theme": "Organic Synthesis - Radical Cyclization",
+    "question": "Analyze the regiochemistry of the 5-exo-trig vs 6-endo-trig radical cyclization of hexenyl radicals. Why is the 5-exo pathway kinetically favored despite forming a less stable primary radical (in some cases)?",
+    "id": 310
+  },
+  {
+    "theme": "Physical Chemistry - Kinetics",
+    "question": "Explain the 'Salt Effect' in reaction kinetics (Debye-Hückel-Bronsted theory). How does increasing ionic strength accelerate a reaction between ions of like charge but retard a reaction between ions of opposite charge?",
+    "id": 311
+  },
+  {
+    "theme": "Analytical - Electrochemistry",
+    "question": "In Cyclic Voltammetry, explain the origin of the peak separation (Delta Ep) for a quasi-reversible system. How does the heterogeneous electron transfer rate constant (k0) influence the shape of the voltammogram?",
+    "id": 312
+  },
+  {
+    "theme": "Inorganic - Lanthanides",
+    "question": "Explain the 'Lanthanide Contraction'. How does the poor shielding ability of 4f electrons lead to smaller than expected ionic radii for 5d elements (e.g., Hf, Ta) and affect their geochemical separation?",
+    "id": 313
+  },
+  {
+    "theme": "Materials - Piezoelectricity",
+    "question": "Explain the microscopic origin of piezoelectricity in perovskites like Pb(Zr,Ti)O3 (PZT). Why is a non-centrosymmetric crystal class required, and how does domain wall motion contribute to the effect?",
+    "id": 314
+  },
+  {
+    "theme": "Theoretical Chemistry - Variational Principle",
+    "question": "State the Variational Principle in quantum mechanics. How is it used to optimize the molecular orbital coefficients (LCAO) to find the ground state energy approximation?",
+    "id": 315
+  },
+  {
+    "theme": "Organic Synthesis - Benzoin",
+    "question": "Describe the mechanism of the Cyanide-catalyzed Benzoin Condensation. What is the role of the cyanide ion as a specific catalyst that increases the acidity of the aldehydic proton (Umpolung)?",
+    "id": 316
+  },
+  {
+    "theme": "Spectroscopy - Raman",
+    "question": "Explain the difference between Stokes and Anti-Stokes Raman scattering. Why are Anti-Stokes lines typically much weaker at room temperature, and how does their ratio provide temperature information?",
+    "id": 317
+  },
+  {
+    "theme": "Organometallics - Fluxionality",
+    "question": "Discuss the 'Ring Whizzing' mechanism in (eta-1)-cyclopentadienyl metal complexes. How do [1,5]-sigmatropic shifts explain the equivalence of protons in high-temperature NMR spectra?",
+    "id": 318
+  },
+  {
+    "theme": "Bioinorganic - Siderophores",
+    "question": "Explain the chelate effect and specificity of Siderophores (e.g., Enterobactin) for Iron(III). How do catecholate ligands stabilize the high-spin Fe(III) center, and how is the iron released inside the cell?",
+    "id": 319
+  },
+  {
+    "theme": "Physical Organic - Isotope Effects",
+    "question": "Explain the origin of the 'Inverse' Secondary Kinetic Isotope Effect (kH/kD < 1). In what type of mechanistic step (e.g., sp2 to sp3 hybridization change) would you expect to observe this?",
+    "id": 320
+  },
+  {
+    "theme": "Materials - Sol-Gel",
+    "question": "Describe the hydrolysis and condensation steps in the Sol-Gel process for silica. How does pH control the morphology (polymeric chains vs. colloidal particles) of the resulting gel?",
+    "id": 321
+  },
+  {
+    "theme": "Organic Synthesis - Metathesis",
+    "question": "Compare Alkyne Metathesis (Schrock/Mortreux) with Alkene Metathesis. What is the active species (metal carbyne vs carbene), and how is the mechanism similar yet distinct?",
+    "id": 322
+  },
+  {
+    "theme": "Quantum Chemistry - Perturbation",
+    "question": "Explain the concept of 'Second-Order Jahn-Teller Effect' (SOJT). How does the mixing of ground and excited electronic states upon distortion stabilize non-symmetric geometries (e.g., pyramidalization of ammonia)?",
+    "id": 323
+  },
+  {
+    "theme": "Reaction Mechanisms - Favorskii",
+    "question": "Analyze the mechanism of the Favorskii rearrangement of alpha-halo ketones to esters. How does the formation of a cyclopropanone intermediate explain the skeletal rearrangement?",
+    "id": 324
+  },
+  {
+    "theme": "Solid State - Band Theory",
+    "question": "Explain the formation of the band gap in solids using the 'Nearly Free Electron' model. How does Bragg reflection of electron waves at the Brillouin zone boundaries open up energy gaps?",
+    "id": 325
+  },
+  {
+    "theme": "Organometallics - Reductive Elimination",
+    "question": "Compare the rate of Reductive Elimination for C-H, C-C, and H-H bonds. Why is C-C elimination typically the most difficult, and how do bite angle effects of bidentate ligands influence the rate?",
+    "id": 326
+  },
+  {
+    "theme": "Biochemistry - Phosphorylation",
+    "question": "Explain the thermodynamics of ATP hydrolysis. Why is the phosphoanhydride bond considered 'high energy', and how does charge repulsion and resonance stabilization of the products (ADP + Pi) contribute?",
+    "id": 327
+  },
+  {
+    "theme": "Analytical - Capillary Electrophoresis",
+    "question": "Explain the origin of Electroosmotic Flow (EOF) in silica capillaries. How does the electrical double layer at the wall generate bulk flow, and why does this result in a flat flow profile compared to parabolic hydrodynamic flow?",
+    "id": 328
+  },
+  {
+    "theme": "Organic Synthesis - Ugi Reaction",
+    "question": "Describe the mechanism of the Ugi four-component reaction. How does the imine formation followed by isocyanide insertion and Mumm rearrangement lead to the peptide-like alpha-acylamino amide?",
+    "id": 329
+  },
+  {
+    "theme": "Physical Chemistry - Colloids",
+    "question": "Explain the DLVO Theory of colloidal stability. How does the balance between attractive Van der Waals forces and repulsive Double Layer forces determine the critical coagulation concentration?",
+    "id": 330
+  },
+  {
+    "theme": "Inorganic - Spinels",
+    "question": "Differentiate between Normal and Inverse Spinel structures (AB2O4). Use Crystal Field Stabilization Energy (CFSE) to predict why Fe3O4 (Magnetite) adopts an inverse spinel structure.",
+    "id": 331
+  },
+  {
+    "theme": "Spectroscopy - Circular Dichroism",
+    "question": "Explain the principle of Circular Dichroism (CD) spectroscopy. How does the differential absorption of left and right circularly polarized light provide information about the secondary structure (alpha-helix vs beta-sheet) of proteins?",
+    "id": 332
+  },
+  {
+    "theme": "Reaction Mechanisms - Brook Rearrangement",
+    "question": "Describe the [1,2]-Brook Rearrangement of alpha-silyl carbinols. What is the driving force for the migration of silicon from carbon to oxygen?",
+    "id": 333
+  },
+  {
+    "theme": "Materials - Hall Effect",
+    "question": "Explain the Hall Effect in semiconductors. How does the sign of the Hall voltage distinguish between n-type (electron) and p-type (hole) charge carriers?",
+    "id": 334
+  },
+  {
+    "theme": "Organometallics - Trans Influence",
+    "question": "Distinguish between Trans Effect (kinetic) and Trans Influence (thermodynamic/structural). How does a strong sigma-donor weaken the metal-ligand bond trans to it in the ground state?",
+    "id": 335
+  },
+  {
+    "theme": "Organic Synthesis - Vilsmeier-Haack",
+    "question": "Detail the mechanism of the Vilsmeier-Haack formylation. How is the active Chloroiminium species generated from DMF and POCl3, and how does it react with electron-rich aromatics?",
+    "id": 336
+  },
+  {
+    "theme": "Theoretical Chemistry - Hückel Method",
+    "question": "Apply Hückel Molecular Orbital (HMO) theory to the cyclopropenyl cation and anion. Calculate the delocalization energy and explain why the cation is aromatic while the anion is antiaromatic.",
+    "id": 337
+  },
+  {
+    "theme": "Bioinorganic - Photosynthesis",
+    "question": "Analyze the mechanism of water oxidation in the Oxygen Evolving Complex (Mn4Ca cluster). What is the role of the proton-coupled electron transfer (PCET) in the Kok cycle S-state transitions?",
+    "id": 338
+  },
+  {
+    "theme": "Physical Organic - Hammond Postulate",
+    "question": "Apply the Hammond Postulate to explain the selectivity of bromination vs. chlorination of alkanes. Why is the transition state for the endothermic bromination late (product-like), leading to high selectivity?",
+    "id": 339
+  },
+  {
+    "theme": "Solid State - Defects",
+    "question": "Explain the formation of F-centers (Color Centers) in alkali halides. How does an electron trapped in an anion vacancy act like a 'particle in a box' to absorb visible light?",
+    "id": 340
+  },
+  {
+    "theme": "Analytical - Ion Mobility",
+    "question": "Explain the principle of Ion Mobility Spectrometry (IMS). How does the Collision Cross Section (CCS) of an ion separate isomers that have identical m/z ratios in mass spectrometry?",
+    "id": 341
+  },
+  {
+    "theme": "Organic Synthesis - Stetter Reaction",
+    "question": "Describe the Stetter reaction (1,4-addition of aldehydes to enones). How does the N-Heterocyclic Carbene (NHC) catalyst reverse the polarity (Umpolung) of the aldehyde to form a nucleophile?",
+    "id": 342
+  },
+  {
+    "theme": "Materials - CVD",
+    "question": "Discuss the boundary layer theory in Chemical Vapor Deposition (CVD). How does the competition between mass transport (diffusion) and surface reaction kinetics control the film deposition rate and uniformity?",
+    "id": 343
+  },
+  {
+    "theme": "Coordination Chemistry - Molecular Magnetism",
+    "question": "Explain the phenomenon of 'Spin Crossover' (SCO). Why is this transition often cooperative in the solid state, leading to hysteresis loops in magnetic susceptibility vs. temperature plots?",
+    "id": 344
+  },
+  {
+    "theme": "Reaction Mechanisms - E1cB",
+    "question": "Under what structural conditions does the E1cB (Elimination Unimolecular conjugate Base) mechanism prevail? Discuss the importance of a poor leaving group and an acidic beta-hydrogen.",
+    "id": 345
+  },
+  {
+    "theme": "Spectroscopy - Mossbauer",
+    "question": "Explain the principle of Mössbauer Spectroscopy. Why is the 'recoil-free fraction' (Lamb-Mössbauer factor) critical, and what chemical information does the Isomer Shift provide about oxidation states?",
+    "id": 346
+  },
+  {
+    "theme": "Organometallics - Wacker Process",
+    "question": "Analyze the stereochemistry of the Wacker oxidation. How did isotope labeling studies prove that the hydroxypalladation step occurs via anti-addition (external attack of water) rather than syn-addition?",
+    "id": 347
+  },
+  {
+    "theme": "Physical Chemistry - Stat Mech",
+    "question": "Explain the concept of the Partition Function (Z). How does it serve as the bridge between microscopic quantum states and macroscopic thermodynamic properties like Entropy and Free Energy?",
+    "id": 348
+  },
+  {
+    "theme": "Biochemistry - Glycolysis",
+    "question": "Explain the mechanism of Glyceraldehyde-3-phosphate Dehydrogenase. How does the formation of a high-energy thioester intermediate allow for the subsequent phosphorylation of the substrate without ATP?",
+    "id": 349
+  },
+  {
+    "theme": "Organic Synthesis - Shapiro Reaction",
+    "question": "Describe the mechanism of the Shapiro reaction. How does the double deprotonation of a tosylhydrazone lead to the formation of a vinyllithium species?",
+    "id": 350
+  },
+  {
+    "theme": "Inorganic - HSAB Theory",
+    "question": "Critique the Hard and Soft Acids and Bases (HSAB) theory. While useful for stability trends, what are its limitations, and how does it relate to the frontier orbital energies (HOMO-LUMO gap) of the acid-base pair?",
+    "id": 351
+  },
+  {
+    "theme": "Materials - Liquid Crystals",
+    "question": "Differentiate between Nematic, Smectic, and Cholesteric liquid crystal phases. How does the order parameter (S) describe the orientational alignment of the molecules?",
+    "id": 352
+  },
+  {
+    "theme": "Theoretical Chemistry - Hellmann-Feynman",
+    "question": "State the Hellmann-Feynman Theorem. How does it allow for the calculation of forces on nuclei directly from the electron density distribution?",
+    "id": 353
+  },
+  {
+    "theme": "Reaction Mechanisms - Cope Rearrangement",
+    "question": "Analyze the transition state of the Cope Rearrangement. Why is the chair-like transition state favored over the boat-like one, and how does this dictate the stereochemical outcome?",
+    "id": 354
+  },
+  {
+    "theme": "Surface Science - Kelvin Probe",
+    "question": "Explain the principle of Kelvin Probe Force Microscopy (KPFM). How does it measure the Contact Potential Difference (CPD) and map the work function of a surface with high spatial resolution?",
+    "id": 355
+  },
+  {
+    "theme": "Organic Synthesis - Kulinkovich",
+    "question": "Describe the mechanism of the Kulinkovich reaction for cyclopropanol synthesis. What is the role of the Titanacyclopropane intermediate formed from the Grignard reagent?",
+    "id": 356
+  },
+  {
+    "theme": "Bioinorganic - Cisplatin",
+    "question": "Explain the mechanism of action of Cisplatin. Why is the trans-isomer (Transplatin) inactive, and how does the High Mobility Group (HMG) protein recognition of the 1,2-intrastrand crosslink mediate cytotoxicity?",
+    "id": 357
+  },
+  {
+    "theme": "Physical Organic - Hammett Plot",
+    "question": "Interpret a nonlinear (concave down) Hammett plot. How does a change in the rate-determining step with substituent variation explain this deviation from linearity?",
+    "id": 358
+  },
+  {
+    "theme": "Materials - Carbon Nanotubes",
+    "question": "Explain how the chiral vector (n,m) determines the electronic properties of Carbon Nanotubes. Why are tubes where (n-m) is a multiple of 3 metallic, while others are semiconducting?",
+    "id": 359
+  },
+  {
+    "theme": "Organometallics - Hydroformylation",
+    "question": "Compare the Cobalt-catalyzed and Rhodium-catalyzed Hydroformylation processes. Why does the Rhodium-phosphine system allow for lower pressure operation and higher linearity (n/iso ratio)?",
+    "id": 360
+  },
+  {
+    "theme": "Spectroscopy - EPR",
+    "question": "Explain Hyperfine Coupling in EPR spectroscopy. How does the interaction between the unpaired electron and magnetic nuclei lead to line splitting, and what does the coupling constant (a) reveal about spin density distribution?",
+    "id": 361
+  },
+  {
+    "theme": "Organic Synthesis - Baylis-Hillman",
+    "question": "Describe the mechanism of the Baylis-Hillman reaction. What is the role of the tertiary amine (DABCO) as a nucleophilic catalyst, and why is the reaction often slow?",
+    "id": 362
+  },
+  {
+    "theme": "Thermodynamics - Phase Rule",
+    "question": "Apply the Gibbs Phase Rule to a ternary system. Why are four phases the maximum number that can coexist in equilibrium at an arbitrary pressure and temperature?",
+    "id": 363
+  },
+  {
+    "theme": "Reaction Mechanisms - Benzoin",
+    "question": "Discuss the 'Breslow Intermediate' in the Thiamine (Vitamin B1) catalyzed benzoin condensation. How does the thiazolium ring stabilize the acyl anion equivalent?",
+    "id": 364
+  },
+  {
+    "theme": "Solid State - Thermal Expansion",
+    "question": "Explain the phenomenon of Negative Thermal Expansion (NTE) in materials like Zirconium Tungstate. How do transverse vibrational modes of bridging oxygen atoms (Rigid Unit Modes) cause the lattice to contract upon heating?",
+    "id": 365
+  },
+  {
+    "theme": "Analytical - Coulometry",
+    "question": "Differentiate between Controlled-Potential and Controlled-Current Coulometry. Why does Controlled-Potential Coulometry require a working electrode with a large surface area and precise integration of the current-time curve?",
+    "id": 366
+  },
+  {
+    "theme": "Organic Synthesis - Sharpless Epoxidation",
+    "question": "Explain the ligand-accelerated catalysis in the Sharpless Asymmetric Epoxidation. How does the dimeric Titanium-Tartrate complex create a chiral pocket that discriminates between the enantiotopic faces of the allylic alcohol?",
+    "id": 367
+  },
+  {
+    "theme": "Quantum Chemistry - Tunneling",
+    "question": "Discuss the role of Quantum Tunneling in the inversion of Ammonia. How does the tunneling splitting of the vibrational levels manifest in the microwave spectrum?",
+    "id": 368
+  },
+  {
+    "theme": "Bioinorganic - Hemoglobin",
+    "question": "Analyze the trigger mechanism for the T-to-R transition in Hemoglobin. How does the movement of the Iron atom into the porphyrin plane upon oxygen binding transmit structural changes to the subunit interface?",
+    "id": 369
+  },
+  {
+    "theme": "Reaction Mechanisms - Swern Oxidation",
+    "question": "Detail the mechanism of the Swern Oxidation. What is the active oxidizing species formed from DMSO and Oxalyl Chloride, and why must the temperature be kept low before adding the base?",
+    "id": 370
+  },
+  {
+    "theme": "Retrosynthesis - Strategic Bond Disconnection",
+    "question": "Analyze the retrosynthetic disassembly of the Longifolene molecule. Why is the intramolecular Michael addition often chosen as a late-stage key step to form the bridged tricyclic core, and what stereochemical implications does this disconnection carry?",
+    "id": 371
+  },
+  {
+    "theme": "Molecular Design - Bioisosteres",
+    "question": "Discuss the strategic replacement of a carboxylic acid with a tetrazole ring in drug design. Analyze the effects on pKa, lipophilicity (LogD), and metabolic stability, and explain how the tetrazole mimics the electronics of the carboxylate anion.",
+    "id": 372
+  },
+  {
+    "theme": "Total Synthesis - Convergent Strategy",
+    "question": "Compare the efficiency of a linear synthesis versus a convergent synthesis for a complex macrolide antibiotic like Erythromycin. How does the 'doubly convergent' coupling of two advanced fragments affect the overall yield and risk management?",
+    "id": 373
+  },
+  {
+    "theme": "Retrosynthesis - 1,6-Dicarbonyls",
+    "question": "Propose a disconnection strategy for a 1,6-dicarbonyl system. Why is the ozonolysis of a cyclohexene derivative often considered a 'latent' 1,6-dicarbonyl equivalent, and how does this strategy simplify the stereochemical complexity of the acyclic precursor?",
+    "id": 374
+  },
+  {
+    "theme": "Drug Design - Scaffold Hopping",
+    "question": "Explain the concept of 'Scaffold Hopping' in lead optimization. How would you design a novel core structure to replace a patent-protected benzodiazepinone core while maintaining the crucial pharmacophore vectors for receptor binding?",
+    "id": 375
+  },
+  {
+    "theme": "Asymmetric Synthesis - Auxiliary Design",
+    "question": "Analyze the design principles of the Evans Oxazolidinone auxiliary. How does the specific placement of the chiral substituent (e.g., isopropyl or benzyl) enforce Z-enolate formation and subsequent face-selective electrophilic attack via a chelated transition state?",
+    "id": 376
+  },
+  {
+    "theme": "Retrosynthesis - Alkaloids",
+    "question": "In the retrosynthetic analysis of Strychnine, the 'Rawal's Diene' Diels-Alder reaction is a pivotal strategy. Explain the electronic design of the diene and how it ensures regioselectivity in the cycloaddition to build the pyrrolidine core.",
+    "id": 377
+  },
+  {
+    "theme": "Molecular Design - PROTACs",
+    "question": "Discuss the design of a Proteolysis Targeting Chimera (PROTAC). What are the critical factors governing the linker length and composition to ensure the formation of a stable ternary complex (Target-PROTAC-E3 Ligase) and efficient ubiquitination?",
+    "id": 378
+  },
+  {
+    "theme": "Retrosynthesis - Robinson Annulation",
+    "question": "Analyze the disconnection of the Wieland-Miescher ketone. Why is the Robinson Annulation (Michael addition followed by Aldol condensation) considered the standard method for constructing fused 6,6-bicyclic enone systems in steroid synthesis?",
+    "id": 379
+  },
+  {
+    "theme": "Med Chem - Metabolic Stability",
+    "question": "A lead compound suffers from rapid oxidative metabolism at a benzylic position. Propose three molecular design modifications (e.g., fluorination, steric blocking, ring constraint) to block this metabolic hot spot without significantly altering potency.",
+    "id": 380
+  },
+  {
+    "theme": "Retrosynthesis - Symmetry",
+    "question": "Evaluate the role of 'Two-Directional Synthesis' in the construction of C2-symmetric polyketide chains. How does identifying a hidden symmetry element in the target molecule reduce the number of distinct synthetic steps?",
+    "id": 381
+  },
+  {
+    "theme": "Molecular Design - Peptidomimetics",
+    "question": "Design a beta-turn mimetic to stabilize the bioactive conformation of a peptide drug. How can the incorporation of a Freidinger lactam or a spirocyclic proline analog constrain the backbone dihedral angles (phi and psi)?",
+    "id": 382
+  },
+  {
+    "theme": "Total Synthesis - Biomimetic",
+    "question": "Analyze the biomimetic synthesis of the Endiandric acids. How does the electrocyclic cascade (8pi - 6pi) mimic the hypothesized biosynthetic pathway, and what does this imply about the stereochemical control inherent in the linear polyene precursor?",
+    "id": 383
+  },
+  {
+    "theme": "Retrosynthesis - Heterocycles",
+    "question": "Propose a disconnection for a 2,4,5-trisubstituted oxazole. Compare the disconnection leading to a Robinson-Gabriel cyclization versus a Cornforth rearrangement strategy. Which is more convergent?",
+    "id": 384
+  },
+  {
+    "theme": "Drug Design - Solubility",
+    "question": "A drug candidate has high potency but poor aqueous solubility (Class II). Propose a 'Prodrug' strategy using a phosphate ester or a glycol linker. Explain the mechanism of in vivo bioconversion to the active parent drug.",
+    "id": 385
+  },
+  {
+    "theme": "Retrosynthesis - C-C Bond Formation",
+    "question": "Discuss the strategic use of the Suzuki-Miyaura coupling in the retrosynthesis of biaryl natural products. Why is the bond disconnection between the two aryl rings often preferred at a late stage, and how does this affect the choice of protecting groups?",
+    "id": 386
+  },
+  {
+    "theme": "Molecular Design - Fluorine Effect",
+    "question": "Analyze the 'Fluorine Effect' in medicinal chemistry. How does the introduction of a trifluoromethyl group (-CF3) affect the lipophilicity, metabolic stability, and conformational preference of a drug molecule compared to a methyl group?",
+    "id": 387
+  },
+  {
+    "theme": "Total Synthesis - Ring Closing Metathesis",
+    "question": "In the design of a macrocyclic drug using Ring-Closing Metathesis (RCM), how does the choice of E/Z selectivity in the catalyst and the positioning of conformational constraints (e.g., gem-dimethyl effect) influence the cyclization yield?",
+    "id": 388
+  },
+  {
+    "theme": "Retrosynthesis - Protecting Groups",
+    "question": "Critique the use of orthogonal protecting groups in the synthesis of a complex oligosaccharide. Design a protection scheme that allows for the sequential glycosylation of the C2, C3, and C4 hydroxyls of a glucose monomer.",
+    "id": 389
+  },
+  {
+    "theme": "Molecular Design - Transition State Analogs",
+    "question": "Explain the rationale behind designing 'Transition State Analogs' as enzyme inhibitors. Using the HIV protease inhibitor mechanism as an example, how does a hydroxyethylene isostere mimic the tetrahedral intermediate of peptide bond hydrolysis?",
+    "id": 390
+  },
+  {
+    "theme": "Retrosynthesis - Functional Group Interconversion",
+    "question": "Analyze the retrosynthetic value of the 'Nitro-Aldol' (Henry) reaction. How does the nitro group serve as a versatile 'chameleon' functional group that can be converted into an amine, a ketone (Nef reaction), or a nitrile?",
+    "id": 391
+  },
+  {
+    "theme": "Materials Design - OLEDs",
+    "question": "Design a host material for a blue phosphorescent OLED. What specific energy level requirements (Triplet Energy, HOMO/LUMO) must be met to ensure efficient energy transfer to the dopant and confinement of excitons within the emissive layer?",
+    "id": 392
+  },
+  {
+    "theme": "Retrosynthesis - Dipolar Cycloaddition",
+    "question": "Propose a disconnection for a complex pyrrolidine alkaloid relying on a 1,3-dipolar cycloaddition of an azomethine ylide. How can the dipole be generated in situ from an amino acid precursor?",
+    "id": 393
+  },
+  {
+    "theme": "Drug Design - Covalent Inhibitors",
+    "question": "Discuss the design of 'Targeted Covalent Inhibitors' (TCIs). How do you select the specific 'warhead' (e.g., acrylamide, epoxide) to react selectively with a non-catalytic cysteine residue in the ATP-binding pocket of a kinase?",
+    "id": 394
+  },
+  {
+    "theme": "Retrosynthesis - Umpolung",
+    "question": "Explain the strategic application of 'Umpolung' (polarity inversion) in retrosynthesis. How does disconnecting a 1,4-dicarbonyl compound lead to a Stetter reaction logic rather than a standard enolate disconnection?",
+    "id": 395
+  },
+  {
+    "theme": "Molecular Design - CNS Penetration",
+    "question": "You are designing a drug to treat Alzheimer's. Analyze the physiochemical properties required for Blood-Brain Barrier (BBB) penetration. How do constraints on Molecular Weight, Topological Polar Surface Area (TPSA < 90), and pKa differ from peripheral drugs?",
+    "id": 396
+  },
+  {
+    "theme": "Total Synthesis - Diversity Oriented",
+    "question": "Contrast 'Target-Oriented Synthesis' (TOS) with 'Diversity-Oriented Synthesis' (DOS). How does the design of a 'Build/Couple/Pair' strategy in DOS facilitate the generation of skeletal diversity from a common intermediate?",
+    "id": 397
+  },
+  {
+    "theme": "Retrosynthesis - Radical Cyclization",
+    "question": "Analyze the disconnection of a triquinane ring system. How can a 'Radical Cascade' (e.g., 5-exo-trig/5-exo-trig) be designed from an acyclic poly-ene/yne precursor to form multiple rings in a single step?",
+    "id": 398
+  },
+  {
+    "theme": "Med Chem - Fragment Based",
+    "question": "Explain the principle of 'Fragment-Based Drug Discovery' (FBDD). Why are low-affinity, low-molecular-weight fragments (<200 Da) better starting points for design than larger 'drug-like' hits in terms of ligand efficiency?",
+    "id": 399
+  },
+  {
+    "theme": "Retrosynthesis - Diels-Alder",
+    "question": "Discuss the 'Intramolecular Diels-Alder' (IMDA) reaction as a strategy for ensuring regiocontrol and stereocontrol. How does the tether length (3 vs 4 atoms) dictate the formation of fused vs. bridged bicyclic systems?",
+    "id": 400
+  },
+  {
+    "theme": "Molecular Design - Kinase Selectivity",
+    "question": "Design a strategy to achieve isoform selectivity for a kinase inhibitor. How can targeting the 'Gatekeeper' residue or exploiting the inactive 'DFG-out' conformation provide selectivity over the conserved ATP-binding pocket?",
+    "id": 401
+  },
+  {
+    "theme": "Retrosynthesis - C-H Activation",
+    "question": "How has the advent of 'C-H Functionalization' logic changed retrosynthetic analysis? Discuss a case where a pre-functionalized starting material is replaced by a simple hydrocarbon, shortening the synthetic route.",
+    "id": 402
+  },
+  {
+    "theme": "Materials Design - MOFs",
+    "question": "Design a Metal-Organic Framework (MOF) for selective CO2 capture. How does the functionalization of the organic linker with amine groups or the inclusion of open metal sites enhance the enthalpy of adsorption for CO2?",
+    "id": 403
+  },
+  {
+    "theme": "Total Synthesis - Relay Synthesis",
+    "question": "Explain the concept of 'Relay Synthesis'. When a natural product is scarce, how does designing a fully synthetic route to an advanced degradation intermediate validate the stereochemistry and structure?",
+    "id": 404
+  },
+  {
+    "theme": "Retrosynthesis - Ring Expansion",
+    "question": "Propose a strategy for synthesizing a 7-membered ring ketone. Compare the disconnection leading to a ring-closing metathesis versus a Tiffeneau-Demjanov rearrangement of a generic 6-membered precursor.",
+    "id": 405
+  },
+  {
+    "theme": "Drug Design - Macrocycles",
+    "question": "Discuss the design of macrocyclic drugs for disrupting Protein-Protein Interactions (PPIs). Why are macrocycles often superior to small molecules for binding to the large, flat surfaces typical of PPI interfaces?",
+    "id": 406
+  },
+  {
+    "theme": "Retrosynthesis - Multicomponent",
+    "question": "Analyze the retrosynthetic advantages of the Ugi 4-component reaction. How does this disconnection allow for the rapid assembly of a peptide-mimetic scaffold from four simple starting materials?",
+    "id": 407
+  },
+  {
+    "theme": "Molecular Design - ADME",
+    "question": "A drug candidate shows high efflux by P-glycoprotein (P-gp). Propose molecular modifications to reduce P-gp substrate potential, such as reducing the number of hydrogen bond donors or increasing steric bulk around the basic nitrogen.",
+    "id": 408
+  },
+  {
+    "theme": "Retrosynthesis - Pauson-Khand",
+    "question": "Disconnect a fused cyclopentenone system. How does the Pauson-Khand reaction strategy utilize an alkyne, an alkene, and CO to construct the 5-membered ring, and what are the stereochemical outcomes?",
+    "id": 409
+  },
+  {
+    "theme": "Materials Design - Self-Assembly",
+    "question": "Design a supramolecular hydrogelator based on a peptide amphiphile. What specific structural elements (e.g., hydrophobic tail, beta-sheet forming sequence) are required to induce fiber formation via self-assembly?",
+    "id": 410
+  },
+  {
+    "theme": "Total Synthesis - Photochemistry",
+    "question": "Analyze the strategic use of the 'Arene-Olefin Meta-Photocycloaddition' in the synthesis of fenestranes. How does this complexity-generating step build multiple rings and stereocenters from a simple planar precursor?",
+    "id": 411
+  },
+  {
+    "theme": "Retrosynthesis - Spirocycles",
+    "question": "Propose a disconnection for a spiro[4.5]decane system. Discuss the efficacy of the 'Semipinacol Rearrangement' strategy starting from a fused bicyclic alcohol versus a direct alkylation approach.",
+    "id": 412
+  },
+  {
+    "theme": "Drug Design - Allostery",
+    "question": "Compare the design of an orthosteric inhibitor versus an allosteric modulator (NAM/PAM). Why might an allosteric modulator offer a better safety profile and 'ceiling effect' than a direct agonist?",
+    "id": 413
+  },
+  {
+    "theme": "Retrosynthesis - Sharpless Epoxidation",
+    "question": "In the retrosynthesis of polyol chains (e.g., in macrolides), how does the 'Reiterative' approach using Sharpless Asymmetric Epoxidation simplify the stereochemical problem? Explain the disconnection back to allylic alcohols.",
+    "id": 414
+  },
+  {
+    "theme": "Molecular Design - Aggregation",
+    "question": "Explain the design of 'Aggregation-Induced Emission' (AIE) luminogens. Unlike traditional fluorophores that quench upon aggregation (ACQ), what structural features (e.g., propeller-shaped rotors) enable AIE?",
+    "id": 415
+  },
+  {
+    "theme": "Total Synthesis - Protecting Group Free",
+    "question": "Discuss the philosophy of 'Protecting-Group-Free Synthesis' (e.g., by Baran). How does chemoselectivity analysis during the design phase allow for the oxidation of a specific alcohol in the presence of other unprotected functionality?",
+    "id": 416
+  },
+  {
+    "theme": "Retrosynthesis - Enolate Alkylation",
+    "question": "Analyze the disconnection of an alpha-chiral ketone. Compare the use of the 'Enders SAMP/RAMP' hydrazone method versus the 'Myers Pseudoephedrine' amide method for establishing the stereocenter.",
+    "id": 417
+  },
+  {
+    "theme": "Drug Design - Bioactivation",
+    "question": "Design a 'Prodrug' that is specifically activated in the hypoxic environment of a tumor. How can an N-oxide or nitro-aromatic trigger be used to release the cytotoxic agent only under low oxygen conditions?",
+    "id": 418
+  },
+  {
+    "theme": "Retrosynthesis - Polyenes",
+    "question": "Propose a disconnection strategy for the synthesis of Retinol (Vitamin A). Compare the Julia-Kocienski olefination strategy versus the Wittig reaction strategy for assembling the polyene chain.",
+    "id": 419
+  },
+  {
+    "theme": "Materials Design - Conductive Polymers",
+    "question": "Design a conjugated polymer with a low bandgap. How does the 'Donor-Acceptor' approach (e.g., alternating thiophene and benzothiadiazole units) effectively lower the HOMO-LUMO gap?",
+    "id": 420
+  },
+  {
+    "theme": "Total Synthesis - Cationic Cyclization",
+    "question": "Analyze the 'Biomimetic Cationic Polyene Cyclization' (Johnson-type). How does the choice of the initiating group (epoxide vs acetal) and the terminating group determine the specific tetracyclic steroid skeleton formed?",
+    "id": 421
+  },
+  {
+    "theme": "Retrosynthesis - 1,3-Diols",
+    "question": "Disconnect a syn-1,3-diol motif. Why is the 'Noyori Hydrogenation' of a 1,3-diketone or the 'Narasaka-Prasad Reduction' of a beta-hydroxy ketone often preferred over direct aldol methods?",
+    "id": 422
+  },
+  {
+    "theme": "Med Chem - Hit-to-Lead",
+    "question": "You have a hit compound with 500 nM potency but high plasma protein binding (>99%). What structural modifications would you propose to reduce lipophilicity (LogP) while maintaining the binding affinity?",
+    "id": 423
+  },
+  {
+    "theme": "Retrosynthesis - Alkaloid Core",
+    "question": "Propose a disconnection for the Tropane alkaloid skeleton. How does the '[3+2] Cycloaddition' of an oxidopyrylium ylide serve as a strategic shortcut to this bridged bicyclic system?",
+    "id": 424
+  },
+  {
+    "theme": "Molecular Design - Fluorescent Probes",
+    "question": "Design a 'Turn-On' fluorescent probe for detecting Hydrogen Peroxide in cells. How can a boronate ester masking group be utilized to suppress fluorescence via PET, which is then cleaved by H2O2 to restore emission?",
+    "id": 425
+  },
+  {
+    "theme": "Total Synthesis - Flow Chemistry",
+    "question": "Discuss the impact of 'Continuous Flow Chemistry' on synthetic design. How does the ability to handle hazardous intermediates (e.g., azides, diazomethane) in flow alter the choice of retrosynthetic disconnections?",
+    "id": 426
+  },
+  {
+    "theme": "Retrosynthesis - Quaternary Centers",
+    "question": "Strategies for constructing all-carbon quaternary centers are critical. Analyze the disconnection leading to a 'Claisen Rearrangement' vs. a 'Tsuji-Trost Allylation'. Which offers better stereocontrol for adjacent chiral centers?",
+    "id": 427
+  },
+  {
+    "theme": "Drug Design - GPCRs",
+    "question": "Design a 'Biased Ligand' for a G-Protein Coupled Receptor (GPCR). How can specific structural features preferentially activate the G-protein pathway while avoiding the Beta-arrestin pathway to reduce side effects?",
+    "id": 428
+  },
+  {
+    "theme": "Retrosynthesis - Indoles",
+    "question": "Propose three different disconnections for a 2,3-disubstituted indole. Compare the Fischer Indole synthesis, the Larock Indole synthesis, and the Bartoli Indole synthesis in terms of starting material availability.",
+    "id": 429
+  },
+  {
+    "theme": "Materials Design - COFs",
+    "question": "Design a Covalent Organic Framework (COF) for charge transport. Why is the stacking of 2D layers (eclipse vs staggered) critical for facilitating pi-pi orbital overlap and vertical charge carrier mobility?",
+    "id": 430
+  },
+  {
+    "theme": "Total Synthesis - Scalability",
+    "question": "Analyze the process chemistry synthesis of Oseltamivir (Tamiflu). How did the switch from a Shikimic acid starting material to a Diels-Alder approach using furan resolve supply chain issues?",
+    "id": 431
+  },
+  {
+    "theme": "Retrosynthesis - Cyclic Ethers",
+    "question": "Disconnect a trans-fused polyether ladder toxin (e.g., Brevetoxin fragment). How does the 'Epoxide-Opening Cascade' theory (Nakanishi hypothesis) guide the retrosynthetic logic?",
+    "id": 432
+  },
+  {
+    "theme": "Med Chem - HERG Toxicity",
+    "question": "A lead compound inhibits the hERG potassium channel, posing a cardiotoxicity risk (QT prolongation). Propose structural changes to the basic amine or the lipophilic tail to reduce hERG binding affinity.",
+    "id": 433
+  },
+  {
+    "theme": "Retrosynthesis - Terpenes",
+    "question": "Analyze the disconnection of Taxol. Why is the closure of the 8-membered B-ring considered one of the most difficult steps, and how did the McMurry coupling or intramolecular alkylation address this strain?",
+    "id": 434
+  },
+  {
+    "theme": "Molecular Design - Photoswitches",
+    "question": "Design a molecular switch based on Azobenzene. How can you modify the ortho-positions of the phenyl rings to redshift the absorption and thermally stabilize the cis-isomer?",
+    "id": 435
+  },
+  {
+    "theme": "Total Synthesis - Electrochemistry",
+    "question": "Discuss the application of 'Electro-organic Synthesis' in total synthesis (e.g., Baran's synthesis of Dixyamycin). How does anodic oxidation allow for direct C-N bond formation without traditional leaving groups?",
+    "id": 436
+  },
+  {
+    "theme": "Retrosynthesis - Macrolactonization",
+    "question": "Compare the retrosynthetic disconnection of a macrolactone via the 'Yamaguchi' method versus the 'Keck' method. Under what substrate conditions is a thermal elimination side-reaction a risk?",
+    "id": 437
+  },
+  {
+    "theme": "Drug Design - Antibiotics",
+    "question": "Design a Siderophore-Drug Conjugate (Trojan Horse strategy) for Gram-negative bacteria. How does linking a beta-lactam to a catechol siderophore facilitate active transport across the outer membrane?",
+    "id": 438
+  },
+  {
+    "theme": "Retrosynthesis - Azulenes",
+    "question": "Propose a synthesis for a substituted Azulene. How does the disconnection leading to a [8+2] cycloaddition of a tropone with an enamine compare to the ring-expansion of an indane precursor?",
+    "id": 439
+  },
+  {
+    "theme": "Materials Design - Thermoelectrics",
+    "question": "Design a material with a high Thermoelectric Figure of Merit (ZT). How does the concept of 'Phonon-Glass Electron-Crystal' guide the structural design to minimize thermal conductivity while maximizing electrical conductivity?",
+    "id": 440
+  },
+  {
+    "theme": "Total Synthesis - Stereochemical Relay",
+    "question": "Analyze the synthesis of Monensin. How is the stereochemical information transferred from a single chiral auxiliary to create multiple stereocenters along the backbone using the 'Evans Aldol' methodology?",
+    "id": 441
+  },
+  {
+    "theme": "Retrosynthesis - Phenols",
+    "question": "Disconnect a meta-substituted phenol. Why is the 'Diels-Alder/Retro-Diels-Alder' sequence using an oxazole or the 'Benzannulation' of a carbene complex often more versatile than electrophilic aromatic substitution?",
+    "id": 442
+  },
+  {
+    "theme": "Med Chem - Plasma Stability",
+    "question": "A peptide drug has a half-life of 2 minutes in plasma. Propose design modifications such as N-methylation, C-terminal amidation, or the incorporation of D-amino acids to increase proteolytic stability.",
+    "id": 443
+  },
+  {
+    "theme": "Retrosynthesis - Alkynes",
+    "question": "Discuss the 'Nicholas Reaction' in retrosynthesis. How does complexation with Cobalt carbonyl stabilize a propargylic cation, allowing for C-C bond formation at a position that is normally unreactive?",
+    "id": 444
+  },
+  {
+    "theme": "Molecular Design - Sensors",
+    "question": "Design a colorimetric sensor for Mercury (Hg2+) ions. How can the mechanism of 'Chemodosimeter' (irreversible chemical reaction, e.g., desulfurization) be used to trigger a color change in a rhodamine derivative?",
+    "id": 445
+  },
+  {
+    "theme": "Total Synthesis - Late Stage Functionalization",
+    "question": "Analyze the strategy of 'Late-Stage C-H Functionalization'. How does this logic differ from traditional retrosynthesis, and what are the design requirements for the directing group to ensure regioselectivity on a complex scaffold?",
+    "id": 446
+  },
+  {
+    "theme": "Retrosynthesis - Cyclobutanes",
+    "question": "Propose a disconnection for a highly substituted cyclobutane. Compare the [2+2] photocycloaddition strategy versus the ring contraction of a cyclopentanone via the Wolff rearrangement.",
+    "id": 447
+  },
+  {
+    "theme": "Drug Design - BBB Shuttle",
+    "question": "Design a 'Molecular Trojan Horse' to deliver a biologic drug across the Blood-Brain Barrier. How can fusion with an antibody targeting the Transferrin Receptor (TfR) facilitate receptor-mediated transcytosis?",
+    "id": 448
+  },
+  {
+    "theme": "Retrosynthesis - Sulfur Ylides",
+    "question": "Analyze the disconnection of a vinyl cyclopropane. How does the 'Corey-Chaykovsky' reaction of a sulfur ylide with an alpha,beta-unsaturated ketone provide a direct entry to this motif?",
+    "id": 449
+  },
+  {
+    "theme": "Materials Design - Polymers",
+    "question": "Design a self-healing polymer based on Diels-Alder chemistry. How does the reversibility of the furan-maleimide adduct allow the material to repair cracks upon heating?",
+    "id": 450
+  },
+  {
+    "theme": "Total Synthesis - Isotope Labeling",
+    "question": "Design a synthesis for a deuterated analog of a drug to block a metabolic pathway (Deuterium Switch). How does the kinetic isotope effect influence the choice of which hydrogen to replace to extend half-life?",
+    "id": 451
+  },
+  {
+    "theme": "Retrosynthesis - 1,2-Dicarbonyls",
+    "question": "Disconnect a 1,2-dicarbonyl (alpha-diketone) moiety. Discuss the utility of the 'Benzoin Condensation' followed by oxidation versus the oxidation of an alkyne.",
+    "id": 452
+  },
+  {
+    "theme": "Med Chem - Lipinski Rules",
+    "question": "Analyze a drug candidate that violates 'Rule of 5' (e.g., MW > 500, H-donors > 5) yet has good oral bioavailability (e.g., Cyclosporine). What structural features (e.g., intramolecular H-bonding, chameleonic properties) allow this?",
+    "id": 453
+  },
+  {
+    "theme": "Retrosynthesis - Allylic Alcohols",
+    "question": "Propose a disconnection for a secondary allylic alcohol with high enantiopurity. Compare the kinetic resolution (Sharpless) versus the asymmetric reduction (CBS catalyst) of the corresponding enone.",
+    "id": 454
+  },
+  {
+    "theme": "Molecular Design - Catalysts",
+    "question": "Design a chiral organocatalyst for the asymmetric Michael addition. How does the 'Bifunctional' design of a thiourea-amine catalyst activate both the nucleophile and the electrophile simultaneously?",
+    "id": 455
+  },
+  {
+    "theme": "Total Synthesis - Biomimetic Cascade",
+    "question": "Analyze the synthesis of the steroid core via the 'Cationic Cascade Cyclization'. How does the Stork-Eschenmoser hypothesis explain the stereospecific formation of the trans-anti-trans backbone?",
+    "id": 456
+  },
+  {
+    "theme": "Retrosynthesis - 1,4-Dienes",
+    "question": "Disconnect a 'Skipped Diene' (1,4-diene) pattern. Why is the metal-catalyzed coupling of an allyl halide with a vinyl metalloid often problematic, and how does the copper-catalyzed coupling address this?",
+    "id": 457
+  },
+  {
+    "theme": "Materials Design - Porous Materials",
+    "question": "Design a Zeolitic Imidazolate Framework (ZIF) for size-selective sieving. How does the choice of the imidazole linker substituent control the aperture size of the sodalite cage?",
+    "id": 458
+  },
+  {
+    "theme": "Retrosynthesis - Benzofurans",
+    "question": "Propose a synthesis for a 2-substituted benzofuran. Compare the disconnection leading to a Sonogashira coupling/cyclization sequence versus the Rap-Stoermer condensation.",
+    "id": 459
+  },
+  {
+    "theme": "Med Chem - Fsp3",
+    "question": "Discuss the correlation between the 'Fraction of sp3 Carbons' (Fsp3) and clinical success. Why does increasing the 3D-character of a molecule generally improve its solubility and selectivity compared to flat aromatic compounds?",
+    "id": 460
+  },
+  {
+    "theme": "Retrosynthesis - Beta-Lactams",
+    "question": "Analyze the disconnection of the Penicillin core. How does the Staudinger [2+2] cycloaddition of a ketene and an imine provide a direct convergent route to the beta-lactam ring?",
+    "id": 461
+  },
+  {
+    "theme": "Molecular Design - Auxochromes",
+    "question": "Design a Near-Infrared (NIR) dye for in vivo imaging. How does extending the pi-conjugation and adding donor-acceptor groups (push-pull) lower the HOMO-LUMO gap to shift emission > 700 nm?",
+    "id": 462
+  },
+  {
+    "theme": "Total Synthesis - Logic",
+    "question": "Analyze the concept of 'Strategic Redox Adjustments'. Why is it desirable to minimize oxidation state fluctuations during a total synthesis, and how does starting from the 'Chiral Pool' (e.g., sugars) help?",
+    "id": 463
+  },
+  {
+    "theme": "Retrosynthesis - Cyclopropanes",
+    "question": "Propose a disconnection for a chiral cyclopropane. Compare the Simmons-Smith cyclopropanation of a chiral allylic alcohol versus the decomposition of a diazo compound catalyzed by a chiral Rhodium complex.",
+    "id": 464
+  },
+  {
+    "theme": "Drug Design - Polypharmacology",
+    "question": "Design a 'Dual Inhibitor' that targets both EGFR and HER2. How does analyzing the superposition of the ATP-binding pockets allow for the design of a single molecule that fits both active sites?",
+    "id": 465
+  },
+  {
+    "theme": "Retrosynthesis - Alkene Geometry",
+    "question": "Disconnect a trisubstituted alkene. Compare the stereoselectivity of the 'Negishi Carboalumination' followed by cross-coupling versus the 'Shapiro Reaction' sequence.",
+    "id": 466
+  },
+  {
+    "theme": "Materials Design - Liquid Crystals",
+    "question": "Design a rod-like (calamitic) liquid crystal molecule. What structural features (rigid core, flexible tails) are required to induce a Nematic phase at room temperature?",
+    "id": 467
+  },
+  {
+    "theme": "Total Synthesis - Economy",
+    "question": "Discuss the metric of 'Step Economy' in total synthesis (Wender). How do domino/cascade reactions improve this metric compared to stop-and-go linear sequences?",
+    "id": 468
+  },
+  {
+    "theme": "Retrosynthesis - Hetero-Diels-Alder",
+    "question": "Analyze the disconnection of a dihydropyran ring. How does the 'Inverse Electron Demand Hetero-Diels-Alder' reaction of a vinyl ether and an alpha,beta-unsaturated carbonyl function?",
+    "id": 469
+  },
+  {
+    "theme": "Med Chem - Binding Kinetics",
+    "question": "Explain the importance of 'Residence Time' (off-rate) in drug design. Why might a drug with a slow dissociation rate be more efficacious in vivo than a drug with higher affinity (Kd) but fast dissociation?",
+    "id": 470
+  }
+]
